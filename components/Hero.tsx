@@ -1,10 +1,11 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Hero() {
   return (
     <section className="relative overflow-hidden bg-gradient-to-br from-[#3B0B16] via-[#5A1020] to-[#6D1630]">
 
-      <div className="container py-24">
+      <div className="container pt-36 pb-28">
 
         <div className="grid items-center gap-16 lg:grid-cols-2">
 
@@ -18,13 +19,13 @@ export default function Hero() {
 
             <h1 className="mt-8 text-5xl font-extrabold leading-tight text-white lg:text-7xl">
 
-              Wholesale
+              Premium
               <br />
 
               Silver Jewellery
               <br />
 
-              Collection
+              For Retail Showrooms
 
             </h1>
 
@@ -33,8 +34,7 @@ export default function Hero() {
               Premium manufacturer & wholesale supplier of
               999 Hollow Idols,
               92.5 Antique Jewellery,
-              Fusion Collection,
-              Turkey Kada,
+              Fusion Jewellery,
               Sterling Silver &
               Exclusive Silver Articles.
 
@@ -42,34 +42,69 @@ export default function Hero() {
 
             <div className="mt-10 flex flex-wrap gap-4">
 
-              <button className="btn-primary">
+              <Link
+                href="#categories"
+                className="btn-primary"
+              >
                 View Collection
-              </button>
+              </Link>
 
-              <button className="btn-outline">
+              <a
+                href="https://wa.me/918879528201"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-outline"
+              >
                 WhatsApp Enquiry
-              </button>
+              </a>
 
             </div>
+                        {/* TRUST STATS */}
 
-            {/* TRUST BADGES */}
+            <div className="mt-14 grid grid-cols-2 gap-6 text-center text-white md:grid-cols-4">
 
-            <div className="mt-12 grid grid-cols-2 gap-4 text-white lg:grid-cols-4">
+              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
+                <h3 className="text-3xl font-bold text-[#C9A227]">
+                  1100+
+                </h3>
 
-              <div className="rounded-xl bg-white/10 p-4 backdrop-blur">
-                <p className="text-sm text-gray-300">✓ 999 Silver</p>
+                <p className="mt-2 text-sm text-gray-200">
+                  Retail Showrooms
+                </p>
+
               </div>
 
-              <div className="rounded-xl bg-white/10 p-4 backdrop-blur">
-                <p className="text-sm text-gray-300">✓ 92.5 Sterling</p>
+              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
+                <h3 className="text-3xl font-bold text-[#C9A227]">
+                  5+
+                </h3>
+
+                <p className="mt-2 text-sm text-gray-200">
+                  Years Experience
+                </p>
+
               </div>
 
-              <div className="rounded-xl bg-white/10 p-4 backdrop-blur">
-                <p className="text-sm text-gray-300">✓ PAN India</p>
+              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
+                <h3 className="text-3xl font-bold text-[#C9A227]">
+                  200+
+                </h3>
+
+                <p className="mt-2 text-sm text-gray-200">
+                  Premium Designs
+                </p>
+
               </div>
 
-              <div className="rounded-xl bg-white/10 p-4 backdrop-blur">
-                <p className="text-sm text-gray-300">✓ Wholesale Only</p>
+              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
+                <h3 className="text-3xl font-bold text-[#C9A227]">
+                  PAN India
+                </h3>
+
+                <p className="mt-2 text-sm text-gray-200">
+                  Wholesale Supply
+                </p>
+
               </div>
 
             </div>
@@ -92,8 +127,22 @@ export default function Hero() {
                 priority
                 className="rounded-[28px]"
               />
+              <div className="absolute bottom-8 left-8 rounded-2xl bg-white/95 px-6 py-4 shadow-2xl backdrop-blur">
 
-            </div>
+  <p className="text-sm font-semibold text-gray-500">
+    Trusted By
+  </p>
+
+  <h3 className="mt-1 text-2xl font-bold text-[#5A1020]">
+    1100+
+  </h3>
+
+  <p className="text-sm text-gray-600">
+    Retail Showrooms
+  </p>
+
+</div>
+                          </div>
 
           </div>
 

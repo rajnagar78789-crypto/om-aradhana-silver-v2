@@ -1,52 +1,74 @@
 export default function WhyChooseUs() {
   const features = [
     {
-      title: "Premium Quality",
-      description:
-        "92.5 Sterling Silver & 999 Silver products with premium finishing.",
+      title: "1100+ Retail Showrooms",
+      desc: "Trusted by jewellery retailers across India for quality and long-term business.",
+      icon: "🏢",
     },
     {
-      title: "Wholesale Pricing",
-      description:
-        "Best wholesale prices for jewellery showrooms across India.",
+      title: "5+ Years Experience",
+      desc: "Delivering premium silver jewellery with consistent quality and service.",
+      icon: "⭐",
     },
     {
-      title: "Latest Designs",
-      description:
-        "Regularly updated antique, fusion and idol collections.",
+      title: "200+ Premium Designs",
+      desc: "Wide collection of idols, antique jewellery, fusion jewellery and silver articles.",
+      icon: "💎",
     },
     {
-      title: "Trusted Supplier",
-      description:
-        "Reliable service, timely delivery and long-term business relationships.",
+      title: "PAN India Supply",
+      desc: "Reliable delivery network serving retail jewellery showrooms across India.",
+      icon: "🚚",
+    },
+    {
+      title: "GST Billing",
+      desc: "Professional invoicing and transparent business transactions.",
+      icon: "📄",
+    },
+    {
+      title: "Business Support",
+      desc: "Dedicated support to help our retail partners grow with confidence.",
+      icon: "🤝",
     },
   ];
 
   return (
-    <section className="bg-[#faf7f2] py-20">
-      <div className="container">
-        <div className="mb-14 text-center">
-          <h2 className="text-5xl font-bold text-[#5A1020]">
-            Why Choose Om Aradhana Silver?
+    <section id="why-us" className="bg-[#faf7f2] py-24">
+      <div className="container mx-auto max-w-7xl px-6">
+
+        <div className="text-center">
+          <span className="rounded-full bg-[#C9A227]/20 px-4 py-2 text-sm font-semibold text-[#5A1020]">
+            Why Choose Us
+          </span>
+
+          <h2 className="mt-6 text-4xl font-bold text-[#5A1020] lg:text-5xl">
+            Why Retail Showrooms Trust
+            <br />
+            Om Aradhana Silver
           </h2>
 
-          <p className="mt-4 text-lg text-gray-600">
-            Trusted wholesale partner for premium silver jewellery.
+          <p className="mx-auto mt-5 max-w-3xl text-lg leading-8 text-gray-600">
+            We believe in building long-term business relationships through
+            premium quality, trusted service and consistent supply.
           </p>
         </div>
 
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
-          {features.map((feature) => (
+        <div className="mt-16 grid gap-8 md:grid-cols-2 xl:grid-cols-3">
+          {features.map((item) => (
             <div
-              key={feature.title}
-              className="rounded-2xl bg-white p-8 shadow-lg transition hover:-translate-y-2 hover:shadow-2xl"
+              key={item.title}
+              className="group rounded-3xl border border-[#eadfcb] bg-white p-8 shadow-lg transition-all duration-300 hover:-translate-y-2 hover:border-[#C9A227] hover:shadow-2xl"
             >
+              <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-2xl bg-[#5A1020] text-3xl">
+                {item.icon}
+              </div>
+
               <h3 className="text-2xl font-bold text-[#5A1020]">
-                {feature.title}
+                {item.title}
               </h3>
 
-              <p className="mt-4 text-gray-600">
-                {feature.description}
+              <p className="mt-4 leading-7 text-gray-600">
+                {item.desc}
               </p>
             </div>
           ))}

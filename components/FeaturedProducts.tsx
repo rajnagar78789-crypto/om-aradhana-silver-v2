@@ -3,28 +3,37 @@ import ProductCard from "@/components/ProductCard";
 
 export default function FeaturedProducts() {
   return (
-    <section className="section bg-[#faf7f2]">
+    <section
+  id="products"
+  className="bg-[#faf7f2] py-24"
+>
 
-      <div className="container">
+      <div className="container mx-auto max-w-7xl px-6">
+
+        {/* Heading */}
 
         <div className="mx-auto mb-16 max-w-3xl text-center">
 
-          <span className="inline-block rounded-full bg-[#C9A227]/20 px-5 py-2 text-sm font-semibold text-[#5A1020]">
-            Our Collection
+          <span className="inline-flex rounded-full bg-[#C9A227]/20 px-5 py-2 text-sm font-semibold text-[#5A1020]">
+            Premium Collection
           </span>
 
-          <h2 className="section-title mt-6">
+          <h2 className="mt-6 text-4xl font-bold text-[#5A1020] lg:text-5xl">
             Featured Silver Collection
           </h2>
 
-          <p className="section-subtitle">
-            Explore our premium range of 999 Silver Idols,
-            92.5 Antique Jewellery, Fusion Collection,
-            Turkey Kada, Payal and Sterling Silver Articles
-            crafted for jewellery showrooms across India.
+          <p className="mt-6 text-lg leading-8 text-gray-600">
+            Explore our carefully selected premium silver collections,
+            trusted by
+            <span className="font-semibold text-[#5A1020]">
+              {" "}1100+ retail jewellery showrooms{" "}
+            </span>
+            across India.
           </p>
 
         </div>
+
+        {/* Products */}
 
         <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">
 

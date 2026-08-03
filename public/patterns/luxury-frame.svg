@@ -1,0 +1,111 @@
+<svg 
+width="700" 
+height="700" 
+viewBox="0 0 700 700" 
+fill="none" 
+xmlns="http://www.w3.org/2000/svg"
+>
+
+<g 
+stroke="#C9A227"
+fill="none"
+opacity="0.35"
+stroke-width="2"
+>
+
+
+<!-- Outer Royal Curves -->
+
+<path
+d="
+M120 350
+C120 170 250 80 350 80
+C450 80 580 170 580 350
+"
+ />
+
+
+<path
+d="
+M120 350
+C120 530 250 620 350 620
+C450 620 580 530 580 350
+"
+/>
+
+
+
+<!-- Left Decorative -->
+
+<path
+d="
+M120 250
+C60 300 60 400 120 450
+"
+/>
+
+
+<path
+d="
+M150 280
+C100 320 100 380 150 420
+"
+/>
+
+
+
+<!-- Right Decorative -->
+
+<path
+d="
+M580 250
+C640 300 640 400 580 450
+"
+/>
+
+
+<path
+d="
+M550 280
+C600 320 600 380 550 420
+"
+/>
+
+
+
+<!-- Top Ornament -->
+
+<path
+d="
+M350 80
+L370 120
+L350 150
+L330 120
+Z
+"
+/>
+
+
+
+<!-- Bottom Ornament -->
+
+<path
+d="
+M350 550
+L370 590
+L350 620
+L330 590
+Z
+"/>
+
+
+
+<!-- Small Dots -->
+
+<circle cx="350" cy="170" r="5"/>
+<circle cx="350" cy="530" r="5"/>
+
+
+</g>
+
+</svg>

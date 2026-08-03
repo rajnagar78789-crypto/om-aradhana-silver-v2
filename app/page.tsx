@@ -1,6 +1,7 @@
-import Hero from "@/components/Hero";
+import HeroV2 from "@/components/v2/HeroV2";
+import Reveal from "@/components/v2/Reveal";
+
 import Categories from "@/components/Categories";
-import FeaturedProducts from "@/components/FeaturedProducts";
 import About from "@/components/About";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import ContactCTA from "@/components/ContactCTA";
@@ -10,23 +11,28 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 export default function Home() {
   return (
     <main className="bg-[#faf7f2]">
+      <HeroV2 />
 
-      <Hero />
+      <Reveal delay={0.05}>
+        <Categories />
+      </Reveal>
+    
 
-      <Categories />
+      <Reveal delay={0.15}>
+        <About />
+      </Reveal>
 
-      <FeaturedProducts />
+      <Reveal delay={0.2}>
+        <WhyChooseUs />
+      </Reveal>
 
-      <About />
-
-      <WhyChooseUs />
-
-      <ContactCTA />
+      <Reveal delay={0.25}>
+        <ContactCTA />
+      </Reveal>
 
       <Footer />
 
       <WhatsAppButton />
-
     </main>
   );
 }

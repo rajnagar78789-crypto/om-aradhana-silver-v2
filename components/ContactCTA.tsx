@@ -1,14 +1,15 @@
 export default function ContactCTA() {
   return (
-    <section className="bg-gradient-to-r from-[#5A1020] to-[#7A1B33] py-20">
+    <section className="relative overflow-hidden bg-gradient-to-r from-[#4A0D1F] via-[#5A1020] to-[#74192F] py-24">
 
       <div className="container mx-auto max-w-6xl px-6 text-center">
 
-        <span className="rounded-full bg-[#C9A227]/20 px-5 py-2 text-sm font-semibold text-[#C9A227]">
-          Trusted Wholesale Partner
-        </span>
+        <span className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-white/10 px-5 py-2 text-sm font-semibold tracking-[0.15em] uppercase text-[#F4D36C] backdrop-blur-md">
+  <span className="h-2 w-2 rounded-full bg-[#F4D36C]" />
+  Trusted Wholesale Partner
+</span>
 
-        <h2 className="mt-8 text-4xl font-bold text-white lg:text-5xl">
+        <h2 className="mt-8 text-5xl font-black leading-[1.05] tracking-[-0.04em] text-white lg:text-5xl">
           Ready to Grow Your Jewellery Business?
         </h2>
 
@@ -25,7 +26,7 @@ export default function ContactCTA() {
             rel="noopener noreferrer"
             className="rounded-2xl bg-[#C9A227] px-8 py-4 text-lg font-bold text-[#5A1020] transition hover:scale-105"
           >
-            📲 Get Wholesale Catalogue
+            📲 Talk on WhatsApp
           </a>
 
           <a

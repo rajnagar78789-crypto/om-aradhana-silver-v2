@@ -13,32 +13,31 @@ export default function Hero() {
 
           <div>
 
-            <div className="inline-flex items-center rounded-full border border-[#C9A227]/40 bg-white/10 px-5 py-2 text-sm font-semibold text-[#C9A227] backdrop-blur">
-              ✨ Trusted Wholesale Supplier
-            </div>
+            <div className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-5 py-2 text-sm font-semibold text-[#F4D46A] backdrop-blur-md">
+  <span className="h-2 w-2 rounded-full bg-[#F4D46A]" />
+  Trusted by 1100+ Retail Showrooms
+</div>
 
-            <h1 className="mt-8 text-5xl font-extrabold leading-tight text-white lg:text-7xl">
+            <h1 className="mt-8 text-5xl font-extrabold leading-[1.05] tracking-tight text-white lg:text-7xl">
 
-              Premium
-              <br />
+  Premium 999 Silver
+  <br />
 
-              Silver Jewellery
-              <br />
+  Idols & Jewellery
 
-              For Retail Showrooms
+  <span className="mt-3 block text-[#C9A227]">
+    For Retail Showrooms
+  </span>
 
-            </h1>
+</h1>
 
             <p className="mt-8 max-w-xl text-lg leading-8 text-gray-200">
-
-              Premium manufacturer & wholesale supplier of
-              999 Hollow Idols,
-              92.5 Antique Jewellery,
-              Fusion Jewellery,
-              Sterling Silver &
-              Exclusive Silver Articles.
-
-            </p>
+  Trusted wholesale manufacturer of
+  <span className="font-semibold text-white"> 999 Hollow Idols</span>,
+  <span className="font-semibold text-white"> 92.5 Antique Jewellery</span>,
+  Fusion Collection and Sterling Silver Articles,
+  supplying retailers across India.
+</p>
 
             <div className="mt-10 flex flex-wrap gap-4">
 

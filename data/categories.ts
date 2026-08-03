@@ -1,38 +1,42 @@
 export type Category = {
   id: number;
   title: string;
+  slug: string;
   image: string;
+  description: string;
 };
 
 export const categories: Category[] = [
   {
     id: 1,
     title: "999 Hollow Idols",
-    image: "/images/categories/idols.jpg",
+    slug: "999-hollow-idols",
+    image: "/images/products/idols.jpg",
+    description:
+      "Ultra-lightweight 999 silver idols with premium finishing.",
   },
   {
     id: 2,
     title: "92.5 Antique Jewellery",
-    image: "/images/categories/antique.jpg",
+    slug: "92-5-antique-jewellery",
+    image: "/images/products/antique.jpg",
+    description:
+      "Timeless antique silver jewellery.",
   },
   {
     id: 3,
     title: "Fusion Collection",
-    image: "/images/categories/fusion.jpg",
-  },
-  {
-    id: 4,
-    title: "Turkey Kada",
-    image: "/images/categories/turkey.jpg",
-  },
-  {
-    id: 5,
-    title: "Payal Collection",
-    image: "/images/categories/payal.jpg",
+    slug: "fusion-collection",
+    image: "/images/products/fusion.jpg",
+    description:
+      "Modern silver jewellery with timeless fusion styling.",
   },
   {
     id: 6,
     title: "Sterling Silver",
-    image: "/images/categories/sterling.jpg",
+    slug: "sterling-silver",
+    image: "/images/products/sterling.jpg",
+    description:
+      "Classic 92.5 sterling silver crafted for lasting elegance.",
   },
 ];

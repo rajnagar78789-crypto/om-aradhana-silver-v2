@@ -19,10 +19,14 @@ export default function Home() {
       {/* 🔥 Reels Section Added Here */}
       <ReelsShowcase />
 
+      {/* ❌ Purana wala section humne yahan se hide (comment) kar diya hai 👇 */}
+      {/* 
       <section id="about">
         <About />
-      </section>
+      </section> 
+      */}
 
+      {/* ✅ Tera pasandida naya (Centered) section yeh raha 👇 */}
       <WhyChooseUs />
 
       <section id="contact">

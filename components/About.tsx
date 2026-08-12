@@ -1,113 +1,94 @@
-import Link from "next/link";
-
-export default function About() {
+export default function AboutSection() {
   return (
-    <section
-      id="about"
-      className="bg-[#faf7f2] py-24"
-    >
-      <div className="container mx-auto max-w-7xl px-6">
-
-        <div className="grid items-center gap-16 lg:grid-cols-2">
-
-          {/* Left */}
-          <div>
-
-            <span className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-white px-5 py-2 text-sm font-semibold tracking-[0.15em] uppercase text-[#8B6A18] shadow-lg">
-              Trusted Since 2020
-            </span>
-
-            <h2 className="mt-6 text-5xl font-black leading-[1.05] tracking-[-0.03em] text-[#5A1020] lg:text-6xl">
-  Trusted Wholesale
-  <br />
-  Partner for Retail
-  <br />
-  Jewellery Showrooms
-</h2>
-
-            <p className="mt-8 max-w-lg text-lg leading-8 text-gray-600">
-  For over 5 years, Om Aradhana Silver has been helping retail jewellery
-  showrooms across India with premium silver collections, reliable supply
-  and long-term business partnerships built on trust and consistency.
-</p>
-
+    <section className="relative overflow-hidden bg-[#FAF7F2] py-28 border-t border-[#C9A227]/15">
+      <div className="relative mx-auto max-w-[1440px] px-6 lg:px-16">
         
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+          
+          {/* Left Content Column */}
+          <div className="lg:col-span-6 space-y-6">
+            
+            <div className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-4 py-1.5 text-xs font-bold uppercase tracking-[0.25em] text-[#8C6D18] backdrop-blur-md shadow-[0_0_15px_rgba(201,162,39,0.1)]">
+              <span className="h-1.5 w-1.5 rounded-full bg-[#C9A227] animate-pulse" />
+              Trusted Since 2020
+            </div>
 
-            <div className="mt-10">
+            <h2 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-normal tracking-tight text-[#24050D] leading-[1.08]">
+              Trusted Wholesale Partner for <span className="italic font-light text-[#A4821E]">Retail Jewellery</span> Showrooms
+            </h2>
 
-             
+            <p className="text-base sm:text-lg font-light leading-relaxed text-[#6B5B52] max-w-xl">
+              For over 5 years, Om Aradhana Silver has been helping retail jewellery showrooms across India with premium silver collections, reliable supply and long-term business partnerships built on trust and consistency.
+            </p>
 
+            <div className="pt-4">
               <a
-                href="https://wa.me/918879528201?text=Hello%20Om%20Aradhana%20Silver,%20Please%20share%20your%20wholesale%20catalogue."
+                href="https://wa.me/91XXXXXXXXXX" 
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex h-14 min-w-[260px] items-center justify-center rounded-2xl border border-[#C9A227] bg-white px-8 text-base font-semibold text-[#5A1020] transition-all duration-300 hover:-translate-y-1 hover:bg-[#5A1020] hover:text-white"
+                className="inline-flex items-center gap-3 rounded-full bg-[#24050D] px-8 py-4 text-xs font-bold uppercase tracking-[0.2em] text-[#F8F5F0] transition-all duration-300 hover:bg-[#3D0A17] hover:shadow-[0_10px_30px_rgba(36,5,13,0.2)] hover:-translate-y-0.5 border border-[#C9A227]/30"
               >
-                Get Wholesale Catalogue
+                <span>Get Wholesale Catalogue</span>
+                <span className="text-[#E6CA65]">→</span>
               </a>
-
             </div>
 
           </div>
 
-          {/* Right */}
-          <div className="grid grid-cols-2 gap-6">
+          {/* Right Stats Grid Column */}
+          <div className="lg:col-span-6 grid grid-cols-1 sm:grid-cols-2 gap-5">
+            
+            {/* Stat Card 1 */}
+            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
+              <div className="font-serif text-4xl sm:text-5xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors">
+                1100+
+              </div>
+              <div className="mt-2 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
+                Retail Showrooms
+              </div>
+              <p className="mt-1 text-xs text-[#6B5B52] font-light">
+                Actively partnered across PAN India.
+              </p>
+            </div>
 
-            <div className="flex min-h-[170px] flex-col justify-center rounded-3xl border border-[#E9DDC6] bg-white p-8 text-center shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+            {/* Stat Card 2 */}
+            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
+              <div className="font-serif text-4xl sm:text-5xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors">
+                200+
+              </div>
+              <div className="mt-2 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
+                Premium Designs
+              </div>
+              <p className="mt-1 text-xs text-[#6B5B52] font-light">
+                Certified 999 & 92.5 silver masters.
+              </p>
+            </div>
 
-  <h3 className="text-5xl font-black text-[#5A1020]">
-    1100+
-  </h3>
+            {/* Stat Card 3 */}
+            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
+              <div className="font-serif text-4xl sm:text-5xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors">
+                5+
+              </div>
+              <div className="mt-2 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
+                Years Experience
+              </div>
+              <p className="mt-1 text-xs text-[#6B5B52] font-light">
+                Deep expertise in B2B silver trade.
+              </p>
+            </div>
 
-  <p className="mt-3 text-sm font-medium leading-6 text-gray-600">
-    Retail Jewellery
-    <br />
-    Showrooms
-  </p>
-
-</div>
-
-            <div className="flex min-h-[170px] flex-col justify-center rounded-3xl border border-[#E9DDC6] bg-white p-8 text-center shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
-
-  <h3 className="text-5xl font-black text-[#5A1020]">
-    200+
-  </h3>
-
-  <p className="mt-3 text-sm font-medium leading-6 text-gray-600">
-    Premium Silver
-    <br />
-    Designs
-  </p>
-
-</div>
-
-            <div className="flex min-h-[170px] flex-col justify-center rounded-3xl border border-[#E9DDC6] bg-white p-8 text-center shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
-
-  <h3 className="text-5xl font-black text-[#5A1020]">
-    5+
-  </h3>
-
-  <p className="mt-3 text-sm font-medium leading-6 text-gray-600">
-    Years of Industry
-    <br />
-    Experience
-  </p>
-
-</div>
-
-            <div className="flex min-h-[170px] flex-col justify-center rounded-3xl border border-[#E9DDC6] bg-white p-8 text-center shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
-
-  <h3 className="text-4xl font-black text-[#5A1020]">
-    PAN India
-  </h3>
-
-  <p className="mt-3 text-sm font-medium leading-6 text-gray-600">
-    Reliable Supply
-    <br />
-    Network
-  </p>
-
-</div>
+            {/* Stat Card 4 */}
+            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
+              <div className="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors pt-2">
+                PAN India
+              </div>
+              <div className="mt-3 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
+                Reliable Network
+              </div>
+              <p className="mt-1 text-xs text-[#6B5B52] font-light">
+                Safe and insured express delivery.
+              </p>
+            </div>
 
           </div>
 

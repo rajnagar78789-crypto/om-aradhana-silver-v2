@@ -3,102 +3,142 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { useRouter, usePathname } from "next/navigation";
+import { collections } from "@/data/collections"; // 🔥 Tumhara collections data import kiya hai
 
 const navItems = [
   { name: "Home", href: "/" },
-  { name: "Collections", href: "/collections" },
+  { name: "Collections", href: "/#collections" }, 
   { name: "Search", href: "/search" },
-  { name: "About", href: "#about" },
-  { name: "Contact", href: "#contact" },
+  { name: "About", href: "/#about" },
+  { name: "Contact", href: "/#contact" },
 ];
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [collectionDropdownOpen, setCollectionDropdownOpen] = useState(false); // 🔥 Dropdown state for collections/subcategories
+  const [mobileCollectionsOpen, setMobileCollectionsOpen] = useState(false); // 🔥 Mobile ke liye subcategories toggle
+  const router = useRouter();
+  const pathname = usePathname();
+
+  // 🛑 The Magic Function: Force Browser to Scroll
+  const handleNavClick = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
+    setMenuOpen(false);
+    setCollectionDropdownOpen(false);
+
+    // Agar link me "#" hai (jaise /#about)
+    if (href.includes("#")) {
+      const targetId = href.split("#")[1]; // "about" nikalega
+      const elem = document.getElementById(targetId);
+      
+      if (elem) {
+        // Agar hum home page par hi hain aur section mil gaya, toh smooth scroll karo
+        e.preventDefault();
+        elem.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+  };
 
   return (
-    <header className="sticky top-0 z-50 border-b border-[#C9A227]/20 bg-[#5A1020]/95 backdrop-blur-xl">
-
-      {/* MAIN HEADER */}
-      <div className="mx-auto flex h-[72px] max-w-7xl items-center justify-between px-4 sm:h-20 sm:px-6 lg:px-9">
-
-        {/* BRAND */}
-        <Link
-          href="/"
-          onClick={() => setMenuOpen(false)}
-          className="flex min-w-0 items-center gap-3 lg:w-[30%]"
-        >
-          <Image
-            src="/logo.png"
-            alt="Om Aradhana Silver"
-            width={52}
-            height={52}
-            priority
-            className="h-11 w-11 object-contain sm:h-[52px] sm:w-[52px]"
-          />
-
-          <div className="min-w-0">
-            <h1 className="whitespace-nowrap text-[18px] font-bold text-white sm:text-xl">
+    <header className="sticky top-0 z-[9999] border-b border-[#C9A227]/25 bg-[#24050D]/95 backdrop-blur-xl">
+      <div className="mx-auto flex h-24 max-w-[1440px] items-center justify-between px-6 lg:px-16">
+        
+        {/* BRAND LOGO & TITLE */}
+        <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center gap-4 group">
+          <div className="relative h-16 w-16 sm:h-20 sm:w-20 overflow-hidden rounded-full border-2 border-[#C9A227]/70 bg-[#24050D] shadow-[0_0_25px_rgba(201,162,39,0.4)] transition-transform duration-300 group-hover:scale-105 group-hover:border-[#E6CA65]">
+            <Image src="/logo.png" alt="Om Aradhana Silver" fill priority sizes="80px" className="object-cover p-0.5" />
+          </div>
+          <div>
+            <span className="block font-serif text-lg sm:text-xl font-medium tracking-wide text-[#F8F5F0] group-hover:text-[#E6CA65] transition-colors">
               Om Aradhana Silver
-            </h1>
-
-            <p className="mt-1 hidden whitespace-nowrap text-[11px] font-medium uppercase tracking-[0.18em] text-[#C9A227] sm:block">
-              Trusted by 1100+ Retail Showrooms
-            </p>
-
-            <p className="mt-0.5 whitespace-nowrap text-[8px] font-semibold uppercase tracking-[0.14em] text-[#C9A227] sm:hidden">
-              Wholesale Silver Jewellery
-            </p>
+            </span>
+            <span className="block text-[10px] font-semibold uppercase tracking-[0.25em] text-[#C9A227]">
+              Trusted by 1100+ Showrooms
+            </span>
           </div>
         </Link>
 
         {/* DESKTOP NAVIGATION */}
-        <nav className="hidden justify-center lg:flex lg:w-[40%]">
-          <div className="flex items-center gap-9">
+        <nav className="hidden lg:flex items-center gap-8">
+          {navItems.map((item) => {
+            // 🔥 Agar item "Collections" hai, toh usme Mega Dropdown dikhayenge
+            if (item.name === "Collections") {
+              return (
+                <div 
+                  key={item.name}
+                  className="relative py-2"
+                  onMouseEnter={() => setCollectionDropdownOpen(true)}
+                  onMouseLeave={() => setCollectionDropdownOpen(false)}
+                >
+                  <Link
+                    href={item.href}
+                    onClick={(e) => handleNavClick(e, item.href)}
+                    className="flex items-center gap-1.5 py-1 text-xs font-medium tracking-[0.2em] uppercase text-[#D2C5B0] transition-colors duration-300 hover:text-[#E6CA65] group cursor-pointer"
+                  >
+                    {item.name}
+                    <svg className={`w-3.5 h-3.5 transition-transform duration-300 ${collectionDropdownOpen ? "rotate-180 text-[#E6CA65]" : ""}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-[#C9A227] transition-all duration-300 group-hover:w-full" />
+                  </Link>
 
-            {navItems.map((item) => (
+                  {/* 🌟 MEGA DROPDOWN MENU FOR SUBCATEGORIES */}
+                  {collectionDropdownOpen && (
+                    <div className="absolute top-full left-1/2 -translate-x-1/2 w-[720px] bg-[#1A0309] border border-[#C9A227]/30 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.8)] p-6 grid grid-cols-2 gap-6 z-50">
+                      {collections.map((cat) => (
+                        <div key={cat.slug} className="space-y-2 border-b border-[#C9A227]/10 pb-4 last:border-none">
+                          <Link 
+                            href={`/collections/${cat.slug}`}
+                            className="font-serif text-sm font-medium text-[#E6CA65] hover:text-white transition-colors block"
+                            onClick={() => setCollectionDropdownOpen(false)}
+                          >
+                            {cat.title} →
+                          </Link>
+                          <div className="flex flex-wrap gap-1.5">
+                            {cat.subcategories?.map((sub) => (
+                              <Link
+                                key={sub.slug}
+                                href={`/collections/${cat.slug}?sub=${sub.slug}`}
+                                className="text-[10px] font-light bg-[#24050D] border border-[#C9A227]/20 px-2.5 py-1 rounded-md text-[#D2C5B0] hover:border-[#C9A227] hover:text-white transition-all"
+                                onClick={() => setCollectionDropdownOpen(false)}
+                              >
+                                {sub.title}
+                              </Link>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            }
+
+            // Baaki saare normal links ke liye
+            return (
               <Link
                 key={item.name}
                 href={item.href}
-                className="group relative py-2 !text-white text-[15px] font-medium transition-colors duration-300 hover:!text-[#C9A227]"
+                onClick={(e) => handleNavClick(e, item.href)}
+                className="relative py-1 text-xs font-medium tracking-[0.2em] uppercase text-[#D2C5B0] transition-colors duration-300 hover:text-[#E6CA65] group cursor-pointer"
               >
                 {item.name}
-
-                <span className="absolute bottom-0 left-0 h-[2px] w-0 bg-[#C9A227] transition-all duration-300 group-hover:w-full" />
+                <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-[#C9A227] transition-all duration-300 group-hover:w-full" />
               </Link>
-            ))}
-
-          </div>
+            );
+          })}
         </nav>
-                {/* DESKTOP CTA */}
-        <div className="hidden justify-end pr-4 lg:flex lg:w-[30%] xl:pr-8">
+
+        {/* DESKTOP CTA BUTTON */}
+        <div className="hidden lg:flex items-center gap-4">
           <a
-  href="https://wa.me/918879528201"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="group relative inline-flex items-center justify-center gap-3 overflow-hidden rounded-2xl border border-[#E7C45A] bg-gradient-to-b from-[#FFE79A] via-[#E7C24A] to-[#C99513] px-8 py-3.5 font-semibold text-[#55111E] shadow-[0_10px_25px_rgba(201,162,39,0.35)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(201,162,39,0.50)]"
->
-  {/* Shine Effect */}
-  <span className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/35 to-transparent transition-transform duration-700 group-hover:translate-x-full" />
-
-  <span className="relative z-10">
-    View Catalogue
-  </span>
-
-  <svg
-    className="relative z-10 h-5 w-5 transition-transform duration-300 group-hover:translate-x-1"
-    xmlns="http://www.w3.org/2000/svg"
-    fill="none"
-    viewBox="0 0 24 24"
-    stroke="currentColor"
-    strokeWidth={2.4}
-  >
-    <path
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      d="M13 5l7 7-7 7M5 12h15"
-    />
-  </svg>
-</a>
+            href="https://wa.me/918879528201"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group relative overflow-hidden rounded-full bg-gradient-to-r from-[#C9A227] via-[#F3E5AB] to-[#C9A227] px-7 py-3 text-[11px] font-bold uppercase tracking-[0.2em] text-[#24050D] shadow-[0_4px_25px_rgba(201,162,39,0.35)] transition-all duration-300 hover:scale-105 hover:shadow-[0_4px_35px_rgba(201,162,39,0.55)]"
+          >
+            WhatsApp Catalogue
+          </a>
         </div>
 
         {/* MOBILE MENU BUTTON */}
@@ -106,69 +146,99 @@ export default function Header() {
           type="button"
           aria-label="Toggle Menu"
           onClick={() => setMenuOpen(!menuOpen)}
-          className="flex h-11 w-11 items-center justify-center rounded-xl border border-white/10 text-white transition hover:border-[#C9A227] hover:text-[#C9A227] lg:hidden"
+          className="flex h-11 w-11 items-center justify-center rounded-xl border border-[#C9A227]/30 bg-white/5 text-[#F8F5F0] transition hover:border-[#C9A227] lg:hidden"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-            strokeWidth={2}
-          >
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
             {menuOpen ? (
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M6 18L18 6M6 6l12 12"
-              />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
             ) : (
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M4 6h16M4 12h16M4 18h16"
-              />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
             )}
           </svg>
         </button>
-
       </div>
 
-      {/* MOBILE MENU */}
-      <div
-        className={`overflow-hidden border-white/10 bg-[#5A1020] transition-all duration-300 lg:hidden ${
-          menuOpen
-            ? "max-h-[550px] border-t opacity-100"
-            : "max-h-0 border-t-0 opacity-0"
-        }`}
-      >
-        <nav className="mx-auto flex max-w-7xl flex-col px-5 pb-6 pt-2">
+      {/* MOBILE MENU DROPDOWN */}
+      <div className={`overflow-hidden border-t border-[#C9A227]/20 bg-[#24050D]/95 backdrop-blur-2xl transition-all duration-300 lg:hidden ${menuOpen ? "max-h-[800px] opacity-100 py-6" : "max-h-0 opacity-0 py-0 border-t-0"}`}>
+        <nav className="flex flex-col space-y-4 px-6 max-h-[70vh] overflow-y-auto">
+          {navItems.map((item) => {
+            if (item.name === "Collections") {
+              return (
+                <div key={item.name} className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <Link
+                      href={item.href}
+                      onClick={(e) => {
+                        handleNavClick(e, item.href);
+                        setMenuOpen(false);
+                      }}
+                      className="text-sm font-medium uppercase tracking-[0.15em] text-[#D2C5B0] transition hover:text-[#E6CA65]"
+                    >
+                      {item.name}
+                    </Link>
+                    <button 
+                      onClick={() => setMobileCollectionsOpen(!mobileCollectionsOpen)}
+                      className="text-[#E6CA65] p-1 text-xs font-bold"
+                    >
+                      {mobileCollectionsOpen ? "▲ Hide Subcategories" : "▼ View Subcategories"}
+                    </button>
+                  </div>
 
-          {navItems.map((item) => (
-            <Link
-              key={item.name}
-              href={item.href}
-              onClick={() => setMenuOpen(false)}
-              className="border-b border-white/10 py-4 text-[15px] font-medium text-white transition hover:pl-1 hover:text-[#C9A227]"
-            >
-              {item.name === "Search"
-                ? "Search Products"
-                : item.name}
-            </Link>
-          ))}
+                  {/* Mobile Subcategories Accordion */}
+                  {mobileCollectionsOpen && (
+                    <div className="pl-4 space-y-4 border-l border-[#C9A227]/20 py-2">
+                      {collections.map((cat) => (
+                        <div key={cat.slug} className="space-y-1.5">
+                          <Link
+                            href={`/collections/${cat.slug}`}
+                            onClick={() => setMenuOpen(false)}
+                            className="font-serif text-xs font-semibold text-[#E6CA65] block"
+                          >
+                            {cat.title}
+                          </Link>
+                          <div className="flex flex-wrap gap-1.5">
+                            {cat.subcategories?.map((sub) => (
+                              <Link
+                                key={sub.slug}
+                                href={`/collections/${cat.slug}?sub=${sub.slug}`}
+                                onClick={() => setMenuOpen(false)}
+                                className="text-[10px] bg-[#1A0309] border border-[#C9A227]/20 px-2 py-1 rounded text-[#D2C5B0]"
+                              >
+                                {sub.title}
+                              </Link>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            }
+
+            return (
+              <Link
+                key={item.name}
+                href={item.href}
+                onClick={(e) => handleNavClick(e, item.href)}
+                className="text-sm font-medium uppercase tracking-[0.15em] text-[#D2C5B0] transition hover:text-[#E6CA65] cursor-pointer"
+              >
+                {item.name}
+              </Link>
+            );
+          })}
 
           <a
             href="https://wa.me/918879528201"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setMenuOpen(false)}
-            className="mt-5 flex items-center justify-center rounded-xl bg-[#C9A227] px-5 py-3.5 text-sm font-bold text-[#5A1020] transition hover:brightness-105"
+            className="mt-2 text-center rounded-full bg-gradient-to-r from-[#C9A227] via-[#F3E5AB] to-[#C9A227] px-6 py-3.5 text-xs font-bold uppercase tracking-[0.2em] text-[#24050D] shadow-md"
           >
-            View WhatsApp Catalogue →
+            WhatsApp Catalogue
           </a>
-
         </nav>
       </div>
-          </header>
+    </header>
   );
-} 
+}

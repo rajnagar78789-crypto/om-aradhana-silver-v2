@@ -1,7 +1,6 @@
 import HeroV2 from "@/components/v2/HeroV2";
-import Reveal from "@/components/v2/Reveal";
-
 import Categories from "@/components/Categories";
+import ReelsShowcase from "@/components/ReelsShowcase"; // 🔥 Ye line add hui hai
 import About from "@/components/About";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import ContactCTA from "@/components/ContactCTA";
@@ -13,25 +12,24 @@ export default function Home() {
     <main className="bg-[#faf7f2]">
       <HeroV2 />
 
-      <Reveal delay={0.05}>
+      <section id="collections">
         <Categories />
-      </Reveal>
-    
+      </section>
 
-      <Reveal delay={0.15}>
+      {/* 🔥 Reels Section Added Here */}
+      <ReelsShowcase />
+
+      <section id="about">
         <About />
-      </Reveal>
+      </section>
 
-      <Reveal delay={0.2}>
-        <WhyChooseUs />
-      </Reveal>
+      <WhyChooseUs />
 
-      <Reveal delay={0.25}>
+      <section id="contact">
         <ContactCTA />
-      </Reveal>
+      </section>
 
       <Footer />
-
       <WhatsAppButton />
     </main>
   );

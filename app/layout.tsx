@@ -1,67 +1,29 @@
 import type { Metadata } from "next";
-import { Poppins } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
-
 import Header from "@/components/Header";
 
-const poppins = Poppins({
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700", "800"],
-});
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Om Aradhana Silver | Wholesale Silver Jewellery Supplier",
-
-  description:
-    "Om Aradhana Silver is a trusted wholesale supplier of 999 Hollow Idols, 92.5 Antique Jewellery, Fusion Jewellery and Sterling Silver Articles. Trusted by 1100+ retail jewellery showrooms across India.",
-
-  keywords: [
-    "Wholesale Silver Jewellery",
-    "92.5 Sterling Silver",
-    "999 Hollow Idols",
-    "Silver Idols",
-    "Antique Silver Jewellery",
-    "Fusion Jewellery",
-    "Wholesale Silver Supplier",
-    "Silver Manufacturer Ahmedabad",
-    "Retail Jewellery Showroom Supplier",
-    "Om Aradhana Silver",
-  ],
-
-  authors: [
-    {
-      name: "Om Aradhana Silver",
-    },
-  ],
-
-  creator: "Om Aradhana Silver",
-
-  openGraph: {
-    title: "Om Aradhana Silver",
-
-    description:
-      "Trusted by 1100+ Retail Jewellery Showrooms Across India.",
-
-    type: "website",
-  },
+  title: "Om Aradhana Silver | Trusted Wholesale Partner",
+  description: "Exclusive handcrafted masterpieces for B2B retail jewellery showrooms.",
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-    <html lang="en">
-
-      <body className={poppins.className}>
-
+    <html lang="en" className="scroll-smooth">
+      <body className={`${inter.className} bg-[#16050A] text-white antialiased`}>
+        {/* Luxury Navbar */}
         <Header />
 
-        {children}
-
+        {/* Main Content */}
+        <main>{children}</main>
       </body>
-
     </html>
   );
 }

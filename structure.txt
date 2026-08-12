@@ -1,0 +1,25 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0000028B 34BC:4201
+C:\USERS\RAJNA\ONEDRIVE\DESKTOP\OM-ARADHANA-SILVER\OM-ARADHANA-SILVER-V2\APP
+|   favicon.ico
+|   globals.css
+|   layout.tsx
+|   not-found.tsx
+|   page.tsx
+|   robots.ts
+|   sitemap.ts
+|   
++---collections
+|   \---[slug]
+|       |   page.tsx
+|       |   
+|       \---[subCollection]
+|               page.tsx
+|               
++---products
+|   \---[slug]
+|           page.tsx
+|           
+\---search
+        page.tsx
+        

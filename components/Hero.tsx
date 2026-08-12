@@ -1,154 +1,76 @@
-import Image from "next/image";
-import Link from "next/link";
-
-export default function Hero() {
+export default function HeroV2() {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-[#3B0B16] via-[#5A1020] to-[#6D1630]">
+    <section className="relative w-full min-h-[85vh] lg:min-h-[90vh] flex items-center overflow-hidden bg-[#24050D]">
+      
+      {/* 📸 BACKGROUND IMAGE (Teri wali detailed photo yahan aayegi) */}
+      <div className="absolute inset-0 z-0">
+        <img 
+          src="/images/hero-banner.png" 
+          alt="Om Aradhana Silver Premium Jewellery" 
+          className="w-full h-full object-cover object-center opacity-90" 
+        />
+        {/* 🔥 Dark overlay: Left mein dark taaki text chamke, Right mein transparent taaki photo clear dikhe */}
+        <div className="absolute inset-0 bg-gradient-to-r from-[#24050D] via-[#24050D]/80 to-transparent"></div>
+        {/* Niche se halka dark fade taaki agle section ke saath smoothly mix ho jaye */}
+        <div className="absolute inset-0 bg-gradient-to-t from-[#24050D] via-transparent to-transparent"></div>
+      </div>
 
-      <div className="container pt-36 pb-28">
-
-        <div className="grid items-center gap-16 lg:grid-cols-2">
-
-          {/* LEFT */}
-
-          <div>
-
-            <div className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-5 py-2 text-sm font-semibold text-[#F4D46A] backdrop-blur-md">
-  <span className="h-2 w-2 rounded-full bg-[#F4D46A]" />
-  Trusted by 1100+ Retail Showrooms
-</div>
-
-            <h1 className="mt-8 text-5xl font-extrabold leading-[1.05] tracking-tight text-white lg:text-7xl">
-
-  Premium 999 Silver
-  <br />
-
-  Idols & Jewellery
-
-  <span className="mt-3 block text-[#C9A227]">
-    For Retail Showrooms
-  </span>
-
-</h1>
-
-            <p className="mt-8 max-w-xl text-lg leading-8 text-gray-200">
-  Trusted wholesale manufacturer of
-  <span className="font-semibold text-white"> 999 Hollow Idols</span>,
-  <span className="font-semibold text-white"> 92.5 Antique Jewellery</span>,
-  Fusion Collection and Sterling Silver Articles,
-  supplying retailers across India.
-</p>
-
-            <div className="mt-10 flex flex-wrap gap-4">
-
-              <Link
-                href="#categories"
-                className="btn-primary"
-              >
-                View Collection
-              </Link>
-
-              <a
-                href="https://wa.me/918879528201"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-outline"
-              >
-                WhatsApp Enquiry
-              </a>
-
-            </div>
-                        {/* TRUST STATS */}
-
-            <div className="mt-14 grid grid-cols-2 gap-6 text-center text-white md:grid-cols-4">
-
-              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
-                <h3 className="text-3xl font-bold text-[#C9A227]">
-                  1100+
-                </h3>
-
-                <p className="mt-2 text-sm text-gray-200">
-                  Retail Showrooms
-                </p>
-
-              </div>
-
-              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
-                <h3 className="text-3xl font-bold text-[#C9A227]">
-                  5+
-                </h3>
-
-                <p className="mt-2 text-sm text-gray-200">
-                  Years Experience
-                </p>
-
-              </div>
-
-              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
-                <h3 className="text-3xl font-bold text-[#C9A227]">
-                  200+
-                </h3>
-
-                <p className="mt-2 text-sm text-gray-200">
-                  Premium Designs
-                </p>
-
-              </div>
-
-              <div className="rounded-2xl bg-white/10 p-5 backdrop-blur">
-                <h3 className="text-3xl font-bold text-[#C9A227]">
-                  PAN India
-                </h3>
-
-                <p className="mt-2 text-sm text-gray-200">
-                  Wholesale Supply
-                </p>
-
-              </div>
-
-            </div>
-
+      <div className="relative z-10 mx-auto w-full max-w-[1440px] px-6 lg:px-16 py-20">
+        
+        {/* TEXT CONTENT AREA */}
+        <div className="max-w-2xl">
+          
+          {/* Elite Tag */}
+          <div className="inline-flex items-center gap-2.5 mb-6 px-4 py-1.5 rounded-full bg-[#C9A227]/10 border border-[#C9A227]/30 backdrop-blur-md">
+            <span className="text-[#E6CA65] text-xs animate-pulse">✦</span>
+            <span className="text-[10px] sm:text-[11px] font-semibold uppercase tracking-[0.2em] text-[#E6CA65]">
+              TRUSTED BY 1100+ SHOWROOMS ACROSS INDIA
+            </span>
           </div>
 
-          {/* RIGHT */}
+          {/* Main Headings */}
+          <h1 className="font-serif text-4xl sm:text-5xl lg:text-7xl font-normal tracking-tight text-[#F8F5F0] leading-[1.1]">
+            Timeless Silver. <br />
+            <span className="font-serif italic font-light text-[#E6CA65]">
+              Unmatched Legacy.
+            </span>
+          </h1>
 
-          <div className="relative">
+          {/* Description */}
+          <p className="mt-6 text-sm sm:text-base lg:text-lg font-light leading-relaxed text-[#D2C5B0] max-w-xl">
+            Supplying elite retail jewellery showrooms across India with certified 999 hollow idols, antique artifacts, fusion designs, and sterling silver masterpieces.
+          </p>
 
-            <div className="absolute -inset-5 rounded-[40px] bg-[#C9A227]/20 blur-3xl"></div>
+          {/* 4 Categories Minimal Grid */}
+          <div className="my-8 grid grid-cols-1 sm:grid-cols-2 gap-3 max-w-xl">
+            {["999 Hollow Idols", "92.5 Antique Jewellery", "92.5 Fusion Collection", "92.5 Sterling Silver"].map((item) => (
+              <div key={item} className="flex items-center gap-3 p-3 rounded-xl bg-[#24050D]/40 border border-[#C9A227]/30 backdrop-blur-md transition-all hover:bg-[#C9A227]/10">
+                <span className="text-[#E6CA65] text-xs">✦</span>
+                <span className="text-xs font-medium uppercase tracking-[0.15em] text-[#F8F5F0]">{item}</span>
+              </div>
+            ))}
+          </div>
 
-            <div className="relative overflow-hidden rounded-[34px] border border-white/20 bg-white/10 p-3 backdrop-blur">
-
-              <Image
-                src="/images/hero.png"
-                alt="Om Aradhana Silver"
-                width={700}
-                height={700}
-                priority
-                className="rounded-[28px]"
-              />
-              <div className="absolute bottom-8 left-8 rounded-2xl bg-white/95 px-6 py-4 shadow-2xl backdrop-blur">
-
-  <p className="text-sm font-semibold text-gray-500">
-    Trusted By
-  </p>
-
-  <h3 className="mt-1 text-2xl font-bold text-[#5A1020]">
-    1100+
-  </h3>
-
-  <p className="text-sm text-gray-600">
-    Retail Showrooms
-  </p>
-
-</div>
-                          </div>
-
+          {/* Action Buttons */}
+          <div className="flex flex-wrap items-center gap-4 pt-2">
+            <a
+              href="#categories"
+              className="rounded-full bg-gradient-to-r from-[#C9A227] via-[#F3E5AB] to-[#C9A227] px-8 py-4 text-xs font-bold uppercase tracking-[0.25em] text-[#24050D] shadow-[0_0_20px_rgba(201,162,39,0.3)] transition-all hover:scale-105"
+            >
+              Explore Collections
+            </a>
+            <a
+              href="https://wa.me/918879528201?text=Hi,%20I%20want%20to%20search%20the%20catalogue."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-full border border-[#C9A227]/40 bg-[#24050D]/50 backdrop-blur-md px-8 py-4 text-xs font-bold uppercase tracking-[0.25em] text-[#F8F5F0] transition-all hover:bg-[#C9A227]/20"
+            >
+              Catalogue Search
+            </a>
           </div>
 
         </div>
-
       </div>
-
     </section>
   );
 }

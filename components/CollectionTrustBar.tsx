@@ -41,7 +41,6 @@ export default function CollectionTrustBar() {
       className="
       relative
       z-10
-      -mt-12
       px-6
       "
     >
@@ -51,7 +50,7 @@ export default function CollectionTrustBar() {
         className="
         mx-auto
         grid
-        max-w-7xl
+        max-w-[1500px]
         grid-cols-2
         overflow-hidden
         rounded-[32px]

@@ -81,27 +81,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 20GM KB0457C WB.webp",
+        url: "/products/ELEPHANT 20GM KB0457C WB.png",
         alt: "999 Silver Elephant (Wb)",
       },
       {
-        url: "/products/KB0457C/gallery_01.webp",
+        url: "/products/KB0457C/gallery_01.png",
         alt: "999 Silver Elephant (Wb)",
       },
       {
-        url: "/products/KB0457C/gallery_02.webp",
+        url: "/products/KB0457C/gallery_02.png",
         alt: "999 Silver Elephant (Wb)",
       },
       {
-        url: "/products/KB0457C/gallery_03.webp",
+        url: "/products/KB0457C/gallery_03.png",
         alt: "999 Silver Elephant (Wb)",
       },
       {
-        url: "/products/KB0457C/gallery_04.webp",
+        url: "/products/KB0457C/gallery_04.png",
         alt: "999 Silver Elephant (Wb)",
       },
       {
-        url: "/products/KB0457C/gallery_05.webp",
+        url: "/products/KB0457C/gallery_05.png",
         alt: "999 Silver Elephant (Wb)",
       },
     ],
@@ -138,7 +138,7 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BALA JI 10.webp",
+        url: "/products/BALA JI 10.png",
         alt: "999 Silver Bala Ji 10",
       },
     ],
@@ -172,27 +172,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Textured African Elephant 95GM A171.webp",
+        url: "/products/Textured African Elephant 95GM A171.png",
         alt: "999 Silver Textured African Elephant",
       },
       {
-        url: "/products/A171/gallery_01.webp",
+        url: "/products/A171/gallery_01.png",
         alt: "999 Silver Textured African Elephant",
       },
       {
-        url: "/products/A171/gallery_02.webp",
+        url: "/products/A171/gallery_02.png",
         alt: "999 Silver Textured African Elephant",
       },
       {
-        url: "/products/A171/gallery_03.webp",
+        url: "/products/A171/gallery_03.png",
         alt: "999 Silver Textured African Elephant",
       },
       {
-        url: "/products/A171/gallery_04.webp",
+        url: "/products/A171/gallery_04.png",
         alt: "999 Silver Textured African Elephant",
       },
       {
-        url: "/products/A171/gallery_05.webp",
+        url: "/products/A171/gallery_05.png",
         alt: "999 Silver Textured African Elephant",
       },
     ],
@@ -227,27 +227,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Roughly Realistic Horse Head 60GM A242.webp",
+        url: "/products/Roughly Realistic Horse Head 60GM A242.png",
         alt: "999 Silver Roughly Realistic Horse Head",
       },
       {
-        url: "/products/A242/gallery_01.webp",
+        url: "/products/A242/gallery_01.png",
         alt: "999 Silver Roughly Realistic Horse Head",
       },
       {
-        url: "/products/A242/gallery_02.webp",
+        url: "/products/A242/gallery_02.png",
         alt: "999 Silver Roughly Realistic Horse Head",
       },
       {
-        url: "/products/A242/gallery_03.webp",
+        url: "/products/A242/gallery_03.png",
         alt: "999 Silver Roughly Realistic Horse Head",
       },
       {
-        url: "/products/A242/gallery_04.webp",
+        url: "/products/A242/gallery_04.png",
         alt: "999 Silver Roughly Realistic Horse Head",
       },
       {
-        url: "/products/A242/gallery_05.webp",
+        url: "/products/A242/gallery_05.png",
         alt: "999 Silver Roughly Realistic Horse Head",
       },
     ],
@@ -282,27 +282,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant With Low Trunk 60GM A301.webp",
+        url: "/products/Elephant With Low Trunk 60GM A301.png",
         alt: "999 Silver Elephant With Low Trunk",
       },
       {
-        url: "/products/A301/gallery_01.webp",
+        url: "/products/A301/gallery_01.png",
         alt: "999 Silver Elephant With Low Trunk",
       },
       {
-        url: "/products/A301/gallery_02.webp",
+        url: "/products/A301/gallery_02.png",
         alt: "999 Silver Elephant With Low Trunk",
       },
       {
-        url: "/products/A301/gallery_03.webp",
+        url: "/products/A301/gallery_03.png",
         alt: "999 Silver Elephant With Low Trunk",
       },
       {
-        url: "/products/A301/gallery_04.webp",
+        url: "/products/A301/gallery_04.png",
         alt: "999 Silver Elephant With Low Trunk",
       },
       {
-        url: "/products/A301/gallery_05.webp",
+        url: "/products/A301/gallery_05.png",
         alt: "999 Silver Elephant With Low Trunk",
       },
     ],
@@ -339,27 +339,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LION 16GM A303.webp",
+        url: "/products/LION 16GM A303.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A303/gallery_01.webp",
+        url: "/products/A303/gallery_01.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A303/gallery_02.webp",
+        url: "/products/A303/gallery_02.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A303/gallery_03.webp",
+        url: "/products/A303/gallery_03.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A303/gallery_04.webp",
+        url: "/products/A303/gallery_04.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A303/gallery_05.webp",
+        url: "/products/A303/gallery_05.png",
         alt: "999 Silver Lion",
       },
     ],
@@ -396,27 +396,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Eagle A308.webp",
+        url: "/products/Eagle A308.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A308/gallery_01.webp",
+        url: "/products/A308/gallery_01.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A308/gallery_02.webp",
+        url: "/products/A308/gallery_02.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A308/gallery_03.webp",
+        url: "/products/A308/gallery_03.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A308/gallery_04.webp",
+        url: "/products/A308/gallery_04.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A308/gallery_05.webp",
+        url: "/products/A308/gallery_05.png",
         alt: "999 Silver Eagle",
       },
     ],
@@ -448,27 +448,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/The Symbol Of Prosperity OWL Product Code A312.webp",
+        url: "/products/The Symbol Of Prosperity OWL Product Code A312.png",
         alt: "999 Silver The Symbol Of Prosperity-OWL Product Code:",
       },
       {
-        url: "/products/A312/gallery_01.webp",
+        url: "/products/A312/gallery_01.png",
         alt: "999 Silver The Symbol Of Prosperity-OWL Product Code:",
       },
       {
-        url: "/products/A312/gallery_02.webp",
+        url: "/products/A312/gallery_02.png",
         alt: "999 Silver The Symbol Of Prosperity-OWL Product Code:",
       },
       {
-        url: "/products/A312/gallery_03.webp",
+        url: "/products/A312/gallery_03.png",
         alt: "999 Silver The Symbol Of Prosperity-OWL Product Code:",
       },
       {
-        url: "/products/A312/gallery_04.webp",
+        url: "/products/A312/gallery_04.png",
         alt: "999 Silver The Symbol Of Prosperity-OWL Product Code:",
       },
       {
-        url: "/products/A312/gallery_05.webp",
+        url: "/products/A312/gallery_05.png",
         alt: "999 Silver The Symbol Of Prosperity-OWL Product Code:",
       },
     ],
@@ -500,27 +500,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW 65GM A315.webp",
+        url: "/products/COW 65GM A315.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315/gallery_01.webp",
+        url: "/products/A315/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315/gallery_02.webp",
+        url: "/products/A315/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315/gallery_03.webp",
+        url: "/products/A315/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315/gallery_04.webp",
+        url: "/products/A315/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315/gallery_05.webp",
+        url: "/products/A315/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -553,27 +553,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW 35GM A315B.webp",
+        url: "/products/COW 35GM A315B.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315B/gallery_01.webp",
+        url: "/products/A315B/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315B/gallery_02.webp",
+        url: "/products/A315B/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315B/gallery_03.webp",
+        url: "/products/A315B/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315B/gallery_04.webp",
+        url: "/products/A315B/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/A315B/gallery_05.webp",
+        url: "/products/A315B/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -609,27 +609,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW 35g A315BM.webp",
+        url: "/products/COW 35g A315BM.png",
         alt: "999 Silver COW 35g",
       },
       {
-        url: "/products/A315BM/gallery_01.webp",
+        url: "/products/A315BM/gallery_01.png",
         alt: "999 Silver COW 35g",
       },
       {
-        url: "/products/A315BM/gallery_02.webp",
+        url: "/products/A315BM/gallery_02.png",
         alt: "999 Silver COW 35g",
       },
       {
-        url: "/products/A315BM/gallery_03.webp",
+        url: "/products/A315BM/gallery_03.png",
         alt: "999 Silver COW 35g",
       },
       {
-        url: "/products/A315BM/gallery_04.webp",
+        url: "/products/A315BM/gallery_04.png",
         alt: "999 Silver COW 35g",
       },
       {
-        url: "/products/A315BM/gallery_05.webp",
+        url: "/products/A315BM/gallery_05.png",
         alt: "999 Silver COW 35g",
       },
     ],
@@ -666,27 +666,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 60g A315M.webp",
+        url: "/products/Cow 60g A315M.png",
         alt: "999 Silver Cow 60g",
       },
       {
-        url: "/products/A315M/gallery_01.webp",
+        url: "/products/A315M/gallery_01.png",
         alt: "999 Silver Cow 60g",
       },
       {
-        url: "/products/A315M/gallery_02.webp",
+        url: "/products/A315M/gallery_02.png",
         alt: "999 Silver Cow 60g",
       },
       {
-        url: "/products/A315M/gallery_03.webp",
+        url: "/products/A315M/gallery_03.png",
         alt: "999 Silver Cow 60g",
       },
       {
-        url: "/products/A315M/gallery_04.webp",
+        url: "/products/A315M/gallery_04.png",
         alt: "999 Silver Cow 60g",
       },
       {
-        url: "/products/A315M/gallery_05.webp",
+        url: "/products/A315M/gallery_05.png",
         alt: "999 Silver Cow 60g",
       },
     ],
@@ -722,27 +722,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant With Calf 95GM A316.webp",
+        url: "/products/Elephant With Calf 95GM A316.png",
         alt: "999 Silver Elephant With Calf",
       },
       {
-        url: "/products/A316/gallery_01.webp",
+        url: "/products/A316/gallery_01.png",
         alt: "999 Silver Elephant With Calf",
       },
       {
-        url: "/products/A316/gallery_02.webp",
+        url: "/products/A316/gallery_02.png",
         alt: "999 Silver Elephant With Calf",
       },
       {
-        url: "/products/A316/gallery_03.webp",
+        url: "/products/A316/gallery_03.png",
         alt: "999 Silver Elephant With Calf",
       },
       {
-        url: "/products/A316/gallery_04.webp",
+        url: "/products/A316/gallery_04.png",
         alt: "999 Silver Elephant With Calf",
       },
       {
-        url: "/products/A316/gallery_05.webp",
+        url: "/products/A316/gallery_05.png",
         alt: "999 Silver Elephant With Calf",
       },
     ],
@@ -781,27 +781,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MOUSE 30GM A317.webp",
+        url: "/products/MOUSE 30GM A317.png",
         alt: "999 Silver Mouse",
       },
       {
-        url: "/products/A317/gallery_01.webp",
+        url: "/products/A317/gallery_01.png",
         alt: "999 Silver Mouse",
       },
       {
-        url: "/products/A317/gallery_02.webp",
+        url: "/products/A317/gallery_02.png",
         alt: "999 Silver Mouse",
       },
       {
-        url: "/products/A317/gallery_03.webp",
+        url: "/products/A317/gallery_03.png",
         alt: "999 Silver Mouse",
       },
       {
-        url: "/products/A317/gallery_04.webp",
+        url: "/products/A317/gallery_04.png",
         alt: "999 Silver Mouse",
       },
       {
-        url: "/products/A317/gallery_05.webp",
+        url: "/products/A317/gallery_05.png",
         alt: "999 Silver Mouse",
       },
     ],
@@ -838,27 +838,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Baby Lucky Elephant 35GM A318.webp",
+        url: "/products/Baby Lucky Elephant 35GM A318.png",
         alt: "999 Silver Baby Lucky Elephant",
       },
       {
-        url: "/products/A318/gallery_01.webp",
+        url: "/products/A318/gallery_01.png",
         alt: "999 Silver Baby Lucky Elephant",
       },
       {
-        url: "/products/A318/gallery_02.webp",
+        url: "/products/A318/gallery_02.png",
         alt: "999 Silver Baby Lucky Elephant",
       },
       {
-        url: "/products/A318/gallery_03.webp",
+        url: "/products/A318/gallery_03.png",
         alt: "999 Silver Baby Lucky Elephant",
       },
       {
-        url: "/products/A318/gallery_04.webp",
+        url: "/products/A318/gallery_04.png",
         alt: "999 Silver Baby Lucky Elephant",
       },
       {
-        url: "/products/A318/gallery_05.webp",
+        url: "/products/A318/gallery_05.png",
         alt: "999 Silver Baby Lucky Elephant",
       },
     ],
@@ -891,27 +891,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hippopotamus A320B.webp",
+        url: "/products/Hippopotamus A320B.png",
         alt: "999 Silver Hippopotamus",
       },
       {
-        url: "/products/A320B/gallery_01.webp",
+        url: "/products/A320B/gallery_01.png",
         alt: "999 Silver Hippopotamus",
       },
       {
-        url: "/products/A320B/gallery_02.webp",
+        url: "/products/A320B/gallery_02.png",
         alt: "999 Silver Hippopotamus",
       },
       {
-        url: "/products/A320B/gallery_03.webp",
+        url: "/products/A320B/gallery_03.png",
         alt: "999 Silver Hippopotamus",
       },
       {
-        url: "/products/A320B/gallery_04.webp",
+        url: "/products/A320B/gallery_04.png",
         alt: "999 Silver Hippopotamus",
       },
       {
-        url: "/products/A320B/gallery_05.webp",
+        url: "/products/A320B/gallery_05.png",
         alt: "999 Silver Hippopotamus",
       },
     ],
@@ -943,27 +943,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HORSE 165GM A330.webp",
+        url: "/products/HORSE 165GM A330.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A330/gallery_01.webp",
+        url: "/products/A330/gallery_01.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A330/gallery_02.webp",
+        url: "/products/A330/gallery_02.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A330/gallery_03.webp",
+        url: "/products/A330/gallery_03.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A330/gallery_04.webp",
+        url: "/products/A330/gallery_04.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A330/gallery_05.webp",
+        url: "/products/A330/gallery_05.png",
         alt: "999 Silver Horse",
       },
     ],
@@ -996,27 +996,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Eagle A331.webp",
+        url: "/products/Eagle A331.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A331/gallery_01.webp",
+        url: "/products/A331/gallery_01.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A331/gallery_02.webp",
+        url: "/products/A331/gallery_02.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A331/gallery_03.webp",
+        url: "/products/A331/gallery_03.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A331/gallery_04.webp",
+        url: "/products/A331/gallery_04.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A331/gallery_05.webp",
+        url: "/products/A331/gallery_05.png",
         alt: "999 Silver Eagle",
       },
     ],
@@ -1048,27 +1048,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Eagle A332.webp",
+        url: "/products/Eagle A332.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A332/gallery_01.webp",
+        url: "/products/A332/gallery_01.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A332/gallery_02.webp",
+        url: "/products/A332/gallery_02.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A332/gallery_03.webp",
+        url: "/products/A332/gallery_03.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A332/gallery_04.webp",
+        url: "/products/A332/gallery_04.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/A332/gallery_05.webp",
+        url: "/products/A332/gallery_05.png",
         alt: "999 Silver Eagle",
       },
     ],
@@ -1102,27 +1102,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Kamdhenu Cow 110GM A333.webp",
+        url: "/products/Kamdhenu Cow 110GM A333.png",
         alt: "999 Silver Kamdhenu Cow",
       },
       {
-        url: "/products/A333/gallery_01.webp",
+        url: "/products/A333/gallery_01.png",
         alt: "999 Silver Kamdhenu Cow",
       },
       {
-        url: "/products/A333/gallery_02.webp",
+        url: "/products/A333/gallery_02.png",
         alt: "999 Silver Kamdhenu Cow",
       },
       {
-        url: "/products/A333/gallery_03.webp",
+        url: "/products/A333/gallery_03.png",
         alt: "999 Silver Kamdhenu Cow",
       },
       {
-        url: "/products/A333/gallery_04.webp",
+        url: "/products/A333/gallery_04.png",
         alt: "999 Silver Kamdhenu Cow",
       },
       {
-        url: "/products/A333/gallery_05.webp",
+        url: "/products/A333/gallery_05.png",
         alt: "999 Silver Kamdhenu Cow",
       },
     ],
@@ -1159,27 +1159,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Kamdhenu COW 230GM A334.webp",
+        url: "/products/Kamdhenu COW 230GM A334.png",
         alt: "999 Silver Kamdhenu COW",
       },
       {
-        url: "/products/A334/gallery_01.webp",
+        url: "/products/A334/gallery_01.png",
         alt: "999 Silver Kamdhenu COW",
       },
       {
-        url: "/products/A334/gallery_02.webp",
+        url: "/products/A334/gallery_02.png",
         alt: "999 Silver Kamdhenu COW",
       },
       {
-        url: "/products/A334/gallery_03.webp",
+        url: "/products/A334/gallery_03.png",
         alt: "999 Silver Kamdhenu COW",
       },
       {
-        url: "/products/A334/gallery_04.webp",
+        url: "/products/A334/gallery_04.png",
         alt: "999 Silver Kamdhenu COW",
       },
       {
-        url: "/products/A334/gallery_05.webp",
+        url: "/products/A334/gallery_05.png",
         alt: "999 Silver Kamdhenu COW",
       },
     ],
@@ -1212,27 +1212,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 75GM A336A.webp",
+        url: "/products/ELEPHANT 75GM A336A.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/A336A/gallery_01.webp",
+        url: "/products/A336A/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/A336A/gallery_02.webp",
+        url: "/products/A336A/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/A336A/gallery_03.webp",
+        url: "/products/A336A/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/A336A/gallery_04.webp",
+        url: "/products/A336A/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/A336A/gallery_05.webp",
+        url: "/products/A336A/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -1265,27 +1265,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Champion Horse 25GM A337.webp",
+        url: "/products/Champion Horse 25GM A337.png",
         alt: "999 Silver Champion Horse",
       },
       {
-        url: "/products/A337/gallery_01.webp",
+        url: "/products/A337/gallery_01.png",
         alt: "999 Silver Champion Horse",
       },
       {
-        url: "/products/A337/gallery_02.webp",
+        url: "/products/A337/gallery_02.png",
         alt: "999 Silver Champion Horse",
       },
       {
-        url: "/products/A337/gallery_03.webp",
+        url: "/products/A337/gallery_03.png",
         alt: "999 Silver Champion Horse",
       },
       {
-        url: "/products/A337/gallery_04.webp",
+        url: "/products/A337/gallery_04.png",
         alt: "999 Silver Champion Horse",
       },
       {
-        url: "/products/A337/gallery_05.webp",
+        url: "/products/A337/gallery_05.png",
         alt: "999 Silver Champion Horse",
       },
     ],
@@ -1320,27 +1320,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HORSE 50GM A339.webp",
+        url: "/products/HORSE 50GM A339.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A339/gallery_01.webp",
+        url: "/products/A339/gallery_01.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A339/gallery_02.webp",
+        url: "/products/A339/gallery_02.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A339/gallery_03.webp",
+        url: "/products/A339/gallery_03.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A339/gallery_04.webp",
+        url: "/products/A339/gallery_04.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A339/gallery_05.webp",
+        url: "/products/A339/gallery_05.png",
         alt: "999 Silver Horse",
       },
     ],
@@ -1378,27 +1378,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HORSE 45GM A340.webp",
+        url: "/products/HORSE 45GM A340.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A340/gallery_01.webp",
+        url: "/products/A340/gallery_01.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A340/gallery_02.webp",
+        url: "/products/A340/gallery_02.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A340/gallery_03.webp",
+        url: "/products/A340/gallery_03.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A340/gallery_04.webp",
+        url: "/products/A340/gallery_04.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/A340/gallery_05.webp",
+        url: "/products/A340/gallery_05.png",
         alt: "999 Silver Horse",
       },
     ],
@@ -1434,27 +1434,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Lion A493.webp",
+        url: "/products/Lion A493.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A493/gallery_01.webp",
+        url: "/products/A493/gallery_01.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A493/gallery_02.webp",
+        url: "/products/A493/gallery_02.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A493/gallery_03.webp",
+        url: "/products/A493/gallery_03.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A493/gallery_04.webp",
+        url: "/products/A493/gallery_04.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/A493/gallery_05.webp",
+        url: "/products/A493/gallery_05.png",
         alt: "999 Silver Lion",
       },
     ],
@@ -1488,27 +1488,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PIG AM002A.webp",
+        url: "/products/PIG AM002A.png",
         alt: "999 Silver Pig",
       },
       {
-        url: "/products/AM002A/gallery_01.webp",
+        url: "/products/AM002A/gallery_01.png",
         alt: "999 Silver Pig",
       },
       {
-        url: "/products/AM002A/gallery_02.webp",
+        url: "/products/AM002A/gallery_02.png",
         alt: "999 Silver Pig",
       },
       {
-        url: "/products/AM002A/gallery_03.webp",
+        url: "/products/AM002A/gallery_03.png",
         alt: "999 Silver Pig",
       },
       {
-        url: "/products/AM002A/gallery_04.webp",
+        url: "/products/AM002A/gallery_04.png",
         alt: "999 Silver Pig",
       },
       {
-        url: "/products/AM002A/gallery_05.webp",
+        url: "/products/AM002A/gallery_05.png",
         alt: "999 Silver Pig",
       },
     ],
@@ -1545,27 +1545,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SMALL RABBIT 10GM AM004C.webp",
+        url: "/products/SMALL RABBIT 10GM AM004C.png",
         alt: "999 Silver Small Rabbit",
       },
       {
-        url: "/products/AM004C/gallery_01.webp",
+        url: "/products/AM004C/gallery_01.png",
         alt: "999 Silver Small Rabbit",
       },
       {
-        url: "/products/AM004C/gallery_02.webp",
+        url: "/products/AM004C/gallery_02.png",
         alt: "999 Silver Small Rabbit",
       },
       {
-        url: "/products/AM004C/gallery_03.webp",
+        url: "/products/AM004C/gallery_03.png",
         alt: "999 Silver Small Rabbit",
       },
       {
-        url: "/products/AM004C/gallery_04.webp",
+        url: "/products/AM004C/gallery_04.png",
         alt: "999 Silver Small Rabbit",
       },
       {
-        url: "/products/AM004C/gallery_05.webp",
+        url: "/products/AM004C/gallery_05.png",
         alt: "999 Silver Small Rabbit",
       },
     ],
@@ -1604,27 +1604,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SPARROW 32GM AM005.webp",
+        url: "/products/SPARROW 32GM AM005.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/AM005/gallery_01.webp",
+        url: "/products/AM005/gallery_01.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/AM005/gallery_02.webp",
+        url: "/products/AM005/gallery_02.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/AM005/gallery_03.webp",
+        url: "/products/AM005/gallery_03.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/AM005/gallery_04.webp",
+        url: "/products/AM005/gallery_04.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/AM005/gallery_05.webp",
+        url: "/products/AM005/gallery_05.png",
         alt: "999 Silver Sparrow",
       },
     ],
@@ -1663,27 +1663,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Leo The Lion 10GM AM007D.webp",
+        url: "/products/Leo The Lion 10GM AM007D.png",
         alt: "999 Silver Leo The Lion",
       },
       {
-        url: "/products/AM007D/gallery_01.webp",
+        url: "/products/AM007D/gallery_01.png",
         alt: "999 Silver Leo The Lion",
       },
       {
-        url: "/products/AM007D/gallery_02.webp",
+        url: "/products/AM007D/gallery_02.png",
         alt: "999 Silver Leo The Lion",
       },
       {
-        url: "/products/AM007D/gallery_03.webp",
+        url: "/products/AM007D/gallery_03.png",
         alt: "999 Silver Leo The Lion",
       },
       {
-        url: "/products/AM007D/gallery_04.webp",
+        url: "/products/AM007D/gallery_04.png",
         alt: "999 Silver Leo The Lion",
       },
       {
-        url: "/products/AM007D/gallery_05.webp",
+        url: "/products/AM007D/gallery_05.png",
         alt: "999 Silver Leo The Lion",
       },
     ],
@@ -1721,27 +1721,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 8GM AM014B.webp",
+        url: "/products/ELEPHANT 8GM AM014B.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/AM014B/gallery_01.webp",
+        url: "/products/AM014B/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/AM014B/gallery_02.webp",
+        url: "/products/AM014B/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/AM014B/gallery_03.webp",
+        url: "/products/AM014B/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/AM014B/gallery_04.webp",
+        url: "/products/AM014B/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/AM014B/gallery_05.webp",
+        url: "/products/AM014B/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -1780,27 +1780,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DOG 10GM AM015D.webp",
+        url: "/products/DOG 10GM AM015D.png",
         alt: "999 Silver Dog",
       },
       {
-        url: "/products/AM015D/gallery_01.webp",
+        url: "/products/AM015D/gallery_01.png",
         alt: "999 Silver Dog",
       },
       {
-        url: "/products/AM015D/gallery_02.webp",
+        url: "/products/AM015D/gallery_02.png",
         alt: "999 Silver Dog",
       },
       {
-        url: "/products/AM015D/gallery_03.webp",
+        url: "/products/AM015D/gallery_03.png",
         alt: "999 Silver Dog",
       },
       {
-        url: "/products/AM015D/gallery_04.webp",
+        url: "/products/AM015D/gallery_04.png",
         alt: "999 Silver Dog",
       },
       {
-        url: "/products/AM015D/gallery_05.webp",
+        url: "/products/AM015D/gallery_05.png",
         alt: "999 Silver Dog",
       },
     ],
@@ -1839,27 +1839,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BUST GANDHIJI 27GM Gift037.webp",
+        url: "/products/BUST GANDHIJI 27GM Gift037.png",
         alt: "999 Silver Bust Gandhiji",
       },
       {
-        url: "/products/GIFT037/gallery_01.webp",
+        url: "/products/GIFT037/gallery_01.png",
         alt: "999 Silver Bust Gandhiji",
       },
       {
-        url: "/products/GIFT037/gallery_02.webp",
+        url: "/products/GIFT037/gallery_02.png",
         alt: "999 Silver Bust Gandhiji",
       },
       {
-        url: "/products/GIFT037/gallery_03.webp",
+        url: "/products/GIFT037/gallery_03.png",
         alt: "999 Silver Bust Gandhiji",
       },
       {
-        url: "/products/GIFT037/gallery_04.webp",
+        url: "/products/GIFT037/gallery_04.png",
         alt: "999 Silver Bust Gandhiji",
       },
       {
-        url: "/products/GIFT037/gallery_05.webp",
+        url: "/products/GIFT037/gallery_05.png",
         alt: "999 Silver Bust Gandhiji",
       },
     ],
@@ -1896,27 +1896,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIVAJI MAHARAJ 70GM Gift041.webp",
+        url: "/products/SHIVAJI MAHARAJ 70GM Gift041.png",
         alt: "999 Silver Shivaji Maharaj",
       },
       {
-        url: "/products/GIFT041/gallery_01.webp",
+        url: "/products/GIFT041/gallery_01.png",
         alt: "999 Silver Shivaji Maharaj",
       },
       {
-        url: "/products/GIFT041/gallery_02.webp",
+        url: "/products/GIFT041/gallery_02.png",
         alt: "999 Silver Shivaji Maharaj",
       },
       {
-        url: "/products/GIFT041/gallery_03.webp",
+        url: "/products/GIFT041/gallery_03.png",
         alt: "999 Silver Shivaji Maharaj",
       },
       {
-        url: "/products/GIFT041/gallery_04.webp",
+        url: "/products/GIFT041/gallery_04.png",
         alt: "999 Silver Shivaji Maharaj",
       },
       {
-        url: "/products/GIFT041/gallery_05.webp",
+        url: "/products/GIFT041/gallery_05.png",
         alt: "999 Silver Shivaji Maharaj",
       },
     ],
@@ -1951,27 +1951,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDDHA 90GM GIFT504.webp",
+        url: "/products/LAUGHING BUDDHA 90GM GIFT504.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/GIFT504/gallery_01.webp",
+        url: "/products/GIFT504/gallery_01.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/GIFT504/gallery_02.webp",
+        url: "/products/GIFT504/gallery_02.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/GIFT504/gallery_03.webp",
+        url: "/products/GIFT504/gallery_03.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/GIFT504/gallery_04.webp",
+        url: "/products/GIFT504/gallery_04.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/GIFT504/gallery_05.webp",
+        url: "/products/GIFT504/gallery_05.png",
         alt: "999 Silver Laughing Buddha",
       },
     ],
@@ -2006,27 +2006,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laughing Buddhas 60GM Gift505.webp",
+        url: "/products/Laughing Buddhas 60GM Gift505.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505/gallery_01.webp",
+        url: "/products/GIFT505/gallery_01.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505/gallery_02.webp",
+        url: "/products/GIFT505/gallery_02.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505/gallery_03.webp",
+        url: "/products/GIFT505/gallery_03.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505/gallery_04.webp",
+        url: "/products/GIFT505/gallery_04.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505/gallery_05.webp",
+        url: "/products/GIFT505/gallery_05.png",
         alt: "999 Silver Laughing Buddhas",
       },
     ],
@@ -2063,27 +2063,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laughing Buddhas 15GM GIFT505C.webp",
+        url: "/products/Laughing Buddhas 15GM GIFT505C.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505C/gallery_01.webp",
+        url: "/products/GIFT505C/gallery_01.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505C/gallery_02.webp",
+        url: "/products/GIFT505C/gallery_02.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505C/gallery_03.webp",
+        url: "/products/GIFT505C/gallery_03.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505C/gallery_04.webp",
+        url: "/products/GIFT505C/gallery_04.png",
         alt: "999 Silver Laughing Buddhas",
       },
       {
-        url: "/products/GIFT505C/gallery_05.webp",
+        url: "/products/GIFT505C/gallery_05.png",
         alt: "999 Silver Laughing Buddhas",
       },
     ],
@@ -2121,27 +2121,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Saxophone 10GM GIFT506.webp",
+        url: "/products/Saxophone 10GM GIFT506.png",
         alt: "999 Silver Saxophone",
       },
       {
-        url: "/products/GIFT506/gallery_01.webp",
+        url: "/products/GIFT506/gallery_01.png",
         alt: "999 Silver Saxophone",
       },
       {
-        url: "/products/GIFT506/gallery_02.webp",
+        url: "/products/GIFT506/gallery_02.png",
         alt: "999 Silver Saxophone",
       },
       {
-        url: "/products/GIFT506/gallery_03.webp",
+        url: "/products/GIFT506/gallery_03.png",
         alt: "999 Silver Saxophone",
       },
       {
-        url: "/products/GIFT506/gallery_04.webp",
+        url: "/products/GIFT506/gallery_04.png",
         alt: "999 Silver Saxophone",
       },
       {
-        url: "/products/GIFT506/gallery_05.webp",
+        url: "/products/GIFT506/gallery_05.png",
         alt: "999 Silver Saxophone",
       },
     ],
@@ -2176,27 +2176,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant With Deepak 150GM Gift507.webp",
+        url: "/products/Elephant With Deepak 150GM Gift507.png",
         alt: "999 Silver Elephant With Deepak",
       },
       {
-        url: "/products/GIFT507/gallery_01.webp",
+        url: "/products/GIFT507/gallery_01.png",
         alt: "999 Silver Elephant With Deepak",
       },
       {
-        url: "/products/GIFT507/gallery_02.webp",
+        url: "/products/GIFT507/gallery_02.png",
         alt: "999 Silver Elephant With Deepak",
       },
       {
-        url: "/products/GIFT507/gallery_03.webp",
+        url: "/products/GIFT507/gallery_03.png",
         alt: "999 Silver Elephant With Deepak",
       },
       {
-        url: "/products/GIFT507/gallery_04.webp",
+        url: "/products/GIFT507/gallery_04.png",
         alt: "999 Silver Elephant With Deepak",
       },
       {
-        url: "/products/GIFT507/gallery_05.webp",
+        url: "/products/GIFT507/gallery_05.png",
         alt: "999 Silver Elephant With Deepak",
       },
     ],
@@ -2229,27 +2229,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cute Sleeping Baby 35GM GIFT508.webp",
+        url: "/products/Cute Sleeping Baby 35GM GIFT508.png",
         alt: "999 Silver Cute Sleeping Baby",
       },
       {
-        url: "/products/GIFT508/gallery_01.webp",
+        url: "/products/GIFT508/gallery_01.png",
         alt: "999 Silver Cute Sleeping Baby",
       },
       {
-        url: "/products/GIFT508/gallery_02.webp",
+        url: "/products/GIFT508/gallery_02.png",
         alt: "999 Silver Cute Sleeping Baby",
       },
       {
-        url: "/products/GIFT508/gallery_03.webp",
+        url: "/products/GIFT508/gallery_03.png",
         alt: "999 Silver Cute Sleeping Baby",
       },
       {
-        url: "/products/GIFT508/gallery_04.webp",
+        url: "/products/GIFT508/gallery_04.png",
         alt: "999 Silver Cute Sleeping Baby",
       },
       {
-        url: "/products/GIFT508/gallery_05.webp",
+        url: "/products/GIFT508/gallery_05.png",
         alt: "999 Silver Cute Sleeping Baby",
       },
     ],
@@ -2282,27 +2282,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Lion Gift512.webp",
+        url: "/products/Lion Gift512.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/GIFT512/gallery_01.webp",
+        url: "/products/GIFT512/gallery_01.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/GIFT512/gallery_02.webp",
+        url: "/products/GIFT512/gallery_02.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/GIFT512/gallery_03.webp",
+        url: "/products/GIFT512/gallery_03.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/GIFT512/gallery_04.webp",
+        url: "/products/GIFT512/gallery_04.png",
         alt: "999 Silver Lion",
       },
       {
-        url: "/products/GIFT512/gallery_05.webp",
+        url: "/products/GIFT512/gallery_05.png",
         alt: "999 Silver Lion",
       },
     ],
@@ -2334,27 +2334,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parsawnath160 Jain001.webp",
+        url: "/products/Parsawnath160 Jain001.png",
         alt: "999 Silver Parsawnath160",
       },
       {
-        url: "/products/JAIN001/gallery_01.webp",
+        url: "/products/JAIN001/gallery_01.png",
         alt: "999 Silver Parsawnath160",
       },
       {
-        url: "/products/JAIN001/gallery_02.webp",
+        url: "/products/JAIN001/gallery_02.png",
         alt: "999 Silver Parsawnath160",
       },
       {
-        url: "/products/JAIN001/gallery_03.webp",
+        url: "/products/JAIN001/gallery_03.png",
         alt: "999 Silver Parsawnath160",
       },
       {
-        url: "/products/JAIN001/gallery_04.webp",
+        url: "/products/JAIN001/gallery_04.png",
         alt: "999 Silver Parsawnath160",
       },
       {
-        url: "/products/JAIN001/gallery_05.webp",
+        url: "/products/JAIN001/gallery_05.png",
         alt: "999 Silver Parsawnath160",
       },
     ],
@@ -2386,27 +2386,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parsawnath75 Jain002.webp",
+        url: "/products/Parsawnath75 Jain002.png",
         alt: "999 Silver Parsawnath75",
       },
       {
-        url: "/products/JAIN002/gallery_01.webp",
+        url: "/products/JAIN002/gallery_01.png",
         alt: "999 Silver Parsawnath75",
       },
       {
-        url: "/products/JAIN002/gallery_02.webp",
+        url: "/products/JAIN002/gallery_02.png",
         alt: "999 Silver Parsawnath75",
       },
       {
-        url: "/products/JAIN002/gallery_03.webp",
+        url: "/products/JAIN002/gallery_03.png",
         alt: "999 Silver Parsawnath75",
       },
       {
-        url: "/products/JAIN002/gallery_04.webp",
+        url: "/products/JAIN002/gallery_04.png",
         alt: "999 Silver Parsawnath75",
       },
       {
-        url: "/products/JAIN002/gallery_05.webp",
+        url: "/products/JAIN002/gallery_05.png",
         alt: "999 Silver Parsawnath75",
       },
     ],
@@ -2441,27 +2441,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parshwnath 75GM JAIN002M.webp",
+        url: "/products/Parshwnath 75GM JAIN002M.png",
         alt: "999 Silver Parshwnath",
       },
       {
-        url: "/products/JAIN002M/gallery_01.webp",
+        url: "/products/JAIN002M/gallery_01.png",
         alt: "999 Silver Parshwnath",
       },
       {
-        url: "/products/JAIN002M/gallery_02.webp",
+        url: "/products/JAIN002M/gallery_02.png",
         alt: "999 Silver Parshwnath",
       },
       {
-        url: "/products/JAIN002M/gallery_03.webp",
+        url: "/products/JAIN002M/gallery_03.png",
         alt: "999 Silver Parshwnath",
       },
       {
-        url: "/products/JAIN002M/gallery_04.webp",
+        url: "/products/JAIN002M/gallery_04.png",
         alt: "999 Silver Parshwnath",
       },
       {
-        url: "/products/JAIN002M/gallery_05.webp",
+        url: "/products/JAIN002M/gallery_05.png",
         alt: "999 Silver Parshwnath",
       },
     ],
@@ -2496,27 +2496,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KALYAN PARSHWANATH JAIN003.webp",
+        url: "/products/KALYAN PARSHWANATH JAIN003.png",
         alt: "999 Silver Kalyan Parshwanath",
       },
       {
-        url: "/products/JAIN003/gallery_01.webp",
+        url: "/products/JAIN003/gallery_01.png",
         alt: "999 Silver Kalyan Parshwanath",
       },
       {
-        url: "/products/JAIN003/gallery_02.webp",
+        url: "/products/JAIN003/gallery_02.png",
         alt: "999 Silver Kalyan Parshwanath",
       },
       {
-        url: "/products/JAIN003/gallery_03.webp",
+        url: "/products/JAIN003/gallery_03.png",
         alt: "999 Silver Kalyan Parshwanath",
       },
       {
-        url: "/products/JAIN003/gallery_04.webp",
+        url: "/products/JAIN003/gallery_04.png",
         alt: "999 Silver Kalyan Parshwanath",
       },
       {
-        url: "/products/JAIN003/gallery_05.webp",
+        url: "/products/JAIN003/gallery_05.png",
         alt: "999 Silver Kalyan Parshwanath",
       },
     ],
@@ -2548,27 +2548,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Mahaveer Swami JAIN004.webp",
+        url: "/products/Mahaveer Swami JAIN004.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/JAIN004/gallery_01.webp",
+        url: "/products/JAIN004/gallery_01.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/JAIN004/gallery_02.webp",
+        url: "/products/JAIN004/gallery_02.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/JAIN004/gallery_03.webp",
+        url: "/products/JAIN004/gallery_03.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/JAIN004/gallery_04.webp",
+        url: "/products/JAIN004/gallery_04.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/JAIN004/gallery_05.webp",
+        url: "/products/JAIN004/gallery_05.png",
         alt: "999 Silver Mahaveer Swami",
       },
     ],
@@ -2600,27 +2600,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/NAKODA JAIN005A.webp",
+        url: "/products/NAKODA JAIN005A.png",
         alt: "999 Silver Nakoda",
       },
       {
-        url: "/products/JAIN005A/gallery_01.webp",
+        url: "/products/JAIN005A/gallery_01.png",
         alt: "999 Silver Nakoda",
       },
       {
-        url: "/products/JAIN005A/gallery_02.webp",
+        url: "/products/JAIN005A/gallery_02.png",
         alt: "999 Silver Nakoda",
       },
       {
-        url: "/products/JAIN005A/gallery_03.webp",
+        url: "/products/JAIN005A/gallery_03.png",
         alt: "999 Silver Nakoda",
       },
       {
-        url: "/products/JAIN005A/gallery_04.webp",
+        url: "/products/JAIN005A/gallery_04.png",
         alt: "999 Silver Nakoda",
       },
       {
-        url: "/products/JAIN005A/gallery_05.webp",
+        url: "/products/JAIN005A/gallery_05.png",
         alt: "999 Silver Nakoda",
       },
     ],
@@ -2652,27 +2652,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GHANTAKARNA MAHAVIR SWAMI 70 Product Code JAIN006.webp",
+        url: "/products/GHANTAKARNA MAHAVIR SWAMI 70 Product Code JAIN006.png",
         alt: "999 Silver GHANTAKARNA MAHAVIR SWAMI 70 Product Code :",
       },
       {
-        url: "/products/JAIN006/gallery_01.webp",
+        url: "/products/JAIN006/gallery_01.png",
         alt: "999 Silver GHANTAKARNA MAHAVIR SWAMI 70 Product Code :",
       },
       {
-        url: "/products/JAIN006/gallery_02.webp",
+        url: "/products/JAIN006/gallery_02.png",
         alt: "999 Silver GHANTAKARNA MAHAVIR SWAMI 70 Product Code :",
       },
       {
-        url: "/products/JAIN006/gallery_03.webp",
+        url: "/products/JAIN006/gallery_03.png",
         alt: "999 Silver GHANTAKARNA MAHAVIR SWAMI 70 Product Code :",
       },
       {
-        url: "/products/JAIN006/gallery_04.webp",
+        url: "/products/JAIN006/gallery_04.png",
         alt: "999 Silver GHANTAKARNA MAHAVIR SWAMI 70 Product Code :",
       },
       {
-        url: "/products/JAIN006/gallery_05.webp",
+        url: "/products/JAIN006/gallery_05.png",
         alt: "999 Silver GHANTAKARNA MAHAVIR SWAMI 70 Product Code :",
       },
     ],
@@ -2704,27 +2704,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Munivrat Jain007.webp",
+        url: "/products/Munivrat Jain007.png",
         alt: "999 Silver Munivrat",
       },
       {
-        url: "/products/JAIN007/gallery_01.webp",
+        url: "/products/JAIN007/gallery_01.png",
         alt: "999 Silver Munivrat",
       },
       {
-        url: "/products/JAIN007/gallery_02.webp",
+        url: "/products/JAIN007/gallery_02.png",
         alt: "999 Silver Munivrat",
       },
       {
-        url: "/products/JAIN007/gallery_03.webp",
+        url: "/products/JAIN007/gallery_03.png",
         alt: "999 Silver Munivrat",
       },
       {
-        url: "/products/JAIN007/gallery_04.webp",
+        url: "/products/JAIN007/gallery_04.png",
         alt: "999 Silver Munivrat",
       },
       {
-        url: "/products/JAIN007/gallery_05.webp",
+        url: "/products/JAIN007/gallery_05.png",
         alt: "999 Silver Munivrat",
       },
     ],
@@ -2758,27 +2758,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/THE DIVINE 14 DREAMS WITH JULA IN JAINISM JAIN009.webp",
+        url: "/products/THE DIVINE 14 DREAMS WITH JULA IN JAINISM JAIN009.png",
         alt: "999 Silver The Divine 14 Dreams With Jula In Jainism",
       },
       {
-        url: "/products/JAIN009/gallery_01.webp",
+        url: "/products/JAIN009/gallery_01.png",
         alt: "999 Silver The Divine 14 Dreams With Jula In Jainism",
       },
       {
-        url: "/products/JAIN009/gallery_02.webp",
+        url: "/products/JAIN009/gallery_02.png",
         alt: "999 Silver The Divine 14 Dreams With Jula In Jainism",
       },
       {
-        url: "/products/JAIN009/gallery_03.webp",
+        url: "/products/JAIN009/gallery_03.png",
         alt: "999 Silver The Divine 14 Dreams With Jula In Jainism",
       },
       {
-        url: "/products/JAIN009/gallery_04.webp",
+        url: "/products/JAIN009/gallery_04.png",
         alt: "999 Silver The Divine 14 Dreams With Jula In Jainism",
       },
       {
-        url: "/products/JAIN009/gallery_05.webp",
+        url: "/products/JAIN009/gallery_05.png",
         alt: "999 Silver The Divine 14 Dreams With Jula In Jainism",
       },
     ],
@@ -2814,27 +2814,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PARSHWANTH 170GM JAIN01.webp",
+        url: "/products/PARSHWANTH 170GM JAIN01.png",
         alt: "999 Silver Parshwanth",
       },
       {
-        url: "/products/JAIN01/gallery_01.webp",
+        url: "/products/JAIN01/gallery_01.png",
         alt: "999 Silver Parshwanth",
       },
       {
-        url: "/products/JAIN01/gallery_02.webp",
+        url: "/products/JAIN01/gallery_02.png",
         alt: "999 Silver Parshwanth",
       },
       {
-        url: "/products/JAIN01/gallery_03.webp",
+        url: "/products/JAIN01/gallery_03.png",
         alt: "999 Silver Parshwanth",
       },
       {
-        url: "/products/JAIN01/gallery_04.webp",
+        url: "/products/JAIN01/gallery_04.png",
         alt: "999 Silver Parshwanth",
       },
       {
-        url: "/products/JAIN01/gallery_05.webp",
+        url: "/products/JAIN01/gallery_05.png",
         alt: "999 Silver Parshwanth",
       },
     ],
@@ -2870,27 +2870,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Neminath Ji JAIN010.webp",
+        url: "/products/Neminath Ji JAIN010.png",
         alt: "999 Silver Neminath Ji",
       },
       {
-        url: "/products/JAIN010/gallery_01.webp",
+        url: "/products/JAIN010/gallery_01.png",
         alt: "999 Silver Neminath Ji",
       },
       {
-        url: "/products/JAIN010/gallery_02.webp",
+        url: "/products/JAIN010/gallery_02.png",
         alt: "999 Silver Neminath Ji",
       },
       {
-        url: "/products/JAIN010/gallery_03.webp",
+        url: "/products/JAIN010/gallery_03.png",
         alt: "999 Silver Neminath Ji",
       },
       {
-        url: "/products/JAIN010/gallery_04.webp",
+        url: "/products/JAIN010/gallery_04.png",
         alt: "999 Silver Neminath Ji",
       },
       {
-        url: "/products/JAIN010/gallery_05.webp",
+        url: "/products/JAIN010/gallery_05.png",
         alt: "999 Silver Neminath Ji",
       },
     ],
@@ -2922,27 +2922,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RajendraSuri Ji Jain020.webp",
+        url: "/products/RajendraSuri Ji Jain020.png",
         alt: "999 Silver RajendraSuri Ji",
       },
       {
-        url: "/products/JAIN020/gallery_01.webp",
+        url: "/products/JAIN020/gallery_01.png",
         alt: "999 Silver RajendraSuri Ji",
       },
       {
-        url: "/products/JAIN020/gallery_02.webp",
+        url: "/products/JAIN020/gallery_02.png",
         alt: "999 Silver RajendraSuri Ji",
       },
       {
-        url: "/products/JAIN020/gallery_03.webp",
+        url: "/products/JAIN020/gallery_03.png",
         alt: "999 Silver RajendraSuri Ji",
       },
       {
-        url: "/products/JAIN020/gallery_04.webp",
+        url: "/products/JAIN020/gallery_04.png",
         alt: "999 Silver RajendraSuri Ji",
       },
       {
-        url: "/products/JAIN020/gallery_05.webp",
+        url: "/products/JAIN020/gallery_05.png",
         alt: "999 Silver RajendraSuri Ji",
       },
     ],
@@ -2974,27 +2974,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rajendra Suri Ji JAIN021.webp",
+        url: "/products/Rajendra Suri Ji JAIN021.png",
         alt: "999 Silver Rajendra Suri Ji",
       },
       {
-        url: "/products/JAIN021/gallery_01.webp",
+        url: "/products/JAIN021/gallery_01.png",
         alt: "999 Silver Rajendra Suri Ji",
       },
       {
-        url: "/products/JAIN021/gallery_02.webp",
+        url: "/products/JAIN021/gallery_02.png",
         alt: "999 Silver Rajendra Suri Ji",
       },
       {
-        url: "/products/JAIN021/gallery_03.webp",
+        url: "/products/JAIN021/gallery_03.png",
         alt: "999 Silver Rajendra Suri Ji",
       },
       {
-        url: "/products/JAIN021/gallery_04.webp",
+        url: "/products/JAIN021/gallery_04.png",
         alt: "999 Silver Rajendra Suri Ji",
       },
       {
-        url: "/products/JAIN021/gallery_05.webp",
+        url: "/products/JAIN021/gallery_05.png",
         alt: "999 Silver Rajendra Suri Ji",
       },
     ],
@@ -3026,27 +3026,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MahaveerSwami Jain023.webp",
+        url: "/products/MahaveerSwami Jain023.png",
         alt: "999 Silver MahaveerSwami",
       },
       {
-        url: "/products/JAIN023/gallery_01.webp",
+        url: "/products/JAIN023/gallery_01.png",
         alt: "999 Silver MahaveerSwami",
       },
       {
-        url: "/products/JAIN023/gallery_02.webp",
+        url: "/products/JAIN023/gallery_02.png",
         alt: "999 Silver MahaveerSwami",
       },
       {
-        url: "/products/JAIN023/gallery_03.webp",
+        url: "/products/JAIN023/gallery_03.png",
         alt: "999 Silver MahaveerSwami",
       },
       {
-        url: "/products/JAIN023/gallery_04.webp",
+        url: "/products/JAIN023/gallery_04.png",
         alt: "999 Silver MahaveerSwami",
       },
       {
-        url: "/products/JAIN023/gallery_05.webp",
+        url: "/products/JAIN023/gallery_05.png",
         alt: "999 Silver MahaveerSwami",
       },
     ],
@@ -3078,27 +3078,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rajendra Suri JAIN023R.webp",
+        url: "/products/Rajendra Suri JAIN023R.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN023R/gallery_01.webp",
+        url: "/products/JAIN023R/gallery_01.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN023R/gallery_02.webp",
+        url: "/products/JAIN023R/gallery_02.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN023R/gallery_03.webp",
+        url: "/products/JAIN023R/gallery_03.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN023R/gallery_04.webp",
+        url: "/products/JAIN023R/gallery_04.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN023R/gallery_05.webp",
+        url: "/products/JAIN023R/gallery_05.png",
         alt: "999 Silver Rajendra Suri",
       },
     ],
@@ -3130,27 +3130,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parsawnathji Jain024.webp",
+        url: "/products/Parsawnathji Jain024.png",
         alt: "999 Silver Parsawnathji",
       },
       {
-        url: "/products/JAIN024/gallery_01.webp",
+        url: "/products/JAIN024/gallery_01.png",
         alt: "999 Silver Parsawnathji",
       },
       {
-        url: "/products/JAIN024/gallery_02.webp",
+        url: "/products/JAIN024/gallery_02.png",
         alt: "999 Silver Parsawnathji",
       },
       {
-        url: "/products/JAIN024/gallery_03.webp",
+        url: "/products/JAIN024/gallery_03.png",
         alt: "999 Silver Parsawnathji",
       },
       {
-        url: "/products/JAIN024/gallery_04.webp",
+        url: "/products/JAIN024/gallery_04.png",
         alt: "999 Silver Parsawnathji",
       },
       {
-        url: "/products/JAIN024/gallery_05.webp",
+        url: "/products/JAIN024/gallery_05.png",
         alt: "999 Silver Parsawnathji",
       },
     ],
@@ -3182,27 +3182,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rajendra Suri JAIN024R.webp",
+        url: "/products/Rajendra Suri JAIN024R.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024R/gallery_01.webp",
+        url: "/products/JAIN024R/gallery_01.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024R/gallery_02.webp",
+        url: "/products/JAIN024R/gallery_02.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024R/gallery_03.webp",
+        url: "/products/JAIN024R/gallery_03.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024R/gallery_04.webp",
+        url: "/products/JAIN024R/gallery_04.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024R/gallery_05.webp",
+        url: "/products/JAIN024R/gallery_05.png",
         alt: "999 Silver Rajendra Suri",
       },
     ],
@@ -3234,27 +3234,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rajendra Suri JAIN024RM.webp",
+        url: "/products/Rajendra Suri JAIN024RM.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024RM/gallery_01.webp",
+        url: "/products/JAIN024RM/gallery_01.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024RM/gallery_02.webp",
+        url: "/products/JAIN024RM/gallery_02.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024RM/gallery_03.webp",
+        url: "/products/JAIN024RM/gallery_03.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024RM/gallery_04.webp",
+        url: "/products/JAIN024RM/gallery_04.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN024RM/gallery_05.webp",
+        url: "/products/JAIN024RM/gallery_05.png",
         alt: "999 Silver Rajendra Suri",
       },
     ],
@@ -3286,27 +3286,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Mahaveer Swamiji Jain025.webp",
+        url: "/products/Mahaveer Swamiji Jain025.png",
         alt: "999 Silver Mahaveer Swamiji",
       },
       {
-        url: "/products/JAIN025/gallery_01.webp",
+        url: "/products/JAIN025/gallery_01.png",
         alt: "999 Silver Mahaveer Swamiji",
       },
       {
-        url: "/products/JAIN025/gallery_02.webp",
+        url: "/products/JAIN025/gallery_02.png",
         alt: "999 Silver Mahaveer Swamiji",
       },
       {
-        url: "/products/JAIN025/gallery_03.webp",
+        url: "/products/JAIN025/gallery_03.png",
         alt: "999 Silver Mahaveer Swamiji",
       },
       {
-        url: "/products/JAIN025/gallery_04.webp",
+        url: "/products/JAIN025/gallery_04.png",
         alt: "999 Silver Mahaveer Swamiji",
       },
       {
-        url: "/products/JAIN025/gallery_05.webp",
+        url: "/products/JAIN025/gallery_05.png",
         alt: "999 Silver Mahaveer Swamiji",
       },
     ],
@@ -3338,27 +3338,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rajendra Suri JAIN025R.webp",
+        url: "/products/Rajendra Suri JAIN025R.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN025R/gallery_01.webp",
+        url: "/products/JAIN025R/gallery_01.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN025R/gallery_02.webp",
+        url: "/products/JAIN025R/gallery_02.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN025R/gallery_03.webp",
+        url: "/products/JAIN025R/gallery_03.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN025R/gallery_04.webp",
+        url: "/products/JAIN025R/gallery_04.png",
         alt: "999 Silver Rajendra Suri",
       },
       {
-        url: "/products/JAIN025R/gallery_05.webp",
+        url: "/products/JAIN025R/gallery_05.png",
         alt: "999 Silver Rajendra Suri",
       },
     ],
@@ -3390,27 +3390,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Manibhadra Dada Jain026.webp",
+        url: "/products/Manibhadra Dada Jain026.png",
         alt: "999 Silver Manibhadra Dada",
       },
       {
-        url: "/products/JAIN026/gallery_01.webp",
+        url: "/products/JAIN026/gallery_01.png",
         alt: "999 Silver Manibhadra Dada",
       },
       {
-        url: "/products/JAIN026/gallery_02.webp",
+        url: "/products/JAIN026/gallery_02.png",
         alt: "999 Silver Manibhadra Dada",
       },
       {
-        url: "/products/JAIN026/gallery_03.webp",
+        url: "/products/JAIN026/gallery_03.png",
         alt: "999 Silver Manibhadra Dada",
       },
       {
-        url: "/products/JAIN026/gallery_04.webp",
+        url: "/products/JAIN026/gallery_04.png",
         alt: "999 Silver Manibhadra Dada",
       },
       {
-        url: "/products/JAIN026/gallery_05.webp",
+        url: "/products/JAIN026/gallery_05.png",
         alt: "999 Silver Manibhadra Dada",
       },
     ],
@@ -3442,27 +3442,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/JIRAWALA PARSHAWANTH JAIN027.webp",
+        url: "/products/JIRAWALA PARSHAWANTH JAIN027.png",
         alt: "999 Silver Jirawala Parshawanth",
       },
       {
-        url: "/products/JAIN027/gallery_01.webp",
+        url: "/products/JAIN027/gallery_01.png",
         alt: "999 Silver Jirawala Parshawanth",
       },
       {
-        url: "/products/JAIN027/gallery_02.webp",
+        url: "/products/JAIN027/gallery_02.png",
         alt: "999 Silver Jirawala Parshawanth",
       },
       {
-        url: "/products/JAIN027/gallery_03.webp",
+        url: "/products/JAIN027/gallery_03.png",
         alt: "999 Silver Jirawala Parshawanth",
       },
       {
-        url: "/products/JAIN027/gallery_04.webp",
+        url: "/products/JAIN027/gallery_04.png",
         alt: "999 Silver Jirawala Parshawanth",
       },
       {
-        url: "/products/JAIN027/gallery_05.webp",
+        url: "/products/JAIN027/gallery_05.png",
         alt: "999 Silver Jirawala Parshawanth",
       },
     ],
@@ -3494,27 +3494,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 20GM KA001.webp",
+        url: "/products/Ganesh 20GM KA001.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA001/gallery_01.webp",
+        url: "/products/KA001/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA001/gallery_02.webp",
+        url: "/products/KA001/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA001/gallery_03.webp",
+        url: "/products/KA001/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA001/gallery_04.webp",
+        url: "/products/KA001/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA001/gallery_05.webp",
+        url: "/products/KA001/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -3547,27 +3547,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laddu Gopal KA002.webp",
+        url: "/products/Laddu Gopal KA002.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/KA002/gallery_01.webp",
+        url: "/products/KA002/gallery_01.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/KA002/gallery_02.webp",
+        url: "/products/KA002/gallery_02.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/KA002/gallery_03.webp",
+        url: "/products/KA002/gallery_03.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/KA002/gallery_04.webp",
+        url: "/products/KA002/gallery_04.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/KA002/gallery_05.webp",
+        url: "/products/KA002/gallery_05.png",
         alt: "999 Silver Laddu Gopal",
       },
     ],
@@ -3599,27 +3599,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SAI BABA 110GM KA005.webp",
+        url: "/products/SAI BABA 110GM KA005.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005/gallery_01.webp",
+        url: "/products/KA005/gallery_01.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005/gallery_02.webp",
+        url: "/products/KA005/gallery_02.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005/gallery_03.webp",
+        url: "/products/KA005/gallery_03.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005/gallery_04.webp",
+        url: "/products/KA005/gallery_04.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005/gallery_05.webp",
+        url: "/products/KA005/gallery_05.png",
         alt: "999 Silver Sai Baba",
       },
     ],
@@ -3652,27 +3652,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SAI BABA 65GM KA005A.webp",
+        url: "/products/SAI BABA 65GM KA005A.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005A/gallery_01.webp",
+        url: "/products/KA005A/gallery_01.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005A/gallery_02.webp",
+        url: "/products/KA005A/gallery_02.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005A/gallery_03.webp",
+        url: "/products/KA005A/gallery_03.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005A/gallery_04.webp",
+        url: "/products/KA005A/gallery_04.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005A/gallery_05.webp",
+        url: "/products/KA005A/gallery_05.png",
         alt: "999 Silver Sai Baba",
       },
     ],
@@ -3707,27 +3707,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SAI BABA 35GM KA005B.webp",
+        url: "/products/SAI BABA 35GM KA005B.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005B/gallery_01.webp",
+        url: "/products/KA005B/gallery_01.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005B/gallery_02.webp",
+        url: "/products/KA005B/gallery_02.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005B/gallery_03.webp",
+        url: "/products/KA005B/gallery_03.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005B/gallery_04.webp",
+        url: "/products/KA005B/gallery_04.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005B/gallery_05.webp",
+        url: "/products/KA005B/gallery_05.png",
         alt: "999 Silver Sai Baba",
       },
     ],
@@ -3763,27 +3763,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sai Baba 15GM KA005C.webp",
+        url: "/products/Sai Baba 15GM KA005C.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005C/gallery_01.webp",
+        url: "/products/KA005C/gallery_01.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005C/gallery_02.webp",
+        url: "/products/KA005C/gallery_02.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005C/gallery_03.webp",
+        url: "/products/KA005C/gallery_03.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005C/gallery_04.webp",
+        url: "/products/KA005C/gallery_04.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA005C/gallery_05.webp",
+        url: "/products/KA005C/gallery_05.png",
         alt: "999 Silver Sai Baba",
       },
     ],
@@ -3816,27 +3816,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA SILVER BASE 60 KA006.webp",
+        url: "/products/RADHA KRISHNA SILVER BASE 60 KA006.png",
         alt: "999 Silver Radha Krishna Silver Base 60",
       },
       {
-        url: "/products/KA006/gallery_01.webp",
+        url: "/products/KA006/gallery_01.png",
         alt: "999 Silver Radha Krishna Silver Base 60",
       },
       {
-        url: "/products/KA006/gallery_02.webp",
+        url: "/products/KA006/gallery_02.png",
         alt: "999 Silver Radha Krishna Silver Base 60",
       },
       {
-        url: "/products/KA006/gallery_03.webp",
+        url: "/products/KA006/gallery_03.png",
         alt: "999 Silver Radha Krishna Silver Base 60",
       },
       {
-        url: "/products/KA006/gallery_04.webp",
+        url: "/products/KA006/gallery_04.png",
         alt: "999 Silver Radha Krishna Silver Base 60",
       },
       {
-        url: "/products/KA006/gallery_05.webp",
+        url: "/products/KA006/gallery_05.png",
         alt: "999 Silver Radha Krishna Silver Base 60",
       },
     ],
@@ -3870,27 +3870,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SAINATH BABA 160GM KA007.webp",
+        url: "/products/SAINATH BABA 160GM KA007.png",
         alt: "999 Silver Sainath Baba",
       },
       {
-        url: "/products/KA007/gallery_01.webp",
+        url: "/products/KA007/gallery_01.png",
         alt: "999 Silver Sainath Baba",
       },
       {
-        url: "/products/KA007/gallery_02.webp",
+        url: "/products/KA007/gallery_02.png",
         alt: "999 Silver Sainath Baba",
       },
       {
-        url: "/products/KA007/gallery_03.webp",
+        url: "/products/KA007/gallery_03.png",
         alt: "999 Silver Sainath Baba",
       },
       {
-        url: "/products/KA007/gallery_04.webp",
+        url: "/products/KA007/gallery_04.png",
         alt: "999 Silver Sainath Baba",
       },
       {
-        url: "/products/KA007/gallery_05.webp",
+        url: "/products/KA007/gallery_05.png",
         alt: "999 Silver Sainath Baba",
       },
     ],
@@ -3925,27 +3925,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 130GM KA008.webp",
+        url: "/products/LAXMI GANESH 130GM KA008.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA008/gallery_01.webp",
+        url: "/products/KA008/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA008/gallery_02.webp",
+        url: "/products/KA008/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA008/gallery_03.webp",
+        url: "/products/KA008/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA008/gallery_04.webp",
+        url: "/products/KA008/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA008/gallery_05.webp",
+        url: "/products/KA008/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -3980,27 +3980,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI 75GM KA008A.webp",
+        url: "/products/LAXMI 75GM KA008A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA008A/gallery_01.webp",
+        url: "/products/KA008A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA008A/gallery_02.webp",
+        url: "/products/KA008A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA008A/gallery_03.webp",
+        url: "/products/KA008A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA008A/gallery_04.webp",
+        url: "/products/KA008A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA008A/gallery_05.webp",
+        url: "/products/KA008A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -4036,27 +4036,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 70GM KA008B.webp",
+        url: "/products/Ganesh 70GM KA008B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA008B/gallery_01.webp",
+        url: "/products/KA008B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA008B/gallery_02.webp",
+        url: "/products/KA008B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA008B/gallery_03.webp",
+        url: "/products/KA008B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA008B/gallery_04.webp",
+        url: "/products/KA008B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA008B/gallery_05.webp",
+        url: "/products/KA008B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -4091,27 +4091,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA 16GM KA009A.webp",
+        url: "/products/RADHA KRISHNA 16GM KA009A.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009A/gallery_01.webp",
+        url: "/products/KA009A/gallery_01.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009A/gallery_02.webp",
+        url: "/products/KA009A/gallery_02.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009A/gallery_03.webp",
+        url: "/products/KA009A/gallery_03.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009A/gallery_04.webp",
+        url: "/products/KA009A/gallery_04.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009A/gallery_05.webp",
+        url: "/products/KA009A/gallery_05.png",
         alt: "999 Silver Radha Krishna",
       },
     ],
@@ -4149,27 +4149,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA 25 GM KA009B.webp",
+        url: "/products/RADHA KRISHNA 25 GM KA009B.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009B/gallery_01.webp",
+        url: "/products/KA009B/gallery_01.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009B/gallery_02.webp",
+        url: "/products/KA009B/gallery_02.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009B/gallery_03.webp",
+        url: "/products/KA009B/gallery_03.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009B/gallery_04.webp",
+        url: "/products/KA009B/gallery_04.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA009B/gallery_05.webp",
+        url: "/products/KA009B/gallery_05.png",
         alt: "999 Silver Radha Krishna",
       },
     ],
@@ -4206,27 +4206,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA 225GM KA009D.webp",
+        url: "/products/RADHAKRISHNA 225GM KA009D.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009D/gallery_01.webp",
+        url: "/products/KA009D/gallery_01.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009D/gallery_02.webp",
+        url: "/products/KA009D/gallery_02.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009D/gallery_03.webp",
+        url: "/products/KA009D/gallery_03.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009D/gallery_04.webp",
+        url: "/products/KA009D/gallery_04.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009D/gallery_05.webp",
+        url: "/products/KA009D/gallery_05.png",
         alt: "999 Silver Radhakrishna",
       },
     ],
@@ -4266,27 +4266,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA 120GM KA009M.webp",
+        url: "/products/RADHAKRISHNA 120GM KA009M.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009M/gallery_01.webp",
+        url: "/products/KA009M/gallery_01.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009M/gallery_02.webp",
+        url: "/products/KA009M/gallery_02.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009M/gallery_03.webp",
+        url: "/products/KA009M/gallery_03.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009M/gallery_04.webp",
+        url: "/products/KA009M/gallery_04.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA009M/gallery_05.webp",
+        url: "/products/KA009M/gallery_05.png",
         alt: "999 Silver Radhakrishna",
       },
     ],
@@ -4321,27 +4321,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Padmavati KA010.webp",
+        url: "/products/Padmavati KA010.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA010/gallery_01.webp",
+        url: "/products/KA010/gallery_01.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA010/gallery_02.webp",
+        url: "/products/KA010/gallery_02.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA010/gallery_03.webp",
+        url: "/products/KA010/gallery_03.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA010/gallery_04.webp",
+        url: "/products/KA010/gallery_04.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA010/gallery_05.webp",
+        url: "/products/KA010/gallery_05.png",
         alt: "999 Silver Padmavati",
       },
     ],
@@ -4373,27 +4373,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PARSHWANATH KA010A.webp",
+        url: "/products/PARSHWANATH KA010A.png",
         alt: "999 Silver Parshwanath",
       },
       {
-        url: "/products/KA010A/gallery_01.webp",
+        url: "/products/KA010A/gallery_01.png",
         alt: "999 Silver Parshwanath",
       },
       {
-        url: "/products/KA010A/gallery_02.webp",
+        url: "/products/KA010A/gallery_02.png",
         alt: "999 Silver Parshwanath",
       },
       {
-        url: "/products/KA010A/gallery_03.webp",
+        url: "/products/KA010A/gallery_03.png",
         alt: "999 Silver Parshwanath",
       },
       {
-        url: "/products/KA010A/gallery_04.webp",
+        url: "/products/KA010A/gallery_04.png",
         alt: "999 Silver Parshwanath",
       },
       {
-        url: "/products/KA010A/gallery_05.webp",
+        url: "/products/KA010A/gallery_05.png",
         alt: "999 Silver Parshwanath",
       },
     ],
@@ -4427,27 +4427,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PADMAVATI MAA 35GM KA010C.webp",
+        url: "/products/PADMAVATI MAA 35GM KA010C.png",
         alt: "999 Silver Padmavati Maa",
       },
       {
-        url: "/products/KA010C/gallery_01.webp",
+        url: "/products/KA010C/gallery_01.png",
         alt: "999 Silver Padmavati Maa",
       },
       {
-        url: "/products/KA010C/gallery_02.webp",
+        url: "/products/KA010C/gallery_02.png",
         alt: "999 Silver Padmavati Maa",
       },
       {
-        url: "/products/KA010C/gallery_03.webp",
+        url: "/products/KA010C/gallery_03.png",
         alt: "999 Silver Padmavati Maa",
       },
       {
-        url: "/products/KA010C/gallery_04.webp",
+        url: "/products/KA010C/gallery_04.png",
         alt: "999 Silver Padmavati Maa",
       },
       {
-        url: "/products/KA010C/gallery_05.webp",
+        url: "/products/KA010C/gallery_05.png",
         alt: "999 Silver Padmavati Maa",
       },
     ],
@@ -4485,27 +4485,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MUGAT GANESH 80GM KA011.webp",
+        url: "/products/MUGAT GANESH 80GM KA011.png",
         alt: "999 Silver Mugat Ganesh",
       },
       {
-        url: "/products/KA011/gallery_01.webp",
+        url: "/products/KA011/gallery_01.png",
         alt: "999 Silver Mugat Ganesh",
       },
       {
-        url: "/products/KA011/gallery_02.webp",
+        url: "/products/KA011/gallery_02.png",
         alt: "999 Silver Mugat Ganesh",
       },
       {
-        url: "/products/KA011/gallery_03.webp",
+        url: "/products/KA011/gallery_03.png",
         alt: "999 Silver Mugat Ganesh",
       },
       {
-        url: "/products/KA011/gallery_04.webp",
+        url: "/products/KA011/gallery_04.png",
         alt: "999 Silver Mugat Ganesh",
       },
       {
-        url: "/products/KA011/gallery_05.webp",
+        url: "/products/KA011/gallery_05.png",
         alt: "999 Silver Mugat Ganesh",
       },
     ],
@@ -4542,27 +4542,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 60GM KA011B.webp",
+        url: "/products/GANESH JI 60GM KA011B.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA011B/gallery_01.webp",
+        url: "/products/KA011B/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA011B/gallery_02.webp",
+        url: "/products/KA011B/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA011B/gallery_03.webp",
+        url: "/products/KA011B/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA011B/gallery_04.webp",
+        url: "/products/KA011B/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA011B/gallery_05.webp",
+        url: "/products/KA011B/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -4600,27 +4600,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Big Size Lord Vishnu Lakshmi Sitting on Seshnag 250GM KA012.webp",
+        url: "/products/Big Size Lord Vishnu Lakshmi Sitting on Seshnag 250GM KA012.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012/gallery_01.webp",
+        url: "/products/KA012/gallery_01.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012/gallery_02.webp",
+        url: "/products/KA012/gallery_02.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012/gallery_03.webp",
+        url: "/products/KA012/gallery_03.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012/gallery_04.webp",
+        url: "/products/KA012/gallery_04.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012/gallery_05.webp",
+        url: "/products/KA012/gallery_05.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi Sitting on Seshnag",
       },
     ],
@@ -4657,27 +4657,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI NARAYAN KA012A.webp",
+        url: "/products/LAXMI NARAYAN KA012A.png",
         alt: "999 Silver Laxmi Narayan",
       },
       {
-        url: "/products/KA012A/gallery_01.webp",
+        url: "/products/KA012A/gallery_01.png",
         alt: "999 Silver Laxmi Narayan",
       },
       {
-        url: "/products/KA012A/gallery_02.webp",
+        url: "/products/KA012A/gallery_02.png",
         alt: "999 Silver Laxmi Narayan",
       },
       {
-        url: "/products/KA012A/gallery_03.webp",
+        url: "/products/KA012A/gallery_03.png",
         alt: "999 Silver Laxmi Narayan",
       },
       {
-        url: "/products/KA012A/gallery_04.webp",
+        url: "/products/KA012A/gallery_04.png",
         alt: "999 Silver Laxmi Narayan",
       },
       {
-        url: "/products/KA012A/gallery_05.webp",
+        url: "/products/KA012A/gallery_05.png",
         alt: "999 Silver Laxmi Narayan",
       },
     ],
@@ -4709,27 +4709,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Vishnu Lakshmi Sitting on Seshnag 250GM KA012B.webp",
+        url: "/products/Vishnu Lakshmi Sitting on Seshnag 250GM KA012B.png",
         alt: "999 Silver Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012B/gallery_01.webp",
+        url: "/products/KA012B/gallery_01.png",
         alt: "999 Silver Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012B/gallery_02.webp",
+        url: "/products/KA012B/gallery_02.png",
         alt: "999 Silver Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012B/gallery_03.webp",
+        url: "/products/KA012B/gallery_03.png",
         alt: "999 Silver Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012B/gallery_04.webp",
+        url: "/products/KA012B/gallery_04.png",
         alt: "999 Silver Vishnu Lakshmi Sitting on Seshnag",
       },
       {
-        url: "/products/KA012B/gallery_05.webp",
+        url: "/products/KA012B/gallery_05.png",
         alt: "999 Silver Vishnu Lakshmi Sitting on Seshnag",
       },
     ],
@@ -4764,27 +4764,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 85GM KA016.webp",
+        url: "/products/GANESH 85GM KA016.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA016/gallery_01.webp",
+        url: "/products/KA016/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA016/gallery_02.webp",
+        url: "/products/KA016/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA016/gallery_03.webp",
+        url: "/products/KA016/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA016/gallery_04.webp",
+        url: "/products/KA016/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA016/gallery_05.webp",
+        url: "/products/KA016/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -4822,27 +4822,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Nandi 42GM KA017.webp",
+        url: "/products/Nandi 42GM KA017.png",
         alt: "999 Silver Nandi",
       },
       {
-        url: "/products/KA017/gallery_01.webp",
+        url: "/products/KA017/gallery_01.png",
         alt: "999 Silver Nandi",
       },
       {
-        url: "/products/KA017/gallery_02.webp",
+        url: "/products/KA017/gallery_02.png",
         alt: "999 Silver Nandi",
       },
       {
-        url: "/products/KA017/gallery_03.webp",
+        url: "/products/KA017/gallery_03.png",
         alt: "999 Silver Nandi",
       },
       {
-        url: "/products/KA017/gallery_04.webp",
+        url: "/products/KA017/gallery_04.png",
         alt: "999 Silver Nandi",
       },
       {
-        url: "/products/KA017/gallery_05.webp",
+        url: "/products/KA017/gallery_05.png",
         alt: "999 Silver Nandi",
       },
     ],
@@ -4879,27 +4879,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 110GM KA020.webp",
+        url: "/products/GANESH 110GM KA020.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020/gallery_01.webp",
+        url: "/products/KA020/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020/gallery_02.webp",
+        url: "/products/KA020/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020/gallery_03.webp",
+        url: "/products/KA020/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020/gallery_04.webp",
+        url: "/products/KA020/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020/gallery_05.webp",
+        url: "/products/KA020/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -4936,27 +4936,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 110GM KA020A.webp",
+        url: "/products/Ganesh 110GM KA020A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020A/gallery_01.webp",
+        url: "/products/KA020A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020A/gallery_02.webp",
+        url: "/products/KA020A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020A/gallery_03.webp",
+        url: "/products/KA020A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020A/gallery_04.webp",
+        url: "/products/KA020A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA020A/gallery_05.webp",
+        url: "/products/KA020A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -4993,27 +4993,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 100GM KA020B.webp",
+        url: "/products/GANESH JI 100GM KA020B.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA020B/gallery_01.webp",
+        url: "/products/KA020B/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA020B/gallery_02.webp",
+        url: "/products/KA020B/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA020B/gallery_03.webp",
+        url: "/products/KA020B/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA020B/gallery_04.webp",
+        url: "/products/KA020B/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA020B/gallery_05.webp",
+        url: "/products/KA020B/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -5049,27 +5049,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 150GM KA022.webp",
+        url: "/products/Laxmi Ganesh 150GM KA022.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA022/gallery_01.webp",
+        url: "/products/KA022/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA022/gallery_02.webp",
+        url: "/products/KA022/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA022/gallery_03.webp",
+        url: "/products/KA022/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA022/gallery_04.webp",
+        url: "/products/KA022/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA022/gallery_05.webp",
+        url: "/products/KA022/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -5102,27 +5102,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 150GM KA023.webp",
+        url: "/products/Laxmi Ganesh Sarswati 150GM KA023.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA023/gallery_01.webp",
+        url: "/products/KA023/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA023/gallery_02.webp",
+        url: "/products/KA023/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA023/gallery_03.webp",
+        url: "/products/KA023/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA023/gallery_04.webp",
+        url: "/products/KA023/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA023/gallery_05.webp",
+        url: "/products/KA023/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -5157,27 +5157,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 100GM KA023MS.webp",
+        url: "/products/LAXMI GANESH 100GM KA023MS.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA023MS/gallery_01.webp",
+        url: "/products/KA023MS/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA023MS/gallery_02.webp",
+        url: "/products/KA023MS/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA023MS/gallery_03.webp",
+        url: "/products/KA023MS/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA023MS/gallery_04.webp",
+        url: "/products/KA023MS/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA023MS/gallery_05.webp",
+        url: "/products/KA023MS/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -5214,27 +5214,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 140GM KA024.webp",
+        url: "/products/GANESH 140GM KA024.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA024/gallery_01.webp",
+        url: "/products/KA024/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA024/gallery_02.webp",
+        url: "/products/KA024/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA024/gallery_03.webp",
+        url: "/products/KA024/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA024/gallery_04.webp",
+        url: "/products/KA024/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA024/gallery_05.webp",
+        url: "/products/KA024/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -5271,27 +5271,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LOTUS GANESH 150GM KA026.webp",
+        url: "/products/LOTUS GANESH 150GM KA026.png",
         alt: "999 Silver Lotus Ganesh",
       },
       {
-        url: "/products/KA026/gallery_01.webp",
+        url: "/products/KA026/gallery_01.png",
         alt: "999 Silver Lotus Ganesh",
       },
       {
-        url: "/products/KA026/gallery_02.webp",
+        url: "/products/KA026/gallery_02.png",
         alt: "999 Silver Lotus Ganesh",
       },
       {
-        url: "/products/KA026/gallery_03.webp",
+        url: "/products/KA026/gallery_03.png",
         alt: "999 Silver Lotus Ganesh",
       },
       {
-        url: "/products/KA026/gallery_04.webp",
+        url: "/products/KA026/gallery_04.png",
         alt: "999 Silver Lotus Ganesh",
       },
       {
-        url: "/products/KA026/gallery_05.webp",
+        url: "/products/KA026/gallery_05.png",
         alt: "999 Silver Lotus Ganesh",
       },
     ],
@@ -5326,27 +5326,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Bal Gopal Silver Idol with Matki 70GM KA028.webp",
+        url: "/products/Bal Gopal Silver Idol with Matki 70GM KA028.png",
         alt: "999 Silver Bal Gopal Silver Idol with Matki",
       },
       {
-        url: "/products/KA028/gallery_01.webp",
+        url: "/products/KA028/gallery_01.png",
         alt: "999 Silver Bal Gopal Silver Idol with Matki",
       },
       {
-        url: "/products/KA028/gallery_02.webp",
+        url: "/products/KA028/gallery_02.png",
         alt: "999 Silver Bal Gopal Silver Idol with Matki",
       },
       {
-        url: "/products/KA028/gallery_03.webp",
+        url: "/products/KA028/gallery_03.png",
         alt: "999 Silver Bal Gopal Silver Idol with Matki",
       },
       {
-        url: "/products/KA028/gallery_04.webp",
+        url: "/products/KA028/gallery_04.png",
         alt: "999 Silver Bal Gopal Silver Idol with Matki",
       },
       {
-        url: "/products/KA028/gallery_05.webp",
+        url: "/products/KA028/gallery_05.png",
         alt: "999 Silver Bal Gopal Silver Idol with Matki",
       },
     ],
@@ -5379,27 +5379,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 95GM KA029.webp",
+        url: "/products/Laxmi Ganesh 95GM KA029.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA029/gallery_01.webp",
+        url: "/products/KA029/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA029/gallery_02.webp",
+        url: "/products/KA029/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA029/gallery_03.webp",
+        url: "/products/KA029/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA029/gallery_04.webp",
+        url: "/products/KA029/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA029/gallery_05.webp",
+        url: "/products/KA029/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -5432,27 +5432,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Pat 45GM KA029A.webp",
+        url: "/products/Laxmi Pat 45GM KA029A.png",
         alt: "999 Silver Laxmi Pat",
       },
       {
-        url: "/products/KA029A/gallery_01.webp",
+        url: "/products/KA029A/gallery_01.png",
         alt: "999 Silver Laxmi Pat",
       },
       {
-        url: "/products/KA029A/gallery_02.webp",
+        url: "/products/KA029A/gallery_02.png",
         alt: "999 Silver Laxmi Pat",
       },
       {
-        url: "/products/KA029A/gallery_03.webp",
+        url: "/products/KA029A/gallery_03.png",
         alt: "999 Silver Laxmi Pat",
       },
       {
-        url: "/products/KA029A/gallery_04.webp",
+        url: "/products/KA029A/gallery_04.png",
         alt: "999 Silver Laxmi Pat",
       },
       {
-        url: "/products/KA029A/gallery_05.webp",
+        url: "/products/KA029A/gallery_05.png",
         alt: "999 Silver Laxmi Pat",
       },
     ],
@@ -5485,27 +5485,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 280GM KA031.webp",
+        url: "/products/Ganesh 280GM KA031.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA031/gallery_01.webp",
+        url: "/products/KA031/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA031/gallery_02.webp",
+        url: "/products/KA031/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA031/gallery_03.webp",
+        url: "/products/KA031/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA031/gallery_04.webp",
+        url: "/products/KA031/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA031/gallery_05.webp",
+        url: "/products/KA031/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -5538,27 +5538,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAHARAJA GANESH 250GM KA031A.webp",
+        url: "/products/MAHARAJA GANESH 250GM KA031A.png",
         alt: "999 Silver Maharaja Ganesh",
       },
       {
-        url: "/products/KA031A/gallery_01.webp",
+        url: "/products/KA031A/gallery_01.png",
         alt: "999 Silver Maharaja Ganesh",
       },
       {
-        url: "/products/KA031A/gallery_02.webp",
+        url: "/products/KA031A/gallery_02.png",
         alt: "999 Silver Maharaja Ganesh",
       },
       {
-        url: "/products/KA031A/gallery_03.webp",
+        url: "/products/KA031A/gallery_03.png",
         alt: "999 Silver Maharaja Ganesh",
       },
       {
-        url: "/products/KA031A/gallery_04.webp",
+        url: "/products/KA031A/gallery_04.png",
         alt: "999 Silver Maharaja Ganesh",
       },
       {
-        url: "/products/KA031A/gallery_05.webp",
+        url: "/products/KA031A/gallery_05.png",
         alt: "999 Silver Maharaja Ganesh",
       },
     ],
@@ -5593,27 +5593,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DEPAK 15GM KA031AC.webp",
+        url: "/products/DEPAK 15GM KA031AC.png",
         alt: "999 Silver Depak",
       },
       {
-        url: "/products/KA031AC/gallery_01.webp",
+        url: "/products/KA031AC/gallery_01.png",
         alt: "999 Silver Depak",
       },
       {
-        url: "/products/KA031AC/gallery_02.webp",
+        url: "/products/KA031AC/gallery_02.png",
         alt: "999 Silver Depak",
       },
       {
-        url: "/products/KA031AC/gallery_03.webp",
+        url: "/products/KA031AC/gallery_03.png",
         alt: "999 Silver Depak",
       },
       {
-        url: "/products/KA031AC/gallery_04.webp",
+        url: "/products/KA031AC/gallery_04.png",
         alt: "999 Silver Depak",
       },
       {
-        url: "/products/KA031AC/gallery_05.webp",
+        url: "/products/KA031AC/gallery_05.png",
         alt: "999 Silver Depak",
       },
     ],
@@ -5651,27 +5651,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LADU 13GM KA031BC.webp",
+        url: "/products/LADU 13GM KA031BC.png",
         alt: "999 Silver Ladu",
       },
       {
-        url: "/products/KA031BC/gallery_01.webp",
+        url: "/products/KA031BC/gallery_01.png",
         alt: "999 Silver Ladu",
       },
       {
-        url: "/products/KA031BC/gallery_02.webp",
+        url: "/products/KA031BC/gallery_02.png",
         alt: "999 Silver Ladu",
       },
       {
-        url: "/products/KA031BC/gallery_03.webp",
+        url: "/products/KA031BC/gallery_03.png",
         alt: "999 Silver Ladu",
       },
       {
-        url: "/products/KA031BC/gallery_04.webp",
+        url: "/products/KA031BC/gallery_04.png",
         alt: "999 Silver Ladu",
       },
       {
-        url: "/products/KA031BC/gallery_05.webp",
+        url: "/products/KA031BC/gallery_05.png",
         alt: "999 Silver Ladu",
       },
     ],
@@ -5707,27 +5707,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SRINATH JI 55GM KA034.webp",
+        url: "/products/SRINATH JI 55GM KA034.png",
         alt: "999 Silver Srinath Ji",
       },
       {
-        url: "/products/KA034/gallery_01.webp",
+        url: "/products/KA034/gallery_01.png",
         alt: "999 Silver Srinath Ji",
       },
       {
-        url: "/products/KA034/gallery_02.webp",
+        url: "/products/KA034/gallery_02.png",
         alt: "999 Silver Srinath Ji",
       },
       {
-        url: "/products/KA034/gallery_03.webp",
+        url: "/products/KA034/gallery_03.png",
         alt: "999 Silver Srinath Ji",
       },
       {
-        url: "/products/KA034/gallery_04.webp",
+        url: "/products/KA034/gallery_04.png",
         alt: "999 Silver Srinath Ji",
       },
       {
-        url: "/products/KA034/gallery_05.webp",
+        url: "/products/KA034/gallery_05.png",
         alt: "999 Silver Srinath Ji",
       },
     ],
@@ -5760,27 +5760,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LADDU GOPAL 25G KA035.webp",
+        url: "/products/LADDU GOPAL 25G KA035.png",
         alt: "999 Silver Laddu Gopal 25G",
       },
       {
-        url: "/products/KA035/gallery_01.webp",
+        url: "/products/KA035/gallery_01.png",
         alt: "999 Silver Laddu Gopal 25G",
       },
       {
-        url: "/products/KA035/gallery_02.webp",
+        url: "/products/KA035/gallery_02.png",
         alt: "999 Silver Laddu Gopal 25G",
       },
       {
-        url: "/products/KA035/gallery_03.webp",
+        url: "/products/KA035/gallery_03.png",
         alt: "999 Silver Laddu Gopal 25G",
       },
       {
-        url: "/products/KA035/gallery_04.webp",
+        url: "/products/KA035/gallery_04.png",
         alt: "999 Silver Laddu Gopal 25G",
       },
       {
-        url: "/products/KA035/gallery_05.webp",
+        url: "/products/KA035/gallery_05.png",
         alt: "999 Silver Laddu Gopal 25G",
       },
     ],
@@ -5812,27 +5812,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TORTOISE KA036.webp",
+        url: "/products/TORTOISE KA036.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA036/gallery_01.webp",
+        url: "/products/KA036/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA036/gallery_02.webp",
+        url: "/products/KA036/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA036/gallery_03.webp",
+        url: "/products/KA036/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA036/gallery_04.webp",
+        url: "/products/KA036/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA036/gallery_05.webp",
+        url: "/products/KA036/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -5864,27 +5864,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 40GM KA036A.webp",
+        url: "/products/GANESH 40GM KA036A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA036A/gallery_01.webp",
+        url: "/products/KA036A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA036A/gallery_02.webp",
+        url: "/products/KA036A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA036A/gallery_03.webp",
+        url: "/products/KA036A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA036A/gallery_04.webp",
+        url: "/products/KA036A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA036A/gallery_05.webp",
+        url: "/products/KA036A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -5917,27 +5917,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 85GM KA036D.webp",
+        url: "/products/LAXMI GANESH 85GM KA036D.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA036D/gallery_01.webp",
+        url: "/products/KA036D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA036D/gallery_02.webp",
+        url: "/products/KA036D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA036D/gallery_03.webp",
+        url: "/products/KA036D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA036D/gallery_04.webp",
+        url: "/products/KA036D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA036D/gallery_05.webp",
+        url: "/products/KA036D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -5970,27 +5970,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 25GM KA039.webp",
+        url: "/products/Laxmi 25GM KA039.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039/gallery_01.webp",
+        url: "/products/KA039/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039/gallery_02.webp",
+        url: "/products/KA039/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039/gallery_03.webp",
+        url: "/products/KA039/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039/gallery_04.webp",
+        url: "/products/KA039/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039/gallery_05.webp",
+        url: "/products/KA039/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -6023,27 +6023,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 25GM KA039A.webp",
+        url: "/products/Laxmi 25GM KA039A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039A/gallery_01.webp",
+        url: "/products/KA039A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039A/gallery_02.webp",
+        url: "/products/KA039A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039A/gallery_03.webp",
+        url: "/products/KA039A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039A/gallery_04.webp",
+        url: "/products/KA039A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA039A/gallery_05.webp",
+        url: "/products/KA039A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -6076,27 +6076,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 25GM KA039B.webp",
+        url: "/products/Ganesh 25GM KA039B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA039B/gallery_01.webp",
+        url: "/products/KA039B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA039B/gallery_02.webp",
+        url: "/products/KA039B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA039B/gallery_03.webp",
+        url: "/products/KA039B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA039B/gallery_04.webp",
+        url: "/products/KA039B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA039B/gallery_05.webp",
+        url: "/products/KA039B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -6129,23 +6129,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KA039MS/gallery_01.webp",
+        url: "/products/KA039MS/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA039MS/gallery_02.webp",
+        url: "/products/KA039MS/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA039MS/gallery_03.webp",
+        url: "/products/KA039MS/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA039MS/gallery_04.webp",
+        url: "/products/KA039MS/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA039MS/gallery_05.webp",
+        url: "/products/KA039MS/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -6180,27 +6180,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 65GM KA040.webp",
+        url: "/products/Ganesh Ji 65GM KA040.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA040/gallery_01.webp",
+        url: "/products/KA040/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA040/gallery_02.webp",
+        url: "/products/KA040/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA040/gallery_03.webp",
+        url: "/products/KA040/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA040/gallery_04.webp",
+        url: "/products/KA040/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA040/gallery_05.webp",
+        url: "/products/KA040/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -6237,27 +6237,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 45GM KA040A.webp",
+        url: "/products/GANESH 45GM KA040A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA040A/gallery_01.webp",
+        url: "/products/KA040A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA040A/gallery_02.webp",
+        url: "/products/KA040A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA040A/gallery_03.webp",
+        url: "/products/KA040A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA040A/gallery_04.webp",
+        url: "/products/KA040A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA040A/gallery_05.webp",
+        url: "/products/KA040A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -6293,27 +6293,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 85GM KA041.webp",
+        url: "/products/Laxmi Ganesh 85GM KA041.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA041/gallery_01.webp",
+        url: "/products/KA041/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA041/gallery_02.webp",
+        url: "/products/KA041/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA041/gallery_03.webp",
+        url: "/products/KA041/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA041/gallery_04.webp",
+        url: "/products/KA041/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA041/gallery_05.webp",
+        url: "/products/KA041/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -6348,27 +6348,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 100GM KA045.webp",
+        url: "/products/GANESH JI 100GM KA045.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA045/gallery_01.webp",
+        url: "/products/KA045/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA045/gallery_02.webp",
+        url: "/products/KA045/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA045/gallery_03.webp",
+        url: "/products/KA045/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA045/gallery_04.webp",
+        url: "/products/KA045/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA045/gallery_05.webp",
+        url: "/products/KA045/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -6405,27 +6405,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 210GM KA046.webp",
+        url: "/products/LAXMI GANESH 210GM KA046.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046/gallery_01.webp",
+        url: "/products/KA046/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046/gallery_02.webp",
+        url: "/products/KA046/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046/gallery_03.webp",
+        url: "/products/KA046/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046/gallery_04.webp",
+        url: "/products/KA046/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046/gallery_05.webp",
+        url: "/products/KA046/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -6460,27 +6460,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI JI 100GM KA046A.webp",
+        url: "/products/LAXMI JI 100GM KA046A.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA046A/gallery_01.webp",
+        url: "/products/KA046A/gallery_01.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA046A/gallery_02.webp",
+        url: "/products/KA046A/gallery_02.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA046A/gallery_03.webp",
+        url: "/products/KA046A/gallery_03.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA046A/gallery_04.webp",
+        url: "/products/KA046A/gallery_04.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA046A/gallery_05.webp",
+        url: "/products/KA046A/gallery_05.png",
         alt: "999 Silver Laxmi Ji",
       },
     ],
@@ -6516,27 +6516,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 120GM KA046B.webp",
+        url: "/products/GANESH 120GM KA046B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA046B/gallery_01.webp",
+        url: "/products/KA046B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA046B/gallery_02.webp",
+        url: "/products/KA046B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA046B/gallery_03.webp",
+        url: "/products/KA046B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA046B/gallery_04.webp",
+        url: "/products/KA046B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA046B/gallery_05.webp",
+        url: "/products/KA046B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -6569,27 +6569,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 90GM KA046C.webp",
+        url: "/products/Laxmi Ganesh 90GM KA046C.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046C/gallery_01.webp",
+        url: "/products/KA046C/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046C/gallery_02.webp",
+        url: "/products/KA046C/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046C/gallery_03.webp",
+        url: "/products/KA046C/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046C/gallery_04.webp",
+        url: "/products/KA046C/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA046C/gallery_05.webp",
+        url: "/products/KA046C/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -6622,27 +6622,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 135GM KA046D.webp",
+        url: "/products/Laxmi Ganesh Sarswati 135GM KA046D.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA046D/gallery_01.webp",
+        url: "/products/KA046D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA046D/gallery_02.webp",
+        url: "/products/KA046D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA046D/gallery_03.webp",
+        url: "/products/KA046D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA046D/gallery_04.webp",
+        url: "/products/KA046D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA046D/gallery_05.webp",
+        url: "/products/KA046D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -6677,27 +6677,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LGS 150GM KA046DM.webp",
+        url: "/products/LGS 150GM KA046DM.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/KA046DM/gallery_01.webp",
+        url: "/products/KA046DM/gallery_01.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/KA046DM/gallery_02.webp",
+        url: "/products/KA046DM/gallery_02.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/KA046DM/gallery_03.webp",
+        url: "/products/KA046DM/gallery_03.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/KA046DM/gallery_04.webp",
+        url: "/products/KA046DM/gallery_04.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/KA046DM/gallery_05.webp",
+        url: "/products/KA046DM/gallery_05.png",
         alt: "999 Silver Lgs",
       },
     ],
@@ -6732,27 +6732,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/NILKANTH VARNI 70GM KA047.webp",
+        url: "/products/NILKANTH VARNI 70GM KA047.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047/gallery_01.webp",
+        url: "/products/KA047/gallery_01.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047/gallery_02.webp",
+        url: "/products/KA047/gallery_02.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047/gallery_03.webp",
+        url: "/products/KA047/gallery_03.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047/gallery_04.webp",
+        url: "/products/KA047/gallery_04.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047/gallery_05.webp",
+        url: "/products/KA047/gallery_05.png",
         alt: "999 Silver Nilkanth Varni",
       },
     ],
@@ -6785,27 +6785,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Nilkanth Varni 25GM KA047A.webp",
+        url: "/products/Nilkanth Varni 25GM KA047A.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047A/gallery_01.webp",
+        url: "/products/KA047A/gallery_01.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047A/gallery_02.webp",
+        url: "/products/KA047A/gallery_02.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047A/gallery_03.webp",
+        url: "/products/KA047A/gallery_03.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047A/gallery_04.webp",
+        url: "/products/KA047A/gallery_04.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/KA047A/gallery_05.webp",
+        url: "/products/KA047A/gallery_05.png",
         alt: "999 Silver Nilkanth Varni",
       },
     ],
@@ -6840,27 +6840,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BIG LADDU GOPAL WITH SILVER BASE 355GM KA049A.webp",
+        url: "/products/BIG LADDU GOPAL WITH SILVER BASE 355GM KA049A.png",
         alt: "999 Silver Big Laddu Gopal With Silver Base",
       },
       {
-        url: "/products/KA049A/gallery_01.webp",
+        url: "/products/KA049A/gallery_01.png",
         alt: "999 Silver Big Laddu Gopal With Silver Base",
       },
       {
-        url: "/products/KA049A/gallery_02.webp",
+        url: "/products/KA049A/gallery_02.png",
         alt: "999 Silver Big Laddu Gopal With Silver Base",
       },
       {
-        url: "/products/KA049A/gallery_03.webp",
+        url: "/products/KA049A/gallery_03.png",
         alt: "999 Silver Big Laddu Gopal With Silver Base",
       },
       {
-        url: "/products/KA049A/gallery_04.webp",
+        url: "/products/KA049A/gallery_04.png",
         alt: "999 Silver Big Laddu Gopal With Silver Base",
       },
       {
-        url: "/products/KA049A/gallery_05.webp",
+        url: "/products/KA049A/gallery_05.png",
         alt: "999 Silver Big Laddu Gopal With Silver Base",
       },
     ],
@@ -6899,27 +6899,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 80GM KA051.webp",
+        url: "/products/GANESH 80GM KA051.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA051/gallery_01.webp",
+        url: "/products/KA051/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA051/gallery_02.webp",
+        url: "/products/KA051/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA051/gallery_03.webp",
+        url: "/products/KA051/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA051/gallery_04.webp",
+        url: "/products/KA051/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA051/gallery_05.webp",
+        url: "/products/KA051/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -6955,27 +6955,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 70GM Ka055.webp",
+        url: "/products/Ganesh 70GM Ka055.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA055/gallery_01.webp",
+        url: "/products/KA055/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA055/gallery_02.webp",
+        url: "/products/KA055/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA055/gallery_03.webp",
+        url: "/products/KA055/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA055/gallery_04.webp",
+        url: "/products/KA055/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA055/gallery_05.webp",
+        url: "/products/KA055/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -7008,27 +7008,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/NageshwarParshwanath KA057A.webp",
+        url: "/products/NageshwarParshwanath KA057A.png",
         alt: "999 Silver NageshwarParshwanath",
       },
       {
-        url: "/products/KA057A/gallery_01.webp",
+        url: "/products/KA057A/gallery_01.png",
         alt: "999 Silver NageshwarParshwanath",
       },
       {
-        url: "/products/KA057A/gallery_02.webp",
+        url: "/products/KA057A/gallery_02.png",
         alt: "999 Silver NageshwarParshwanath",
       },
       {
-        url: "/products/KA057A/gallery_03.webp",
+        url: "/products/KA057A/gallery_03.png",
         alt: "999 Silver NageshwarParshwanath",
       },
       {
-        url: "/products/KA057A/gallery_04.webp",
+        url: "/products/KA057A/gallery_04.png",
         alt: "999 Silver NageshwarParshwanath",
       },
       {
-        url: "/products/KA057A/gallery_05.webp",
+        url: "/products/KA057A/gallery_05.png",
         alt: "999 Silver NageshwarParshwanath",
       },
     ],
@@ -7060,27 +7060,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Nageshwar Parshwanath KA057AA.webp",
+        url: "/products/Nageshwar Parshwanath KA057AA.png",
         alt: "999 Silver Nageshwar Parshwanath",
       },
       {
-        url: "/products/KA057AA/gallery_01.webp",
+        url: "/products/KA057AA/gallery_01.png",
         alt: "999 Silver Nageshwar Parshwanath",
       },
       {
-        url: "/products/KA057AA/gallery_02.webp",
+        url: "/products/KA057AA/gallery_02.png",
         alt: "999 Silver Nageshwar Parshwanath",
       },
       {
-        url: "/products/KA057AA/gallery_03.webp",
+        url: "/products/KA057AA/gallery_03.png",
         alt: "999 Silver Nageshwar Parshwanath",
       },
       {
-        url: "/products/KA057AA/gallery_04.webp",
+        url: "/products/KA057AA/gallery_04.png",
         alt: "999 Silver Nageshwar Parshwanath",
       },
       {
-        url: "/products/KA057AA/gallery_05.webp",
+        url: "/products/KA057AA/gallery_05.png",
         alt: "999 Silver Nageshwar Parshwanath",
       },
     ],
@@ -7114,27 +7114,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 150 KA061.webp",
+        url: "/products/GANESH 150 KA061.png",
         alt: "999 Silver Ganesh 150",
       },
       {
-        url: "/products/KA061/gallery_01.webp",
+        url: "/products/KA061/gallery_01.png",
         alt: "999 Silver Ganesh 150",
       },
       {
-        url: "/products/KA061/gallery_02.webp",
+        url: "/products/KA061/gallery_02.png",
         alt: "999 Silver Ganesh 150",
       },
       {
-        url: "/products/KA061/gallery_03.webp",
+        url: "/products/KA061/gallery_03.png",
         alt: "999 Silver Ganesh 150",
       },
       {
-        url: "/products/KA061/gallery_04.webp",
+        url: "/products/KA061/gallery_04.png",
         alt: "999 Silver Ganesh 150",
       },
       {
-        url: "/products/KA061/gallery_05.webp",
+        url: "/products/KA061/gallery_05.png",
         alt: "999 Silver Ganesh 150",
       },
     ],
@@ -7168,27 +7168,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIV PARVATI GANESH 90GM KA062.webp",
+        url: "/products/SHIV PARVATI GANESH 90GM KA062.png",
         alt: "999 Silver Shiv Parvati Ganesh",
       },
       {
-        url: "/products/KA062/gallery_01.webp",
+        url: "/products/KA062/gallery_01.png",
         alt: "999 Silver Shiv Parvati Ganesh",
       },
       {
-        url: "/products/KA062/gallery_02.webp",
+        url: "/products/KA062/gallery_02.png",
         alt: "999 Silver Shiv Parvati Ganesh",
       },
       {
-        url: "/products/KA062/gallery_03.webp",
+        url: "/products/KA062/gallery_03.png",
         alt: "999 Silver Shiv Parvati Ganesh",
       },
       {
-        url: "/products/KA062/gallery_04.webp",
+        url: "/products/KA062/gallery_04.png",
         alt: "999 Silver Shiv Parvati Ganesh",
       },
       {
-        url: "/products/KA062/gallery_05.webp",
+        url: "/products/KA062/gallery_05.png",
         alt: "999 Silver Shiv Parvati Ganesh",
       },
     ],
@@ -7223,27 +7223,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Bhavani Maa 160GM KA063.webp",
+        url: "/products/Bhavani Maa 160GM KA063.png",
         alt: "999 Silver Bhavani Maa",
       },
       {
-        url: "/products/KA063/gallery_01.webp",
+        url: "/products/KA063/gallery_01.png",
         alt: "999 Silver Bhavani Maa",
       },
       {
-        url: "/products/KA063/gallery_02.webp",
+        url: "/products/KA063/gallery_02.png",
         alt: "999 Silver Bhavani Maa",
       },
       {
-        url: "/products/KA063/gallery_03.webp",
+        url: "/products/KA063/gallery_03.png",
         alt: "999 Silver Bhavani Maa",
       },
       {
-        url: "/products/KA063/gallery_04.webp",
+        url: "/products/KA063/gallery_04.png",
         alt: "999 Silver Bhavani Maa",
       },
       {
-        url: "/products/KA063/gallery_05.webp",
+        url: "/products/KA063/gallery_05.png",
         alt: "999 Silver Bhavani Maa",
       },
     ],
@@ -7280,27 +7280,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 90GM KA064.webp",
+        url: "/products/GANESH 90GM KA064.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA064/gallery_01.webp",
+        url: "/products/KA064/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA064/gallery_02.webp",
+        url: "/products/KA064/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA064/gallery_03.webp",
+        url: "/products/KA064/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA064/gallery_04.webp",
+        url: "/products/KA064/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA064/gallery_05.webp",
+        url: "/products/KA064/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -7333,27 +7333,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 80GM KA064M.webp",
+        url: "/products/Ganesh Ji 80GM KA064M.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA064M/gallery_01.webp",
+        url: "/products/KA064M/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA064M/gallery_02.webp",
+        url: "/products/KA064M/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA064M/gallery_03.webp",
+        url: "/products/KA064M/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA064M/gallery_04.webp",
+        url: "/products/KA064M/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA064M/gallery_05.webp",
+        url: "/products/KA064M/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -7388,27 +7388,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TORTOISE 30gm KA069.webp",
+        url: "/products/TORTOISE 30gm KA069.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA069/gallery_01.webp",
+        url: "/products/KA069/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA069/gallery_02.webp",
+        url: "/products/KA069/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA069/gallery_03.webp",
+        url: "/products/KA069/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA069/gallery_04.webp",
+        url: "/products/KA069/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KA069/gallery_05.webp",
+        url: "/products/KA069/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -7445,27 +7445,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Shrifal 200GM KA071.webp",
+        url: "/products/Ganesh Shrifal 200GM KA071.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071/gallery_01.webp",
+        url: "/products/KA071/gallery_01.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071/gallery_02.webp",
+        url: "/products/KA071/gallery_02.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071/gallery_03.webp",
+        url: "/products/KA071/gallery_03.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071/gallery_04.webp",
+        url: "/products/KA071/gallery_04.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071/gallery_05.webp",
+        url: "/products/KA071/gallery_05.png",
         alt: "999 Silver Ganesh Shrifal",
       },
     ],
@@ -7503,27 +7503,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Shrifal 100GM KA071A.webp",
+        url: "/products/Ganesh Shrifal 100GM KA071A.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071A/gallery_01.webp",
+        url: "/products/KA071A/gallery_01.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071A/gallery_02.webp",
+        url: "/products/KA071A/gallery_02.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071A/gallery_03.webp",
+        url: "/products/KA071A/gallery_03.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071A/gallery_04.webp",
+        url: "/products/KA071A/gallery_04.png",
         alt: "999 Silver Ganesh Shrifal",
       },
       {
-        url: "/products/KA071A/gallery_05.webp",
+        url: "/products/KA071A/gallery_05.png",
         alt: "999 Silver Ganesh Shrifal",
       },
     ],
@@ -7561,27 +7561,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KALASH 70GM KA071D.webp",
+        url: "/products/KALASH 70GM KA071D.png",
         alt: "999 Silver Kalash",
       },
       {
-        url: "/products/KA071D/gallery_01.webp",
+        url: "/products/KA071D/gallery_01.png",
         alt: "999 Silver Kalash",
       },
       {
-        url: "/products/KA071D/gallery_02.webp",
+        url: "/products/KA071D/gallery_02.png",
         alt: "999 Silver Kalash",
       },
       {
-        url: "/products/KA071D/gallery_03.webp",
+        url: "/products/KA071D/gallery_03.png",
         alt: "999 Silver Kalash",
       },
       {
-        url: "/products/KA071D/gallery_04.webp",
+        url: "/products/KA071D/gallery_04.png",
         alt: "999 Silver Kalash",
       },
       {
-        url: "/products/KA071D/gallery_05.webp",
+        url: "/products/KA071D/gallery_05.png",
         alt: "999 Silver Kalash",
       },
     ],
@@ -7617,27 +7617,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan 280GM KA073.webp",
+        url: "/products/Radhakrishnan 280GM KA073.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073/gallery_01.webp",
+        url: "/products/KA073/gallery_01.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073/gallery_02.webp",
+        url: "/products/KA073/gallery_02.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073/gallery_03.webp",
+        url: "/products/KA073/gallery_03.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073/gallery_04.webp",
+        url: "/products/KA073/gallery_04.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073/gallery_05.webp",
+        url: "/products/KA073/gallery_05.png",
         alt: "999 Silver Radhakrishnan",
       },
     ],
@@ -7670,27 +7670,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan 200GM KA073A.webp",
+        url: "/products/Radhakrishnan 200GM KA073A.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073A/gallery_01.webp",
+        url: "/products/KA073A/gallery_01.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073A/gallery_02.webp",
+        url: "/products/KA073A/gallery_02.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073A/gallery_03.webp",
+        url: "/products/KA073A/gallery_03.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073A/gallery_04.webp",
+        url: "/products/KA073A/gallery_04.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/KA073A/gallery_05.webp",
+        url: "/products/KA073A/gallery_05.png",
         alt: "999 Silver Radhakrishnan",
       },
     ],
@@ -7725,27 +7725,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA 150GM KA073B.webp",
+        url: "/products/RADHA KRISHNA 150GM KA073B.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA073B/gallery_01.webp",
+        url: "/products/KA073B/gallery_01.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA073B/gallery_02.webp",
+        url: "/products/KA073B/gallery_02.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA073B/gallery_03.webp",
+        url: "/products/KA073B/gallery_03.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA073B/gallery_04.webp",
+        url: "/products/KA073B/gallery_04.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA073B/gallery_05.webp",
+        url: "/products/KA073B/gallery_05.png",
         alt: "999 Silver Radha Krishna",
       },
     ],
@@ -7784,27 +7784,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA 160GM KA073BM.webp",
+        url: "/products/RADHAKRISHNA 160GM KA073BM.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073BM/gallery_01.webp",
+        url: "/products/KA073BM/gallery_01.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073BM/gallery_02.webp",
+        url: "/products/KA073BM/gallery_02.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073BM/gallery_03.webp",
+        url: "/products/KA073BM/gallery_03.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073BM/gallery_04.webp",
+        url: "/products/KA073BM/gallery_04.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073BM/gallery_05.webp",
+        url: "/products/KA073BM/gallery_05.png",
         alt: "999 Silver Radhakrishna",
       },
     ],
@@ -7841,27 +7841,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA 300GM KA073M.webp",
+        url: "/products/RADHAKRISHNA 300GM KA073M.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073M/gallery_01.webp",
+        url: "/products/KA073M/gallery_01.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073M/gallery_02.webp",
+        url: "/products/KA073M/gallery_02.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073M/gallery_03.webp",
+        url: "/products/KA073M/gallery_03.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073M/gallery_04.webp",
+        url: "/products/KA073M/gallery_04.png",
         alt: "999 Silver Radhakrishna",
       },
       {
-        url: "/products/KA073M/gallery_05.webp",
+        url: "/products/KA073M/gallery_05.png",
         alt: "999 Silver Radhakrishna",
       },
     ],
@@ -7898,27 +7898,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/FENTA GANESH JI 750GM KA078.webp",
+        url: "/products/FENTA GANESH JI 750GM KA078.png",
         alt: "999 Silver Fenta Ganesh Ji",
       },
       {
-        url: "/products/KA078/gallery_01.webp",
+        url: "/products/KA078/gallery_01.png",
         alt: "999 Silver Fenta Ganesh Ji",
       },
       {
-        url: "/products/KA078/gallery_02.webp",
+        url: "/products/KA078/gallery_02.png",
         alt: "999 Silver Fenta Ganesh Ji",
       },
       {
-        url: "/products/KA078/gallery_03.webp",
+        url: "/products/KA078/gallery_03.png",
         alt: "999 Silver Fenta Ganesh Ji",
       },
       {
-        url: "/products/KA078/gallery_04.webp",
+        url: "/products/KA078/gallery_04.png",
         alt: "999 Silver Fenta Ganesh Ji",
       },
       {
-        url: "/products/KA078/gallery_05.webp",
+        url: "/products/KA078/gallery_05.png",
         alt: "999 Silver Fenta Ganesh Ji",
       },
     ],
@@ -7955,27 +7955,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HANUMANJI WITH SILVER BASE 195GM KA079.webp",
+        url: "/products/HANUMANJI WITH SILVER BASE 195GM KA079.png",
         alt: "999 Silver Hanumanji With Silver Base",
       },
       {
-        url: "/products/KA079/gallery_01.webp",
+        url: "/products/KA079/gallery_01.png",
         alt: "999 Silver Hanumanji With Silver Base",
       },
       {
-        url: "/products/KA079/gallery_02.webp",
+        url: "/products/KA079/gallery_02.png",
         alt: "999 Silver Hanumanji With Silver Base",
       },
       {
-        url: "/products/KA079/gallery_03.webp",
+        url: "/products/KA079/gallery_03.png",
         alt: "999 Silver Hanumanji With Silver Base",
       },
       {
-        url: "/products/KA079/gallery_04.webp",
+        url: "/products/KA079/gallery_04.png",
         alt: "999 Silver Hanumanji With Silver Base",
       },
       {
-        url: "/products/KA079/gallery_05.webp",
+        url: "/products/KA079/gallery_05.png",
         alt: "999 Silver Hanumanji With Silver Base",
       },
     ],
@@ -8008,27 +8008,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman 180GM KA079A.webp",
+        url: "/products/Hanuman 180GM KA079A.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA079A/gallery_01.webp",
+        url: "/products/KA079A/gallery_01.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA079A/gallery_02.webp",
+        url: "/products/KA079A/gallery_02.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA079A/gallery_03.webp",
+        url: "/products/KA079A/gallery_03.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA079A/gallery_04.webp",
+        url: "/products/KA079A/gallery_04.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA079A/gallery_05.webp",
+        url: "/products/KA079A/gallery_05.png",
         alt: "999 Silver Hanuman",
       },
     ],
@@ -8061,27 +8061,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna 100gm KA081.webp",
+        url: "/products/Krishna 100gm KA081.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA081/gallery_01.webp",
+        url: "/products/KA081/gallery_01.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA081/gallery_02.webp",
+        url: "/products/KA081/gallery_02.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA081/gallery_03.webp",
+        url: "/products/KA081/gallery_03.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA081/gallery_04.webp",
+        url: "/products/KA081/gallery_04.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA081/gallery_05.webp",
+        url: "/products/KA081/gallery_05.png",
         alt: "999 Silver Krishna",
       },
     ],
@@ -8114,27 +8114,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 60GM KA082.webp",
+        url: "/products/Ganesh 60GM KA082.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA082/gallery_01.webp",
+        url: "/products/KA082/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA082/gallery_02.webp",
+        url: "/products/KA082/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA082/gallery_03.webp",
+        url: "/products/KA082/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA082/gallery_04.webp",
+        url: "/products/KA082/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA082/gallery_05.webp",
+        url: "/products/KA082/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -8169,27 +8169,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON BASE 75GM KA082M.webp",
+        url: "/products/GANESH ON BASE 75GM KA082M.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082M/gallery_01.webp",
+        url: "/products/KA082M/gallery_01.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082M/gallery_02.webp",
+        url: "/products/KA082M/gallery_02.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082M/gallery_03.webp",
+        url: "/products/KA082M/gallery_03.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082M/gallery_04.webp",
+        url: "/products/KA082M/gallery_04.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082M/gallery_05.webp",
+        url: "/products/KA082M/gallery_05.png",
         alt: "999 Silver Ganesh On Base",
       },
     ],
@@ -8226,27 +8226,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON BASE 75GM KA082MA.webp",
+        url: "/products/GANESH ON BASE 75GM KA082MA.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082MA/gallery_01.webp",
+        url: "/products/KA082MA/gallery_01.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082MA/gallery_02.webp",
+        url: "/products/KA082MA/gallery_02.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082MA/gallery_03.webp",
+        url: "/products/KA082MA/gallery_03.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082MA/gallery_04.webp",
+        url: "/products/KA082MA/gallery_04.png",
         alt: "999 Silver Ganesh On Base",
       },
       {
-        url: "/products/KA082MA/gallery_05.webp",
+        url: "/products/KA082MA/gallery_05.png",
         alt: "999 Silver Ganesh On Base",
       },
     ],
@@ -8283,27 +8283,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 500GM KA083.webp",
+        url: "/products/LAXMI GANESH 500GM KA083.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA083/gallery_01.webp",
+        url: "/products/KA083/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA083/gallery_02.webp",
+        url: "/products/KA083/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA083/gallery_03.webp",
+        url: "/products/KA083/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA083/gallery_04.webp",
+        url: "/products/KA083/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA083/gallery_05.webp",
+        url: "/products/KA083/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -8340,27 +8340,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 250GM KA083A.webp",
+        url: "/products/Laxmi 250GM KA083A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA083A/gallery_01.webp",
+        url: "/products/KA083A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA083A/gallery_02.webp",
+        url: "/products/KA083A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA083A/gallery_03.webp",
+        url: "/products/KA083A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA083A/gallery_04.webp",
+        url: "/products/KA083A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA083A/gallery_05.webp",
+        url: "/products/KA083A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -8397,27 +8397,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 250GM KA083B.webp",
+        url: "/products/Ganesha 250GM KA083B.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA083B/gallery_01.webp",
+        url: "/products/KA083B/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA083B/gallery_02.webp",
+        url: "/products/KA083B/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA083B/gallery_03.webp",
+        url: "/products/KA083B/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA083B/gallery_04.webp",
+        url: "/products/KA083B/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA083B/gallery_05.webp",
+        url: "/products/KA083B/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -8454,27 +8454,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TIRUPATI BALAJI 155 GM KA085.webp",
+        url: "/products/TIRUPATI BALAJI 155 GM KA085.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA085/gallery_01.webp",
+        url: "/products/KA085/gallery_01.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA085/gallery_02.webp",
+        url: "/products/KA085/gallery_02.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA085/gallery_03.webp",
+        url: "/products/KA085/gallery_03.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA085/gallery_04.webp",
+        url: "/products/KA085/gallery_04.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA085/gallery_05.webp",
+        url: "/products/KA085/gallery_05.png",
         alt: "999 Silver Tirupati Balaji",
       },
     ],
@@ -8509,27 +8509,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BALA JI 150GM KA085M.webp",
+        url: "/products/BALA JI 150GM KA085M.png",
         alt: "999 Silver Bala Ji",
       },
       {
-        url: "/products/KA085M/gallery_01.webp",
+        url: "/products/KA085M/gallery_01.png",
         alt: "999 Silver Bala Ji",
       },
       {
-        url: "/products/KA085M/gallery_02.webp",
+        url: "/products/KA085M/gallery_02.png",
         alt: "999 Silver Bala Ji",
       },
       {
-        url: "/products/KA085M/gallery_03.webp",
+        url: "/products/KA085M/gallery_03.png",
         alt: "999 Silver Bala Ji",
       },
       {
-        url: "/products/KA085M/gallery_04.webp",
+        url: "/products/KA085M/gallery_04.png",
         alt: "999 Silver Bala Ji",
       },
       {
-        url: "/products/KA085M/gallery_05.webp",
+        url: "/products/KA085M/gallery_05.png",
         alt: "999 Silver Bala Ji",
       },
     ],
@@ -8564,27 +8564,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radha Krishna Magnificent Statue 170GM Ka086.webp",
+        url: "/products/Radha Krishna Magnificent Statue 170GM Ka086.png",
         alt: "999 Silver Radha Krishna Magnificent Statue",
       },
       {
-        url: "/products/KA086/gallery_01.webp",
+        url: "/products/KA086/gallery_01.png",
         alt: "999 Silver Radha Krishna Magnificent Statue",
       },
       {
-        url: "/products/KA086/gallery_02.webp",
+        url: "/products/KA086/gallery_02.png",
         alt: "999 Silver Radha Krishna Magnificent Statue",
       },
       {
-        url: "/products/KA086/gallery_03.webp",
+        url: "/products/KA086/gallery_03.png",
         alt: "999 Silver Radha Krishna Magnificent Statue",
       },
       {
-        url: "/products/KA086/gallery_04.webp",
+        url: "/products/KA086/gallery_04.png",
         alt: "999 Silver Radha Krishna Magnificent Statue",
       },
       {
-        url: "/products/KA086/gallery_05.webp",
+        url: "/products/KA086/gallery_05.png",
         alt: "999 Silver Radha Krishna Magnificent Statue",
       },
     ],
@@ -8621,27 +8621,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 95GM KA087.webp",
+        url: "/products/LAXMI GANESH 95GM KA087.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087/gallery_01.webp",
+        url: "/products/KA087/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087/gallery_02.webp",
+        url: "/products/KA087/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087/gallery_03.webp",
+        url: "/products/KA087/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087/gallery_04.webp",
+        url: "/products/KA087/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087/gallery_05.webp",
+        url: "/products/KA087/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -8674,27 +8674,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 50GM KA087A.webp",
+        url: "/products/GANESH 50GM KA087A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA087A/gallery_01.webp",
+        url: "/products/KA087A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA087A/gallery_02.webp",
+        url: "/products/KA087A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA087A/gallery_03.webp",
+        url: "/products/KA087A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA087A/gallery_04.webp",
+        url: "/products/KA087A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA087A/gallery_05.webp",
+        url: "/products/KA087A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -8730,27 +8730,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 105GM KA087M.webp",
+        url: "/products/LAXMI GANESH 105GM KA087M.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087M/gallery_01.webp",
+        url: "/products/KA087M/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087M/gallery_02.webp",
+        url: "/products/KA087M/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087M/gallery_03.webp",
+        url: "/products/KA087M/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087M/gallery_04.webp",
+        url: "/products/KA087M/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA087M/gallery_05.webp",
+        url: "/products/KA087M/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -8785,27 +8785,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 210GM KA093.webp",
+        url: "/products/Ganesh 210GM KA093.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA093/gallery_01.webp",
+        url: "/products/KA093/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA093/gallery_02.webp",
+        url: "/products/KA093/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA093/gallery_03.webp",
+        url: "/products/KA093/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA093/gallery_04.webp",
+        url: "/products/KA093/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA093/gallery_05.webp",
+        url: "/products/KA093/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -8840,27 +8840,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 230GM KA093M.webp",
+        url: "/products/Ganesha 230GM KA093M.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA093M/gallery_01.webp",
+        url: "/products/KA093M/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA093M/gallery_02.webp",
+        url: "/products/KA093M/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA093M/gallery_03.webp",
+        url: "/products/KA093M/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA093M/gallery_04.webp",
+        url: "/products/KA093M/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA093M/gallery_05.webp",
+        url: "/products/KA093M/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -8895,27 +8895,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/AMBE MAA 1KG KA099A.webp",
+        url: "/products/AMBE MAA 1KG KA099A.png",
         alt: "999 Silver Ambe Maa 1Kg",
       },
       {
-        url: "/products/KA099A/gallery_01.webp",
+        url: "/products/KA099A/gallery_01.png",
         alt: "999 Silver Ambe Maa 1Kg",
       },
       {
-        url: "/products/KA099A/gallery_02.webp",
+        url: "/products/KA099A/gallery_02.png",
         alt: "999 Silver Ambe Maa 1Kg",
       },
       {
-        url: "/products/KA099A/gallery_03.webp",
+        url: "/products/KA099A/gallery_03.png",
         alt: "999 Silver Ambe Maa 1Kg",
       },
       {
-        url: "/products/KA099A/gallery_04.webp",
+        url: "/products/KA099A/gallery_04.png",
         alt: "999 Silver Ambe Maa 1Kg",
       },
       {
-        url: "/products/KA099A/gallery_05.webp",
+        url: "/products/KA099A/gallery_05.png",
         alt: "999 Silver Ambe Maa 1Kg",
       },
     ],
@@ -8947,27 +8947,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHERAWALI MAA 70GM KA100A.webp",
+        url: "/products/SHERAWALI MAA 70GM KA100A.png",
         alt: "999 Silver Sherawali Maa",
       },
       {
-        url: "/products/KA100A/gallery_01.webp",
+        url: "/products/KA100A/gallery_01.png",
         alt: "999 Silver Sherawali Maa",
       },
       {
-        url: "/products/KA100A/gallery_02.webp",
+        url: "/products/KA100A/gallery_02.png",
         alt: "999 Silver Sherawali Maa",
       },
       {
-        url: "/products/KA100A/gallery_03.webp",
+        url: "/products/KA100A/gallery_03.png",
         alt: "999 Silver Sherawali Maa",
       },
       {
-        url: "/products/KA100A/gallery_04.webp",
+        url: "/products/KA100A/gallery_04.png",
         alt: "999 Silver Sherawali Maa",
       },
       {
-        url: "/products/KA100A/gallery_05.webp",
+        url: "/products/KA100A/gallery_05.png",
         alt: "999 Silver Sherawali Maa",
       },
     ],
@@ -9000,27 +9000,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHERAWALI 40GM KA100B.webp",
+        url: "/products/SHERAWALI 40GM KA100B.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA100B/gallery_01.webp",
+        url: "/products/KA100B/gallery_01.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA100B/gallery_02.webp",
+        url: "/products/KA100B/gallery_02.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA100B/gallery_03.webp",
+        url: "/products/KA100B/gallery_03.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA100B/gallery_04.webp",
+        url: "/products/KA100B/gallery_04.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA100B/gallery_05.webp",
+        url: "/products/KA100B/gallery_05.png",
         alt: "999 Silver Sherawali",
       },
     ],
@@ -9053,27 +9053,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sleeping Ganesh 210GM KA101A.webp",
+        url: "/products/Sleeping Ganesh 210GM KA101A.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101A/gallery_01.webp",
+        url: "/products/KA101A/gallery_01.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101A/gallery_02.webp",
+        url: "/products/KA101A/gallery_02.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101A/gallery_03.webp",
+        url: "/products/KA101A/gallery_03.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101A/gallery_04.webp",
+        url: "/products/KA101A/gallery_04.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101A/gallery_05.webp",
+        url: "/products/KA101A/gallery_05.png",
         alt: "999 Silver Sleeping Ganesh",
       },
     ],
@@ -9108,27 +9108,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sleeping Ganesh 110GM KA101B.webp",
+        url: "/products/Sleeping Ganesh 110GM KA101B.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101B/gallery_01.webp",
+        url: "/products/KA101B/gallery_01.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101B/gallery_02.webp",
+        url: "/products/KA101B/gallery_02.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101B/gallery_03.webp",
+        url: "/products/KA101B/gallery_03.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101B/gallery_04.webp",
+        url: "/products/KA101B/gallery_04.png",
         alt: "999 Silver Sleeping Ganesh",
       },
       {
-        url: "/products/KA101B/gallery_05.webp",
+        url: "/products/KA101B/gallery_05.png",
         alt: "999 Silver Sleeping Ganesh",
       },
     ],
@@ -9165,27 +9165,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDDHA 32 KA1021A.webp",
+        url: "/products/LAUGHING BUDDHA 32 KA1021A.png",
         alt: "999 Silver Laughing Buddha 32",
       },
       {
-        url: "/products/KA1021A/gallery_01.webp",
+        url: "/products/KA1021A/gallery_01.png",
         alt: "999 Silver Laughing Buddha 32",
       },
       {
-        url: "/products/KA1021A/gallery_02.webp",
+        url: "/products/KA1021A/gallery_02.png",
         alt: "999 Silver Laughing Buddha 32",
       },
       {
-        url: "/products/KA1021A/gallery_03.webp",
+        url: "/products/KA1021A/gallery_03.png",
         alt: "999 Silver Laughing Buddha 32",
       },
       {
-        url: "/products/KA1021A/gallery_04.webp",
+        url: "/products/KA1021A/gallery_04.png",
         alt: "999 Silver Laughing Buddha 32",
       },
       {
-        url: "/products/KA1021A/gallery_05.webp",
+        url: "/products/KA1021A/gallery_05.png",
         alt: "999 Silver Laughing Buddha 32",
       },
     ],
@@ -9220,27 +9220,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Goddess Of Justice 115GM KA1022.webp",
+        url: "/products/Goddess Of Justice 115GM KA1022.png",
         alt: "999 Silver Goddess Of Justice",
       },
       {
-        url: "/products/KA1022/gallery_01.webp",
+        url: "/products/KA1022/gallery_01.png",
         alt: "999 Silver Goddess Of Justice",
       },
       {
-        url: "/products/KA1022/gallery_02.webp",
+        url: "/products/KA1022/gallery_02.png",
         alt: "999 Silver Goddess Of Justice",
       },
       {
-        url: "/products/KA1022/gallery_03.webp",
+        url: "/products/KA1022/gallery_03.png",
         alt: "999 Silver Goddess Of Justice",
       },
       {
-        url: "/products/KA1022/gallery_04.webp",
+        url: "/products/KA1022/gallery_04.png",
         alt: "999 Silver Goddess Of Justice",
       },
       {
-        url: "/products/KA1022/gallery_05.webp",
+        url: "/products/KA1022/gallery_05.png",
         alt: "999 Silver Goddess Of Justice",
       },
     ],
@@ -9273,27 +9273,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SUN 50GM KA1023.webp",
+        url: "/products/SUN 50GM KA1023.png",
         alt: "999 Silver Sun",
       },
       {
-        url: "/products/KA1023/gallery_01.webp",
+        url: "/products/KA1023/gallery_01.png",
         alt: "999 Silver Sun",
       },
       {
-        url: "/products/KA1023/gallery_02.webp",
+        url: "/products/KA1023/gallery_02.png",
         alt: "999 Silver Sun",
       },
       {
-        url: "/products/KA1023/gallery_03.webp",
+        url: "/products/KA1023/gallery_03.png",
         alt: "999 Silver Sun",
       },
       {
-        url: "/products/KA1023/gallery_04.webp",
+        url: "/products/KA1023/gallery_04.png",
         alt: "999 Silver Sun",
       },
       {
-        url: "/products/KA1023/gallery_05.webp",
+        url: "/products/KA1023/gallery_05.png",
         alt: "999 Silver Sun",
       },
     ],
@@ -9326,27 +9326,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/UMIYA MAA 90GM KA102C.webp",
+        url: "/products/UMIYA MAA 90GM KA102C.png",
         alt: "999 Silver Umiya Maa",
       },
       {
-        url: "/products/KA102C/gallery_01.webp",
+        url: "/products/KA102C/gallery_01.png",
         alt: "999 Silver Umiya Maa",
       },
       {
-        url: "/products/KA102C/gallery_02.webp",
+        url: "/products/KA102C/gallery_02.png",
         alt: "999 Silver Umiya Maa",
       },
       {
-        url: "/products/KA102C/gallery_03.webp",
+        url: "/products/KA102C/gallery_03.png",
         alt: "999 Silver Umiya Maa",
       },
       {
-        url: "/products/KA102C/gallery_04.webp",
+        url: "/products/KA102C/gallery_04.png",
         alt: "999 Silver Umiya Maa",
       },
       {
-        url: "/products/KA102C/gallery_05.webp",
+        url: "/products/KA102C/gallery_05.png",
         alt: "999 Silver Umiya Maa",
       },
     ],
@@ -9379,27 +9379,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 560GM KA103.webp",
+        url: "/products/LAXMI GANESH 560GM KA103.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA103/gallery_01.webp",
+        url: "/products/KA103/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA103/gallery_02.webp",
+        url: "/products/KA103/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA103/gallery_03.webp",
+        url: "/products/KA103/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA103/gallery_04.webp",
+        url: "/products/KA103/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA103/gallery_05.webp",
+        url: "/products/KA103/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -9432,27 +9432,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 280GM KA103A.webp",
+        url: "/products/Ganesh 280GM KA103A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA103A/gallery_01.webp",
+        url: "/products/KA103A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA103A/gallery_02.webp",
+        url: "/products/KA103A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA103A/gallery_03.webp",
+        url: "/products/KA103A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA103A/gallery_04.webp",
+        url: "/products/KA103A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA103A/gallery_05.webp",
+        url: "/products/KA103A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -9485,27 +9485,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 280GM KA103B.webp",
+        url: "/products/Laxmi 280GM KA103B.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA103B/gallery_01.webp",
+        url: "/products/KA103B/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA103B/gallery_02.webp",
+        url: "/products/KA103B/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA103B/gallery_03.webp",
+        url: "/products/KA103B/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA103B/gallery_04.webp",
+        url: "/products/KA103B/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA103B/gallery_05.webp",
+        url: "/products/KA103B/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -9538,27 +9538,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 920GM KA103MSI.webp",
+        url: "/products/Laxmi Ganesh Sarswati 920GM KA103MSI.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA103MSI/gallery_01.webp",
+        url: "/products/KA103MSI/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA103MSI/gallery_02.webp",
+        url: "/products/KA103MSI/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA103MSI/gallery_03.webp",
+        url: "/products/KA103MSI/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA103MSI/gallery_04.webp",
+        url: "/products/KA103MSI/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KA103MSI/gallery_05.webp",
+        url: "/products/KA103MSI/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -9593,27 +9593,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 210GM KA104.webp",
+        url: "/products/LAXMI GANESH 210GM KA104.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104/gallery_01.webp",
+        url: "/products/KA104/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104/gallery_02.webp",
+        url: "/products/KA104/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104/gallery_03.webp",
+        url: "/products/KA104/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104/gallery_04.webp",
+        url: "/products/KA104/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104/gallery_05.webp",
+        url: "/products/KA104/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -9648,27 +9648,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 100GM KA104A.webp",
+        url: "/products/GANESH 100GM KA104A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA104A/gallery_01.webp",
+        url: "/products/KA104A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA104A/gallery_02.webp",
+        url: "/products/KA104A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA104A/gallery_03.webp",
+        url: "/products/KA104A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA104A/gallery_04.webp",
+        url: "/products/KA104A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA104A/gallery_05.webp",
+        url: "/products/KA104A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -9701,27 +9701,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 110GM KA104B.webp",
+        url: "/products/Laxmi 110GM KA104B.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA104B/gallery_01.webp",
+        url: "/products/KA104B/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA104B/gallery_02.webp",
+        url: "/products/KA104B/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA104B/gallery_03.webp",
+        url: "/products/KA104B/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA104B/gallery_04.webp",
+        url: "/products/KA104B/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA104B/gallery_05.webp",
+        url: "/products/KA104B/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -9756,27 +9756,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 215GM KA104M.webp",
+        url: "/products/Laxmi Ganesh 215GM KA104M.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104M/gallery_01.webp",
+        url: "/products/KA104M/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104M/gallery_02.webp",
+        url: "/products/KA104M/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104M/gallery_03.webp",
+        url: "/products/KA104M/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104M/gallery_04.webp",
+        url: "/products/KA104M/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA104M/gallery_05.webp",
+        url: "/products/KA104M/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -9813,27 +9813,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GURU NANAK JI 30GM KA1051.webp",
+        url: "/products/GURU NANAK JI 30GM KA1051.png",
         alt: "999 Silver Guru Nanak Ji",
       },
       {
-        url: "/products/KA1051/gallery_01.webp",
+        url: "/products/KA1051/gallery_01.png",
         alt: "999 Silver Guru Nanak Ji",
       },
       {
-        url: "/products/KA1051/gallery_02.webp",
+        url: "/products/KA1051/gallery_02.png",
         alt: "999 Silver Guru Nanak Ji",
       },
       {
-        url: "/products/KA1051/gallery_03.webp",
+        url: "/products/KA1051/gallery_03.png",
         alt: "999 Silver Guru Nanak Ji",
       },
       {
-        url: "/products/KA1051/gallery_04.webp",
+        url: "/products/KA1051/gallery_04.png",
         alt: "999 Silver Guru Nanak Ji",
       },
       {
-        url: "/products/KA1051/gallery_05.webp",
+        url: "/products/KA1051/gallery_05.png",
         alt: "999 Silver Guru Nanak Ji",
       },
     ],
@@ -9871,27 +9871,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI JI 25GM KA1704A.webp",
+        url: "/products/LAXMI JI 25GM KA1704A.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA1704A/gallery_01.webp",
+        url: "/products/KA1704A/gallery_01.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA1704A/gallery_02.webp",
+        url: "/products/KA1704A/gallery_02.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA1704A/gallery_03.webp",
+        url: "/products/KA1704A/gallery_03.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA1704A/gallery_04.webp",
+        url: "/products/KA1704A/gallery_04.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA1704A/gallery_05.webp",
+        url: "/products/KA1704A/gallery_05.png",
         alt: "999 Silver Laxmi Ji",
       },
     ],
@@ -9927,27 +9927,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Standing Hanuman 45GM KA201.webp",
+        url: "/products/Standing Hanuman 45GM KA201.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201/gallery_01.webp",
+        url: "/products/KA201/gallery_01.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201/gallery_02.webp",
+        url: "/products/KA201/gallery_02.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201/gallery_03.webp",
+        url: "/products/KA201/gallery_03.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201/gallery_04.webp",
+        url: "/products/KA201/gallery_04.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201/gallery_05.webp",
+        url: "/products/KA201/gallery_05.png",
         alt: "999 Silver Standing Hanuman",
       },
     ],
@@ -9983,27 +9983,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Standing Hanuman 50GM KA201M.webp",
+        url: "/products/Standing Hanuman 50GM KA201M.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201M/gallery_01.webp",
+        url: "/products/KA201M/gallery_01.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201M/gallery_02.webp",
+        url: "/products/KA201M/gallery_02.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201M/gallery_03.webp",
+        url: "/products/KA201M/gallery_03.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201M/gallery_04.webp",
+        url: "/products/KA201M/gallery_04.png",
         alt: "999 Silver Standing Hanuman",
       },
       {
-        url: "/products/KA201M/gallery_05.webp",
+        url: "/products/KA201M/gallery_05.png",
         alt: "999 Silver Standing Hanuman",
       },
     ],
@@ -10038,27 +10038,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SWAMINARAYAN 30GM KA202.webp",
+        url: "/products/SWAMINARAYAN 30GM KA202.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KA202/gallery_01.webp",
+        url: "/products/KA202/gallery_01.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KA202/gallery_02.webp",
+        url: "/products/KA202/gallery_02.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KA202/gallery_03.webp",
+        url: "/products/KA202/gallery_03.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KA202/gallery_04.webp",
+        url: "/products/KA202/gallery_04.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KA202/gallery_05.webp",
+        url: "/products/KA202/gallery_05.png",
         alt: "999 Silver Swaminarayan",
       },
     ],
@@ -10091,27 +10091,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAKHAN GOPAL 60GM KA203.webp",
+        url: "/products/MAKHAN GOPAL 60GM KA203.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA203/gallery_01.webp",
+        url: "/products/KA203/gallery_01.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA203/gallery_02.webp",
+        url: "/products/KA203/gallery_02.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA203/gallery_03.webp",
+        url: "/products/KA203/gallery_03.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA203/gallery_04.webp",
+        url: "/products/KA203/gallery_04.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA203/gallery_05.webp",
+        url: "/products/KA203/gallery_05.png",
         alt: "999 Silver Makhan Gopal",
       },
     ],
@@ -10144,27 +10144,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parsawnath KA207.webp",
+        url: "/products/Parsawnath KA207.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207/gallery_01.webp",
+        url: "/products/KA207/gallery_01.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207/gallery_02.webp",
+        url: "/products/KA207/gallery_02.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207/gallery_03.webp",
+        url: "/products/KA207/gallery_03.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207/gallery_04.webp",
+        url: "/products/KA207/gallery_04.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207/gallery_05.webp",
+        url: "/products/KA207/gallery_05.png",
         alt: "999 Silver Parsawnath",
       },
     ],
@@ -10196,27 +10196,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parsawnath KA207MSI.webp",
+        url: "/products/Parsawnath KA207MSI.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207MSI/gallery_01.webp",
+        url: "/products/KA207MSI/gallery_01.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207MSI/gallery_02.webp",
+        url: "/products/KA207MSI/gallery_02.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207MSI/gallery_03.webp",
+        url: "/products/KA207MSI/gallery_03.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207MSI/gallery_04.webp",
+        url: "/products/KA207MSI/gallery_04.png",
         alt: "999 Silver Parsawnath",
       },
       {
-        url: "/products/KA207MSI/gallery_05.webp",
+        url: "/products/KA207MSI/gallery_05.png",
         alt: "999 Silver Parsawnath",
       },
     ],
@@ -10248,27 +10248,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIVLING 30GM KA208.webp",
+        url: "/products/SHIVLING 30GM KA208.png",
         alt: "999 Silver Shivling",
       },
       {
-        url: "/products/KA208/gallery_01.webp",
+        url: "/products/KA208/gallery_01.png",
         alt: "999 Silver Shivling",
       },
       {
-        url: "/products/KA208/gallery_02.webp",
+        url: "/products/KA208/gallery_02.png",
         alt: "999 Silver Shivling",
       },
       {
-        url: "/products/KA208/gallery_03.webp",
+        url: "/products/KA208/gallery_03.png",
         alt: "999 Silver Shivling",
       },
       {
-        url: "/products/KA208/gallery_04.webp",
+        url: "/products/KA208/gallery_04.png",
         alt: "999 Silver Shivling",
       },
       {
-        url: "/products/KA208/gallery_05.webp",
+        url: "/products/KA208/gallery_05.png",
         alt: "999 Silver Shivling",
       },
     ],
@@ -10301,27 +10301,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 25GM KA210.webp",
+        url: "/products/GANESH 25GM KA210.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA210/gallery_01.webp",
+        url: "/products/KA210/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA210/gallery_02.webp",
+        url: "/products/KA210/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA210/gallery_03.webp",
+        url: "/products/KA210/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA210/gallery_04.webp",
+        url: "/products/KA210/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA210/gallery_05.webp",
+        url: "/products/KA210/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -10354,27 +10354,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GURU NANAK 32GM KA211.webp",
+        url: "/products/GURU NANAK 32GM KA211.png",
         alt: "999 Silver Guru Nanak",
       },
       {
-        url: "/products/KA211/gallery_01.webp",
+        url: "/products/KA211/gallery_01.png",
         alt: "999 Silver Guru Nanak",
       },
       {
-        url: "/products/KA211/gallery_02.webp",
+        url: "/products/KA211/gallery_02.png",
         alt: "999 Silver Guru Nanak",
       },
       {
-        url: "/products/KA211/gallery_03.webp",
+        url: "/products/KA211/gallery_03.png",
         alt: "999 Silver Guru Nanak",
       },
       {
-        url: "/products/KA211/gallery_04.webp",
+        url: "/products/KA211/gallery_04.png",
         alt: "999 Silver Guru Nanak",
       },
       {
-        url: "/products/KA211/gallery_05.webp",
+        url: "/products/KA211/gallery_05.png",
         alt: "999 Silver Guru Nanak",
       },
     ],
@@ -10407,27 +10407,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DEGADU GANESH 45GM KA213.webp",
+        url: "/products/DEGADU GANESH 45GM KA213.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KA213/gallery_01.webp",
+        url: "/products/KA213/gallery_01.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KA213/gallery_02.webp",
+        url: "/products/KA213/gallery_02.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KA213/gallery_03.webp",
+        url: "/products/KA213/gallery_03.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KA213/gallery_04.webp",
+        url: "/products/KA213/gallery_04.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KA213/gallery_05.webp",
+        url: "/products/KA213/gallery_05.png",
         alt: "999 Silver Degadu Ganesh",
       },
     ],
@@ -10462,27 +10462,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/FRUIT GANESH 30GM KA215B.webp",
+        url: "/products/FRUIT GANESH 30GM KA215B.png",
         alt: "999 Silver Fruit Ganesh",
       },
       {
-        url: "/products/KA215B/gallery_01.webp",
+        url: "/products/KA215B/gallery_01.png",
         alt: "999 Silver Fruit Ganesh",
       },
       {
-        url: "/products/KA215B/gallery_02.webp",
+        url: "/products/KA215B/gallery_02.png",
         alt: "999 Silver Fruit Ganesh",
       },
       {
-        url: "/products/KA215B/gallery_03.webp",
+        url: "/products/KA215B/gallery_03.png",
         alt: "999 Silver Fruit Ganesh",
       },
       {
-        url: "/products/KA215B/gallery_04.webp",
+        url: "/products/KA215B/gallery_04.png",
         alt: "999 Silver Fruit Ganesh",
       },
       {
-        url: "/products/KA215B/gallery_05.webp",
+        url: "/products/KA215B/gallery_05.png",
         alt: "999 Silver Fruit Ganesh",
       },
     ],
@@ -10517,27 +10517,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Lord Krishna With Mata Yashoda 40GM KA217.webp",
+        url: "/products/Lord Krishna With Mata Yashoda 40GM KA217.png",
         alt: "999 Silver Lord Krishna With Mata Yashoda",
       },
       {
-        url: "/products/KA217/gallery_01.webp",
+        url: "/products/KA217/gallery_01.png",
         alt: "999 Silver Lord Krishna With Mata Yashoda",
       },
       {
-        url: "/products/KA217/gallery_02.webp",
+        url: "/products/KA217/gallery_02.png",
         alt: "999 Silver Lord Krishna With Mata Yashoda",
       },
       {
-        url: "/products/KA217/gallery_03.webp",
+        url: "/products/KA217/gallery_03.png",
         alt: "999 Silver Lord Krishna With Mata Yashoda",
       },
       {
-        url: "/products/KA217/gallery_04.webp",
+        url: "/products/KA217/gallery_04.png",
         alt: "999 Silver Lord Krishna With Mata Yashoda",
       },
       {
-        url: "/products/KA217/gallery_05.webp",
+        url: "/products/KA217/gallery_05.png",
         alt: "999 Silver Lord Krishna With Mata Yashoda",
       },
     ],
@@ -10570,27 +10570,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ROCK HANUMAN 50GM KA218.webp",
+        url: "/products/ROCK HANUMAN 50GM KA218.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/KA218/gallery_01.webp",
+        url: "/products/KA218/gallery_01.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/KA218/gallery_02.webp",
+        url: "/products/KA218/gallery_02.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/KA218/gallery_03.webp",
+        url: "/products/KA218/gallery_03.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/KA218/gallery_04.webp",
+        url: "/products/KA218/gallery_04.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/KA218/gallery_05.webp",
+        url: "/products/KA218/gallery_05.png",
         alt: "999 Silver Rock Hanuman",
       },
     ],
@@ -10625,27 +10625,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 45GM KA219.webp",
+        url: "/products/GANESH JI 45GM KA219.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA219/gallery_01.webp",
+        url: "/products/KA219/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA219/gallery_02.webp",
+        url: "/products/KA219/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA219/gallery_03.webp",
+        url: "/products/KA219/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA219/gallery_04.webp",
+        url: "/products/KA219/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA219/gallery_05.webp",
+        url: "/products/KA219/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -10683,27 +10683,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SWAMINARAYAN JI 50GM KA221.webp",
+        url: "/products/SWAMINARAYAN JI 50GM KA221.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/KA221/gallery_01.webp",
+        url: "/products/KA221/gallery_01.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/KA221/gallery_02.webp",
+        url: "/products/KA221/gallery_02.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/KA221/gallery_03.webp",
+        url: "/products/KA221/gallery_03.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/KA221/gallery_04.webp",
+        url: "/products/KA221/gallery_04.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/KA221/gallery_05.webp",
+        url: "/products/KA221/gallery_05.png",
         alt: "999 Silver Swaminarayan Ji",
       },
     ],
@@ -10740,23 +10740,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KA221A/gallery_01.webp",
+        url: "/products/KA221A/gallery_01.png",
         alt: "999 Silver Ghanshyam Maharaj",
       },
       {
-        url: "/products/KA221A/gallery_02.webp",
+        url: "/products/KA221A/gallery_02.png",
         alt: "999 Silver Ghanshyam Maharaj",
       },
       {
-        url: "/products/KA221A/gallery_03.webp",
+        url: "/products/KA221A/gallery_03.png",
         alt: "999 Silver Ghanshyam Maharaj",
       },
       {
-        url: "/products/KA221A/gallery_04.webp",
+        url: "/products/KA221A/gallery_04.png",
         alt: "999 Silver Ghanshyam Maharaj",
       },
       {
-        url: "/products/KA221A/gallery_05.webp",
+        url: "/products/KA221A/gallery_05.png",
         alt: "999 Silver Ghanshyam Maharaj",
       },
     ],
@@ -10794,27 +10794,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 22GM KA225.webp",
+        url: "/products/GANESH 22GM KA225.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA225/gallery_01.webp",
+        url: "/products/KA225/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA225/gallery_02.webp",
+        url: "/products/KA225/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA225/gallery_03.webp",
+        url: "/products/KA225/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA225/gallery_04.webp",
+        url: "/products/KA225/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA225/gallery_05.webp",
+        url: "/products/KA225/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -10849,27 +10849,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PANCHMUKHI HANUMAN 80GM KA233.webp",
+        url: "/products/PANCHMUKHI HANUMAN 80GM KA233.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KA233/gallery_01.webp",
+        url: "/products/KA233/gallery_01.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KA233/gallery_02.webp",
+        url: "/products/KA233/gallery_02.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KA233/gallery_03.webp",
+        url: "/products/KA233/gallery_03.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KA233/gallery_04.webp",
+        url: "/products/KA233/gallery_04.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KA233/gallery_05.webp",
+        url: "/products/KA233/gallery_05.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
     ],
@@ -10902,27 +10902,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/VISHNU KA240B.webp",
+        url: "/products/VISHNU KA240B.png",
         alt: "999 Silver Vishnu",
       },
       {
-        url: "/products/KA240B/gallery_01.webp",
+        url: "/products/KA240B/gallery_01.png",
         alt: "999 Silver Vishnu",
       },
       {
-        url: "/products/KA240B/gallery_02.webp",
+        url: "/products/KA240B/gallery_02.png",
         alt: "999 Silver Vishnu",
       },
       {
-        url: "/products/KA240B/gallery_03.webp",
+        url: "/products/KA240B/gallery_03.png",
         alt: "999 Silver Vishnu",
       },
       {
-        url: "/products/KA240B/gallery_04.webp",
+        url: "/products/KA240B/gallery_04.png",
         alt: "999 Silver Vishnu",
       },
       {
-        url: "/products/KA240B/gallery_05.webp",
+        url: "/products/KA240B/gallery_05.png",
         alt: "999 Silver Vishnu",
       },
     ],
@@ -10956,27 +10956,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING VISHNU LAXMI 210GM KA241.webp",
+        url: "/products/STANDING VISHNU LAXMI 210GM KA241.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/KA241/gallery_01.webp",
+        url: "/products/KA241/gallery_01.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/KA241/gallery_02.webp",
+        url: "/products/KA241/gallery_02.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/KA241/gallery_03.webp",
+        url: "/products/KA241/gallery_03.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/KA241/gallery_04.webp",
+        url: "/products/KA241/gallery_04.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/KA241/gallery_05.webp",
+        url: "/products/KA241/gallery_05.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
     ],
@@ -11013,27 +11013,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Nakodaji KA247.webp",
+        url: "/products/Nakodaji KA247.png",
         alt: "999 Silver Nakodaji",
       },
       {
-        url: "/products/KA247/gallery_01.webp",
+        url: "/products/KA247/gallery_01.png",
         alt: "999 Silver Nakodaji",
       },
       {
-        url: "/products/KA247/gallery_02.webp",
+        url: "/products/KA247/gallery_02.png",
         alt: "999 Silver Nakodaji",
       },
       {
-        url: "/products/KA247/gallery_03.webp",
+        url: "/products/KA247/gallery_03.png",
         alt: "999 Silver Nakodaji",
       },
       {
-        url: "/products/KA247/gallery_04.webp",
+        url: "/products/KA247/gallery_04.png",
         alt: "999 Silver Nakodaji",
       },
       {
-        url: "/products/KA247/gallery_05.webp",
+        url: "/products/KA247/gallery_05.png",
         alt: "999 Silver Nakodaji",
       },
     ],
@@ -11065,27 +11065,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/JALARAM BAPA 70GM KA257.webp",
+        url: "/products/JALARAM BAPA 70GM KA257.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/KA257/gallery_01.webp",
+        url: "/products/KA257/gallery_01.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/KA257/gallery_02.webp",
+        url: "/products/KA257/gallery_02.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/KA257/gallery_03.webp",
+        url: "/products/KA257/gallery_03.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/KA257/gallery_04.webp",
+        url: "/products/KA257/gallery_04.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/KA257/gallery_05.webp",
+        url: "/products/KA257/gallery_05.png",
         alt: "999 Silver Jalaram Bapa",
       },
     ],
@@ -11118,27 +11118,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON TELEPHONE BASE 3OGM KA275.webp",
+        url: "/products/GANESH ON TELEPHONE BASE 3OGM KA275.png",
         alt: "999 Silver Ganesh On Telephone Base 3Ogm",
       },
       {
-        url: "/products/KA275/gallery_01.webp",
+        url: "/products/KA275/gallery_01.png",
         alt: "999 Silver Ganesh On Telephone Base 3Ogm",
       },
       {
-        url: "/products/KA275/gallery_02.webp",
+        url: "/products/KA275/gallery_02.png",
         alt: "999 Silver Ganesh On Telephone Base 3Ogm",
       },
       {
-        url: "/products/KA275/gallery_03.webp",
+        url: "/products/KA275/gallery_03.png",
         alt: "999 Silver Ganesh On Telephone Base 3Ogm",
       },
       {
-        url: "/products/KA275/gallery_04.webp",
+        url: "/products/KA275/gallery_04.png",
         alt: "999 Silver Ganesh On Telephone Base 3Ogm",
       },
       {
-        url: "/products/KA275/gallery_05.webp",
+        url: "/products/KA275/gallery_05.png",
         alt: "999 Silver Ganesh On Telephone Base 3Ogm",
       },
     ],
@@ -11170,27 +11170,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TELEPHONE LAXMI GANESH 65GM KA275A.webp",
+        url: "/products/TELEPHONE LAXMI GANESH 65GM KA275A.png",
         alt: "999 Silver Telephone Laxmi Ganesh",
       },
       {
-        url: "/products/KA275A/gallery_01.webp",
+        url: "/products/KA275A/gallery_01.png",
         alt: "999 Silver Telephone Laxmi Ganesh",
       },
       {
-        url: "/products/KA275A/gallery_02.webp",
+        url: "/products/KA275A/gallery_02.png",
         alt: "999 Silver Telephone Laxmi Ganesh",
       },
       {
-        url: "/products/KA275A/gallery_03.webp",
+        url: "/products/KA275A/gallery_03.png",
         alt: "999 Silver Telephone Laxmi Ganesh",
       },
       {
-        url: "/products/KA275A/gallery_04.webp",
+        url: "/products/KA275A/gallery_04.png",
         alt: "999 Silver Telephone Laxmi Ganesh",
       },
       {
-        url: "/products/KA275A/gallery_05.webp",
+        url: "/products/KA275A/gallery_05.png",
         alt: "999 Silver Telephone Laxmi Ganesh",
       },
     ],
@@ -11223,27 +11223,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMIJI ON TELEPHONE BASE 30GM KA275AC.webp",
+        url: "/products/LAXMIJI ON TELEPHONE BASE 30GM KA275AC.png",
         alt: "999 Silver Laxmiji On Telephone Base",
       },
       {
-        url: "/products/KA275AC/gallery_01.webp",
+        url: "/products/KA275AC/gallery_01.png",
         alt: "999 Silver Laxmiji On Telephone Base",
       },
       {
-        url: "/products/KA275AC/gallery_02.webp",
+        url: "/products/KA275AC/gallery_02.png",
         alt: "999 Silver Laxmiji On Telephone Base",
       },
       {
-        url: "/products/KA275AC/gallery_03.webp",
+        url: "/products/KA275AC/gallery_03.png",
         alt: "999 Silver Laxmiji On Telephone Base",
       },
       {
-        url: "/products/KA275AC/gallery_04.webp",
+        url: "/products/KA275AC/gallery_04.png",
         alt: "999 Silver Laxmiji On Telephone Base",
       },
       {
-        url: "/products/KA275AC/gallery_05.webp",
+        url: "/products/KA275AC/gallery_05.png",
         alt: "999 Silver Laxmiji On Telephone Base",
       },
     ],
@@ -11278,27 +11278,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 70GM KA275AM.webp",
+        url: "/products/LAXMI GANESH 70GM KA275AM.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA275AM/gallery_01.webp",
+        url: "/products/KA275AM/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA275AM/gallery_02.webp",
+        url: "/products/KA275AM/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA275AM/gallery_03.webp",
+        url: "/products/KA275AM/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA275AM/gallery_04.webp",
+        url: "/products/KA275AM/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA275AM/gallery_05.webp",
+        url: "/products/KA275AM/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -11333,27 +11333,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shrinath Ji 50GM KA278.webp",
+        url: "/products/Shrinath Ji 50GM KA278.png",
         alt: "999 Silver Shrinath Ji",
       },
       {
-        url: "/products/KA278/gallery_01.webp",
+        url: "/products/KA278/gallery_01.png",
         alt: "999 Silver Shrinath Ji",
       },
       {
-        url: "/products/KA278/gallery_02.webp",
+        url: "/products/KA278/gallery_02.png",
         alt: "999 Silver Shrinath Ji",
       },
       {
-        url: "/products/KA278/gallery_03.webp",
+        url: "/products/KA278/gallery_03.png",
         alt: "999 Silver Shrinath Ji",
       },
       {
-        url: "/products/KA278/gallery_04.webp",
+        url: "/products/KA278/gallery_04.png",
         alt: "999 Silver Shrinath Ji",
       },
       {
-        url: "/products/KA278/gallery_05.webp",
+        url: "/products/KA278/gallery_05.png",
         alt: "999 Silver Shrinath Ji",
       },
     ],
@@ -11388,27 +11388,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHREENATHJI 30GM KA278A.webp",
+        url: "/products/SHREENATHJI 30GM KA278A.png",
         alt: "999 Silver Shreenathji",
       },
       {
-        url: "/products/KA278A/gallery_01.webp",
+        url: "/products/KA278A/gallery_01.png",
         alt: "999 Silver Shreenathji",
       },
       {
-        url: "/products/KA278A/gallery_02.webp",
+        url: "/products/KA278A/gallery_02.png",
         alt: "999 Silver Shreenathji",
       },
       {
-        url: "/products/KA278A/gallery_03.webp",
+        url: "/products/KA278A/gallery_03.png",
         alt: "999 Silver Shreenathji",
       },
       {
-        url: "/products/KA278A/gallery_04.webp",
+        url: "/products/KA278A/gallery_04.png",
         alt: "999 Silver Shreenathji",
       },
       {
-        url: "/products/KA278A/gallery_05.webp",
+        url: "/products/KA278A/gallery_05.png",
         alt: "999 Silver Shreenathji",
       },
     ],
@@ -11443,27 +11443,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Srinath Ji With Cow 70GM KA278AM.webp",
+        url: "/products/Srinath Ji With Cow 70GM KA278AM.png",
         alt: "999 Silver Srinath Ji With Cow",
       },
       {
-        url: "/products/KA278AM/gallery_01.webp",
+        url: "/products/KA278AM/gallery_01.png",
         alt: "999 Silver Srinath Ji With Cow",
       },
       {
-        url: "/products/KA278AM/gallery_02.webp",
+        url: "/products/KA278AM/gallery_02.png",
         alt: "999 Silver Srinath Ji With Cow",
       },
       {
-        url: "/products/KA278AM/gallery_03.webp",
+        url: "/products/KA278AM/gallery_03.png",
         alt: "999 Silver Srinath Ji With Cow",
       },
       {
-        url: "/products/KA278AM/gallery_04.webp",
+        url: "/products/KA278AM/gallery_04.png",
         alt: "999 Silver Srinath Ji With Cow",
       },
       {
-        url: "/products/KA278AM/gallery_05.webp",
+        url: "/products/KA278AM/gallery_05.png",
         alt: "999 Silver Srinath Ji With Cow",
       },
     ],
@@ -11498,27 +11498,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING KRISHNA 65GM KA279.webp",
+        url: "/products/STANDING KRISHNA 65GM KA279.png",
         alt: "999 Silver Standing Krishna",
       },
       {
-        url: "/products/KA279/gallery_01.webp",
+        url: "/products/KA279/gallery_01.png",
         alt: "999 Silver Standing Krishna",
       },
       {
-        url: "/products/KA279/gallery_02.webp",
+        url: "/products/KA279/gallery_02.png",
         alt: "999 Silver Standing Krishna",
       },
       {
-        url: "/products/KA279/gallery_03.webp",
+        url: "/products/KA279/gallery_03.png",
         alt: "999 Silver Standing Krishna",
       },
       {
-        url: "/products/KA279/gallery_04.webp",
+        url: "/products/KA279/gallery_04.png",
         alt: "999 Silver Standing Krishna",
       },
       {
-        url: "/products/KA279/gallery_05.webp",
+        url: "/products/KA279/gallery_05.png",
         alt: "999 Silver Standing Krishna",
       },
     ],
@@ -11554,27 +11554,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PARSHWANATH JI WITH BASE KA281.webp",
+        url: "/products/PARSHWANATH JI WITH BASE KA281.png",
         alt: "999 Silver Parshwanath Ji With Base",
       },
       {
-        url: "/products/KA281/gallery_01.webp",
+        url: "/products/KA281/gallery_01.png",
         alt: "999 Silver Parshwanath Ji With Base",
       },
       {
-        url: "/products/KA281/gallery_02.webp",
+        url: "/products/KA281/gallery_02.png",
         alt: "999 Silver Parshwanath Ji With Base",
       },
       {
-        url: "/products/KA281/gallery_03.webp",
+        url: "/products/KA281/gallery_03.png",
         alt: "999 Silver Parshwanath Ji With Base",
       },
       {
-        url: "/products/KA281/gallery_04.webp",
+        url: "/products/KA281/gallery_04.png",
         alt: "999 Silver Parshwanath Ji With Base",
       },
       {
-        url: "/products/KA281/gallery_05.webp",
+        url: "/products/KA281/gallery_05.png",
         alt: "999 Silver Parshwanath Ji With Base",
       },
     ],
@@ -11606,27 +11606,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Padmavati Ka281a.webp",
+        url: "/products/Padmavati Ka281a.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA281A/gallery_01.webp",
+        url: "/products/KA281A/gallery_01.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA281A/gallery_02.webp",
+        url: "/products/KA281A/gallery_02.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA281A/gallery_03.webp",
+        url: "/products/KA281A/gallery_03.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA281A/gallery_04.webp",
+        url: "/products/KA281A/gallery_04.png",
         alt: "999 Silver Padmavati",
       },
       {
-        url: "/products/KA281A/gallery_05.webp",
+        url: "/products/KA281A/gallery_05.png",
         alt: "999 Silver Padmavati",
       },
     ],
@@ -11658,27 +11658,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA Krishna 35GM KA290.webp",
+        url: "/products/RADHA Krishna 35GM KA290.png",
         alt: "999 Silver RADHA Krishna",
       },
       {
-        url: "/products/KA290/gallery_01.webp",
+        url: "/products/KA290/gallery_01.png",
         alt: "999 Silver RADHA Krishna",
       },
       {
-        url: "/products/KA290/gallery_02.webp",
+        url: "/products/KA290/gallery_02.png",
         alt: "999 Silver RADHA Krishna",
       },
       {
-        url: "/products/KA290/gallery_03.webp",
+        url: "/products/KA290/gallery_03.png",
         alt: "999 Silver RADHA Krishna",
       },
       {
-        url: "/products/KA290/gallery_04.webp",
+        url: "/products/KA290/gallery_04.png",
         alt: "999 Silver RADHA Krishna",
       },
       {
-        url: "/products/KA290/gallery_05.webp",
+        url: "/products/KA290/gallery_05.png",
         alt: "999 Silver RADHA Krishna",
       },
     ],
@@ -11711,27 +11711,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Jesus Christ 145GM KA3001.webp",
+        url: "/products/Jesus Christ 145GM KA3001.png",
         alt: "999 Silver Jesus Christ",
       },
       {
-        url: "/products/KA3001/gallery_01.webp",
+        url: "/products/KA3001/gallery_01.png",
         alt: "999 Silver Jesus Christ",
       },
       {
-        url: "/products/KA3001/gallery_02.webp",
+        url: "/products/KA3001/gallery_02.png",
         alt: "999 Silver Jesus Christ",
       },
       {
-        url: "/products/KA3001/gallery_03.webp",
+        url: "/products/KA3001/gallery_03.png",
         alt: "999 Silver Jesus Christ",
       },
       {
-        url: "/products/KA3001/gallery_04.webp",
+        url: "/products/KA3001/gallery_04.png",
         alt: "999 Silver Jesus Christ",
       },
       {
-        url: "/products/KA3001/gallery_05.webp",
+        url: "/products/KA3001/gallery_05.png",
         alt: "999 Silver Jesus Christ",
       },
     ],
@@ -11766,27 +11766,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BAHUCHRAJI MAA 100GM KA310.webp",
+        url: "/products/BAHUCHRAJI MAA 100GM KA310.png",
         alt: "999 Silver Bahuchra Ji Maa",
       },
       {
-        url: "/products/KA310/gallery_01.webp",
+        url: "/products/KA310/gallery_01.png",
         alt: "999 Silver Bahuchra Ji Maa",
       },
       {
-        url: "/products/KA310/gallery_02.webp",
+        url: "/products/KA310/gallery_02.png",
         alt: "999 Silver Bahuchra Ji Maa",
       },
       {
-        url: "/products/KA310/gallery_03.webp",
+        url: "/products/KA310/gallery_03.png",
         alt: "999 Silver Bahuchra Ji Maa",
       },
       {
-        url: "/products/KA310/gallery_04.webp",
+        url: "/products/KA310/gallery_04.png",
         alt: "999 Silver Bahuchra Ji Maa",
       },
       {
-        url: "/products/KA310/gallery_05.webp",
+        url: "/products/KA310/gallery_05.png",
         alt: "999 Silver Bahuchra Ji Maa",
       },
     ],
@@ -11821,27 +11821,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Bahuchara MAA 55GM KA310A.webp",
+        url: "/products/Bahuchara MAA 55GM KA310A.png",
         alt: "999 Silver Bahuchara MAA",
       },
       {
-        url: "/products/KA310A/gallery_01.webp",
+        url: "/products/KA310A/gallery_01.png",
         alt: "999 Silver Bahuchara MAA",
       },
       {
-        url: "/products/KA310A/gallery_02.webp",
+        url: "/products/KA310A/gallery_02.png",
         alt: "999 Silver Bahuchara MAA",
       },
       {
-        url: "/products/KA310A/gallery_03.webp",
+        url: "/products/KA310A/gallery_03.png",
         alt: "999 Silver Bahuchara MAA",
       },
       {
-        url: "/products/KA310A/gallery_04.webp",
+        url: "/products/KA310A/gallery_04.png",
         alt: "999 Silver Bahuchara MAA",
       },
       {
-        url: "/products/KA310A/gallery_05.webp",
+        url: "/products/KA310A/gallery_05.png",
         alt: "999 Silver Bahuchara MAA",
       },
     ],
@@ -11874,27 +11874,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna With Cow 45gm KA312.webp",
+        url: "/products/Krishna With Cow 45gm KA312.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/KA312/gallery_01.webp",
+        url: "/products/KA312/gallery_01.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/KA312/gallery_02.webp",
+        url: "/products/KA312/gallery_02.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/KA312/gallery_03.webp",
+        url: "/products/KA312/gallery_03.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/KA312/gallery_04.webp",
+        url: "/products/KA312/gallery_04.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/KA312/gallery_05.webp",
+        url: "/products/KA312/gallery_05.png",
         alt: "999 Silver Krishna With Cow",
       },
     ],
@@ -11927,27 +11927,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 170GM KA351.webp",
+        url: "/products/Ganesh 170GM KA351.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA351/gallery_01.webp",
+        url: "/products/KA351/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA351/gallery_02.webp",
+        url: "/products/KA351/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA351/gallery_03.webp",
+        url: "/products/KA351/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA351/gallery_04.webp",
+        url: "/products/KA351/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA351/gallery_05.webp",
+        url: "/products/KA351/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -11980,27 +11980,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 150GM Ka352.webp",
+        url: "/products/Ganesh 150GM Ka352.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA352/gallery_01.webp",
+        url: "/products/KA352/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA352/gallery_02.webp",
+        url: "/products/KA352/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA352/gallery_03.webp",
+        url: "/products/KA352/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA352/gallery_04.webp",
+        url: "/products/KA352/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA352/gallery_05.webp",
+        url: "/products/KA352/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -12033,27 +12033,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 12GM KA355.webp",
+        url: "/products/GANESH JI 12GM KA355.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA355/gallery_01.webp",
+        url: "/products/KA355/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA355/gallery_02.webp",
+        url: "/products/KA355/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA355/gallery_03.webp",
+        url: "/products/KA355/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA355/gallery_04.webp",
+        url: "/products/KA355/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA355/gallery_05.webp",
+        url: "/products/KA355/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -12088,27 +12088,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHJI 20GM KA357.webp",
+        url: "/products/GANESHJI 20GM KA357.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA357/gallery_01.webp",
+        url: "/products/KA357/gallery_01.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA357/gallery_02.webp",
+        url: "/products/KA357/gallery_02.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA357/gallery_03.webp",
+        url: "/products/KA357/gallery_03.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA357/gallery_04.webp",
+        url: "/products/KA357/gallery_04.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA357/gallery_05.webp",
+        url: "/products/KA357/gallery_05.png",
         alt: "999 Silver Ganeshji",
       },
     ],
@@ -12145,27 +12145,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHJI 16GM KA360.webp",
+        url: "/products/GANESHJI 16GM KA360.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA360/gallery_01.webp",
+        url: "/products/KA360/gallery_01.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA360/gallery_02.webp",
+        url: "/products/KA360/gallery_02.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA360/gallery_03.webp",
+        url: "/products/KA360/gallery_03.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA360/gallery_04.webp",
+        url: "/products/KA360/gallery_04.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA360/gallery_05.webp",
+        url: "/products/KA360/gallery_05.png",
         alt: "999 Silver Ganeshji",
       },
     ],
@@ -12200,27 +12200,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 35GM KA370.webp",
+        url: "/products/Ganesh 35GM KA370.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA370/gallery_01.webp",
+        url: "/products/KA370/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA370/gallery_02.webp",
+        url: "/products/KA370/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA370/gallery_03.webp",
+        url: "/products/KA370/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA370/gallery_04.webp",
+        url: "/products/KA370/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA370/gallery_05.webp",
+        url: "/products/KA370/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -12253,27 +12253,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sai Baba 75GM KA401.webp",
+        url: "/products/Sai Baba 75GM KA401.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA401/gallery_01.webp",
+        url: "/products/KA401/gallery_01.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA401/gallery_02.webp",
+        url: "/products/KA401/gallery_02.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA401/gallery_03.webp",
+        url: "/products/KA401/gallery_03.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA401/gallery_04.webp",
+        url: "/products/KA401/gallery_04.png",
         alt: "999 Silver Sai Baba",
       },
       {
-        url: "/products/KA401/gallery_05.webp",
+        url: "/products/KA401/gallery_05.png",
         alt: "999 Silver Sai Baba",
       },
     ],
@@ -12306,27 +12306,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Silver Napkin Ring 15GM KA5002.webp",
+        url: "/products/Silver Napkin Ring 15GM KA5002.png",
         alt: "999 Silver Silver Napkin Ring",
       },
       {
-        url: "/products/KA5002/gallery_01.webp",
+        url: "/products/KA5002/gallery_01.png",
         alt: "999 Silver Silver Napkin Ring",
       },
       {
-        url: "/products/KA5002/gallery_02.webp",
+        url: "/products/KA5002/gallery_02.png",
         alt: "999 Silver Silver Napkin Ring",
       },
       {
-        url: "/products/KA5002/gallery_03.webp",
+        url: "/products/KA5002/gallery_03.png",
         alt: "999 Silver Silver Napkin Ring",
       },
       {
-        url: "/products/KA5002/gallery_04.webp",
+        url: "/products/KA5002/gallery_04.png",
         alt: "999 Silver Silver Napkin Ring",
       },
       {
-        url: "/products/KA5002/gallery_05.webp",
+        url: "/products/KA5002/gallery_05.png",
         alt: "999 Silver Silver Napkin Ring",
       },
     ],
@@ -12361,27 +12361,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/dugdu ganesh 650gm KA900.webp",
+        url: "/products/dugdu ganesh 650gm KA900.png",
         alt: "999 Silver dugdu ganesh",
       },
       {
-        url: "/products/KA900/gallery_01.webp",
+        url: "/products/KA900/gallery_01.png",
         alt: "999 Silver dugdu ganesh",
       },
       {
-        url: "/products/KA900/gallery_02.webp",
+        url: "/products/KA900/gallery_02.png",
         alt: "999 Silver dugdu ganesh",
       },
       {
-        url: "/products/KA900/gallery_03.webp",
+        url: "/products/KA900/gallery_03.png",
         alt: "999 Silver dugdu ganesh",
       },
       {
-        url: "/products/KA900/gallery_04.webp",
+        url: "/products/KA900/gallery_04.png",
         alt: "999 Silver dugdu ganesh",
       },
       {
-        url: "/products/KA900/gallery_05.webp",
+        url: "/products/KA900/gallery_05.png",
         alt: "999 Silver dugdu ganesh",
       },
     ],
@@ -12420,27 +12420,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Panchmukhi Ganesh 135GM KA902.webp",
+        url: "/products/Panchmukhi Ganesh 135GM KA902.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/KA902/gallery_01.webp",
+        url: "/products/KA902/gallery_01.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/KA902/gallery_02.webp",
+        url: "/products/KA902/gallery_02.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/KA902/gallery_03.webp",
+        url: "/products/KA902/gallery_03.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/KA902/gallery_04.webp",
+        url: "/products/KA902/gallery_04.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/KA902/gallery_05.webp",
+        url: "/products/KA902/gallery_05.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
     ],
@@ -12475,27 +12475,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BRAHMANI MAA 180GM KA903.webp",
+        url: "/products/BRAHMANI MAA 180GM KA903.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/KA903/gallery_01.webp",
+        url: "/products/KA903/gallery_01.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/KA903/gallery_02.webp",
+        url: "/products/KA903/gallery_02.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/KA903/gallery_03.webp",
+        url: "/products/KA903/gallery_03.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/KA903/gallery_04.webp",
+        url: "/products/KA903/gallery_04.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/KA903/gallery_05.webp",
+        url: "/products/KA903/gallery_05.png",
         alt: "999 Silver Brahmani Maa",
       },
     ],
@@ -12530,27 +12530,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHJI 225GM KA904.webp",
+        url: "/products/GANESHJI 225GM KA904.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA904/gallery_01.webp",
+        url: "/products/KA904/gallery_01.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA904/gallery_02.webp",
+        url: "/products/KA904/gallery_02.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA904/gallery_03.webp",
+        url: "/products/KA904/gallery_03.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA904/gallery_04.webp",
+        url: "/products/KA904/gallery_04.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KA904/gallery_05.webp",
+        url: "/products/KA904/gallery_05.png",
         alt: "999 Silver Ganeshji",
       },
     ],
@@ -12587,27 +12587,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 175GM KA904A.webp",
+        url: "/products/GANESH JI 175GM KA904A.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA904A/gallery_01.webp",
+        url: "/products/KA904A/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA904A/gallery_02.webp",
+        url: "/products/KA904A/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA904A/gallery_03.webp",
+        url: "/products/KA904A/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA904A/gallery_04.webp",
+        url: "/products/KA904A/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA904A/gallery_05.webp",
+        url: "/products/KA904A/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -12644,27 +12644,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 55GM KA905.webp",
+        url: "/products/Ganesh 55GM KA905.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA905/gallery_01.webp",
+        url: "/products/KA905/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA905/gallery_02.webp",
+        url: "/products/KA905/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA905/gallery_03.webp",
+        url: "/products/KA905/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA905/gallery_04.webp",
+        url: "/products/KA905/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA905/gallery_05.webp",
+        url: "/products/KA905/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -12697,27 +12697,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 160GM KA906.webp",
+        url: "/products/Laxmi Ganesh 160GM KA906.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA906/gallery_01.webp",
+        url: "/products/KA906/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA906/gallery_02.webp",
+        url: "/products/KA906/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA906/gallery_03.webp",
+        url: "/products/KA906/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA906/gallery_04.webp",
+        url: "/products/KA906/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA906/gallery_05.webp",
+        url: "/products/KA906/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -12750,27 +12750,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 80GM KA906AA.webp",
+        url: "/products/Ganesh 80GM KA906AA.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906AA/gallery_01.webp",
+        url: "/products/KA906AA/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906AA/gallery_02.webp",
+        url: "/products/KA906AA/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906AA/gallery_03.webp",
+        url: "/products/KA906AA/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906AA/gallery_04.webp",
+        url: "/products/KA906AA/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906AA/gallery_05.webp",
+        url: "/products/KA906AA/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -12803,27 +12803,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI 80GM KA906AB.webp",
+        url: "/products/LAXMI 80GM KA906AB.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906AB/gallery_01.webp",
+        url: "/products/KA906AB/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906AB/gallery_02.webp",
+        url: "/products/KA906AB/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906AB/gallery_03.webp",
+        url: "/products/KA906AB/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906AB/gallery_04.webp",
+        url: "/products/KA906AB/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906AB/gallery_05.webp",
+        url: "/products/KA906AB/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -12858,27 +12858,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI JI 75GM KA906ABM.webp",
+        url: "/products/LAXMI JI 75GM KA906ABM.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA906ABM/gallery_01.webp",
+        url: "/products/KA906ABM/gallery_01.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA906ABM/gallery_02.webp",
+        url: "/products/KA906ABM/gallery_02.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA906ABM/gallery_03.webp",
+        url: "/products/KA906ABM/gallery_03.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA906ABM/gallery_04.webp",
+        url: "/products/KA906ABM/gallery_04.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA906ABM/gallery_05.webp",
+        url: "/products/KA906ABM/gallery_05.png",
         alt: "999 Silver Laxmi Ji",
       },
     ],
@@ -12915,27 +12915,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 65GM KA906ADM.webp",
+        url: "/products/GANESH 65GM KA906ADM.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906ADM/gallery_01.webp",
+        url: "/products/KA906ADM/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906ADM/gallery_02.webp",
+        url: "/products/KA906ADM/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906ADM/gallery_03.webp",
+        url: "/products/KA906ADM/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906ADM/gallery_04.webp",
+        url: "/products/KA906ADM/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA906ADM/gallery_05.webp",
+        url: "/products/KA906ADM/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -12970,27 +12970,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI 150GM KA906MSI.webp",
+        url: "/products/LAXMI 150GM KA906MSI.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906MSI/gallery_01.webp",
+        url: "/products/KA906MSI/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906MSI/gallery_02.webp",
+        url: "/products/KA906MSI/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906MSI/gallery_03.webp",
+        url: "/products/KA906MSI/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906MSI/gallery_04.webp",
+        url: "/products/KA906MSI/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA906MSI/gallery_05.webp",
+        url: "/products/KA906MSI/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -13023,27 +13023,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 120GM KA908B.webp",
+        url: "/products/Ganesh 120GM KA908B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA908B/gallery_01.webp",
+        url: "/products/KA908B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA908B/gallery_02.webp",
+        url: "/products/KA908B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA908B/gallery_03.webp",
+        url: "/products/KA908B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA908B/gallery_04.webp",
+        url: "/products/KA908B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA908B/gallery_05.webp",
+        url: "/products/KA908B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -13076,27 +13076,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON MOUSE 120GM KA908M.webp",
+        url: "/products/GANESH ON MOUSE 120GM KA908M.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/KA908M/gallery_01.webp",
+        url: "/products/KA908M/gallery_01.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/KA908M/gallery_02.webp",
+        url: "/products/KA908M/gallery_02.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/KA908M/gallery_03.webp",
+        url: "/products/KA908M/gallery_03.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/KA908M/gallery_04.webp",
+        url: "/products/KA908M/gallery_04.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/KA908M/gallery_05.webp",
+        url: "/products/KA908M/gallery_05.png",
         alt: "999 Silver Ganesh On Mouse",
       },
     ],
@@ -13129,27 +13129,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Makhan Gopal 40GM KA909.webp",
+        url: "/products/Makhan Gopal 40GM KA909.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA909/gallery_01.webp",
+        url: "/products/KA909/gallery_01.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA909/gallery_02.webp",
+        url: "/products/KA909/gallery_02.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA909/gallery_03.webp",
+        url: "/products/KA909/gallery_03.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA909/gallery_04.webp",
+        url: "/products/KA909/gallery_04.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA909/gallery_05.webp",
+        url: "/products/KA909/gallery_05.png",
         alt: "999 Silver Makhan Gopal",
       },
     ],
@@ -13182,27 +13182,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 35GM Ka910.webp",
+        url: "/products/Ganesh 35GM Ka910.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA910/gallery_01.webp",
+        url: "/products/KA910/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA910/gallery_02.webp",
+        url: "/products/KA910/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA910/gallery_03.webp",
+        url: "/products/KA910/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA910/gallery_04.webp",
+        url: "/products/KA910/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA910/gallery_05.webp",
+        url: "/products/KA910/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -13237,27 +13237,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MUSICAL GANESH 10GM KA910C.webp",
+        url: "/products/MUSICAL GANESH 10GM KA910C.png",
         alt: "999 Silver Musical Ganesh",
       },
       {
-        url: "/products/KA910C/gallery_01.webp",
+        url: "/products/KA910C/gallery_01.png",
         alt: "999 Silver Musical Ganesh",
       },
       {
-        url: "/products/KA910C/gallery_02.webp",
+        url: "/products/KA910C/gallery_02.png",
         alt: "999 Silver Musical Ganesh",
       },
       {
-        url: "/products/KA910C/gallery_03.webp",
+        url: "/products/KA910C/gallery_03.png",
         alt: "999 Silver Musical Ganesh",
       },
       {
-        url: "/products/KA910C/gallery_04.webp",
+        url: "/products/KA910C/gallery_04.png",
         alt: "999 Silver Musical Ganesh",
       },
       {
-        url: "/products/KA910C/gallery_05.webp",
+        url: "/products/KA910C/gallery_05.png",
         alt: "999 Silver Musical Ganesh",
       },
     ],
@@ -13294,27 +13294,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 35GM KA911.webp",
+        url: "/products/GANESH JI 35GM KA911.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA911/gallery_01.webp",
+        url: "/products/KA911/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA911/gallery_02.webp",
+        url: "/products/KA911/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA911/gallery_03.webp",
+        url: "/products/KA911/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA911/gallery_04.webp",
+        url: "/products/KA911/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA911/gallery_05.webp",
+        url: "/products/KA911/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -13353,27 +13353,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH Ka914.webp",
+        url: "/products/GANESH Ka914.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA914/gallery_01.webp",
+        url: "/products/KA914/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA914/gallery_02.webp",
+        url: "/products/KA914/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA914/gallery_03.webp",
+        url: "/products/KA914/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA914/gallery_04.webp",
+        url: "/products/KA914/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA914/gallery_05.webp",
+        url: "/products/KA914/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -13409,27 +13409,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/JULELAL 60GM KA916.webp",
+        url: "/products/JULELAL 60GM KA916.png",
         alt: "999 Silver Julelal",
       },
       {
-        url: "/products/KA916/gallery_01.webp",
+        url: "/products/KA916/gallery_01.png",
         alt: "999 Silver Julelal",
       },
       {
-        url: "/products/KA916/gallery_02.webp",
+        url: "/products/KA916/gallery_02.png",
         alt: "999 Silver Julelal",
       },
       {
-        url: "/products/KA916/gallery_03.webp",
+        url: "/products/KA916/gallery_03.png",
         alt: "999 Silver Julelal",
       },
       {
-        url: "/products/KA916/gallery_04.webp",
+        url: "/products/KA916/gallery_04.png",
         alt: "999 Silver Julelal",
       },
       {
-        url: "/products/KA916/gallery_05.webp",
+        url: "/products/KA916/gallery_05.png",
         alt: "999 Silver Julelal",
       },
     ],
@@ -13464,27 +13464,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh With Elephant 150GM KA917.webp",
+        url: "/products/Ganesh With Elephant 150GM KA917.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/KA917/gallery_01.webp",
+        url: "/products/KA917/gallery_01.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/KA917/gallery_02.webp",
+        url: "/products/KA917/gallery_02.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/KA917/gallery_03.webp",
+        url: "/products/KA917/gallery_03.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/KA917/gallery_04.webp",
+        url: "/products/KA917/gallery_04.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/KA917/gallery_05.webp",
+        url: "/products/KA917/gallery_05.png",
         alt: "999 Silver Ganesh With Elephant",
       },
     ],
@@ -13517,27 +13517,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAHAKALI MAA 75GM KA919.webp",
+        url: "/products/MAHAKALI MAA 75GM KA919.png",
         alt: "999 Silver Mahakali Maa",
       },
       {
-        url: "/products/KA919/gallery_01.webp",
+        url: "/products/KA919/gallery_01.png",
         alt: "999 Silver Mahakali Maa",
       },
       {
-        url: "/products/KA919/gallery_02.webp",
+        url: "/products/KA919/gallery_02.png",
         alt: "999 Silver Mahakali Maa",
       },
       {
-        url: "/products/KA919/gallery_03.webp",
+        url: "/products/KA919/gallery_03.png",
         alt: "999 Silver Mahakali Maa",
       },
       {
-        url: "/products/KA919/gallery_04.webp",
+        url: "/products/KA919/gallery_04.png",
         alt: "999 Silver Mahakali Maa",
       },
       {
-        url: "/products/KA919/gallery_05.webp",
+        url: "/products/KA919/gallery_05.png",
         alt: "999 Silver Mahakali Maa",
       },
     ],
@@ -13570,27 +13570,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna 70gm KA920.webp",
+        url: "/products/Krishna 70gm KA920.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA920/gallery_01.webp",
+        url: "/products/KA920/gallery_01.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA920/gallery_02.webp",
+        url: "/products/KA920/gallery_02.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA920/gallery_03.webp",
+        url: "/products/KA920/gallery_03.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA920/gallery_04.webp",
+        url: "/products/KA920/gallery_04.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KA920/gallery_05.webp",
+        url: "/products/KA920/gallery_05.png",
         alt: "999 Silver Krishna",
       },
     ],
@@ -13623,27 +13623,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 80GM KA921.webp",
+        url: "/products/Ganesh 80GM KA921.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA921/gallery_01.webp",
+        url: "/products/KA921/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA921/gallery_02.webp",
+        url: "/products/KA921/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA921/gallery_03.webp",
+        url: "/products/KA921/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA921/gallery_04.webp",
+        url: "/products/KA921/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA921/gallery_05.webp",
+        url: "/products/KA921/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -13678,27 +13678,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA 450GM KA922.webp",
+        url: "/products/RADHA KRISHNA 450GM KA922.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922/gallery_01.webp",
+        url: "/products/KA922/gallery_01.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922/gallery_02.webp",
+        url: "/products/KA922/gallery_02.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922/gallery_03.webp",
+        url: "/products/KA922/gallery_03.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922/gallery_04.webp",
+        url: "/products/KA922/gallery_04.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922/gallery_05.webp",
+        url: "/products/KA922/gallery_05.png",
         alt: "999 Silver Radha Krishna",
       },
     ],
@@ -13735,27 +13735,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radha Krishna 460GM KA922M.webp",
+        url: "/products/Radha Krishna 460GM KA922M.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922M/gallery_01.webp",
+        url: "/products/KA922M/gallery_01.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922M/gallery_02.webp",
+        url: "/products/KA922M/gallery_02.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922M/gallery_03.webp",
+        url: "/products/KA922M/gallery_03.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922M/gallery_04.webp",
+        url: "/products/KA922M/gallery_04.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA922M/gallery_05.webp",
+        url: "/products/KA922M/gallery_05.png",
         alt: "999 Silver Radha Krishna",
       },
     ],
@@ -13788,27 +13788,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radha Krishna on Swing KA923.webp",
+        url: "/products/Radha Krishna on Swing KA923.png",
         alt: "999 Silver Radha Krishna on Swing",
       },
       {
-        url: "/products/KA923/gallery_01.webp",
+        url: "/products/KA923/gallery_01.png",
         alt: "999 Silver Radha Krishna on Swing",
       },
       {
-        url: "/products/KA923/gallery_02.webp",
+        url: "/products/KA923/gallery_02.png",
         alt: "999 Silver Radha Krishna on Swing",
       },
       {
-        url: "/products/KA923/gallery_03.webp",
+        url: "/products/KA923/gallery_03.png",
         alt: "999 Silver Radha Krishna on Swing",
       },
       {
-        url: "/products/KA923/gallery_04.webp",
+        url: "/products/KA923/gallery_04.png",
         alt: "999 Silver Radha Krishna on Swing",
       },
       {
-        url: "/products/KA923/gallery_05.webp",
+        url: "/products/KA923/gallery_05.png",
         alt: "999 Silver Radha Krishna on Swing",
       },
     ],
@@ -13842,27 +13842,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA 20GM KA923A.webp",
+        url: "/products/RADHA KRISHNA 20GM KA923A.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA923A/gallery_01.webp",
+        url: "/products/KA923A/gallery_01.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA923A/gallery_02.webp",
+        url: "/products/KA923A/gallery_02.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA923A/gallery_03.webp",
+        url: "/products/KA923A/gallery_03.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA923A/gallery_04.webp",
+        url: "/products/KA923A/gallery_04.png",
         alt: "999 Silver Radha Krishna",
       },
       {
-        url: "/products/KA923A/gallery_05.webp",
+        url: "/products/KA923A/gallery_05.png",
         alt: "999 Silver Radha Krishna",
       },
     ],
@@ -13900,27 +13900,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman Ji 150GM KA927.webp",
+        url: "/products/Hanuman Ji 150GM KA927.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA927/gallery_01.webp",
+        url: "/products/KA927/gallery_01.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA927/gallery_02.webp",
+        url: "/products/KA927/gallery_02.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA927/gallery_03.webp",
+        url: "/products/KA927/gallery_03.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA927/gallery_04.webp",
+        url: "/products/KA927/gallery_04.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA927/gallery_05.webp",
+        url: "/products/KA927/gallery_05.png",
         alt: "999 Silver Hanuman Ji",
       },
     ],
@@ -13955,27 +13955,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shiva 65GM KA928.webp",
+        url: "/products/Shiva 65GM KA928.png",
         alt: "999 Silver Shiva",
       },
       {
-        url: "/products/KA928/gallery_01.webp",
+        url: "/products/KA928/gallery_01.png",
         alt: "999 Silver Shiva",
       },
       {
-        url: "/products/KA928/gallery_02.webp",
+        url: "/products/KA928/gallery_02.png",
         alt: "999 Silver Shiva",
       },
       {
-        url: "/products/KA928/gallery_03.webp",
+        url: "/products/KA928/gallery_03.png",
         alt: "999 Silver Shiva",
       },
       {
-        url: "/products/KA928/gallery_04.webp",
+        url: "/products/KA928/gallery_04.png",
         alt: "999 Silver Shiva",
       },
       {
-        url: "/products/KA928/gallery_05.webp",
+        url: "/products/KA928/gallery_05.png",
         alt: "999 Silver Shiva",
       },
     ],
@@ -14010,27 +14010,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 75GM KA929.webp",
+        url: "/products/Ganesh Ji 75GM KA929.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA929/gallery_01.webp",
+        url: "/products/KA929/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA929/gallery_02.webp",
+        url: "/products/KA929/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA929/gallery_03.webp",
+        url: "/products/KA929/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA929/gallery_04.webp",
+        url: "/products/KA929/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA929/gallery_05.webp",
+        url: "/products/KA929/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -14065,27 +14065,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAKHAN GOPAL 80GM KA930.webp",
+        url: "/products/MAKHAN GOPAL 80GM KA930.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA930/gallery_01.webp",
+        url: "/products/KA930/gallery_01.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA930/gallery_02.webp",
+        url: "/products/KA930/gallery_02.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA930/gallery_03.webp",
+        url: "/products/KA930/gallery_03.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA930/gallery_04.webp",
+        url: "/products/KA930/gallery_04.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/KA930/gallery_05.webp",
+        url: "/products/KA930/gallery_05.png",
         alt: "999 Silver Makhan Gopal",
       },
     ],
@@ -14120,27 +14120,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI KA931.webp",
+        url: "/products/GANESH JI KA931.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA931/gallery_01.webp",
+        url: "/products/KA931/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA931/gallery_02.webp",
+        url: "/products/KA931/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA931/gallery_03.webp",
+        url: "/products/KA931/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA931/gallery_04.webp",
+        url: "/products/KA931/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA931/gallery_05.webp",
+        url: "/products/KA931/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -14175,27 +14175,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 65GM KA932.webp",
+        url: "/products/Ganesh 65GM KA932.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA932/gallery_01.webp",
+        url: "/products/KA932/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA932/gallery_02.webp",
+        url: "/products/KA932/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA932/gallery_03.webp",
+        url: "/products/KA932/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA932/gallery_04.webp",
+        url: "/products/KA932/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA932/gallery_05.webp",
+        url: "/products/KA932/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -14228,27 +14228,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 310GM KA933.webp",
+        url: "/products/LAXMI GANESH 310GM KA933.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA933/gallery_01.webp",
+        url: "/products/KA933/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA933/gallery_02.webp",
+        url: "/products/KA933/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA933/gallery_03.webp",
+        url: "/products/KA933/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA933/gallery_04.webp",
+        url: "/products/KA933/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KA933/gallery_05.webp",
+        url: "/products/KA933/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -14283,27 +14283,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI JI 150GM KA933A.webp",
+        url: "/products/LAXMI JI 150GM KA933A.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA933A/gallery_01.webp",
+        url: "/products/KA933A/gallery_01.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA933A/gallery_02.webp",
+        url: "/products/KA933A/gallery_02.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA933A/gallery_03.webp",
+        url: "/products/KA933A/gallery_03.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA933A/gallery_04.webp",
+        url: "/products/KA933A/gallery_04.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KA933A/gallery_05.webp",
+        url: "/products/KA933A/gallery_05.png",
         alt: "999 Silver Laxmi Ji",
       },
     ],
@@ -14340,27 +14340,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 150GM KA933b.webp",
+        url: "/products/GANESH 150GM KA933b.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA933B/gallery_01.webp",
+        url: "/products/KA933B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA933B/gallery_02.webp",
+        url: "/products/KA933B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA933B/gallery_03.webp",
+        url: "/products/KA933B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA933B/gallery_04.webp",
+        url: "/products/KA933B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA933B/gallery_05.webp",
+        url: "/products/KA933B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -14395,27 +14395,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shiv Ji 160GM KA936.webp",
+        url: "/products/Shiv Ji 160GM KA936.png",
         alt: "999 Silver Shiv Ji",
       },
       {
-        url: "/products/KA936/gallery_01.webp",
+        url: "/products/KA936/gallery_01.png",
         alt: "999 Silver Shiv Ji",
       },
       {
-        url: "/products/KA936/gallery_02.webp",
+        url: "/products/KA936/gallery_02.png",
         alt: "999 Silver Shiv Ji",
       },
       {
-        url: "/products/KA936/gallery_03.webp",
+        url: "/products/KA936/gallery_03.png",
         alt: "999 Silver Shiv Ji",
       },
       {
-        url: "/products/KA936/gallery_04.webp",
+        url: "/products/KA936/gallery_04.png",
         alt: "999 Silver Shiv Ji",
       },
       {
-        url: "/products/KA936/gallery_05.webp",
+        url: "/products/KA936/gallery_05.png",
         alt: "999 Silver Shiv Ji",
       },
     ],
@@ -14448,27 +14448,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHA 65GM KA937.webp",
+        url: "/products/GANESHA 65GM KA937.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA937/gallery_01.webp",
+        url: "/products/KA937/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA937/gallery_02.webp",
+        url: "/products/KA937/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA937/gallery_03.webp",
+        url: "/products/KA937/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA937/gallery_04.webp",
+        url: "/products/KA937/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/KA937/gallery_05.webp",
+        url: "/products/KA937/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -14501,27 +14501,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 280GM KA938.webp",
+        url: "/products/Cow 280GM KA938.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA938/gallery_01.webp",
+        url: "/products/KA938/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA938/gallery_02.webp",
+        url: "/products/KA938/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA938/gallery_03.webp",
+        url: "/products/KA938/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA938/gallery_04.webp",
+        url: "/products/KA938/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA938/gallery_05.webp",
+        url: "/products/KA938/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -14554,27 +14554,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 210GM KA939.webp",
+        url: "/products/Cow 210GM KA939.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA939/gallery_01.webp",
+        url: "/products/KA939/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA939/gallery_02.webp",
+        url: "/products/KA939/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA939/gallery_03.webp",
+        url: "/products/KA939/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA939/gallery_04.webp",
+        url: "/products/KA939/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KA939/gallery_05.webp",
+        url: "/products/KA939/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -14609,27 +14609,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TIRUPATI BALAJI 200GM KA940.webp",
+        url: "/products/TIRUPATI BALAJI 200GM KA940.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA940/gallery_01.webp",
+        url: "/products/KA940/gallery_01.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA940/gallery_02.webp",
+        url: "/products/KA940/gallery_02.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA940/gallery_03.webp",
+        url: "/products/KA940/gallery_03.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA940/gallery_04.webp",
+        url: "/products/KA940/gallery_04.png",
         alt: "999 Silver Tirupati Balaji",
       },
       {
-        url: "/products/KA940/gallery_05.webp",
+        url: "/products/KA940/gallery_05.png",
         alt: "999 Silver Tirupati Balaji",
       },
     ],
@@ -14668,27 +14668,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TORTOISE WITH SHRIYANTRA 125GM KA941.webp",
+        url: "/products/TORTOISE WITH SHRIYANTRA 125GM KA941.png",
         alt: "999 Silver Tortoise With Shriyantra",
       },
       {
-        url: "/products/KA941/gallery_01.webp",
+        url: "/products/KA941/gallery_01.png",
         alt: "999 Silver Tortoise With Shriyantra",
       },
       {
-        url: "/products/KA941/gallery_02.webp",
+        url: "/products/KA941/gallery_02.png",
         alt: "999 Silver Tortoise With Shriyantra",
       },
       {
-        url: "/products/KA941/gallery_03.webp",
+        url: "/products/KA941/gallery_03.png",
         alt: "999 Silver Tortoise With Shriyantra",
       },
       {
-        url: "/products/KA941/gallery_04.webp",
+        url: "/products/KA941/gallery_04.png",
         alt: "999 Silver Tortoise With Shriyantra",
       },
       {
-        url: "/products/KA941/gallery_05.webp",
+        url: "/products/KA941/gallery_05.png",
         alt: "999 Silver Tortoise With Shriyantra",
       },
     ],
@@ -14725,27 +14725,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HANUMAN WITH BASE 115GM KA942.webp",
+        url: "/products/HANUMAN WITH BASE 115GM KA942.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KA942/gallery_01.webp",
+        url: "/products/KA942/gallery_01.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KA942/gallery_02.webp",
+        url: "/products/KA942/gallery_02.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KA942/gallery_03.webp",
+        url: "/products/KA942/gallery_03.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KA942/gallery_04.webp",
+        url: "/products/KA942/gallery_04.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KA942/gallery_05.webp",
+        url: "/products/KA942/gallery_05.png",
         alt: "999 Silver Hanuman With Base",
       },
     ],
@@ -14778,27 +14778,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman 65GM KA942A.webp",
+        url: "/products/Hanuman 65GM KA942A.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA942A/gallery_01.webp",
+        url: "/products/KA942A/gallery_01.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA942A/gallery_02.webp",
+        url: "/products/KA942A/gallery_02.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA942A/gallery_03.webp",
+        url: "/products/KA942A/gallery_03.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA942A/gallery_04.webp",
+        url: "/products/KA942A/gallery_04.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KA942A/gallery_05.webp",
+        url: "/products/KA942A/gallery_05.png",
         alt: "999 Silver Hanuman",
       },
     ],
@@ -14834,27 +14834,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman Ji 70GM KA942AM.webp",
+        url: "/products/Hanuman Ji 70GM KA942AM.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA942AM/gallery_01.webp",
+        url: "/products/KA942AM/gallery_01.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA942AM/gallery_02.webp",
+        url: "/products/KA942AM/gallery_02.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA942AM/gallery_03.webp",
+        url: "/products/KA942AM/gallery_03.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA942AM/gallery_04.webp",
+        url: "/products/KA942AM/gallery_04.png",
         alt: "999 Silver Hanuman Ji",
       },
       {
-        url: "/products/KA942AM/gallery_05.webp",
+        url: "/products/KA942AM/gallery_05.png",
         alt: "999 Silver Hanuman Ji",
       },
     ],
@@ -14889,27 +14889,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Unique Radha And Krishna Idol On Boat 140GM KA943.webp",
+        url: "/products/Unique Radha And Krishna Idol On Boat 140GM KA943.png",
         alt: "999 Silver Unique Radha And Krishna Idol On Boat",
       },
       {
-        url: "/products/KA943/gallery_01.webp",
+        url: "/products/KA943/gallery_01.png",
         alt: "999 Silver Unique Radha And Krishna Idol On Boat",
       },
       {
-        url: "/products/KA943/gallery_02.webp",
+        url: "/products/KA943/gallery_02.png",
         alt: "999 Silver Unique Radha And Krishna Idol On Boat",
       },
       {
-        url: "/products/KA943/gallery_03.webp",
+        url: "/products/KA943/gallery_03.png",
         alt: "999 Silver Unique Radha And Krishna Idol On Boat",
       },
       {
-        url: "/products/KA943/gallery_04.webp",
+        url: "/products/KA943/gallery_04.png",
         alt: "999 Silver Unique Radha And Krishna Idol On Boat",
       },
       {
-        url: "/products/KA943/gallery_05.webp",
+        url: "/products/KA943/gallery_05.png",
         alt: "999 Silver Unique Radha And Krishna Idol On Boat",
       },
     ],
@@ -14944,27 +14944,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 110GM KA944.webp",
+        url: "/products/GANESH JI 110GM KA944.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA944/gallery_01.webp",
+        url: "/products/KA944/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA944/gallery_02.webp",
+        url: "/products/KA944/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA944/gallery_03.webp",
+        url: "/products/KA944/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA944/gallery_04.webp",
+        url: "/products/KA944/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KA944/gallery_05.webp",
+        url: "/products/KA944/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -15000,27 +15000,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Mahaveer Swami TEMPLE KA951.webp",
+        url: "/products/Mahaveer Swami TEMPLE KA951.png",
         alt: "999 Silver Mahaveer Swami TEMPLE",
       },
       {
-        url: "/products/KA951/gallery_01.webp",
+        url: "/products/KA951/gallery_01.png",
         alt: "999 Silver Mahaveer Swami TEMPLE",
       },
       {
-        url: "/products/KA951/gallery_02.webp",
+        url: "/products/KA951/gallery_02.png",
         alt: "999 Silver Mahaveer Swami TEMPLE",
       },
       {
-        url: "/products/KA951/gallery_03.webp",
+        url: "/products/KA951/gallery_03.png",
         alt: "999 Silver Mahaveer Swami TEMPLE",
       },
       {
-        url: "/products/KA951/gallery_04.webp",
+        url: "/products/KA951/gallery_04.png",
         alt: "999 Silver Mahaveer Swami TEMPLE",
       },
       {
-        url: "/products/KA951/gallery_05.webp",
+        url: "/products/KA951/gallery_05.png",
         alt: "999 Silver Mahaveer Swami TEMPLE",
       },
     ],
@@ -15052,27 +15052,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI 135GM KA953.webp",
+        url: "/products/LAXMI 135GM KA953.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA953/gallery_01.webp",
+        url: "/products/KA953/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA953/gallery_02.webp",
+        url: "/products/KA953/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA953/gallery_03.webp",
+        url: "/products/KA953/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA953/gallery_04.webp",
+        url: "/products/KA953/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KA953/gallery_05.webp",
+        url: "/products/KA953/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -15105,27 +15105,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 125GM KA953B.webp",
+        url: "/products/Ganesh 125GM KA953B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA953B/gallery_01.webp",
+        url: "/products/KA953B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA953B/gallery_02.webp",
+        url: "/products/KA953B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA953B/gallery_03.webp",
+        url: "/products/KA953B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA953B/gallery_04.webp",
+        url: "/products/KA953B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KA953B/gallery_05.webp",
+        url: "/products/KA953B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -15158,27 +15158,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAKSHMIJI GANESHJI SARSWATIJI 390GM KA953C.webp",
+        url: "/products/LAKSHMIJI GANESHJI SARSWATIJI 390GM KA953C.png",
         alt: "999 Silver Lakshmiji Ganeshji Sarswatiji",
       },
       {
-        url: "/products/KA953C/gallery_01.webp",
+        url: "/products/KA953C/gallery_01.png",
         alt: "999 Silver Lakshmiji Ganeshji Sarswatiji",
       },
       {
-        url: "/products/KA953C/gallery_02.webp",
+        url: "/products/KA953C/gallery_02.png",
         alt: "999 Silver Lakshmiji Ganeshji Sarswatiji",
       },
       {
-        url: "/products/KA953C/gallery_03.webp",
+        url: "/products/KA953C/gallery_03.png",
         alt: "999 Silver Lakshmiji Ganeshji Sarswatiji",
       },
       {
-        url: "/products/KA953C/gallery_04.webp",
+        url: "/products/KA953C/gallery_04.png",
         alt: "999 Silver Lakshmiji Ganeshji Sarswatiji",
       },
       {
-        url: "/products/KA953C/gallery_05.webp",
+        url: "/products/KA953C/gallery_05.png",
         alt: "999 Silver Lakshmiji Ganeshji Sarswatiji",
       },
     ],
@@ -15213,27 +15213,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BUDDHA FACE 85GM KA957.webp",
+        url: "/products/BUDDHA FACE 85GM KA957.png",
         alt: "999 Silver Buddha Face",
       },
       {
-        url: "/products/KA957/gallery_01.webp",
+        url: "/products/KA957/gallery_01.png",
         alt: "999 Silver Buddha Face",
       },
       {
-        url: "/products/KA957/gallery_02.webp",
+        url: "/products/KA957/gallery_02.png",
         alt: "999 Silver Buddha Face",
       },
       {
-        url: "/products/KA957/gallery_03.webp",
+        url: "/products/KA957/gallery_03.png",
         alt: "999 Silver Buddha Face",
       },
       {
-        url: "/products/KA957/gallery_04.webp",
+        url: "/products/KA957/gallery_04.png",
         alt: "999 Silver Buddha Face",
       },
       {
-        url: "/products/KA957/gallery_05.webp",
+        url: "/products/KA957/gallery_05.png",
         alt: "999 Silver Buddha Face",
       },
     ],
@@ -15271,27 +15271,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHERAWALI WITH SILVER BASE 160 KA958.webp",
+        url: "/products/SHERAWALI WITH SILVER BASE 160 KA958.png",
         alt: "999 Silver Sherawali With Silver Base 160",
       },
       {
-        url: "/products/KA958/gallery_01.webp",
+        url: "/products/KA958/gallery_01.png",
         alt: "999 Silver Sherawali With Silver Base 160",
       },
       {
-        url: "/products/KA958/gallery_02.webp",
+        url: "/products/KA958/gallery_02.png",
         alt: "999 Silver Sherawali With Silver Base 160",
       },
       {
-        url: "/products/KA958/gallery_03.webp",
+        url: "/products/KA958/gallery_03.png",
         alt: "999 Silver Sherawali With Silver Base 160",
       },
       {
-        url: "/products/KA958/gallery_04.webp",
+        url: "/products/KA958/gallery_04.png",
         alt: "999 Silver Sherawali With Silver Base 160",
       },
       {
-        url: "/products/KA958/gallery_05.webp",
+        url: "/products/KA958/gallery_05.png",
         alt: "999 Silver Sherawali With Silver Base 160",
       },
     ],
@@ -15327,27 +15327,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHERAWALI 110GM KA958A.webp",
+        url: "/products/SHERAWALI 110GM KA958A.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA958A/gallery_01.webp",
+        url: "/products/KA958A/gallery_01.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA958A/gallery_02.webp",
+        url: "/products/KA958A/gallery_02.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA958A/gallery_03.webp",
+        url: "/products/KA958A/gallery_03.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA958A/gallery_04.webp",
+        url: "/products/KA958A/gallery_04.png",
         alt: "999 Silver Sherawali",
       },
       {
-        url: "/products/KA958A/gallery_05.webp",
+        url: "/products/KA958A/gallery_05.png",
         alt: "999 Silver Sherawali",
       },
     ],
@@ -15380,27 +15380,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Tortoise With Rabbit KB0003.webp",
+        url: "/products/Tortoise With Rabbit KB0003.png",
         alt: "999 Silver Tortoise With Rabbit",
       },
       {
-        url: "/products/KB0003/gallery_01.webp",
+        url: "/products/KB0003/gallery_01.png",
         alt: "999 Silver Tortoise With Rabbit",
       },
       {
-        url: "/products/KB0003/gallery_02.webp",
+        url: "/products/KB0003/gallery_02.png",
         alt: "999 Silver Tortoise With Rabbit",
       },
       {
-        url: "/products/KB0003/gallery_03.webp",
+        url: "/products/KB0003/gallery_03.png",
         alt: "999 Silver Tortoise With Rabbit",
       },
       {
-        url: "/products/KB0003/gallery_04.webp",
+        url: "/products/KB0003/gallery_04.png",
         alt: "999 Silver Tortoise With Rabbit",
       },
       {
-        url: "/products/KB0003/gallery_05.webp",
+        url: "/products/KB0003/gallery_05.png",
         alt: "999 Silver Tortoise With Rabbit",
       },
     ],
@@ -15432,27 +15432,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BAL GANESHJI 15GM KB0026.webp",
+        url: "/products/BAL GANESHJI 15GM KB0026.png",
         alt: "999 Silver Bal Ganeshji",
       },
       {
-        url: "/products/KB0026/gallery_01.webp",
+        url: "/products/KB0026/gallery_01.png",
         alt: "999 Silver Bal Ganeshji",
       },
       {
-        url: "/products/KB0026/gallery_02.webp",
+        url: "/products/KB0026/gallery_02.png",
         alt: "999 Silver Bal Ganeshji",
       },
       {
-        url: "/products/KB0026/gallery_03.webp",
+        url: "/products/KB0026/gallery_03.png",
         alt: "999 Silver Bal Ganeshji",
       },
       {
-        url: "/products/KB0026/gallery_04.webp",
+        url: "/products/KB0026/gallery_04.png",
         alt: "999 Silver Bal Ganeshji",
       },
       {
-        url: "/products/KB0026/gallery_05.webp",
+        url: "/products/KB0026/gallery_05.png",
         alt: "999 Silver Bal Ganeshji",
       },
     ],
@@ -15485,27 +15485,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DOG SET 45GM KB0049.webp",
+        url: "/products/DOG SET 45GM KB0049.png",
         alt: "999 Silver Dog Set",
       },
       {
-        url: "/products/KB0049/gallery_01.webp",
+        url: "/products/KB0049/gallery_01.png",
         alt: "999 Silver Dog Set",
       },
       {
-        url: "/products/KB0049/gallery_02.webp",
+        url: "/products/KB0049/gallery_02.png",
         alt: "999 Silver Dog Set",
       },
       {
-        url: "/products/KB0049/gallery_03.webp",
+        url: "/products/KB0049/gallery_03.png",
         alt: "999 Silver Dog Set",
       },
       {
-        url: "/products/KB0049/gallery_04.webp",
+        url: "/products/KB0049/gallery_04.png",
         alt: "999 Silver Dog Set",
       },
       {
-        url: "/products/KB0049/gallery_05.webp",
+        url: "/products/KB0049/gallery_05.png",
         alt: "999 Silver Dog Set",
       },
     ],
@@ -15540,27 +15540,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHREE YANTRA 25GM KB0055.webp",
+        url: "/products/SHREE YANTRA 25GM KB0055.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0055/gallery_01.webp",
+        url: "/products/KB0055/gallery_01.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0055/gallery_02.webp",
+        url: "/products/KB0055/gallery_02.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0055/gallery_03.webp",
+        url: "/products/KB0055/gallery_03.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0055/gallery_04.webp",
+        url: "/products/KB0055/gallery_04.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0055/gallery_05.webp",
+        url: "/products/KB0055/gallery_05.png",
         alt: "999 Silver Shree Yantra",
       },
     ],
@@ -15599,27 +15599,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Mute Swan KB0058.webp",
+        url: "/products/Mute Swan KB0058.png",
         alt: "999 Silver Mute Swan",
       },
       {
-        url: "/products/KB0058/gallery_01.webp",
+        url: "/products/KB0058/gallery_01.png",
         alt: "999 Silver Mute Swan",
       },
       {
-        url: "/products/KB0058/gallery_02.webp",
+        url: "/products/KB0058/gallery_02.png",
         alt: "999 Silver Mute Swan",
       },
       {
-        url: "/products/KB0058/gallery_03.webp",
+        url: "/products/KB0058/gallery_03.png",
         alt: "999 Silver Mute Swan",
       },
       {
-        url: "/products/KB0058/gallery_04.webp",
+        url: "/products/KB0058/gallery_04.png",
         alt: "999 Silver Mute Swan",
       },
       {
-        url: "/products/KB0058/gallery_05.webp",
+        url: "/products/KB0058/gallery_05.png",
         alt: "999 Silver Mute Swan",
       },
     ],
@@ -15655,27 +15655,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHJI 35GM KB0068.webp",
+        url: "/products/GANESHJI 35GM KB0068.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0068/gallery_01.webp",
+        url: "/products/KB0068/gallery_01.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0068/gallery_02.webp",
+        url: "/products/KB0068/gallery_02.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0068/gallery_03.webp",
+        url: "/products/KB0068/gallery_03.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0068/gallery_04.webp",
+        url: "/products/KB0068/gallery_04.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0068/gallery_05.webp",
+        url: "/products/KB0068/gallery_05.png",
         alt: "999 Silver Ganeshji",
       },
     ],
@@ -15710,27 +15710,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LOVE BIRDS 70GM KB0074A.webp",
+        url: "/products/LOVE BIRDS 70GM KB0074A.png",
         alt: "999 Silver Love Birds",
       },
       {
-        url: "/products/KB0074A/gallery_01.webp",
+        url: "/products/KB0074A/gallery_01.png",
         alt: "999 Silver Love Birds",
       },
       {
-        url: "/products/KB0074A/gallery_02.webp",
+        url: "/products/KB0074A/gallery_02.png",
         alt: "999 Silver Love Birds",
       },
       {
-        url: "/products/KB0074A/gallery_03.webp",
+        url: "/products/KB0074A/gallery_03.png",
         alt: "999 Silver Love Birds",
       },
       {
-        url: "/products/KB0074A/gallery_04.webp",
+        url: "/products/KB0074A/gallery_04.png",
         alt: "999 Silver Love Birds",
       },
       {
-        url: "/products/KB0074A/gallery_05.webp",
+        url: "/products/KB0074A/gallery_05.png",
         alt: "999 Silver Love Birds",
       },
     ],
@@ -15765,27 +15765,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING LAXMI GANESH 45GM KB0080.webp",
+        url: "/products/STANDING LAXMI GANESH 45GM KB0080.png",
         alt: "999 Silver Standing Laxmi Ganesh",
       },
       {
-        url: "/products/KB0080/gallery_01.webp",
+        url: "/products/KB0080/gallery_01.png",
         alt: "999 Silver Standing Laxmi Ganesh",
       },
       {
-        url: "/products/KB0080/gallery_02.webp",
+        url: "/products/KB0080/gallery_02.png",
         alt: "999 Silver Standing Laxmi Ganesh",
       },
       {
-        url: "/products/KB0080/gallery_03.webp",
+        url: "/products/KB0080/gallery_03.png",
         alt: "999 Silver Standing Laxmi Ganesh",
       },
       {
-        url: "/products/KB0080/gallery_04.webp",
+        url: "/products/KB0080/gallery_04.png",
         alt: "999 Silver Standing Laxmi Ganesh",
       },
       {
-        url: "/products/KB0080/gallery_05.webp",
+        url: "/products/KB0080/gallery_05.png",
         alt: "999 Silver Standing Laxmi Ganesh",
       },
     ],
@@ -15820,27 +15820,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 125GM KB0083.webp",
+        url: "/products/Ganesh 125GM KB0083.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0083/gallery_01.webp",
+        url: "/products/KB0083/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0083/gallery_02.webp",
+        url: "/products/KB0083/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0083/gallery_03.webp",
+        url: "/products/KB0083/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0083/gallery_04.webp",
+        url: "/products/KB0083/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0083/gallery_05.webp",
+        url: "/products/KB0083/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -15875,27 +15875,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHJI 65GM KB0084.webp",
+        url: "/products/GANESHJI 65GM KB0084.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084/gallery_01.webp",
+        url: "/products/KB0084/gallery_01.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084/gallery_02.webp",
+        url: "/products/KB0084/gallery_02.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084/gallery_03.webp",
+        url: "/products/KB0084/gallery_03.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084/gallery_04.webp",
+        url: "/products/KB0084/gallery_04.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084/gallery_05.webp",
+        url: "/products/KB0084/gallery_05.png",
         alt: "999 Silver Ganeshji",
       },
     ],
@@ -15930,27 +15930,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHJI 80GM KB0084M.webp",
+        url: "/products/GANESHJI 80GM KB0084M.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084M/gallery_01.webp",
+        url: "/products/KB0084M/gallery_01.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084M/gallery_02.webp",
+        url: "/products/KB0084M/gallery_02.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084M/gallery_03.webp",
+        url: "/products/KB0084M/gallery_03.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084M/gallery_04.webp",
+        url: "/products/KB0084M/gallery_04.png",
         alt: "999 Silver Ganeshji",
       },
       {
-        url: "/products/KB0084M/gallery_05.webp",
+        url: "/products/KB0084M/gallery_05.png",
         alt: "999 Silver Ganeshji",
       },
     ],
@@ -15985,27 +15985,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ROCK HANUMANJI 90GM Kb0087.webp",
+        url: "/products/ROCK HANUMANJI 90GM Kb0087.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/KB0087/gallery_01.webp",
+        url: "/products/KB0087/gallery_01.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/KB0087/gallery_02.webp",
+        url: "/products/KB0087/gallery_02.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/KB0087/gallery_03.webp",
+        url: "/products/KB0087/gallery_03.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/KB0087/gallery_04.webp",
+        url: "/products/KB0087/gallery_04.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/KB0087/gallery_05.webp",
+        url: "/products/KB0087/gallery_05.png",
         alt: "999 Silver Rock Hanumanji",
       },
     ],
@@ -16042,27 +16042,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SITING OWL GANESH 120GM KB0088.webp",
+        url: "/products/SITING OWL GANESH 120GM KB0088.png",
         alt: "999 Silver Siting Owl Ganesh",
       },
       {
-        url: "/products/KB0088/gallery_01.webp",
+        url: "/products/KB0088/gallery_01.png",
         alt: "999 Silver Siting Owl Ganesh",
       },
       {
-        url: "/products/KB0088/gallery_02.webp",
+        url: "/products/KB0088/gallery_02.png",
         alt: "999 Silver Siting Owl Ganesh",
       },
       {
-        url: "/products/KB0088/gallery_03.webp",
+        url: "/products/KB0088/gallery_03.png",
         alt: "999 Silver Siting Owl Ganesh",
       },
       {
-        url: "/products/KB0088/gallery_04.webp",
+        url: "/products/KB0088/gallery_04.png",
         alt: "999 Silver Siting Owl Ganesh",
       },
       {
-        url: "/products/KB0088/gallery_05.webp",
+        url: "/products/KB0088/gallery_05.png",
         alt: "999 Silver Siting Owl Ganesh",
       },
     ],
@@ -16095,27 +16095,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Snake KB0094.webp",
+        url: "/products/Snake KB0094.png",
         alt: "999 Silver Snake",
       },
       {
-        url: "/products/KB0094/gallery_01.webp",
+        url: "/products/KB0094/gallery_01.png",
         alt: "999 Silver Snake",
       },
       {
-        url: "/products/KB0094/gallery_02.webp",
+        url: "/products/KB0094/gallery_02.png",
         alt: "999 Silver Snake",
       },
       {
-        url: "/products/KB0094/gallery_03.webp",
+        url: "/products/KB0094/gallery_03.png",
         alt: "999 Silver Snake",
       },
       {
-        url: "/products/KB0094/gallery_04.webp",
+        url: "/products/KB0094/gallery_04.png",
         alt: "999 Silver Snake",
       },
       {
-        url: "/products/KB0094/gallery_05.webp",
+        url: "/products/KB0094/gallery_05.png",
         alt: "999 Silver Snake",
       },
     ],
@@ -16149,27 +16149,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Little Eagle 50GM KB0095.webp",
+        url: "/products/Little Eagle 50GM KB0095.png",
         alt: "999 Silver Little Eagle",
       },
       {
-        url: "/products/KB0095/gallery_01.webp",
+        url: "/products/KB0095/gallery_01.png",
         alt: "999 Silver Little Eagle",
       },
       {
-        url: "/products/KB0095/gallery_02.webp",
+        url: "/products/KB0095/gallery_02.png",
         alt: "999 Silver Little Eagle",
       },
       {
-        url: "/products/KB0095/gallery_03.webp",
+        url: "/products/KB0095/gallery_03.png",
         alt: "999 Silver Little Eagle",
       },
       {
-        url: "/products/KB0095/gallery_04.webp",
+        url: "/products/KB0095/gallery_04.png",
         alt: "999 Silver Little Eagle",
       },
       {
-        url: "/products/KB0095/gallery_05.webp",
+        url: "/products/KB0095/gallery_05.png",
         alt: "999 Silver Little Eagle",
       },
     ],
@@ -16208,27 +16208,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/EAGLE 160GM KB0097.webp",
+        url: "/products/EAGLE 160GM KB0097.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/KB0097/gallery_01.webp",
+        url: "/products/KB0097/gallery_01.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/KB0097/gallery_02.webp",
+        url: "/products/KB0097/gallery_02.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/KB0097/gallery_03.webp",
+        url: "/products/KB0097/gallery_03.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/KB0097/gallery_04.webp",
+        url: "/products/KB0097/gallery_04.png",
         alt: "999 Silver Eagle",
       },
       {
-        url: "/products/KB0097/gallery_05.webp",
+        url: "/products/KB0097/gallery_05.png",
         alt: "999 Silver Eagle",
       },
     ],
@@ -16265,27 +16265,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GAUTAM BUDHA 55GM KB0108.webp",
+        url: "/products/GAUTAM BUDHA 55GM KB0108.png",
         alt: "999 Silver Gautam Budha",
       },
       {
-        url: "/products/KB0108/gallery_01.webp",
+        url: "/products/KB0108/gallery_01.png",
         alt: "999 Silver Gautam Budha",
       },
       {
-        url: "/products/KB0108/gallery_02.webp",
+        url: "/products/KB0108/gallery_02.png",
         alt: "999 Silver Gautam Budha",
       },
       {
-        url: "/products/KB0108/gallery_03.webp",
+        url: "/products/KB0108/gallery_03.png",
         alt: "999 Silver Gautam Budha",
       },
       {
-        url: "/products/KB0108/gallery_04.webp",
+        url: "/products/KB0108/gallery_04.png",
         alt: "999 Silver Gautam Budha",
       },
       {
-        url: "/products/KB0108/gallery_05.webp",
+        url: "/products/KB0108/gallery_05.png",
         alt: "999 Silver Gautam Budha",
       },
     ],
@@ -16318,27 +16318,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HORSE 15GM KB0109.webp",
+        url: "/products/HORSE 15GM KB0109.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0109/gallery_01.webp",
+        url: "/products/KB0109/gallery_01.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0109/gallery_02.webp",
+        url: "/products/KB0109/gallery_02.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0109/gallery_03.webp",
+        url: "/products/KB0109/gallery_03.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0109/gallery_04.webp",
+        url: "/products/KB0109/gallery_04.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0109/gallery_05.webp",
+        url: "/products/KB0109/gallery_05.png",
         alt: "999 Silver Horse",
       },
     ],
@@ -16371,27 +16371,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 165GM KB0110.webp",
+        url: "/products/LAXMI GANESH 165GM KB0110.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0110/gallery_01.webp",
+        url: "/products/KB0110/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0110/gallery_02.webp",
+        url: "/products/KB0110/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0110/gallery_03.webp",
+        url: "/products/KB0110/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0110/gallery_04.webp",
+        url: "/products/KB0110/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0110/gallery_05.webp",
+        url: "/products/KB0110/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -16424,27 +16424,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 80GM KB0110A.webp",
+        url: "/products/Ganesh 80GM KB0110A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0110A/gallery_01.webp",
+        url: "/products/KB0110A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0110A/gallery_02.webp",
+        url: "/products/KB0110A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0110A/gallery_03.webp",
+        url: "/products/KB0110A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0110A/gallery_04.webp",
+        url: "/products/KB0110A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0110A/gallery_05.webp",
+        url: "/products/KB0110A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -16477,27 +16477,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 80GM KB0110B.webp",
+        url: "/products/Laxmi 80GM KB0110B.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0110B/gallery_01.webp",
+        url: "/products/KB0110B/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0110B/gallery_02.webp",
+        url: "/products/KB0110B/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0110B/gallery_03.webp",
+        url: "/products/KB0110B/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0110B/gallery_04.webp",
+        url: "/products/KB0110B/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0110B/gallery_05.webp",
+        url: "/products/KB0110B/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -16532,27 +16532,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 310GM KB0114A.webp",
+        url: "/products/GANESH JI 310GM KB0114A.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0114A/gallery_01.webp",
+        url: "/products/KB0114A/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0114A/gallery_02.webp",
+        url: "/products/KB0114A/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0114A/gallery_03.webp",
+        url: "/products/KB0114A/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0114A/gallery_04.webp",
+        url: "/products/KB0114A/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0114A/gallery_05.webp",
+        url: "/products/KB0114A/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -16589,23 +16589,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB0116/gallery_01.webp",
+        url: "/products/KB0116/gallery_01.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0116/gallery_02.webp",
+        url: "/products/KB0116/gallery_02.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0116/gallery_03.webp",
+        url: "/products/KB0116/gallery_03.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0116/gallery_04.webp",
+        url: "/products/KB0116/gallery_04.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0116/gallery_05.webp",
+        url: "/products/KB0116/gallery_05.png",
         alt: "999 Silver Khodiyar Maa",
       },
     ],
@@ -16643,27 +16643,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Courageous Lion KB0122.webp",
+        url: "/products/Courageous Lion KB0122.png",
         alt: "999 Silver Courageous Lion",
       },
       {
-        url: "/products/KB0122/gallery_01.webp",
+        url: "/products/KB0122/gallery_01.png",
         alt: "999 Silver Courageous Lion",
       },
       {
-        url: "/products/KB0122/gallery_02.webp",
+        url: "/products/KB0122/gallery_02.png",
         alt: "999 Silver Courageous Lion",
       },
       {
-        url: "/products/KB0122/gallery_03.webp",
+        url: "/products/KB0122/gallery_03.png",
         alt: "999 Silver Courageous Lion",
       },
       {
-        url: "/products/KB0122/gallery_04.webp",
+        url: "/products/KB0122/gallery_04.png",
         alt: "999 Silver Courageous Lion",
       },
       {
-        url: "/products/KB0122/gallery_05.webp",
+        url: "/products/KB0122/gallery_05.png",
         alt: "999 Silver Courageous Lion",
       },
     ],
@@ -16699,27 +16699,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 45GM KB0125.webp",
+        url: "/products/GANESH JI 45GM KB0125.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0125/gallery_01.webp",
+        url: "/products/KB0125/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0125/gallery_02.webp",
+        url: "/products/KB0125/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0125/gallery_03.webp",
+        url: "/products/KB0125/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0125/gallery_04.webp",
+        url: "/products/KB0125/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0125/gallery_05.webp",
+        url: "/products/KB0125/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -16756,27 +16756,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAM DARBAR KB0127.webp",
+        url: "/products/RAM DARBAR KB0127.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0127/gallery_01.webp",
+        url: "/products/KB0127/gallery_01.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0127/gallery_02.webp",
+        url: "/products/KB0127/gallery_02.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0127/gallery_03.webp",
+        url: "/products/KB0127/gallery_03.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0127/gallery_04.webp",
+        url: "/products/KB0127/gallery_04.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0127/gallery_05.webp",
+        url: "/products/KB0127/gallery_05.png",
         alt: "999 Silver Ram Darbar",
       },
     ],
@@ -16810,27 +16810,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Dwarkadish 120GM KB0129.webp",
+        url: "/products/Dwarkadish 120GM KB0129.png",
         alt: "999 Silver Dwarka Dhish",
       },
       {
-        url: "/products/KB0129/gallery_01.webp",
+        url: "/products/KB0129/gallery_01.png",
         alt: "999 Silver Dwarka Dhish",
       },
       {
-        url: "/products/KB0129/gallery_02.webp",
+        url: "/products/KB0129/gallery_02.png",
         alt: "999 Silver Dwarka Dhish",
       },
       {
-        url: "/products/KB0129/gallery_03.webp",
+        url: "/products/KB0129/gallery_03.png",
         alt: "999 Silver Dwarka Dhish",
       },
       {
-        url: "/products/KB0129/gallery_04.webp",
+        url: "/products/KB0129/gallery_04.png",
         alt: "999 Silver Dwarka Dhish",
       },
       {
-        url: "/products/KB0129/gallery_05.webp",
+        url: "/products/KB0129/gallery_05.png",
         alt: "999 Silver Dwarka Dhish",
       },
     ],
@@ -16866,27 +16866,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SMALL RADHA KRISHNA JULA 30GM KB0132.webp",
+        url: "/products/SMALL RADHA KRISHNA JULA 30GM KB0132.png",
         alt: "999 Silver Small Radha Krishna Jula",
       },
       {
-        url: "/products/KB0132/gallery_01.webp",
+        url: "/products/KB0132/gallery_01.png",
         alt: "999 Silver Small Radha Krishna Jula",
       },
       {
-        url: "/products/KB0132/gallery_02.webp",
+        url: "/products/KB0132/gallery_02.png",
         alt: "999 Silver Small Radha Krishna Jula",
       },
       {
-        url: "/products/KB0132/gallery_03.webp",
+        url: "/products/KB0132/gallery_03.png",
         alt: "999 Silver Small Radha Krishna Jula",
       },
       {
-        url: "/products/KB0132/gallery_04.webp",
+        url: "/products/KB0132/gallery_04.png",
         alt: "999 Silver Small Radha Krishna Jula",
       },
       {
-        url: "/products/KB0132/gallery_05.webp",
+        url: "/products/KB0132/gallery_05.png",
         alt: "999 Silver Small Radha Krishna Jula",
       },
     ],
@@ -16921,27 +16921,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANPATI WITH RIDDHI SIDDHI 80GM KB0142.webp",
+        url: "/products/GANPATI WITH RIDDHI SIDDHI 80GM KB0142.png",
         alt: "999 Silver Ganpati With Riddhi Siddhi",
       },
       {
-        url: "/products/KB0142/gallery_01.webp",
+        url: "/products/KB0142/gallery_01.png",
         alt: "999 Silver Ganpati With Riddhi Siddhi",
       },
       {
-        url: "/products/KB0142/gallery_02.webp",
+        url: "/products/KB0142/gallery_02.png",
         alt: "999 Silver Ganpati With Riddhi Siddhi",
       },
       {
-        url: "/products/KB0142/gallery_03.webp",
+        url: "/products/KB0142/gallery_03.png",
         alt: "999 Silver Ganpati With Riddhi Siddhi",
       },
       {
-        url: "/products/KB0142/gallery_04.webp",
+        url: "/products/KB0142/gallery_04.png",
         alt: "999 Silver Ganpati With Riddhi Siddhi",
       },
       {
-        url: "/products/KB0142/gallery_05.webp",
+        url: "/products/KB0142/gallery_05.png",
         alt: "999 Silver Ganpati With Riddhi Siddhi",
       },
     ],
@@ -16978,27 +16978,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KHODIYAR MAA 110GM KB0143.webp",
+        url: "/products/KHODIYAR MAA 110GM KB0143.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143/gallery_01.webp",
+        url: "/products/KB0143/gallery_01.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143/gallery_02.webp",
+        url: "/products/KB0143/gallery_02.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143/gallery_03.webp",
+        url: "/products/KB0143/gallery_03.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143/gallery_04.webp",
+        url: "/products/KB0143/gallery_04.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143/gallery_05.webp",
+        url: "/products/KB0143/gallery_05.png",
         alt: "999 Silver Khodiyar Maa",
       },
     ],
@@ -17035,27 +17035,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KHODIYAR MAA 55GM KB0143A.webp",
+        url: "/products/KHODIYAR MAA 55GM KB0143A.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143A/gallery_01.webp",
+        url: "/products/KB0143A/gallery_01.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143A/gallery_02.webp",
+        url: "/products/KB0143A/gallery_02.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143A/gallery_03.webp",
+        url: "/products/KB0143A/gallery_03.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143A/gallery_04.webp",
+        url: "/products/KB0143A/gallery_04.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/KB0143A/gallery_05.webp",
+        url: "/products/KB0143A/gallery_05.png",
         alt: "999 Silver Khodiyar Maa",
       },
     ],
@@ -17092,27 +17092,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TAJ MAHEL 100GM KB01709.webp",
+        url: "/products/TAJ MAHEL 100GM KB01709.png",
         alt: "999 Silver Taj Mahel",
       },
       {
-        url: "/products/KB01709/gallery_01.webp",
+        url: "/products/KB01709/gallery_01.png",
         alt: "999 Silver Taj Mahel",
       },
       {
-        url: "/products/KB01709/gallery_02.webp",
+        url: "/products/KB01709/gallery_02.png",
         alt: "999 Silver Taj Mahel",
       },
       {
-        url: "/products/KB01709/gallery_03.webp",
+        url: "/products/KB01709/gallery_03.png",
         alt: "999 Silver Taj Mahel",
       },
       {
-        url: "/products/KB01709/gallery_04.webp",
+        url: "/products/KB01709/gallery_04.png",
         alt: "999 Silver Taj Mahel",
       },
       {
-        url: "/products/KB01709/gallery_05.webp",
+        url: "/products/KB01709/gallery_05.png",
         alt: "999 Silver Taj Mahel",
       },
     ],
@@ -17149,27 +17149,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Mahaveer Swami KB0172.webp",
+        url: "/products/Mahaveer Swami KB0172.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/KB0172/gallery_01.webp",
+        url: "/products/KB0172/gallery_01.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/KB0172/gallery_02.webp",
+        url: "/products/KB0172/gallery_02.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/KB0172/gallery_03.webp",
+        url: "/products/KB0172/gallery_03.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/KB0172/gallery_04.webp",
+        url: "/products/KB0172/gallery_04.png",
         alt: "999 Silver Mahaveer Swami",
       },
       {
-        url: "/products/KB0172/gallery_05.webp",
+        url: "/products/KB0172/gallery_05.png",
         alt: "999 Silver Mahaveer Swami",
       },
     ],
@@ -17203,27 +17203,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/CAR 15GM KB0246.webp",
+        url: "/products/CAR 15GM KB0246.png",
         alt: "999 Silver Car",
       },
       {
-        url: "/products/KB0246/gallery_01.webp",
+        url: "/products/KB0246/gallery_01.png",
         alt: "999 Silver Car",
       },
       {
-        url: "/products/KB0246/gallery_02.webp",
+        url: "/products/KB0246/gallery_02.png",
         alt: "999 Silver Car",
       },
       {
-        url: "/products/KB0246/gallery_03.webp",
+        url: "/products/KB0246/gallery_03.png",
         alt: "999 Silver Car",
       },
       {
-        url: "/products/KB0246/gallery_04.webp",
+        url: "/products/KB0246/gallery_04.png",
         alt: "999 Silver Car",
       },
       {
-        url: "/products/KB0246/gallery_05.webp",
+        url: "/products/KB0246/gallery_05.png",
         alt: "999 Silver Car",
       },
     ],
@@ -17259,27 +17259,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/OWL Product Code KB0290.webp",
+        url: "/products/OWL Product Code KB0290.png",
         alt: "999 Silver OWL Product Code :",
       },
       {
-        url: "/products/KB0290/gallery_01.webp",
+        url: "/products/KB0290/gallery_01.png",
         alt: "999 Silver OWL Product Code :",
       },
       {
-        url: "/products/KB0290/gallery_02.webp",
+        url: "/products/KB0290/gallery_02.png",
         alt: "999 Silver OWL Product Code :",
       },
       {
-        url: "/products/KB0290/gallery_03.webp",
+        url: "/products/KB0290/gallery_03.png",
         alt: "999 Silver OWL Product Code :",
       },
       {
-        url: "/products/KB0290/gallery_04.webp",
+        url: "/products/KB0290/gallery_04.png",
         alt: "999 Silver OWL Product Code :",
       },
       {
-        url: "/products/KB0290/gallery_05.webp",
+        url: "/products/KB0290/gallery_05.png",
         alt: "999 Silver OWL Product Code :",
       },
     ],
@@ -17313,27 +17313,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/CHOCOLATE 15GM KB0439.webp",
+        url: "/products/CHOCOLATE 15GM KB0439.png",
         alt: "999 Silver Chocolate",
       },
       {
-        url: "/products/KB0439/gallery_01.webp",
+        url: "/products/KB0439/gallery_01.png",
         alt: "999 Silver Chocolate",
       },
       {
-        url: "/products/KB0439/gallery_02.webp",
+        url: "/products/KB0439/gallery_02.png",
         alt: "999 Silver Chocolate",
       },
       {
-        url: "/products/KB0439/gallery_03.webp",
+        url: "/products/KB0439/gallery_03.png",
         alt: "999 Silver Chocolate",
       },
       {
-        url: "/products/KB0439/gallery_04.webp",
+        url: "/products/KB0439/gallery_04.png",
         alt: "999 Silver Chocolate",
       },
       {
-        url: "/products/KB0439/gallery_05.webp",
+        url: "/products/KB0439/gallery_05.png",
         alt: "999 Silver Chocolate",
       },
     ],
@@ -17369,27 +17369,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 260gm KB0452.webp",
+        url: "/products/ELEPHANT 260gm KB0452.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0452/gallery_01.webp",
+        url: "/products/KB0452/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0452/gallery_02.webp",
+        url: "/products/KB0452/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0452/gallery_03.webp",
+        url: "/products/KB0452/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0452/gallery_04.webp",
+        url: "/products/KB0452/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0452/gallery_05.webp",
+        url: "/products/KB0452/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -17422,27 +17422,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 35GM KB0453.webp",
+        url: "/products/Cow 35GM KB0453.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0453/gallery_01.webp",
+        url: "/products/KB0453/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0453/gallery_02.webp",
+        url: "/products/KB0453/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0453/gallery_03.webp",
+        url: "/products/KB0453/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0453/gallery_04.webp",
+        url: "/products/KB0453/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0453/gallery_05.webp",
+        url: "/products/KB0453/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -17475,27 +17475,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant 140GN KB0457.webp",
+        url: "/products/Elephant 140GN KB0457.png",
         alt: "999 Silver Elephant 140GN",
       },
       {
-        url: "/products/KB0457/gallery_01.webp",
+        url: "/products/KB0457/gallery_01.png",
         alt: "999 Silver Elephant 140GN",
       },
       {
-        url: "/products/KB0457/gallery_02.webp",
+        url: "/products/KB0457/gallery_02.png",
         alt: "999 Silver Elephant 140GN",
       },
       {
-        url: "/products/KB0457/gallery_03.webp",
+        url: "/products/KB0457/gallery_03.png",
         alt: "999 Silver Elephant 140GN",
       },
       {
-        url: "/products/KB0457/gallery_04.webp",
+        url: "/products/KB0457/gallery_04.png",
         alt: "999 Silver Elephant 140GN",
       },
       {
-        url: "/products/KB0457/gallery_05.webp",
+        url: "/products/KB0457/gallery_05.png",
         alt: "999 Silver Elephant 140GN",
       },
     ],
@@ -17529,27 +17529,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 45GM KB0457A.webp",
+        url: "/products/ELEPHANT 45GM KB0457A.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457A/gallery_01.webp",
+        url: "/products/KB0457A/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457A/gallery_02.webp",
+        url: "/products/KB0457A/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457A/gallery_03.webp",
+        url: "/products/KB0457A/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457A/gallery_04.webp",
+        url: "/products/KB0457A/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457A/gallery_05.webp",
+        url: "/products/KB0457A/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -17588,27 +17588,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 75GM KB0457B.webp",
+        url: "/products/ELEPHANT 75GM KB0457B.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457B/gallery_01.webp",
+        url: "/products/KB0457B/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457B/gallery_02.webp",
+        url: "/products/KB0457B/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457B/gallery_03.webp",
+        url: "/products/KB0457B/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457B/gallery_04.webp",
+        url: "/products/KB0457B/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457B/gallery_05.webp",
+        url: "/products/KB0457B/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -17647,27 +17647,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 20GM KB0457C.webp",
+        url: "/products/ELEPHANT 20GM KB0457C.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457C/gallery_01.webp",
+        url: "/products/KB0457C/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457C/gallery_02.webp",
+        url: "/products/KB0457C/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457C/gallery_03.webp",
+        url: "/products/KB0457C/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457C/gallery_04.webp",
+        url: "/products/KB0457C/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0457C/gallery_05.webp",
+        url: "/products/KB0457C/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -17704,27 +17704,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TIRUPATI 65GM KB0458.webp",
+        url: "/products/TIRUPATI 65GM KB0458.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0458/gallery_01.webp",
+        url: "/products/KB0458/gallery_01.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0458/gallery_02.webp",
+        url: "/products/KB0458/gallery_02.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0458/gallery_03.webp",
+        url: "/products/KB0458/gallery_03.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0458/gallery_04.webp",
+        url: "/products/KB0458/gallery_04.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0458/gallery_05.webp",
+        url: "/products/KB0458/gallery_05.png",
         alt: "999 Silver Tirupati",
       },
     ],
@@ -17759,27 +17759,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BIG TORTOISE 90GM KB0460.webp",
+        url: "/products/BIG TORTOISE 90GM KB0460.png",
         alt: "999 Silver Big Tortoise",
       },
       {
-        url: "/products/KB0460/gallery_01.webp",
+        url: "/products/KB0460/gallery_01.png",
         alt: "999 Silver Big Tortoise",
       },
       {
-        url: "/products/KB0460/gallery_02.webp",
+        url: "/products/KB0460/gallery_02.png",
         alt: "999 Silver Big Tortoise",
       },
       {
-        url: "/products/KB0460/gallery_03.webp",
+        url: "/products/KB0460/gallery_03.png",
         alt: "999 Silver Big Tortoise",
       },
       {
-        url: "/products/KB0460/gallery_04.webp",
+        url: "/products/KB0460/gallery_04.png",
         alt: "999 Silver Big Tortoise",
       },
       {
-        url: "/products/KB0460/gallery_05.webp",
+        url: "/products/KB0460/gallery_05.png",
         alt: "999 Silver Big Tortoise",
       },
     ],
@@ -17814,27 +17814,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HANUMAN WITH BASE 280GM KB0462.webp",
+        url: "/products/HANUMAN WITH BASE 280GM KB0462.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KB0462/gallery_01.webp",
+        url: "/products/KB0462/gallery_01.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KB0462/gallery_02.webp",
+        url: "/products/KB0462/gallery_02.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KB0462/gallery_03.webp",
+        url: "/products/KB0462/gallery_03.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KB0462/gallery_04.webp",
+        url: "/products/KB0462/gallery_04.png",
         alt: "999 Silver Hanuman With Base",
       },
       {
-        url: "/products/KB0462/gallery_05.webp",
+        url: "/products/KB0462/gallery_05.png",
         alt: "999 Silver Hanuman With Base",
       },
     ],
@@ -17867,27 +17867,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAM DARBAR KB0463.webp",
+        url: "/products/RAM DARBAR KB0463.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0463/gallery_01.webp",
+        url: "/products/KB0463/gallery_01.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0463/gallery_02.webp",
+        url: "/products/KB0463/gallery_02.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0463/gallery_03.webp",
+        url: "/products/KB0463/gallery_03.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0463/gallery_04.webp",
+        url: "/products/KB0463/gallery_04.png",
         alt: "999 Silver Ram Darbar",
       },
       {
-        url: "/products/KB0463/gallery_05.webp",
+        url: "/products/KB0463/gallery_05.png",
         alt: "999 Silver Ram Darbar",
       },
     ],
@@ -17919,27 +17919,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Love Birds Product Code KB0465.webp",
+        url: "/products/Love Birds Product Code KB0465.png",
         alt: "999 Silver Love Birds Product Code :",
       },
       {
-        url: "/products/KB0465/gallery_01.webp",
+        url: "/products/KB0465/gallery_01.png",
         alt: "999 Silver Love Birds Product Code :",
       },
       {
-        url: "/products/KB0465/gallery_02.webp",
+        url: "/products/KB0465/gallery_02.png",
         alt: "999 Silver Love Birds Product Code :",
       },
       {
-        url: "/products/KB0465/gallery_03.webp",
+        url: "/products/KB0465/gallery_03.png",
         alt: "999 Silver Love Birds Product Code :",
       },
       {
-        url: "/products/KB0465/gallery_04.webp",
+        url: "/products/KB0465/gallery_04.png",
         alt: "999 Silver Love Birds Product Code :",
       },
       {
-        url: "/products/KB0465/gallery_05.webp",
+        url: "/products/KB0465/gallery_05.png",
         alt: "999 Silver Love Birds Product Code :",
       },
     ],
@@ -17971,27 +17971,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDDHA 70GM KB0467.webp",
+        url: "/products/LAUGHING BUDDHA 70GM KB0467.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB0467/gallery_01.webp",
+        url: "/products/KB0467/gallery_01.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB0467/gallery_02.webp",
+        url: "/products/KB0467/gallery_02.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB0467/gallery_03.webp",
+        url: "/products/KB0467/gallery_03.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB0467/gallery_04.webp",
+        url: "/products/KB0467/gallery_04.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB0467/gallery_05.webp",
+        url: "/products/KB0467/gallery_05.png",
         alt: "999 Silver Laughing Buddha",
       },
     ],
@@ -18024,27 +18024,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SPARROW 32GM KB0468.webp",
+        url: "/products/SPARROW 32GM KB0468.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/KB0468/gallery_01.webp",
+        url: "/products/KB0468/gallery_01.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/KB0468/gallery_02.webp",
+        url: "/products/KB0468/gallery_02.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/KB0468/gallery_03.webp",
+        url: "/products/KB0468/gallery_03.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/KB0468/gallery_04.webp",
+        url: "/products/KB0468/gallery_04.png",
         alt: "999 Silver Sparrow",
       },
       {
-        url: "/products/KB0468/gallery_05.webp",
+        url: "/products/KB0468/gallery_05.png",
         alt: "999 Silver Sparrow",
       },
     ],
@@ -18077,27 +18077,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Tortoise KB0471.webp",
+        url: "/products/Tortoise KB0471.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KB0471/gallery_01.webp",
+        url: "/products/KB0471/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KB0471/gallery_02.webp",
+        url: "/products/KB0471/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KB0471/gallery_03.webp",
+        url: "/products/KB0471/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KB0471/gallery_04.webp",
+        url: "/products/KB0471/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/KB0471/gallery_05.webp",
+        url: "/products/KB0471/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -18129,27 +18129,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RANDAL MATAJI FACE 130GM KB0477.webp",
+        url: "/products/RANDAL MATAJI FACE 130GM KB0477.png",
         alt: "999 Silver Randal Mataji Face",
       },
       {
-        url: "/products/KB0477/gallery_01.webp",
+        url: "/products/KB0477/gallery_01.png",
         alt: "999 Silver Randal Mataji Face",
       },
       {
-        url: "/products/KB0477/gallery_02.webp",
+        url: "/products/KB0477/gallery_02.png",
         alt: "999 Silver Randal Mataji Face",
       },
       {
-        url: "/products/KB0477/gallery_03.webp",
+        url: "/products/KB0477/gallery_03.png",
         alt: "999 Silver Randal Mataji Face",
       },
       {
-        url: "/products/KB0477/gallery_04.webp",
+        url: "/products/KB0477/gallery_04.png",
         alt: "999 Silver Randal Mataji Face",
       },
       {
-        url: "/products/KB0477/gallery_05.webp",
+        url: "/products/KB0477/gallery_05.png",
         alt: "999 Silver Randal Mataji Face",
       },
     ],
@@ -18184,23 +18184,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB0479/gallery_01.webp",
+        url: "/products/KB0479/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0479/gallery_02.webp",
+        url: "/products/KB0479/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0479/gallery_03.webp",
+        url: "/products/KB0479/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0479/gallery_04.webp",
+        url: "/products/KB0479/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0479/gallery_05.webp",
+        url: "/products/KB0479/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -18237,27 +18237,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 90GM KB0479D.webp",
+        url: "/products/Laxmi Ganesh Sarswati 90GM KB0479D.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB0479D/gallery_01.webp",
+        url: "/products/KB0479D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB0479D/gallery_02.webp",
+        url: "/products/KB0479D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB0479D/gallery_03.webp",
+        url: "/products/KB0479D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB0479D/gallery_04.webp",
+        url: "/products/KB0479D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB0479D/gallery_05.webp",
+        url: "/products/KB0479D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -18290,27 +18290,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant 480GM KB0480A.webp",
+        url: "/products/Elephant 480GM KB0480A.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0480A/gallery_01.webp",
+        url: "/products/KB0480A/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0480A/gallery_02.webp",
+        url: "/products/KB0480A/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0480A/gallery_03.webp",
+        url: "/products/KB0480A/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0480A/gallery_04.webp",
+        url: "/products/KB0480A/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB0480A/gallery_05.webp",
+        url: "/products/KB0480A/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -18345,27 +18345,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BULL 95gm KB0487.webp",
+        url: "/products/BULL 95gm KB0487.png",
         alt: "999 Silver Bull",
       },
       {
-        url: "/products/KB0487/gallery_01.webp",
+        url: "/products/KB0487/gallery_01.png",
         alt: "999 Silver Bull",
       },
       {
-        url: "/products/KB0487/gallery_02.webp",
+        url: "/products/KB0487/gallery_02.png",
         alt: "999 Silver Bull",
       },
       {
-        url: "/products/KB0487/gallery_03.webp",
+        url: "/products/KB0487/gallery_03.png",
         alt: "999 Silver Bull",
       },
       {
-        url: "/products/KB0487/gallery_04.webp",
+        url: "/products/KB0487/gallery_04.png",
         alt: "999 Silver Bull",
       },
       {
-        url: "/products/KB0487/gallery_05.webp",
+        url: "/products/KB0487/gallery_05.png",
         alt: "999 Silver Bull",
       },
     ],
@@ -18404,27 +18404,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA 105GM KB0491.webp",
+        url: "/products/KRISHNA 105GM KB0491.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491/gallery_01.webp",
+        url: "/products/KB0491/gallery_01.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491/gallery_02.webp",
+        url: "/products/KB0491/gallery_02.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491/gallery_03.webp",
+        url: "/products/KB0491/gallery_03.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491/gallery_04.webp",
+        url: "/products/KB0491/gallery_04.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491/gallery_05.webp",
+        url: "/products/KB0491/gallery_05.png",
         alt: "999 Silver Krishna",
       },
     ],
@@ -18462,27 +18462,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna 110GM KB0491M.webp",
+        url: "/products/Krishna 110GM KB0491M.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491M/gallery_01.webp",
+        url: "/products/KB0491M/gallery_01.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491M/gallery_02.webp",
+        url: "/products/KB0491M/gallery_02.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491M/gallery_03.webp",
+        url: "/products/KB0491M/gallery_03.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491M/gallery_04.webp",
+        url: "/products/KB0491M/gallery_04.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB0491M/gallery_05.webp",
+        url: "/products/KB0491M/gallery_05.png",
         alt: "999 Silver Krishna",
       },
     ],
@@ -18517,27 +18517,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Fancy Ganesh 150GM KB0493.webp",
+        url: "/products/Fancy Ganesh 150GM KB0493.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0493/gallery_01.webp",
+        url: "/products/KB0493/gallery_01.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0493/gallery_02.webp",
+        url: "/products/KB0493/gallery_02.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0493/gallery_03.webp",
+        url: "/products/KB0493/gallery_03.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0493/gallery_04.webp",
+        url: "/products/KB0493/gallery_04.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0493/gallery_05.webp",
+        url: "/products/KB0493/gallery_05.png",
         alt: "999 Silver Fancy Ganesh",
       },
     ],
@@ -18572,27 +18572,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HORSE 120GM KB0494.webp",
+        url: "/products/HORSE 120GM KB0494.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0494/gallery_01.webp",
+        url: "/products/KB0494/gallery_01.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0494/gallery_02.webp",
+        url: "/products/KB0494/gallery_02.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0494/gallery_03.webp",
+        url: "/products/KB0494/gallery_03.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0494/gallery_04.webp",
+        url: "/products/KB0494/gallery_04.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0494/gallery_05.webp",
+        url: "/products/KB0494/gallery_05.png",
         alt: "999 Silver Horse",
       },
     ],
@@ -18628,27 +18628,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Saras Crune KB0504.webp",
+        url: "/products/Saras Crune KB0504.png",
         alt: "999 Silver Saras Crune",
       },
       {
-        url: "/products/KB0504/gallery_01.webp",
+        url: "/products/KB0504/gallery_01.png",
         alt: "999 Silver Saras Crune",
       },
       {
-        url: "/products/KB0504/gallery_02.webp",
+        url: "/products/KB0504/gallery_02.png",
         alt: "999 Silver Saras Crune",
       },
       {
-        url: "/products/KB0504/gallery_03.webp",
+        url: "/products/KB0504/gallery_03.png",
         alt: "999 Silver Saras Crune",
       },
       {
-        url: "/products/KB0504/gallery_04.webp",
+        url: "/products/KB0504/gallery_04.png",
         alt: "999 Silver Saras Crune",
       },
       {
-        url: "/products/KB0504/gallery_05.webp",
+        url: "/products/KB0504/gallery_05.png",
         alt: "999 Silver Saras Crune",
       },
     ],
@@ -18682,27 +18682,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 55GM KB0510.webp",
+        url: "/products/LAXMI GANESH 55GM KB0510.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0510/gallery_01.webp",
+        url: "/products/KB0510/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0510/gallery_02.webp",
+        url: "/products/KB0510/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0510/gallery_03.webp",
+        url: "/products/KB0510/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0510/gallery_04.webp",
+        url: "/products/KB0510/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0510/gallery_05.webp",
+        url: "/products/KB0510/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -18737,27 +18737,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI LOTUS BASE 85GM KB0517.webp",
+        url: "/products/LAXMI LOTUS BASE 85GM KB0517.png",
         alt: "999 Silver Laxmi Lotus Base",
       },
       {
-        url: "/products/KB0517/gallery_01.webp",
+        url: "/products/KB0517/gallery_01.png",
         alt: "999 Silver Laxmi Lotus Base",
       },
       {
-        url: "/products/KB0517/gallery_02.webp",
+        url: "/products/KB0517/gallery_02.png",
         alt: "999 Silver Laxmi Lotus Base",
       },
       {
-        url: "/products/KB0517/gallery_03.webp",
+        url: "/products/KB0517/gallery_03.png",
         alt: "999 Silver Laxmi Lotus Base",
       },
       {
-        url: "/products/KB0517/gallery_04.webp",
+        url: "/products/KB0517/gallery_04.png",
         alt: "999 Silver Laxmi Lotus Base",
       },
       {
-        url: "/products/KB0517/gallery_05.webp",
+        url: "/products/KB0517/gallery_05.png",
         alt: "999 Silver Laxmi Lotus Base",
       },
     ],
@@ -18792,23 +18792,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB0518/gallery_01.webp",
+        url: "/products/KB0518/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0518/gallery_02.webp",
+        url: "/products/KB0518/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0518/gallery_03.webp",
+        url: "/products/KB0518/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0518/gallery_04.webp",
+        url: "/products/KB0518/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0518/gallery_05.webp",
+        url: "/products/KB0518/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -18847,27 +18847,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RELAXING GANESH 70GM KB0519.webp",
+        url: "/products/RELAXING GANESH 70GM KB0519.png",
         alt: "999 Silver Relaxing Ganesh",
       },
       {
-        url: "/products/KB0519/gallery_01.webp",
+        url: "/products/KB0519/gallery_01.png",
         alt: "999 Silver Relaxing Ganesh",
       },
       {
-        url: "/products/KB0519/gallery_02.webp",
+        url: "/products/KB0519/gallery_02.png",
         alt: "999 Silver Relaxing Ganesh",
       },
       {
-        url: "/products/KB0519/gallery_03.webp",
+        url: "/products/KB0519/gallery_03.png",
         alt: "999 Silver Relaxing Ganesh",
       },
       {
-        url: "/products/KB0519/gallery_04.webp",
+        url: "/products/KB0519/gallery_04.png",
         alt: "999 Silver Relaxing Ganesh",
       },
       {
-        url: "/products/KB0519/gallery_05.webp",
+        url: "/products/KB0519/gallery_05.png",
         alt: "999 Silver Relaxing Ganesh",
       },
     ],
@@ -18902,27 +18902,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 125GM KB0522.webp",
+        url: "/products/Ganesh 125GM KB0522.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522/gallery_01.webp",
+        url: "/products/KB0522/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522/gallery_02.webp",
+        url: "/products/KB0522/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522/gallery_03.webp",
+        url: "/products/KB0522/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522/gallery_04.webp",
+        url: "/products/KB0522/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522/gallery_05.webp",
+        url: "/products/KB0522/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -18955,27 +18955,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 125GM KB0522d.webp",
+        url: "/products/Ganesh 125GM KB0522d.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522D/gallery_01.webp",
+        url: "/products/KB0522D/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522D/gallery_02.webp",
+        url: "/products/KB0522D/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522D/gallery_03.webp",
+        url: "/products/KB0522D/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522D/gallery_04.webp",
+        url: "/products/KB0522D/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0522D/gallery_05.webp",
+        url: "/products/KB0522D/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -19008,27 +19008,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BIKE 90GM KB0523.webp",
+        url: "/products/BIKE 90GM KB0523.png",
         alt: "999 Silver Bike",
       },
       {
-        url: "/products/KB0523/gallery_01.webp",
+        url: "/products/KB0523/gallery_01.png",
         alt: "999 Silver Bike",
       },
       {
-        url: "/products/KB0523/gallery_02.webp",
+        url: "/products/KB0523/gallery_02.png",
         alt: "999 Silver Bike",
       },
       {
-        url: "/products/KB0523/gallery_03.webp",
+        url: "/products/KB0523/gallery_03.png",
         alt: "999 Silver Bike",
       },
       {
-        url: "/products/KB0523/gallery_04.webp",
+        url: "/products/KB0523/gallery_04.png",
         alt: "999 Silver Bike",
       },
       {
-        url: "/products/KB0523/gallery_05.webp",
+        url: "/products/KB0523/gallery_05.png",
         alt: "999 Silver Bike",
       },
     ],
@@ -19063,27 +19063,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 250GM KB0524.webp",
+        url: "/products/GANESH 250GM KB0524.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0524/gallery_01.webp",
+        url: "/products/KB0524/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0524/gallery_02.webp",
+        url: "/products/KB0524/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0524/gallery_03.webp",
+        url: "/products/KB0524/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0524/gallery_04.webp",
+        url: "/products/KB0524/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0524/gallery_05.webp",
+        url: "/products/KB0524/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -19118,27 +19118,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sid Chakar Yantra KB0531.webp",
+        url: "/products/Sid Chakar Yantra KB0531.png",
         alt: "999 Silver Sid Chakar Yantra",
       },
       {
-        url: "/products/KB0531/gallery_01.webp",
+        url: "/products/KB0531/gallery_01.png",
         alt: "999 Silver Sid Chakar Yantra",
       },
       {
-        url: "/products/KB0531/gallery_02.webp",
+        url: "/products/KB0531/gallery_02.png",
         alt: "999 Silver Sid Chakar Yantra",
       },
       {
-        url: "/products/KB0531/gallery_03.webp",
+        url: "/products/KB0531/gallery_03.png",
         alt: "999 Silver Sid Chakar Yantra",
       },
       {
-        url: "/products/KB0531/gallery_04.webp",
+        url: "/products/KB0531/gallery_04.png",
         alt: "999 Silver Sid Chakar Yantra",
       },
       {
-        url: "/products/KB0531/gallery_05.webp",
+        url: "/products/KB0531/gallery_05.png",
         alt: "999 Silver Sid Chakar Yantra",
       },
     ],
@@ -19170,27 +19170,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Exquisite Silver Radha Krishna 30gm KB0535.webp",
+        url: "/products/Exquisite Silver Radha Krishna 30gm KB0535.png",
         alt: "999 Silver Exquisite Silver Radha Krishna",
       },
       {
-        url: "/products/KB0535/gallery_01.webp",
+        url: "/products/KB0535/gallery_01.png",
         alt: "999 Silver Exquisite Silver Radha Krishna",
       },
       {
-        url: "/products/KB0535/gallery_02.webp",
+        url: "/products/KB0535/gallery_02.png",
         alt: "999 Silver Exquisite Silver Radha Krishna",
       },
       {
-        url: "/products/KB0535/gallery_03.webp",
+        url: "/products/KB0535/gallery_03.png",
         alt: "999 Silver Exquisite Silver Radha Krishna",
       },
       {
-        url: "/products/KB0535/gallery_04.webp",
+        url: "/products/KB0535/gallery_04.png",
         alt: "999 Silver Exquisite Silver Radha Krishna",
       },
       {
-        url: "/products/KB0535/gallery_05.webp",
+        url: "/products/KB0535/gallery_05.png",
         alt: "999 Silver Exquisite Silver Radha Krishna",
       },
     ],
@@ -19223,27 +19223,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Gautam Swamy KB0539.webp",
+        url: "/products/Gautam Swamy KB0539.png",
         alt: "999 Silver Gautam Swamy",
       },
       {
-        url: "/products/KB0539/gallery_01.webp",
+        url: "/products/KB0539/gallery_01.png",
         alt: "999 Silver Gautam Swamy",
       },
       {
-        url: "/products/KB0539/gallery_02.webp",
+        url: "/products/KB0539/gallery_02.png",
         alt: "999 Silver Gautam Swamy",
       },
       {
-        url: "/products/KB0539/gallery_03.webp",
+        url: "/products/KB0539/gallery_03.png",
         alt: "999 Silver Gautam Swamy",
       },
       {
-        url: "/products/KB0539/gallery_04.webp",
+        url: "/products/KB0539/gallery_04.png",
         alt: "999 Silver Gautam Swamy",
       },
       {
-        url: "/products/KB0539/gallery_05.webp",
+        url: "/products/KB0539/gallery_05.png",
         alt: "999 Silver Gautam Swamy",
       },
     ],
@@ -19277,27 +19277,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RUNNING ELEPHANT 100GM KB0543.webp",
+        url: "/products/RUNNING ELEPHANT 100GM KB0543.png",
         alt: "999 Silver Running Elephant",
       },
       {
-        url: "/products/KB0543/gallery_01.webp",
+        url: "/products/KB0543/gallery_01.png",
         alt: "999 Silver Running Elephant",
       },
       {
-        url: "/products/KB0543/gallery_02.webp",
+        url: "/products/KB0543/gallery_02.png",
         alt: "999 Silver Running Elephant",
       },
       {
-        url: "/products/KB0543/gallery_03.webp",
+        url: "/products/KB0543/gallery_03.png",
         alt: "999 Silver Running Elephant",
       },
       {
-        url: "/products/KB0543/gallery_04.webp",
+        url: "/products/KB0543/gallery_04.png",
         alt: "999 Silver Running Elephant",
       },
       {
-        url: "/products/KB0543/gallery_05.webp",
+        url: "/products/KB0543/gallery_05.png",
         alt: "999 Silver Running Elephant",
       },
     ],
@@ -19334,27 +19334,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAHARAJ SAHEB 145GM KB0548.webp",
+        url: "/products/MAHARAJ SAHEB 145GM KB0548.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0548/gallery_01.webp",
+        url: "/products/KB0548/gallery_01.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0548/gallery_02.webp",
+        url: "/products/KB0548/gallery_02.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0548/gallery_03.webp",
+        url: "/products/KB0548/gallery_03.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0548/gallery_04.webp",
+        url: "/products/KB0548/gallery_04.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0548/gallery_05.webp",
+        url: "/products/KB0548/gallery_05.png",
         alt: "999 Silver Maharaj Saheb",
       },
     ],
@@ -19391,27 +19391,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DASHA MAA 100GM KB0553.webp",
+        url: "/products/DASHA MAA 100GM KB0553.png",
         alt: "999 Silver Dasha Maa",
       },
       {
-        url: "/products/KB0553/gallery_01.webp",
+        url: "/products/KB0553/gallery_01.png",
         alt: "999 Silver Dasha Maa",
       },
       {
-        url: "/products/KB0553/gallery_02.webp",
+        url: "/products/KB0553/gallery_02.png",
         alt: "999 Silver Dasha Maa",
       },
       {
-        url: "/products/KB0553/gallery_03.webp",
+        url: "/products/KB0553/gallery_03.png",
         alt: "999 Silver Dasha Maa",
       },
       {
-        url: "/products/KB0553/gallery_04.webp",
+        url: "/products/KB0553/gallery_04.png",
         alt: "999 Silver Dasha Maa",
       },
       {
-        url: "/products/KB0553/gallery_05.webp",
+        url: "/products/KB0553/gallery_05.png",
         alt: "999 Silver Dasha Maa",
       },
     ],
@@ -19446,27 +19446,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Parshwanath Ji12GM KB0570.webp",
+        url: "/products/Parshwanath Ji12GM KB0570.png",
         alt: "999 Silver Parshwanath Ji12GM",
       },
       {
-        url: "/products/KB0570/gallery_01.webp",
+        url: "/products/KB0570/gallery_01.png",
         alt: "999 Silver Parshwanath Ji12GM",
       },
       {
-        url: "/products/KB0570/gallery_02.webp",
+        url: "/products/KB0570/gallery_02.png",
         alt: "999 Silver Parshwanath Ji12GM",
       },
       {
-        url: "/products/KB0570/gallery_03.webp",
+        url: "/products/KB0570/gallery_03.png",
         alt: "999 Silver Parshwanath Ji12GM",
       },
       {
-        url: "/products/KB0570/gallery_04.webp",
+        url: "/products/KB0570/gallery_04.png",
         alt: "999 Silver Parshwanath Ji12GM",
       },
       {
-        url: "/products/KB0570/gallery_05.webp",
+        url: "/products/KB0570/gallery_05.png",
         alt: "999 Silver Parshwanath Ji12GM",
       },
     ],
@@ -19503,27 +19503,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SWAMINARAYAN 30GM KB0571.webp",
+        url: "/products/SWAMINARAYAN 30GM KB0571.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KB0571/gallery_01.webp",
+        url: "/products/KB0571/gallery_01.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KB0571/gallery_02.webp",
+        url: "/products/KB0571/gallery_02.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KB0571/gallery_03.webp",
+        url: "/products/KB0571/gallery_03.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KB0571/gallery_04.webp",
+        url: "/products/KB0571/gallery_04.png",
         alt: "999 Silver Swaminarayan",
       },
       {
-        url: "/products/KB0571/gallery_05.webp",
+        url: "/products/KB0571/gallery_05.png",
         alt: "999 Silver Swaminarayan",
       },
     ],
@@ -19556,27 +19556,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ram darbar KB0583.webp",
+        url: "/products/ram darbar KB0583.png",
         alt: "999 Silver ram darbar",
       },
       {
-        url: "/products/KB0583/gallery_01.webp",
+        url: "/products/KB0583/gallery_01.png",
         alt: "999 Silver ram darbar",
       },
       {
-        url: "/products/KB0583/gallery_02.webp",
+        url: "/products/KB0583/gallery_02.png",
         alt: "999 Silver ram darbar",
       },
       {
-        url: "/products/KB0583/gallery_03.webp",
+        url: "/products/KB0583/gallery_03.png",
         alt: "999 Silver ram darbar",
       },
       {
-        url: "/products/KB0583/gallery_04.webp",
+        url: "/products/KB0583/gallery_04.png",
         alt: "999 Silver ram darbar",
       },
       {
-        url: "/products/KB0583/gallery_05.webp",
+        url: "/products/KB0583/gallery_05.png",
         alt: "999 Silver ram darbar",
       },
     ],
@@ -19611,27 +19611,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAMDARBAR 160GM KB0583M.webp",
+        url: "/products/RAMDARBAR 160GM KB0583M.png",
         alt: "999 Silver Ramdarbar",
       },
       {
-        url: "/products/KB0583M/gallery_01.webp",
+        url: "/products/KB0583M/gallery_01.png",
         alt: "999 Silver Ramdarbar",
       },
       {
-        url: "/products/KB0583M/gallery_02.webp",
+        url: "/products/KB0583M/gallery_02.png",
         alt: "999 Silver Ramdarbar",
       },
       {
-        url: "/products/KB0583M/gallery_03.webp",
+        url: "/products/KB0583M/gallery_03.png",
         alt: "999 Silver Ramdarbar",
       },
       {
-        url: "/products/KB0583M/gallery_04.webp",
+        url: "/products/KB0583M/gallery_04.png",
         alt: "999 Silver Ramdarbar",
       },
       {
-        url: "/products/KB0583M/gallery_05.webp",
+        url: "/products/KB0583M/gallery_05.png",
         alt: "999 Silver Ramdarbar",
       },
     ],
@@ -19668,27 +19668,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHREE YANTRA 15GM KB0594p.webp",
+        url: "/products/SHREE YANTRA 15GM KB0594p.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0594P/gallery_01.webp",
+        url: "/products/KB0594P/gallery_01.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0594P/gallery_02.webp",
+        url: "/products/KB0594P/gallery_02.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0594P/gallery_03.webp",
+        url: "/products/KB0594P/gallery_03.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0594P/gallery_04.webp",
+        url: "/products/KB0594P/gallery_04.png",
         alt: "999 Silver Shree Yantra",
       },
       {
-        url: "/products/KB0594P/gallery_05.webp",
+        url: "/products/KB0594P/gallery_05.png",
         alt: "999 Silver Shree Yantra",
       },
     ],
@@ -19727,27 +19727,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Fancy Ganesh 140gm KB0595.webp",
+        url: "/products/Fancy Ganesh 140gm KB0595.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0595/gallery_01.webp",
+        url: "/products/KB0595/gallery_01.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0595/gallery_02.webp",
+        url: "/products/KB0595/gallery_02.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0595/gallery_03.webp",
+        url: "/products/KB0595/gallery_03.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0595/gallery_04.webp",
+        url: "/products/KB0595/gallery_04.png",
         alt: "999 Silver Fancy Ganesh",
       },
       {
-        url: "/products/KB0595/gallery_05.webp",
+        url: "/products/KB0595/gallery_05.png",
         alt: "999 Silver Fancy Ganesh",
       },
     ],
@@ -19784,27 +19784,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING GANESH 500GM KB0650.webp",
+        url: "/products/STANDING GANESH 500GM KB0650.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0650/gallery_01.webp",
+        url: "/products/KB0650/gallery_01.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0650/gallery_02.webp",
+        url: "/products/KB0650/gallery_02.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0650/gallery_03.webp",
+        url: "/products/KB0650/gallery_03.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0650/gallery_04.webp",
+        url: "/products/KB0650/gallery_04.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0650/gallery_05.webp",
+        url: "/products/KB0650/gallery_05.png",
         alt: "999 Silver Standing Ganesh",
       },
     ],
@@ -19841,27 +19841,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Panchmukhi Hanuman 370GM KB0652.webp",
+        url: "/products/Panchmukhi Hanuman 370GM KB0652.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB0652/gallery_01.webp",
+        url: "/products/KB0652/gallery_01.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB0652/gallery_02.webp",
+        url: "/products/KB0652/gallery_02.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB0652/gallery_03.webp",
+        url: "/products/KB0652/gallery_03.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB0652/gallery_04.webp",
+        url: "/products/KB0652/gallery_04.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB0652/gallery_05.webp",
+        url: "/products/KB0652/gallery_05.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
     ],
@@ -19894,27 +19894,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TIRUPATI KB0673.webp",
+        url: "/products/TIRUPATI KB0673.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0673/gallery_01.webp",
+        url: "/products/KB0673/gallery_01.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0673/gallery_02.webp",
+        url: "/products/KB0673/gallery_02.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0673/gallery_03.webp",
+        url: "/products/KB0673/gallery_03.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0673/gallery_04.webp",
+        url: "/products/KB0673/gallery_04.png",
         alt: "999 Silver Tirupati",
       },
       {
-        url: "/products/KB0673/gallery_05.webp",
+        url: "/products/KB0673/gallery_05.png",
         alt: "999 Silver Tirupati",
       },
     ],
@@ -19948,27 +19948,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TRUPATI BALA JI 18GM KB0678.webp",
+        url: "/products/TRUPATI BALA JI 18GM KB0678.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/KB0678/gallery_01.webp",
+        url: "/products/KB0678/gallery_01.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/KB0678/gallery_02.webp",
+        url: "/products/KB0678/gallery_02.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/KB0678/gallery_03.webp",
+        url: "/products/KB0678/gallery_03.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/KB0678/gallery_04.webp",
+        url: "/products/KB0678/gallery_04.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/KB0678/gallery_05.webp",
+        url: "/products/KB0678/gallery_05.png",
         alt: "999 Silver Trupati Bala Ji",
       },
     ],
@@ -20004,27 +20004,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Maharaj Saheb KB0731.webp",
+        url: "/products/Maharaj Saheb KB0731.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0731/gallery_01.webp",
+        url: "/products/KB0731/gallery_01.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0731/gallery_02.webp",
+        url: "/products/KB0731/gallery_02.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0731/gallery_03.webp",
+        url: "/products/KB0731/gallery_03.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0731/gallery_04.webp",
+        url: "/products/KB0731/gallery_04.png",
         alt: "999 Silver Maharaj Saheb",
       },
       {
-        url: "/products/KB0731/gallery_05.webp",
+        url: "/products/KB0731/gallery_05.png",
         alt: "999 Silver Maharaj Saheb",
       },
     ],
@@ -20056,27 +20056,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Jain 55GM KB0731M.webp",
+        url: "/products/Jain 55GM KB0731M.png",
         alt: "999 Silver Jain",
       },
       {
-        url: "/products/KB0731M/gallery_01.webp",
+        url: "/products/KB0731M/gallery_01.png",
         alt: "999 Silver Jain",
       },
       {
-        url: "/products/KB0731M/gallery_02.webp",
+        url: "/products/KB0731M/gallery_02.png",
         alt: "999 Silver Jain",
       },
       {
-        url: "/products/KB0731M/gallery_03.webp",
+        url: "/products/KB0731M/gallery_03.png",
         alt: "999 Silver Jain",
       },
       {
-        url: "/products/KB0731M/gallery_04.webp",
+        url: "/products/KB0731M/gallery_04.png",
         alt: "999 Silver Jain",
       },
       {
-        url: "/products/KB0731M/gallery_05.webp",
+        url: "/products/KB0731M/gallery_05.png",
         alt: "999 Silver Jain",
       },
     ],
@@ -20109,27 +20109,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Masid 30GM KB0786A.webp",
+        url: "/products/Masid 30GM KB0786A.png",
         alt: "999 Silver Masid",
       },
       {
-        url: "/products/KB0786A/gallery_01.webp",
+        url: "/products/KB0786A/gallery_01.png",
         alt: "999 Silver Masid",
       },
       {
-        url: "/products/KB0786A/gallery_02.webp",
+        url: "/products/KB0786A/gallery_02.png",
         alt: "999 Silver Masid",
       },
       {
-        url: "/products/KB0786A/gallery_03.webp",
+        url: "/products/KB0786A/gallery_03.png",
         alt: "999 Silver Masid",
       },
       {
-        url: "/products/KB0786A/gallery_04.webp",
+        url: "/products/KB0786A/gallery_04.png",
         alt: "999 Silver Masid",
       },
       {
-        url: "/products/KB0786A/gallery_05.webp",
+        url: "/products/KB0786A/gallery_05.png",
         alt: "999 Silver Masid",
       },
     ],
@@ -20164,27 +20164,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW 70GM KB0791B.webp",
+        url: "/products/COW 70GM KB0791B.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0791B/gallery_01.webp",
+        url: "/products/KB0791B/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0791B/gallery_02.webp",
+        url: "/products/KB0791B/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0791B/gallery_03.webp",
+        url: "/products/KB0791B/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0791B/gallery_04.webp",
+        url: "/products/KB0791B/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/KB0791B/gallery_05.webp",
+        url: "/products/KB0791B/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -20219,23 +20219,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB0837/gallery_01.webp",
+        url: "/products/KB0837/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0837/gallery_02.webp",
+        url: "/products/KB0837/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0837/gallery_03.webp",
+        url: "/products/KB0837/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0837/gallery_04.webp",
+        url: "/products/KB0837/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0837/gallery_05.webp",
+        url: "/products/KB0837/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -20270,27 +20270,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Music Ganesh 40GM KB0839.webp",
+        url: "/products/Music Ganesh 40GM KB0839.png",
         alt: "999 Silver Music Ganesh",
       },
       {
-        url: "/products/KB0839/gallery_01.webp",
+        url: "/products/KB0839/gallery_01.png",
         alt: "999 Silver Music Ganesh",
       },
       {
-        url: "/products/KB0839/gallery_02.webp",
+        url: "/products/KB0839/gallery_02.png",
         alt: "999 Silver Music Ganesh",
       },
       {
-        url: "/products/KB0839/gallery_03.webp",
+        url: "/products/KB0839/gallery_03.png",
         alt: "999 Silver Music Ganesh",
       },
       {
-        url: "/products/KB0839/gallery_04.webp",
+        url: "/products/KB0839/gallery_04.png",
         alt: "999 Silver Music Ganesh",
       },
       {
-        url: "/products/KB0839/gallery_05.webp",
+        url: "/products/KB0839/gallery_05.png",
         alt: "999 Silver Music Ganesh",
       },
     ],
@@ -20325,27 +20325,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 150GM KB0844.webp",
+        url: "/products/Ganesh 150GM KB0844.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0844/gallery_01.webp",
+        url: "/products/KB0844/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0844/gallery_02.webp",
+        url: "/products/KB0844/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0844/gallery_03.webp",
+        url: "/products/KB0844/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0844/gallery_04.webp",
+        url: "/products/KB0844/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0844/gallery_05.webp",
+        url: "/products/KB0844/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -20380,27 +20380,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DEGADU GANESH 110GM KB0845.webp",
+        url: "/products/DEGADU GANESH 110GM KB0845.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KB0845/gallery_01.webp",
+        url: "/products/KB0845/gallery_01.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KB0845/gallery_02.webp",
+        url: "/products/KB0845/gallery_02.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KB0845/gallery_03.webp",
+        url: "/products/KB0845/gallery_03.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KB0845/gallery_04.webp",
+        url: "/products/KB0845/gallery_04.png",
         alt: "999 Silver Degadu Ganesh",
       },
       {
-        url: "/products/KB0845/gallery_05.webp",
+        url: "/products/KB0845/gallery_05.png",
         alt: "999 Silver Degadu Ganesh",
       },
     ],
@@ -20437,27 +20437,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DEGADU GANESHJI 70GM KB0845C.webp",
+        url: "/products/DEGADU GANESHJI 70GM KB0845C.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/KB0845C/gallery_01.webp",
+        url: "/products/KB0845C/gallery_01.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/KB0845C/gallery_02.webp",
+        url: "/products/KB0845C/gallery_02.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/KB0845C/gallery_03.webp",
+        url: "/products/KB0845C/gallery_03.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/KB0845C/gallery_04.webp",
+        url: "/products/KB0845C/gallery_04.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/KB0845C/gallery_05.webp",
+        url: "/products/KB0845C/gallery_05.png",
         alt: "999 Silver Degadu Ganeshji",
       },
     ],
@@ -20492,27 +20492,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Peacock KB0848.webp",
+        url: "/products/Peacock KB0848.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB0848/gallery_01.webp",
+        url: "/products/KB0848/gallery_01.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB0848/gallery_02.webp",
+        url: "/products/KB0848/gallery_02.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB0848/gallery_03.webp",
+        url: "/products/KB0848/gallery_03.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB0848/gallery_04.webp",
+        url: "/products/KB0848/gallery_04.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB0848/gallery_05.webp",
+        url: "/products/KB0848/gallery_05.png",
         alt: "999 Silver Peacock",
       },
     ],
@@ -20544,27 +20544,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Lover of Clouds PEACOCK 60GM KB0848M.webp",
+        url: "/products/Lover of Clouds PEACOCK 60GM KB0848M.png",
         alt: "999 Silver Lover of Clouds ,PEACOCK",
       },
       {
-        url: "/products/KB0848M/gallery_01.webp",
+        url: "/products/KB0848M/gallery_01.png",
         alt: "999 Silver Lover of Clouds ,PEACOCK",
       },
       {
-        url: "/products/KB0848M/gallery_02.webp",
+        url: "/products/KB0848M/gallery_02.png",
         alt: "999 Silver Lover of Clouds ,PEACOCK",
       },
       {
-        url: "/products/KB0848M/gallery_03.webp",
+        url: "/products/KB0848M/gallery_03.png",
         alt: "999 Silver Lover of Clouds ,PEACOCK",
       },
       {
-        url: "/products/KB0848M/gallery_04.webp",
+        url: "/products/KB0848M/gallery_04.png",
         alt: "999 Silver Lover of Clouds ,PEACOCK",
       },
       {
-        url: "/products/KB0848M/gallery_05.webp",
+        url: "/products/KB0848M/gallery_05.png",
         alt: "999 Silver Lover of Clouds ,PEACOCK",
       },
     ],
@@ -20599,27 +20599,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING GANESH 130GM KB0866.webp",
+        url: "/products/STANDING GANESH 130GM KB0866.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0866/gallery_01.webp",
+        url: "/products/KB0866/gallery_01.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0866/gallery_02.webp",
+        url: "/products/KB0866/gallery_02.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0866/gallery_03.webp",
+        url: "/products/KB0866/gallery_03.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0866/gallery_04.webp",
+        url: "/products/KB0866/gallery_04.png",
         alt: "999 Silver Standing Ganesh",
       },
       {
-        url: "/products/KB0866/gallery_05.webp",
+        url: "/products/KB0866/gallery_05.png",
         alt: "999 Silver Standing Ganesh",
       },
     ],
@@ -20656,27 +20656,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Belgian Horse 15GM KB0867.webp",
+        url: "/products/Belgian Horse 15GM KB0867.png",
         alt: "999 Silver Belgian Horse",
       },
       {
-        url: "/products/KB0867/gallery_01.webp",
+        url: "/products/KB0867/gallery_01.png",
         alt: "999 Silver Belgian Horse",
       },
       {
-        url: "/products/KB0867/gallery_02.webp",
+        url: "/products/KB0867/gallery_02.png",
         alt: "999 Silver Belgian Horse",
       },
       {
-        url: "/products/KB0867/gallery_03.webp",
+        url: "/products/KB0867/gallery_03.png",
         alt: "999 Silver Belgian Horse",
       },
       {
-        url: "/products/KB0867/gallery_04.webp",
+        url: "/products/KB0867/gallery_04.png",
         alt: "999 Silver Belgian Horse",
       },
       {
-        url: "/products/KB0867/gallery_05.webp",
+        url: "/products/KB0867/gallery_05.png",
         alt: "999 Silver Belgian Horse",
       },
     ],
@@ -20713,27 +20713,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Walking Horse 50GM KB0868.webp",
+        url: "/products/Walking Horse 50GM KB0868.png",
         alt: "999 Silver Walking Horse",
       },
       {
-        url: "/products/KB0868/gallery_01.webp",
+        url: "/products/KB0868/gallery_01.png",
         alt: "999 Silver Walking Horse",
       },
       {
-        url: "/products/KB0868/gallery_02.webp",
+        url: "/products/KB0868/gallery_02.png",
         alt: "999 Silver Walking Horse",
       },
       {
-        url: "/products/KB0868/gallery_03.webp",
+        url: "/products/KB0868/gallery_03.png",
         alt: "999 Silver Walking Horse",
       },
       {
-        url: "/products/KB0868/gallery_04.webp",
+        url: "/products/KB0868/gallery_04.png",
         alt: "999 Silver Walking Horse",
       },
       {
-        url: "/products/KB0868/gallery_05.webp",
+        url: "/products/KB0868/gallery_05.png",
         alt: "999 Silver Walking Horse",
       },
     ],
@@ -20770,27 +20770,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT COUPLE 15GM KB0870.webp",
+        url: "/products/ELEPHANT COUPLE 15GM KB0870.png",
         alt: "999 Silver Elephant Couple",
       },
       {
-        url: "/products/KB0870/gallery_01.webp",
+        url: "/products/KB0870/gallery_01.png",
         alt: "999 Silver Elephant Couple",
       },
       {
-        url: "/products/KB0870/gallery_02.webp",
+        url: "/products/KB0870/gallery_02.png",
         alt: "999 Silver Elephant Couple",
       },
       {
-        url: "/products/KB0870/gallery_03.webp",
+        url: "/products/KB0870/gallery_03.png",
         alt: "999 Silver Elephant Couple",
       },
       {
-        url: "/products/KB0870/gallery_04.webp",
+        url: "/products/KB0870/gallery_04.png",
         alt: "999 Silver Elephant Couple",
       },
       {
-        url: "/products/KB0870/gallery_05.webp",
+        url: "/products/KB0870/gallery_05.png",
         alt: "999 Silver Elephant Couple",
       },
     ],
@@ -20827,27 +20827,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Fox KB0878.webp",
+        url: "/products/Fox KB0878.png",
         alt: "999 Silver Fox",
       },
       {
-        url: "/products/KB0878/gallery_01.webp",
+        url: "/products/KB0878/gallery_01.png",
         alt: "999 Silver Fox",
       },
       {
-        url: "/products/KB0878/gallery_02.webp",
+        url: "/products/KB0878/gallery_02.png",
         alt: "999 Silver Fox",
       },
       {
-        url: "/products/KB0878/gallery_03.webp",
+        url: "/products/KB0878/gallery_03.png",
         alt: "999 Silver Fox",
       },
       {
-        url: "/products/KB0878/gallery_04.webp",
+        url: "/products/KB0878/gallery_04.png",
         alt: "999 Silver Fox",
       },
       {
-        url: "/products/KB0878/gallery_05.webp",
+        url: "/products/KB0878/gallery_05.png",
         alt: "999 Silver Fox",
       },
     ],
@@ -20879,27 +20879,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Bear KB0896.webp",
+        url: "/products/Bear KB0896.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB0896/gallery_01.webp",
+        url: "/products/KB0896/gallery_01.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB0896/gallery_02.webp",
+        url: "/products/KB0896/gallery_02.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB0896/gallery_03.webp",
+        url: "/products/KB0896/gallery_03.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB0896/gallery_04.webp",
+        url: "/products/KB0896/gallery_04.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB0896/gallery_05.webp",
+        url: "/products/KB0896/gallery_05.png",
         alt: "999 Silver Bear",
       },
     ],
@@ -20933,27 +20933,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/FRIUTS DISH 50GM KB0906.webp",
+        url: "/products/FRIUTS DISH 50GM KB0906.png",
         alt: "999 Silver Friuts Dish",
       },
       {
-        url: "/products/KB0906/gallery_01.webp",
+        url: "/products/KB0906/gallery_01.png",
         alt: "999 Silver Friuts Dish",
       },
       {
-        url: "/products/KB0906/gallery_02.webp",
+        url: "/products/KB0906/gallery_02.png",
         alt: "999 Silver Friuts Dish",
       },
       {
-        url: "/products/KB0906/gallery_03.webp",
+        url: "/products/KB0906/gallery_03.png",
         alt: "999 Silver Friuts Dish",
       },
       {
-        url: "/products/KB0906/gallery_04.webp",
+        url: "/products/KB0906/gallery_04.png",
         alt: "999 Silver Friuts Dish",
       },
       {
-        url: "/products/KB0906/gallery_05.webp",
+        url: "/products/KB0906/gallery_05.png",
         alt: "999 Silver Friuts Dish",
       },
     ],
@@ -20988,27 +20988,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 170GM KB0921.webp",
+        url: "/products/Ganesh 170GM KB0921.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0921/gallery_01.webp",
+        url: "/products/KB0921/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0921/gallery_02.webp",
+        url: "/products/KB0921/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0921/gallery_03.webp",
+        url: "/products/KB0921/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0921/gallery_04.webp",
+        url: "/products/KB0921/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0921/gallery_05.webp",
+        url: "/products/KB0921/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -21041,27 +21041,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ADINATH Product Code KB0924.webp",
+        url: "/products/ADINATH Product Code KB0924.png",
         alt: "999 Silver ADINATH Product Code :",
       },
       {
-        url: "/products/KB0924/gallery_01.webp",
+        url: "/products/KB0924/gallery_01.png",
         alt: "999 Silver ADINATH Product Code :",
       },
       {
-        url: "/products/KB0924/gallery_02.webp",
+        url: "/products/KB0924/gallery_02.png",
         alt: "999 Silver ADINATH Product Code :",
       },
       {
-        url: "/products/KB0924/gallery_03.webp",
+        url: "/products/KB0924/gallery_03.png",
         alt: "999 Silver ADINATH Product Code :",
       },
       {
-        url: "/products/KB0924/gallery_04.webp",
+        url: "/products/KB0924/gallery_04.png",
         alt: "999 Silver ADINATH Product Code :",
       },
       {
-        url: "/products/KB0924/gallery_05.webp",
+        url: "/products/KB0924/gallery_05.png",
         alt: "999 Silver ADINATH Product Code :",
       },
     ],
@@ -21093,27 +21093,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAHAVIR SWAMI 55 GMS KB0924AM.webp",
+        url: "/products/MAHAVIR SWAMI 55 GMS KB0924AM.png",
         alt: "999 Silver Mahavir Swami",
       },
       {
-        url: "/products/KB0924AM/gallery_01.webp",
+        url: "/products/KB0924AM/gallery_01.png",
         alt: "999 Silver Mahavir Swami",
       },
       {
-        url: "/products/KB0924AM/gallery_02.webp",
+        url: "/products/KB0924AM/gallery_02.png",
         alt: "999 Silver Mahavir Swami",
       },
       {
-        url: "/products/KB0924AM/gallery_03.webp",
+        url: "/products/KB0924AM/gallery_03.png",
         alt: "999 Silver Mahavir Swami",
       },
       {
-        url: "/products/KB0924AM/gallery_04.webp",
+        url: "/products/KB0924AM/gallery_04.png",
         alt: "999 Silver Mahavir Swami",
       },
       {
-        url: "/products/KB0924AM/gallery_05.webp",
+        url: "/products/KB0924AM/gallery_05.png",
         alt: "999 Silver Mahavir Swami",
       },
     ],
@@ -21148,27 +21148,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 105GM KB0933.webp",
+        url: "/products/GANESH JI 105GM KB0933.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0933/gallery_01.webp",
+        url: "/products/KB0933/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0933/gallery_02.webp",
+        url: "/products/KB0933/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0933/gallery_03.webp",
+        url: "/products/KB0933/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0933/gallery_04.webp",
+        url: "/products/KB0933/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0933/gallery_05.webp",
+        url: "/products/KB0933/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -21205,27 +21205,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shatrunjay Maha tirth Palitana KB0936.webp",
+        url: "/products/Shatrunjay Maha tirth Palitana KB0936.png",
         alt: "999 Silver Shatrunjay Maha tirth Palitana",
       },
       {
-        url: "/products/KB0936/gallery_01.webp",
+        url: "/products/KB0936/gallery_01.png",
         alt: "999 Silver Shatrunjay Maha tirth Palitana",
       },
       {
-        url: "/products/KB0936/gallery_02.webp",
+        url: "/products/KB0936/gallery_02.png",
         alt: "999 Silver Shatrunjay Maha tirth Palitana",
       },
       {
-        url: "/products/KB0936/gallery_03.webp",
+        url: "/products/KB0936/gallery_03.png",
         alt: "999 Silver Shatrunjay Maha tirth Palitana",
       },
       {
-        url: "/products/KB0936/gallery_04.webp",
+        url: "/products/KB0936/gallery_04.png",
         alt: "999 Silver Shatrunjay Maha tirth Palitana",
       },
       {
-        url: "/products/KB0936/gallery_05.webp",
+        url: "/products/KB0936/gallery_05.png",
         alt: "999 Silver Shatrunjay Maha tirth Palitana",
       },
     ],
@@ -21257,27 +21257,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Srifal 25GM KB0945.webp",
+        url: "/products/Srifal 25GM KB0945.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945/gallery_01.webp",
+        url: "/products/KB0945/gallery_01.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945/gallery_02.webp",
+        url: "/products/KB0945/gallery_02.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945/gallery_03.webp",
+        url: "/products/KB0945/gallery_03.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945/gallery_04.webp",
+        url: "/products/KB0945/gallery_04.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945/gallery_05.webp",
+        url: "/products/KB0945/gallery_05.png",
         alt: "999 Silver Srifal",
       },
     ],
@@ -21310,27 +21310,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Srifal 55GM KB0945A.webp",
+        url: "/products/Srifal 55GM KB0945A.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945A/gallery_01.webp",
+        url: "/products/KB0945A/gallery_01.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945A/gallery_02.webp",
+        url: "/products/KB0945A/gallery_02.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945A/gallery_03.webp",
+        url: "/products/KB0945A/gallery_03.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945A/gallery_04.webp",
+        url: "/products/KB0945A/gallery_04.png",
         alt: "999 Silver Srifal",
       },
       {
-        url: "/products/KB0945A/gallery_05.webp",
+        url: "/products/KB0945A/gallery_05.png",
         alt: "999 Silver Srifal",
       },
     ],
@@ -21365,27 +21365,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HORSE 45GM KB0949.webp",
+        url: "/products/HORSE 45GM KB0949.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0949/gallery_01.webp",
+        url: "/products/KB0949/gallery_01.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0949/gallery_02.webp",
+        url: "/products/KB0949/gallery_02.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0949/gallery_03.webp",
+        url: "/products/KB0949/gallery_03.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0949/gallery_04.webp",
+        url: "/products/KB0949/gallery_04.png",
         alt: "999 Silver Horse",
       },
       {
-        url: "/products/KB0949/gallery_05.webp",
+        url: "/products/KB0949/gallery_05.png",
         alt: "999 Silver Horse",
       },
     ],
@@ -21424,27 +21424,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 45gm KB0950.webp",
+        url: "/products/Ganesh Ji 45gm KB0950.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0950/gallery_01.webp",
+        url: "/products/KB0950/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0950/gallery_02.webp",
+        url: "/products/KB0950/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0950/gallery_03.webp",
+        url: "/products/KB0950/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0950/gallery_04.webp",
+        url: "/products/KB0950/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB0950/gallery_05.webp",
+        url: "/products/KB0950/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -21479,27 +21479,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TRIPATI BALAJI FACE KB0951.webp",
+        url: "/products/TRIPATI BALAJI FACE KB0951.png",
         alt: "999 Silver Tripati Balaji Face",
       },
       {
-        url: "/products/KB0951/gallery_01.webp",
+        url: "/products/KB0951/gallery_01.png",
         alt: "999 Silver Tripati Balaji Face",
       },
       {
-        url: "/products/KB0951/gallery_02.webp",
+        url: "/products/KB0951/gallery_02.png",
         alt: "999 Silver Tripati Balaji Face",
       },
       {
-        url: "/products/KB0951/gallery_03.webp",
+        url: "/products/KB0951/gallery_03.png",
         alt: "999 Silver Tripati Balaji Face",
       },
       {
-        url: "/products/KB0951/gallery_04.webp",
+        url: "/products/KB0951/gallery_04.png",
         alt: "999 Silver Tripati Balaji Face",
       },
       {
-        url: "/products/KB0951/gallery_05.webp",
+        url: "/products/KB0951/gallery_05.png",
         alt: "999 Silver Tripati Balaji Face",
       },
     ],
@@ -21531,27 +21531,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BIG Bull 65GM KB0952.webp",
+        url: "/products/BIG Bull 65GM KB0952.png",
         alt: "999 Silver BIG-Bull",
       },
       {
-        url: "/products/KB0952/gallery_01.webp",
+        url: "/products/KB0952/gallery_01.png",
         alt: "999 Silver BIG-Bull",
       },
       {
-        url: "/products/KB0952/gallery_02.webp",
+        url: "/products/KB0952/gallery_02.png",
         alt: "999 Silver BIG-Bull",
       },
       {
-        url: "/products/KB0952/gallery_03.webp",
+        url: "/products/KB0952/gallery_03.png",
         alt: "999 Silver BIG-Bull",
       },
       {
-        url: "/products/KB0952/gallery_04.webp",
+        url: "/products/KB0952/gallery_04.png",
         alt: "999 Silver BIG-Bull",
       },
       {
-        url: "/products/KB0952/gallery_05.webp",
+        url: "/products/KB0952/gallery_05.png",
         alt: "999 Silver BIG-Bull",
       },
     ],
@@ -21586,27 +21586,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Soldier 95GM KB0953.webp",
+        url: "/products/Soldier 95GM KB0953.png",
         alt: "999 Silver Soldier",
       },
       {
-        url: "/products/KB0953/gallery_01.webp",
+        url: "/products/KB0953/gallery_01.png",
         alt: "999 Silver Soldier",
       },
       {
-        url: "/products/KB0953/gallery_02.webp",
+        url: "/products/KB0953/gallery_02.png",
         alt: "999 Silver Soldier",
       },
       {
-        url: "/products/KB0953/gallery_03.webp",
+        url: "/products/KB0953/gallery_03.png",
         alt: "999 Silver Soldier",
       },
       {
-        url: "/products/KB0953/gallery_04.webp",
+        url: "/products/KB0953/gallery_04.png",
         alt: "999 Silver Soldier",
       },
       {
-        url: "/products/KB0953/gallery_05.webp",
+        url: "/products/KB0953/gallery_05.png",
         alt: "999 Silver Soldier",
       },
     ],
@@ -21641,27 +21641,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 55GM KB0990.webp",
+        url: "/products/Laxmi Ganesh 55GM KB0990.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0990/gallery_01.webp",
+        url: "/products/KB0990/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0990/gallery_02.webp",
+        url: "/products/KB0990/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0990/gallery_03.webp",
+        url: "/products/KB0990/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0990/gallery_04.webp",
+        url: "/products/KB0990/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB0990/gallery_05.webp",
+        url: "/products/KB0990/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -21694,27 +21694,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 30GM KB0990A.webp",
+        url: "/products/Laxmi 30GM KB0990A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0990A/gallery_01.webp",
+        url: "/products/KB0990A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0990A/gallery_02.webp",
+        url: "/products/KB0990A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0990A/gallery_03.webp",
+        url: "/products/KB0990A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0990A/gallery_04.webp",
+        url: "/products/KB0990A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB0990A/gallery_05.webp",
+        url: "/products/KB0990A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -21747,27 +21747,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 28GM KB0990B.webp",
+        url: "/products/Ganesh 28GM KB0990B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0990B/gallery_01.webp",
+        url: "/products/KB0990B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0990B/gallery_02.webp",
+        url: "/products/KB0990B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0990B/gallery_03.webp",
+        url: "/products/KB0990B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0990B/gallery_04.webp",
+        url: "/products/KB0990B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB0990B/gallery_05.webp",
+        url: "/products/KB0990B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -21800,27 +21800,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BEAR KB1033.webp",
+        url: "/products/BEAR KB1033.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB1033/gallery_01.webp",
+        url: "/products/KB1033/gallery_01.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB1033/gallery_02.webp",
+        url: "/products/KB1033/gallery_02.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB1033/gallery_03.webp",
+        url: "/products/KB1033/gallery_03.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB1033/gallery_04.webp",
+        url: "/products/KB1033/gallery_04.png",
         alt: "999 Silver Bear",
       },
       {
-        url: "/products/KB1033/gallery_05.webp",
+        url: "/products/KB1033/gallery_05.png",
         alt: "999 Silver Bear",
       },
     ],
@@ -21854,27 +21854,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ELEPHANT 65GM KB1094.webp",
+        url: "/products/ELEPHANT 65GM KB1094.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB1094/gallery_01.webp",
+        url: "/products/KB1094/gallery_01.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB1094/gallery_02.webp",
+        url: "/products/KB1094/gallery_02.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB1094/gallery_03.webp",
+        url: "/products/KB1094/gallery_03.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB1094/gallery_04.webp",
+        url: "/products/KB1094/gallery_04.png",
         alt: "999 Silver Elephant",
       },
       {
-        url: "/products/KB1094/gallery_05.webp",
+        url: "/products/KB1094/gallery_05.png",
         alt: "999 Silver Elephant",
       },
     ],
@@ -21913,27 +21913,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Owl The Creature of Night 25GM KB1102.webp",
+        url: "/products/Owl The Creature of Night 25GM KB1102.png",
         alt: "999 Silver Owl : The Creature of Night",
       },
       {
-        url: "/products/KB1102/gallery_01.webp",
+        url: "/products/KB1102/gallery_01.png",
         alt: "999 Silver Owl : The Creature of Night",
       },
       {
-        url: "/products/KB1102/gallery_02.webp",
+        url: "/products/KB1102/gallery_02.png",
         alt: "999 Silver Owl : The Creature of Night",
       },
       {
-        url: "/products/KB1102/gallery_03.webp",
+        url: "/products/KB1102/gallery_03.png",
         alt: "999 Silver Owl : The Creature of Night",
       },
       {
-        url: "/products/KB1102/gallery_04.webp",
+        url: "/products/KB1102/gallery_04.png",
         alt: "999 Silver Owl : The Creature of Night",
       },
       {
-        url: "/products/KB1102/gallery_05.webp",
+        url: "/products/KB1102/gallery_05.png",
         alt: "999 Silver Owl : The Creature of Night",
       },
     ],
@@ -21972,27 +21972,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KChirpie Love Birds 75GM KB1150.webp",
+        url: "/products/KChirpie Love Birds 75GM KB1150.png",
         alt: "999 Silver KChirpie Love Birds",
       },
       {
-        url: "/products/KB1150/gallery_01.webp",
+        url: "/products/KB1150/gallery_01.png",
         alt: "999 Silver KChirpie Love Birds",
       },
       {
-        url: "/products/KB1150/gallery_02.webp",
+        url: "/products/KB1150/gallery_02.png",
         alt: "999 Silver KChirpie Love Birds",
       },
       {
-        url: "/products/KB1150/gallery_03.webp",
+        url: "/products/KB1150/gallery_03.png",
         alt: "999 Silver KChirpie Love Birds",
       },
       {
-        url: "/products/KB1150/gallery_04.webp",
+        url: "/products/KB1150/gallery_04.png",
         alt: "999 Silver KChirpie Love Birds",
       },
       {
-        url: "/products/KB1150/gallery_05.webp",
+        url: "/products/KB1150/gallery_05.png",
         alt: "999 Silver KChirpie Love Birds",
       },
     ],
@@ -22031,27 +22031,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/shiv parvati linga 75gm KB1178.webp",
+        url: "/products/shiv parvati linga 75gm KB1178.png",
         alt: "999 Silver shiv parvati linga",
       },
       {
-        url: "/products/KB1178/gallery_01.webp",
+        url: "/products/KB1178/gallery_01.png",
         alt: "999 Silver shiv parvati linga",
       },
       {
-        url: "/products/KB1178/gallery_02.webp",
+        url: "/products/KB1178/gallery_02.png",
         alt: "999 Silver shiv parvati linga",
       },
       {
-        url: "/products/KB1178/gallery_03.webp",
+        url: "/products/KB1178/gallery_03.png",
         alt: "999 Silver shiv parvati linga",
       },
       {
-        url: "/products/KB1178/gallery_04.webp",
+        url: "/products/KB1178/gallery_04.png",
         alt: "999 Silver shiv parvati linga",
       },
       {
-        url: "/products/KB1178/gallery_05.webp",
+        url: "/products/KB1178/gallery_05.png",
         alt: "999 Silver shiv parvati linga",
       },
     ],
@@ -22090,27 +22090,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHANKH 70 GMS KB1194.webp",
+        url: "/products/SHANKH 70 GMS KB1194.png",
         alt: "999 Silver Shankh",
       },
       {
-        url: "/products/KB1194/gallery_01.webp",
+        url: "/products/KB1194/gallery_01.png",
         alt: "999 Silver Shankh",
       },
       {
-        url: "/products/KB1194/gallery_02.webp",
+        url: "/products/KB1194/gallery_02.png",
         alt: "999 Silver Shankh",
       },
       {
-        url: "/products/KB1194/gallery_03.webp",
+        url: "/products/KB1194/gallery_03.png",
         alt: "999 Silver Shankh",
       },
       {
-        url: "/products/KB1194/gallery_04.webp",
+        url: "/products/KB1194/gallery_04.png",
         alt: "999 Silver Shankh",
       },
       {
-        url: "/products/KB1194/gallery_05.webp",
+        url: "/products/KB1194/gallery_05.png",
         alt: "999 Silver Shankh",
       },
     ],
@@ -22147,27 +22147,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BOY AND BABY 40GM KB1220.webp",
+        url: "/products/BOY AND BABY 40GM KB1220.png",
         alt: "999 Silver Boy And Baby",
       },
       {
-        url: "/products/KB1220/gallery_01.webp",
+        url: "/products/KB1220/gallery_01.png",
         alt: "999 Silver Boy And Baby",
       },
       {
-        url: "/products/KB1220/gallery_02.webp",
+        url: "/products/KB1220/gallery_02.png",
         alt: "999 Silver Boy And Baby",
       },
       {
-        url: "/products/KB1220/gallery_03.webp",
+        url: "/products/KB1220/gallery_03.png",
         alt: "999 Silver Boy And Baby",
       },
       {
-        url: "/products/KB1220/gallery_04.webp",
+        url: "/products/KB1220/gallery_04.png",
         alt: "999 Silver Boy And Baby",
       },
       {
-        url: "/products/KB1220/gallery_05.webp",
+        url: "/products/KB1220/gallery_05.png",
         alt: "999 Silver Boy And Baby",
       },
     ],
@@ -22204,27 +22204,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/VIOLIN 28GM KB1241.webp",
+        url: "/products/VIOLIN 28GM KB1241.png",
         alt: "999 Silver Violin",
       },
       {
-        url: "/products/KB1241/gallery_01.webp",
+        url: "/products/KB1241/gallery_01.png",
         alt: "999 Silver Violin",
       },
       {
-        url: "/products/KB1241/gallery_02.webp",
+        url: "/products/KB1241/gallery_02.png",
         alt: "999 Silver Violin",
       },
       {
-        url: "/products/KB1241/gallery_03.webp",
+        url: "/products/KB1241/gallery_03.png",
         alt: "999 Silver Violin",
       },
       {
-        url: "/products/KB1241/gallery_04.webp",
+        url: "/products/KB1241/gallery_04.png",
         alt: "999 Silver Violin",
       },
       {
-        url: "/products/KB1241/gallery_05.webp",
+        url: "/products/KB1241/gallery_05.png",
         alt: "999 Silver Violin",
       },
     ],
@@ -22261,27 +22261,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Pocket Pistol 230GM KB1336.webp",
+        url: "/products/Pocket Pistol 230GM KB1336.png",
         alt: "999 Silver Pocket Pistol",
       },
       {
-        url: "/products/KB1336/gallery_01.webp",
+        url: "/products/KB1336/gallery_01.png",
         alt: "999 Silver Pocket Pistol",
       },
       {
-        url: "/products/KB1336/gallery_02.webp",
+        url: "/products/KB1336/gallery_02.png",
         alt: "999 Silver Pocket Pistol",
       },
       {
-        url: "/products/KB1336/gallery_03.webp",
+        url: "/products/KB1336/gallery_03.png",
         alt: "999 Silver Pocket Pistol",
       },
       {
-        url: "/products/KB1336/gallery_04.webp",
+        url: "/products/KB1336/gallery_04.png",
         alt: "999 Silver Pocket Pistol",
       },
       {
-        url: "/products/KB1336/gallery_05.webp",
+        url: "/products/KB1336/gallery_05.png",
         alt: "999 Silver Pocket Pistol",
       },
     ],
@@ -22316,27 +22316,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sarswat 340GM KB1340.webp",
+        url: "/products/Sarswat 340GM KB1340.png",
         alt: "999 Silver Sarswat",
       },
       {
-        url: "/products/KB1340/gallery_01.webp",
+        url: "/products/KB1340/gallery_01.png",
         alt: "999 Silver Sarswat",
       },
       {
-        url: "/products/KB1340/gallery_02.webp",
+        url: "/products/KB1340/gallery_02.png",
         alt: "999 Silver Sarswat",
       },
       {
-        url: "/products/KB1340/gallery_03.webp",
+        url: "/products/KB1340/gallery_03.png",
         alt: "999 Silver Sarswat",
       },
       {
-        url: "/products/KB1340/gallery_04.webp",
+        url: "/products/KB1340/gallery_04.png",
         alt: "999 Silver Sarswat",
       },
       {
-        url: "/products/KB1340/gallery_05.webp",
+        url: "/products/KB1340/gallery_05.png",
         alt: "999 Silver Sarswat",
       },
     ],
@@ -22371,27 +22371,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MOTHER WITH BABY 30GM Kb1353.webp",
+        url: "/products/MOTHER WITH BABY 30GM Kb1353.png",
         alt: "999 Silver Mother With Baby",
       },
       {
-        url: "/products/KB1353/gallery_01.webp",
+        url: "/products/KB1353/gallery_01.png",
         alt: "999 Silver Mother With Baby",
       },
       {
-        url: "/products/KB1353/gallery_02.webp",
+        url: "/products/KB1353/gallery_02.png",
         alt: "999 Silver Mother With Baby",
       },
       {
-        url: "/products/KB1353/gallery_03.webp",
+        url: "/products/KB1353/gallery_03.png",
         alt: "999 Silver Mother With Baby",
       },
       {
-        url: "/products/KB1353/gallery_04.webp",
+        url: "/products/KB1353/gallery_04.png",
         alt: "999 Silver Mother With Baby",
       },
       {
-        url: "/products/KB1353/gallery_05.webp",
+        url: "/products/KB1353/gallery_05.png",
         alt: "999 Silver Mother With Baby",
       },
     ],
@@ -22426,27 +22426,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/OWL 50 GMS KB1354.webp",
+        url: "/products/OWL 50 GMS KB1354.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1354/gallery_01.webp",
+        url: "/products/KB1354/gallery_01.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1354/gallery_02.webp",
+        url: "/products/KB1354/gallery_02.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1354/gallery_03.webp",
+        url: "/products/KB1354/gallery_03.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1354/gallery_04.webp",
+        url: "/products/KB1354/gallery_04.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1354/gallery_05.webp",
+        url: "/products/KB1354/gallery_05.png",
         alt: "999 Silver Owl",
       },
     ],
@@ -22481,27 +22481,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BUTTERFLY 30 GM KB1372.webp",
+        url: "/products/BUTTERFLY 30 GM KB1372.png",
         alt: "999 Silver Butterfly",
       },
       {
-        url: "/products/KB1372/gallery_01.webp",
+        url: "/products/KB1372/gallery_01.png",
         alt: "999 Silver Butterfly",
       },
       {
-        url: "/products/KB1372/gallery_02.webp",
+        url: "/products/KB1372/gallery_02.png",
         alt: "999 Silver Butterfly",
       },
       {
-        url: "/products/KB1372/gallery_03.webp",
+        url: "/products/KB1372/gallery_03.png",
         alt: "999 Silver Butterfly",
       },
       {
-        url: "/products/KB1372/gallery_04.webp",
+        url: "/products/KB1372/gallery_04.png",
         alt: "999 Silver Butterfly",
       },
       {
-        url: "/products/KB1372/gallery_05.webp",
+        url: "/products/KB1372/gallery_05.png",
         alt: "999 Silver Butterfly",
       },
     ],
@@ -22538,27 +22538,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Flower 20g KB1378.webp",
+        url: "/products/Flower 20g KB1378.png",
         alt: "999 Silver Flower 20g",
       },
       {
-        url: "/products/KB1378/gallery_01.webp",
+        url: "/products/KB1378/gallery_01.png",
         alt: "999 Silver Flower 20g",
       },
       {
-        url: "/products/KB1378/gallery_02.webp",
+        url: "/products/KB1378/gallery_02.png",
         alt: "999 Silver Flower 20g",
       },
       {
-        url: "/products/KB1378/gallery_03.webp",
+        url: "/products/KB1378/gallery_03.png",
         alt: "999 Silver Flower 20g",
       },
       {
-        url: "/products/KB1378/gallery_04.webp",
+        url: "/products/KB1378/gallery_04.png",
         alt: "999 Silver Flower 20g",
       },
       {
-        url: "/products/KB1378/gallery_05.webp",
+        url: "/products/KB1378/gallery_05.png",
         alt: "999 Silver Flower 20g",
       },
     ],
@@ -22592,27 +22592,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAM LAL 65GM KB1576A.webp",
+        url: "/products/RAM LAL 65GM KB1576A.png",
         alt: "999 Silver Ram Lal",
       },
       {
-        url: "/products/KB1576A/gallery_01.webp",
+        url: "/products/KB1576A/gallery_01.png",
         alt: "999 Silver Ram Lal",
       },
       {
-        url: "/products/KB1576A/gallery_02.webp",
+        url: "/products/KB1576A/gallery_02.png",
         alt: "999 Silver Ram Lal",
       },
       {
-        url: "/products/KB1576A/gallery_03.webp",
+        url: "/products/KB1576A/gallery_03.png",
         alt: "999 Silver Ram Lal",
       },
       {
-        url: "/products/KB1576A/gallery_04.webp",
+        url: "/products/KB1576A/gallery_04.png",
         alt: "999 Silver Ram Lal",
       },
       {
-        url: "/products/KB1576A/gallery_05.webp",
+        url: "/products/KB1576A/gallery_05.png",
         alt: "999 Silver Ram Lal",
       },
     ],
@@ -22650,27 +22650,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/OWL 35GM KB1588.webp",
+        url: "/products/OWL 35GM KB1588.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1588/gallery_01.webp",
+        url: "/products/KB1588/gallery_01.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1588/gallery_02.webp",
+        url: "/products/KB1588/gallery_02.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1588/gallery_03.webp",
+        url: "/products/KB1588/gallery_03.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1588/gallery_04.webp",
+        url: "/products/KB1588/gallery_04.png",
         alt: "999 Silver Owl",
       },
       {
-        url: "/products/KB1588/gallery_05.webp",
+        url: "/products/KB1588/gallery_05.png",
         alt: "999 Silver Owl",
       },
     ],
@@ -22708,27 +22708,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DUCK 10 GM KB1609.webp",
+        url: "/products/DUCK 10 GM KB1609.png",
         alt: "999 Silver Duck",
       },
       {
-        url: "/products/KB1609/gallery_01.webp",
+        url: "/products/KB1609/gallery_01.png",
         alt: "999 Silver Duck",
       },
       {
-        url: "/products/KB1609/gallery_02.webp",
+        url: "/products/KB1609/gallery_02.png",
         alt: "999 Silver Duck",
       },
       {
-        url: "/products/KB1609/gallery_03.webp",
+        url: "/products/KB1609/gallery_03.png",
         alt: "999 Silver Duck",
       },
       {
-        url: "/products/KB1609/gallery_04.webp",
+        url: "/products/KB1609/gallery_04.png",
         alt: "999 Silver Duck",
       },
       {
-        url: "/products/KB1609/gallery_05.webp",
+        url: "/products/KB1609/gallery_05.png",
         alt: "999 Silver Duck",
       },
     ],
@@ -22767,27 +22767,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GURU DATATREY 90GM Kb1619.webp",
+        url: "/products/GURU DATATREY 90GM Kb1619.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/KB1619/gallery_01.webp",
+        url: "/products/KB1619/gallery_01.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/KB1619/gallery_02.webp",
+        url: "/products/KB1619/gallery_02.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/KB1619/gallery_03.webp",
+        url: "/products/KB1619/gallery_03.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/KB1619/gallery_04.webp",
+        url: "/products/KB1619/gallery_04.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/KB1619/gallery_05.webp",
+        url: "/products/KB1619/gallery_05.png",
         alt: "999 Silver Guru Datatrey",
       },
     ],
@@ -22822,27 +22822,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Munivart KB1620A.webp",
+        url: "/products/Munivart KB1620A.png",
         alt: "999 Silver Munivart",
       },
       {
-        url: "/products/KB1620A/gallery_01.webp",
+        url: "/products/KB1620A/gallery_01.png",
         alt: "999 Silver Munivart",
       },
       {
-        url: "/products/KB1620A/gallery_02.webp",
+        url: "/products/KB1620A/gallery_02.png",
         alt: "999 Silver Munivart",
       },
       {
-        url: "/products/KB1620A/gallery_03.webp",
+        url: "/products/KB1620A/gallery_03.png",
         alt: "999 Silver Munivart",
       },
       {
-        url: "/products/KB1620A/gallery_04.webp",
+        url: "/products/KB1620A/gallery_04.png",
         alt: "999 Silver Munivart",
       },
       {
-        url: "/products/KB1620A/gallery_05.webp",
+        url: "/products/KB1620A/gallery_05.png",
         alt: "999 Silver Munivart",
       },
     ],
@@ -22874,27 +22874,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna With Sheshnag 120GM KB1621.webp",
+        url: "/products/Krishna With Sheshnag 120GM KB1621.png",
         alt: "999 Silver Krishna With Sheshnag",
       },
       {
-        url: "/products/KB1621/gallery_01.webp",
+        url: "/products/KB1621/gallery_01.png",
         alt: "999 Silver Krishna With Sheshnag",
       },
       {
-        url: "/products/KB1621/gallery_02.webp",
+        url: "/products/KB1621/gallery_02.png",
         alt: "999 Silver Krishna With Sheshnag",
       },
       {
-        url: "/products/KB1621/gallery_03.webp",
+        url: "/products/KB1621/gallery_03.png",
         alt: "999 Silver Krishna With Sheshnag",
       },
       {
-        url: "/products/KB1621/gallery_04.webp",
+        url: "/products/KB1621/gallery_04.png",
         alt: "999 Silver Krishna With Sheshnag",
       },
       {
-        url: "/products/KB1621/gallery_05.webp",
+        url: "/products/KB1621/gallery_05.png",
         alt: "999 Silver Krishna With Sheshnag",
       },
     ],
@@ -22927,27 +22927,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Annapurna Maa 75GM KB1623.webp",
+        url: "/products/Annapurna Maa 75GM KB1623.png",
         alt: "999 Silver Annapurna Maa",
       },
       {
-        url: "/products/KB1623/gallery_01.webp",
+        url: "/products/KB1623/gallery_01.png",
         alt: "999 Silver Annapurna Maa",
       },
       {
-        url: "/products/KB1623/gallery_02.webp",
+        url: "/products/KB1623/gallery_02.png",
         alt: "999 Silver Annapurna Maa",
       },
       {
-        url: "/products/KB1623/gallery_03.webp",
+        url: "/products/KB1623/gallery_03.png",
         alt: "999 Silver Annapurna Maa",
       },
       {
-        url: "/products/KB1623/gallery_04.webp",
+        url: "/products/KB1623/gallery_04.png",
         alt: "999 Silver Annapurna Maa",
       },
       {
-        url: "/products/KB1623/gallery_05.webp",
+        url: "/products/KB1623/gallery_05.png",
         alt: "999 Silver Annapurna Maa",
       },
     ],
@@ -22980,27 +22980,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ANAPURNA MAA 30GM KB1623A.webp",
+        url: "/products/ANAPURNA MAA 30GM KB1623A.png",
         alt: "999 Silver Anapurna Maa",
       },
       {
-        url: "/products/KB1623A/gallery_01.webp",
+        url: "/products/KB1623A/gallery_01.png",
         alt: "999 Silver Anapurna Maa",
       },
       {
-        url: "/products/KB1623A/gallery_02.webp",
+        url: "/products/KB1623A/gallery_02.png",
         alt: "999 Silver Anapurna Maa",
       },
       {
-        url: "/products/KB1623A/gallery_03.webp",
+        url: "/products/KB1623A/gallery_03.png",
         alt: "999 Silver Anapurna Maa",
       },
       {
-        url: "/products/KB1623A/gallery_04.webp",
+        url: "/products/KB1623A/gallery_04.png",
         alt: "999 Silver Anapurna Maa",
       },
       {
-        url: "/products/KB1623A/gallery_05.webp",
+        url: "/products/KB1623A/gallery_05.png",
         alt: "999 Silver Anapurna Maa",
       },
     ],
@@ -23033,27 +23033,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KUBER JI 75GM KB1627.webp",
+        url: "/products/KUBER JI 75GM KB1627.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/KB1627/gallery_01.webp",
+        url: "/products/KB1627/gallery_01.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/KB1627/gallery_02.webp",
+        url: "/products/KB1627/gallery_02.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/KB1627/gallery_03.webp",
+        url: "/products/KB1627/gallery_03.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/KB1627/gallery_04.webp",
+        url: "/products/KB1627/gallery_04.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/KB1627/gallery_05.webp",
+        url: "/products/KB1627/gallery_05.png",
         alt: "999 Silver Kuber Ji",
       },
     ],
@@ -23086,27 +23086,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KUBERJI 35GM KB1627A.webp",
+        url: "/products/KUBERJI 35GM KB1627A.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/KB1627A/gallery_01.webp",
+        url: "/products/KB1627A/gallery_01.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/KB1627A/gallery_02.webp",
+        url: "/products/KB1627A/gallery_02.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/KB1627A/gallery_03.webp",
+        url: "/products/KB1627A/gallery_03.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/KB1627A/gallery_04.webp",
+        url: "/products/KB1627A/gallery_04.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/KB1627A/gallery_05.webp",
+        url: "/products/KB1627A/gallery_05.png",
         alt: "999 Silver Kuberji",
       },
     ],
@@ -23141,27 +23141,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHA WITH SINHASAN 25GM KB1628.webp",
+        url: "/products/GANESHA WITH SINHASAN 25GM KB1628.png",
         alt: "999 Silver Ganesha With Sinhasan",
       },
       {
-        url: "/products/KB1628/gallery_01.webp",
+        url: "/products/KB1628/gallery_01.png",
         alt: "999 Silver Ganesha With Sinhasan",
       },
       {
-        url: "/products/KB1628/gallery_02.webp",
+        url: "/products/KB1628/gallery_02.png",
         alt: "999 Silver Ganesha With Sinhasan",
       },
       {
-        url: "/products/KB1628/gallery_03.webp",
+        url: "/products/KB1628/gallery_03.png",
         alt: "999 Silver Ganesha With Sinhasan",
       },
       {
-        url: "/products/KB1628/gallery_04.webp",
+        url: "/products/KB1628/gallery_04.png",
         alt: "999 Silver Ganesha With Sinhasan",
       },
       {
-        url: "/products/KB1628/gallery_05.webp",
+        url: "/products/KB1628/gallery_05.png",
         alt: "999 Silver Ganesha With Sinhasan",
       },
     ],
@@ -23196,27 +23196,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna 60GM KB1629.webp",
+        url: "/products/Krishna 60GM KB1629.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB1629/gallery_01.webp",
+        url: "/products/KB1629/gallery_01.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB1629/gallery_02.webp",
+        url: "/products/KB1629/gallery_02.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB1629/gallery_03.webp",
+        url: "/products/KB1629/gallery_03.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB1629/gallery_04.webp",
+        url: "/products/KB1629/gallery_04.png",
         alt: "999 Silver Krishna",
       },
       {
-        url: "/products/KB1629/gallery_05.webp",
+        url: "/products/KB1629/gallery_05.png",
         alt: "999 Silver Krishna",
       },
     ],
@@ -23249,27 +23249,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/FLUTE PLAYING KRISHNA 20gm KB1631.webp",
+        url: "/products/FLUTE PLAYING KRISHNA 20gm KB1631.png",
         alt: "999 Silver Flute Playing Krishna",
       },
       {
-        url: "/products/KB1631/gallery_01.webp",
+        url: "/products/KB1631/gallery_01.png",
         alt: "999 Silver Flute Playing Krishna",
       },
       {
-        url: "/products/KB1631/gallery_02.webp",
+        url: "/products/KB1631/gallery_02.png",
         alt: "999 Silver Flute Playing Krishna",
       },
       {
-        url: "/products/KB1631/gallery_03.webp",
+        url: "/products/KB1631/gallery_03.png",
         alt: "999 Silver Flute Playing Krishna",
       },
       {
-        url: "/products/KB1631/gallery_04.webp",
+        url: "/products/KB1631/gallery_04.png",
         alt: "999 Silver Flute Playing Krishna",
       },
       {
-        url: "/products/KB1631/gallery_05.webp",
+        url: "/products/KB1631/gallery_05.png",
         alt: "999 Silver Flute Playing Krishna",
       },
     ],
@@ -23302,27 +23302,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Panchmukhi Hanuman 32GM KB1633.webp",
+        url: "/products/Panchmukhi Hanuman 32GM KB1633.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB1633/gallery_01.webp",
+        url: "/products/KB1633/gallery_01.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB1633/gallery_02.webp",
+        url: "/products/KB1633/gallery_02.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB1633/gallery_03.webp",
+        url: "/products/KB1633/gallery_03.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB1633/gallery_04.webp",
+        url: "/products/KB1633/gallery_04.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/KB1633/gallery_05.webp",
+        url: "/products/KB1633/gallery_05.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
     ],
@@ -23355,27 +23355,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TIRUPATI BALAJI STATUE Product Code KB1634.webp",
+        url: "/products/TIRUPATI BALAJI STATUE Product Code KB1634.png",
         alt: "999 Silver TIRUPATI BALAJI STATUE Product Code:",
       },
       {
-        url: "/products/KB1634/gallery_01.webp",
+        url: "/products/KB1634/gallery_01.png",
         alt: "999 Silver TIRUPATI BALAJI STATUE Product Code:",
       },
       {
-        url: "/products/KB1634/gallery_02.webp",
+        url: "/products/KB1634/gallery_02.png",
         alt: "999 Silver TIRUPATI BALAJI STATUE Product Code:",
       },
       {
-        url: "/products/KB1634/gallery_03.webp",
+        url: "/products/KB1634/gallery_03.png",
         alt: "999 Silver TIRUPATI BALAJI STATUE Product Code:",
       },
       {
-        url: "/products/KB1634/gallery_04.webp",
+        url: "/products/KB1634/gallery_04.png",
         alt: "999 Silver TIRUPATI BALAJI STATUE Product Code:",
       },
       {
-        url: "/products/KB1634/gallery_05.webp",
+        url: "/products/KB1634/gallery_05.png",
         alt: "999 Silver TIRUPATI BALAJI STATUE Product Code:",
       },
     ],
@@ -23407,27 +23407,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman With BASE 45GM KB1635.webp",
+        url: "/products/Hanuman With BASE 45GM KB1635.png",
         alt: "999 Silver Hanuman With BASE",
       },
       {
-        url: "/products/KB1635/gallery_01.webp",
+        url: "/products/KB1635/gallery_01.png",
         alt: "999 Silver Hanuman With BASE",
       },
       {
-        url: "/products/KB1635/gallery_02.webp",
+        url: "/products/KB1635/gallery_02.png",
         alt: "999 Silver Hanuman With BASE",
       },
       {
-        url: "/products/KB1635/gallery_03.webp",
+        url: "/products/KB1635/gallery_03.png",
         alt: "999 Silver Hanuman With BASE",
       },
       {
-        url: "/products/KB1635/gallery_04.webp",
+        url: "/products/KB1635/gallery_04.png",
         alt: "999 Silver Hanuman With BASE",
       },
       {
-        url: "/products/KB1635/gallery_05.webp",
+        url: "/products/KB1635/gallery_05.png",
         alt: "999 Silver Hanuman With BASE",
       },
     ],
@@ -23462,27 +23462,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LORD SHIVA 20GM KB1637.webp",
+        url: "/products/LORD SHIVA 20GM KB1637.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/KB1637/gallery_01.webp",
+        url: "/products/KB1637/gallery_01.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/KB1637/gallery_02.webp",
+        url: "/products/KB1637/gallery_02.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/KB1637/gallery_03.webp",
+        url: "/products/KB1637/gallery_03.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/KB1637/gallery_04.webp",
+        url: "/products/KB1637/gallery_04.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/KB1637/gallery_05.webp",
+        url: "/products/KB1637/gallery_05.png",
         alt: "999 Silver Lord Shiva",
       },
     ],
@@ -23519,27 +23519,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 45GM KB1651.webp",
+        url: "/products/GANESH 45GM KB1651.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB1651/gallery_01.webp",
+        url: "/products/KB1651/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB1651/gallery_02.webp",
+        url: "/products/KB1651/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB1651/gallery_03.webp",
+        url: "/products/KB1651/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB1651/gallery_04.webp",
+        url: "/products/KB1651/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/KB1651/gallery_05.webp",
+        url: "/products/KB1651/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -23577,27 +23577,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAMDARBAR 1KG Kb1661.webp",
+        url: "/products/RAMDARBAR 1KG Kb1661.png",
         alt: "999 Silver Ramdarbar 1Kg",
       },
       {
-        url: "/products/KB1661/gallery_01.webp",
+        url: "/products/KB1661/gallery_01.png",
         alt: "999 Silver Ramdarbar 1Kg",
       },
       {
-        url: "/products/KB1661/gallery_02.webp",
+        url: "/products/KB1661/gallery_02.png",
         alt: "999 Silver Ramdarbar 1Kg",
       },
       {
-        url: "/products/KB1661/gallery_03.webp",
+        url: "/products/KB1661/gallery_03.png",
         alt: "999 Silver Ramdarbar 1Kg",
       },
       {
-        url: "/products/KB1661/gallery_04.webp",
+        url: "/products/KB1661/gallery_04.png",
         alt: "999 Silver Ramdarbar 1Kg",
       },
       {
-        url: "/products/KB1661/gallery_05.webp",
+        url: "/products/KB1661/gallery_05.png",
         alt: "999 Silver Ramdarbar 1Kg",
       },
     ],
@@ -23631,27 +23631,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDHHA 80GM KB1662.webp",
+        url: "/products/LAUGHING BUDHHA 80GM KB1662.png",
         alt: "999 Silver Laughing Budhha",
       },
       {
-        url: "/products/KB1662/gallery_01.webp",
+        url: "/products/KB1662/gallery_01.png",
         alt: "999 Silver Laughing Budhha",
       },
       {
-        url: "/products/KB1662/gallery_02.webp",
+        url: "/products/KB1662/gallery_02.png",
         alt: "999 Silver Laughing Budhha",
       },
       {
-        url: "/products/KB1662/gallery_03.webp",
+        url: "/products/KB1662/gallery_03.png",
         alt: "999 Silver Laughing Budhha",
       },
       {
-        url: "/products/KB1662/gallery_04.webp",
+        url: "/products/KB1662/gallery_04.png",
         alt: "999 Silver Laughing Budhha",
       },
       {
-        url: "/products/KB1662/gallery_05.webp",
+        url: "/products/KB1662/gallery_05.png",
         alt: "999 Silver Laughing Budhha",
       },
     ],
@@ -23686,27 +23686,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDDHA 25 GMS KB1662A.webp",
+        url: "/products/LAUGHING BUDDHA 25 GMS KB1662A.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662A/gallery_01.webp",
+        url: "/products/KB1662A/gallery_01.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662A/gallery_02.webp",
+        url: "/products/KB1662A/gallery_02.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662A/gallery_03.webp",
+        url: "/products/KB1662A/gallery_03.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662A/gallery_04.webp",
+        url: "/products/KB1662A/gallery_04.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662A/gallery_05.webp",
+        url: "/products/KB1662A/gallery_05.png",
         alt: "999 Silver Laughing Buddha",
       },
     ],
@@ -23743,27 +23743,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDDHA 30GM KB1662B.webp",
+        url: "/products/LAUGHING BUDDHA 30GM KB1662B.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662B/gallery_01.webp",
+        url: "/products/KB1662B/gallery_01.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662B/gallery_02.webp",
+        url: "/products/KB1662B/gallery_02.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662B/gallery_03.webp",
+        url: "/products/KB1662B/gallery_03.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662B/gallery_04.webp",
+        url: "/products/KB1662B/gallery_04.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662B/gallery_05.webp",
+        url: "/products/KB1662B/gallery_05.png",
         alt: "999 Silver Laughing Buddha",
       },
     ],
@@ -23800,27 +23800,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAUGHING BUDDHA 35 GMS KB1662c.webp",
+        url: "/products/LAUGHING BUDDHA 35 GMS KB1662c.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662C/gallery_01.webp",
+        url: "/products/KB1662C/gallery_01.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662C/gallery_02.webp",
+        url: "/products/KB1662C/gallery_02.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662C/gallery_03.webp",
+        url: "/products/KB1662C/gallery_03.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662C/gallery_04.webp",
+        url: "/products/KB1662C/gallery_04.png",
         alt: "999 Silver Laughing Buddha",
       },
       {
-        url: "/products/KB1662C/gallery_05.webp",
+        url: "/products/KB1662C/gallery_05.png",
         alt: "999 Silver Laughing Buddha",
       },
     ],
@@ -23857,27 +23857,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIV PARIVAR 95GM Kb1663.webp",
+        url: "/products/SHIV PARIVAR 95GM Kb1663.png",
         alt: "999 Silver Shiv Parivar",
       },
       {
-        url: "/products/KB1663/gallery_01.webp",
+        url: "/products/KB1663/gallery_01.png",
         alt: "999 Silver Shiv Parivar",
       },
       {
-        url: "/products/KB1663/gallery_02.webp",
+        url: "/products/KB1663/gallery_02.png",
         alt: "999 Silver Shiv Parivar",
       },
       {
-        url: "/products/KB1663/gallery_03.webp",
+        url: "/products/KB1663/gallery_03.png",
         alt: "999 Silver Shiv Parivar",
       },
       {
-        url: "/products/KB1663/gallery_04.webp",
+        url: "/products/KB1663/gallery_04.png",
         alt: "999 Silver Shiv Parivar",
       },
       {
-        url: "/products/KB1663/gallery_05.webp",
+        url: "/products/KB1663/gallery_05.png",
         alt: "999 Silver Shiv Parivar",
       },
     ],
@@ -23916,23 +23916,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB1665/gallery_01.webp",
+        url: "/products/KB1665/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB1665/gallery_02.webp",
+        url: "/products/KB1665/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB1665/gallery_03.webp",
+        url: "/products/KB1665/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB1665/gallery_04.webp",
+        url: "/products/KB1665/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/KB1665/gallery_05.webp",
+        url: "/products/KB1665/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -23968,27 +23968,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON LOTUS 32GM KB1665B.webp",
+        url: "/products/GANESH ON LOTUS 32GM KB1665B.png",
         alt: "999 Silver Ganesh On Lotus",
       },
       {
-        url: "/products/KB1665B/gallery_01.webp",
+        url: "/products/KB1665B/gallery_01.png",
         alt: "999 Silver Ganesh On Lotus",
       },
       {
-        url: "/products/KB1665B/gallery_02.webp",
+        url: "/products/KB1665B/gallery_02.png",
         alt: "999 Silver Ganesh On Lotus",
       },
       {
-        url: "/products/KB1665B/gallery_03.webp",
+        url: "/products/KB1665B/gallery_03.png",
         alt: "999 Silver Ganesh On Lotus",
       },
       {
-        url: "/products/KB1665B/gallery_04.webp",
+        url: "/products/KB1665B/gallery_04.png",
         alt: "999 Silver Ganesh On Lotus",
       },
       {
-        url: "/products/KB1665B/gallery_05.webp",
+        url: "/products/KB1665B/gallery_05.png",
         alt: "999 Silver Ganesh On Lotus",
       },
     ],
@@ -24025,27 +24025,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TULSI 25GM KB1669.webp",
+        url: "/products/TULSI 25GM KB1669.png",
         alt: "999 Silver Tulsi",
       },
       {
-        url: "/products/KB1669/gallery_01.webp",
+        url: "/products/KB1669/gallery_01.png",
         alt: "999 Silver Tulsi",
       },
       {
-        url: "/products/KB1669/gallery_02.webp",
+        url: "/products/KB1669/gallery_02.png",
         alt: "999 Silver Tulsi",
       },
       {
-        url: "/products/KB1669/gallery_03.webp",
+        url: "/products/KB1669/gallery_03.png",
         alt: "999 Silver Tulsi",
       },
       {
-        url: "/products/KB1669/gallery_04.webp",
+        url: "/products/KB1669/gallery_04.png",
         alt: "999 Silver Tulsi",
       },
       {
-        url: "/products/KB1669/gallery_05.webp",
+        url: "/products/KB1669/gallery_05.png",
         alt: "999 Silver Tulsi",
       },
     ],
@@ -24081,27 +24081,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW AND KRISHNA KB1670A.webp",
+        url: "/products/COW AND KRISHNA KB1670A.png",
         alt: "999 Silver Cow And Krishna",
       },
       {
-        url: "/products/KB1670A/gallery_01.webp",
+        url: "/products/KB1670A/gallery_01.png",
         alt: "999 Silver Cow And Krishna",
       },
       {
-        url: "/products/KB1670A/gallery_02.webp",
+        url: "/products/KB1670A/gallery_02.png",
         alt: "999 Silver Cow And Krishna",
       },
       {
-        url: "/products/KB1670A/gallery_03.webp",
+        url: "/products/KB1670A/gallery_03.png",
         alt: "999 Silver Cow And Krishna",
       },
       {
-        url: "/products/KB1670A/gallery_04.webp",
+        url: "/products/KB1670A/gallery_04.png",
         alt: "999 Silver Cow And Krishna",
       },
       {
-        url: "/products/KB1670A/gallery_05.webp",
+        url: "/products/KB1670A/gallery_05.png",
         alt: "999 Silver Cow And Krishna",
       },
     ],
@@ -24135,27 +24135,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TULSI PLANT WITH COW AND CALF BOTH SIDE 65GM KB1671.webp",
+        url: "/products/TULSI PLANT WITH COW AND CALF BOTH SIDE 65GM KB1671.png",
         alt: "999 Silver Tulsi Plant With Cow And Calf Both Side",
       },
       {
-        url: "/products/KB1671/gallery_01.webp",
+        url: "/products/KB1671/gallery_01.png",
         alt: "999 Silver Tulsi Plant With Cow And Calf Both Side",
       },
       {
-        url: "/products/KB1671/gallery_02.webp",
+        url: "/products/KB1671/gallery_02.png",
         alt: "999 Silver Tulsi Plant With Cow And Calf Both Side",
       },
       {
-        url: "/products/KB1671/gallery_03.webp",
+        url: "/products/KB1671/gallery_03.png",
         alt: "999 Silver Tulsi Plant With Cow And Calf Both Side",
       },
       {
-        url: "/products/KB1671/gallery_04.webp",
+        url: "/products/KB1671/gallery_04.png",
         alt: "999 Silver Tulsi Plant With Cow And Calf Both Side",
       },
       {
-        url: "/products/KB1671/gallery_05.webp",
+        url: "/products/KB1671/gallery_05.png",
         alt: "999 Silver Tulsi Plant With Cow And Calf Both Side",
       },
     ],
@@ -24192,27 +24192,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman 45GM KB1673.webp",
+        url: "/products/Hanuman 45GM KB1673.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KB1673/gallery_01.webp",
+        url: "/products/KB1673/gallery_01.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KB1673/gallery_02.webp",
+        url: "/products/KB1673/gallery_02.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KB1673/gallery_03.webp",
+        url: "/products/KB1673/gallery_03.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KB1673/gallery_04.webp",
+        url: "/products/KB1673/gallery_04.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/KB1673/gallery_05.webp",
+        url: "/products/KB1673/gallery_05.png",
         alt: "999 Silver Hanuman",
       },
     ],
@@ -24249,27 +24249,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LUXURY CHESS SET 585GM KB1674.webp",
+        url: "/products/LUXURY CHESS SET 585GM KB1674.png",
         alt: "999 Silver Luxury Chess Set",
       },
       {
-        url: "/products/KB1674/gallery_01.webp",
+        url: "/products/KB1674/gallery_01.png",
         alt: "999 Silver Luxury Chess Set",
       },
       {
-        url: "/products/KB1674/gallery_02.webp",
+        url: "/products/KB1674/gallery_02.png",
         alt: "999 Silver Luxury Chess Set",
       },
       {
-        url: "/products/KB1674/gallery_03.webp",
+        url: "/products/KB1674/gallery_03.png",
         alt: "999 Silver Luxury Chess Set",
       },
       {
-        url: "/products/KB1674/gallery_04.webp",
+        url: "/products/KB1674/gallery_04.png",
         alt: "999 Silver Luxury Chess Set",
       },
       {
-        url: "/products/KB1674/gallery_05.webp",
+        url: "/products/KB1674/gallery_05.png",
         alt: "999 Silver Luxury Chess Set",
       },
     ],
@@ -24304,27 +24304,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ayodhya Ram Mandir KB1675.webp",
+        url: "/products/Ayodhya Ram Mandir KB1675.png",
         alt: "999 Silver Ayodhya Ram Mandir",
       },
       {
-        url: "/products/KB1675/gallery_01.webp",
+        url: "/products/KB1675/gallery_01.png",
         alt: "999 Silver Ayodhya Ram Mandir",
       },
       {
-        url: "/products/KB1675/gallery_02.webp",
+        url: "/products/KB1675/gallery_02.png",
         alt: "999 Silver Ayodhya Ram Mandir",
       },
       {
-        url: "/products/KB1675/gallery_03.webp",
+        url: "/products/KB1675/gallery_03.png",
         alt: "999 Silver Ayodhya Ram Mandir",
       },
       {
-        url: "/products/KB1675/gallery_04.webp",
+        url: "/products/KB1675/gallery_04.png",
         alt: "999 Silver Ayodhya Ram Mandir",
       },
       {
-        url: "/products/KB1675/gallery_05.webp",
+        url: "/products/KB1675/gallery_05.png",
         alt: "999 Silver Ayodhya Ram Mandir",
       },
     ],
@@ -24358,27 +24358,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/AYODHYA SHRI RAM MANDIR KB1675A.webp",
+        url: "/products/AYODHYA SHRI RAM MANDIR KB1675A.png",
         alt: "999 Silver Ayodhya Shri Ram Mandir",
       },
       {
-        url: "/products/KB1675A/gallery_01.webp",
+        url: "/products/KB1675A/gallery_01.png",
         alt: "999 Silver Ayodhya Shri Ram Mandir",
       },
       {
-        url: "/products/KB1675A/gallery_02.webp",
+        url: "/products/KB1675A/gallery_02.png",
         alt: "999 Silver Ayodhya Shri Ram Mandir",
       },
       {
-        url: "/products/KB1675A/gallery_03.webp",
+        url: "/products/KB1675A/gallery_03.png",
         alt: "999 Silver Ayodhya Shri Ram Mandir",
       },
       {
-        url: "/products/KB1675A/gallery_04.webp",
+        url: "/products/KB1675A/gallery_04.png",
         alt: "999 Silver Ayodhya Shri Ram Mandir",
       },
       {
-        url: "/products/KB1675A/gallery_05.webp",
+        url: "/products/KB1675A/gallery_05.png",
         alt: "999 Silver Ayodhya Shri Ram Mandir",
       },
     ],
@@ -24412,27 +24412,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ram Lala KB1676.webp",
+        url: "/products/Ram Lala KB1676.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/KB1676/gallery_01.webp",
+        url: "/products/KB1676/gallery_01.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/KB1676/gallery_02.webp",
+        url: "/products/KB1676/gallery_02.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/KB1676/gallery_03.webp",
+        url: "/products/KB1676/gallery_03.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/KB1676/gallery_04.webp",
+        url: "/products/KB1676/gallery_04.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/KB1676/gallery_05.webp",
+        url: "/products/KB1676/gallery_05.png",
         alt: "999 Silver Ram Lala",
       },
     ],
@@ -24464,27 +24464,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Meldi Mata 50GM KB1679.webp",
+        url: "/products/Meldi Mata 50GM KB1679.png",
         alt: "999 Silver Meldi Mata",
       },
       {
-        url: "/products/KB1679/gallery_01.webp",
+        url: "/products/KB1679/gallery_01.png",
         alt: "999 Silver Meldi Mata",
       },
       {
-        url: "/products/KB1679/gallery_02.webp",
+        url: "/products/KB1679/gallery_02.png",
         alt: "999 Silver Meldi Mata",
       },
       {
-        url: "/products/KB1679/gallery_03.webp",
+        url: "/products/KB1679/gallery_03.png",
         alt: "999 Silver Meldi Mata",
       },
       {
-        url: "/products/KB1679/gallery_04.webp",
+        url: "/products/KB1679/gallery_04.png",
         alt: "999 Silver Meldi Mata",
       },
       {
-        url: "/products/KB1679/gallery_05.webp",
+        url: "/products/KB1679/gallery_05.png",
         alt: "999 Silver Meldi Mata",
       },
     ],
@@ -24519,27 +24519,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHREE SWAMI SAMARTH MAHARAJ 50GM KB1680.webp",
+        url: "/products/SHREE SWAMI SAMARTH MAHARAJ 50GM KB1680.png",
         alt: "999 Silver Shree Swami Samarth Maharaj",
       },
       {
-        url: "/products/KB1680/gallery_01.webp",
+        url: "/products/KB1680/gallery_01.png",
         alt: "999 Silver Shree Swami Samarth Maharaj",
       },
       {
-        url: "/products/KB1680/gallery_02.webp",
+        url: "/products/KB1680/gallery_02.png",
         alt: "999 Silver Shree Swami Samarth Maharaj",
       },
       {
-        url: "/products/KB1680/gallery_03.webp",
+        url: "/products/KB1680/gallery_03.png",
         alt: "999 Silver Shree Swami Samarth Maharaj",
       },
       {
-        url: "/products/KB1680/gallery_04.webp",
+        url: "/products/KB1680/gallery_04.png",
         alt: "999 Silver Shree Swami Samarth Maharaj",
       },
       {
-        url: "/products/KB1680/gallery_05.webp",
+        url: "/products/KB1680/gallery_05.png",
         alt: "999 Silver Shree Swami Samarth Maharaj",
       },
     ],
@@ -24574,27 +24574,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KHATU SHYAM 240 GMS KB1681M.webp",
+        url: "/products/KHATU SHYAM 240 GMS KB1681M.png",
         alt: "999 Silver Khatu Shyam",
       },
       {
-        url: "/products/KB1681M/gallery_01.webp",
+        url: "/products/KB1681M/gallery_01.png",
         alt: "999 Silver Khatu Shyam",
       },
       {
-        url: "/products/KB1681M/gallery_02.webp",
+        url: "/products/KB1681M/gallery_02.png",
         alt: "999 Silver Khatu Shyam",
       },
       {
-        url: "/products/KB1681M/gallery_03.webp",
+        url: "/products/KB1681M/gallery_03.png",
         alt: "999 Silver Khatu Shyam",
       },
       {
-        url: "/products/KB1681M/gallery_04.webp",
+        url: "/products/KB1681M/gallery_04.png",
         alt: "999 Silver Khatu Shyam",
       },
       {
-        url: "/products/KB1681M/gallery_05.webp",
+        url: "/products/KB1681M/gallery_05.png",
         alt: "999 Silver Khatu Shyam",
       },
     ],
@@ -24629,23 +24629,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB1682/gallery_01.webp",
+        url: "/products/KB1682/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1682/gallery_02.webp",
+        url: "/products/KB1682/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1682/gallery_03.webp",
+        url: "/products/KB1682/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1682/gallery_04.webp",
+        url: "/products/KB1682/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1682/gallery_05.webp",
+        url: "/products/KB1682/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
     ],
@@ -24683,27 +24683,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI JI 25GM KB1682A.webp",
+        url: "/products/LAXMI JI 25GM KB1682A.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KB1682A/gallery_01.webp",
+        url: "/products/KB1682A/gallery_01.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KB1682A/gallery_02.webp",
+        url: "/products/KB1682A/gallery_02.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KB1682A/gallery_03.webp",
+        url: "/products/KB1682A/gallery_03.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KB1682A/gallery_04.webp",
+        url: "/products/KB1682A/gallery_04.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/KB1682A/gallery_05.webp",
+        url: "/products/KB1682A/gallery_05.png",
         alt: "999 Silver Laxmi Ji",
       },
     ],
@@ -24741,27 +24741,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 25GM KB1682B.webp",
+        url: "/products/GANESH JI 25GM KB1682B.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1682B/gallery_01.webp",
+        url: "/products/KB1682B/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1682B/gallery_02.webp",
+        url: "/products/KB1682B/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1682B/gallery_03.webp",
+        url: "/products/KB1682B/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1682B/gallery_04.webp",
+        url: "/products/KB1682B/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1682B/gallery_05.webp",
+        url: "/products/KB1682B/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -24799,27 +24799,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BURJ AL ARAB 25GM KB1684.webp",
+        url: "/products/BURJ AL ARAB 25GM KB1684.png",
         alt: "999 Silver Burj Al Arab",
       },
       {
-        url: "/products/KB1684/gallery_01.webp",
+        url: "/products/KB1684/gallery_01.png",
         alt: "999 Silver Burj Al Arab",
       },
       {
-        url: "/products/KB1684/gallery_02.webp",
+        url: "/products/KB1684/gallery_02.png",
         alt: "999 Silver Burj Al Arab",
       },
       {
-        url: "/products/KB1684/gallery_03.webp",
+        url: "/products/KB1684/gallery_03.png",
         alt: "999 Silver Burj Al Arab",
       },
       {
-        url: "/products/KB1684/gallery_04.webp",
+        url: "/products/KB1684/gallery_04.png",
         alt: "999 Silver Burj Al Arab",
       },
       {
-        url: "/products/KB1684/gallery_05.webp",
+        url: "/products/KB1684/gallery_05.png",
         alt: "999 Silver Burj Al Arab",
       },
     ],
@@ -24858,27 +24858,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ARABIC MAGIC LAMP 55GM KB1685.webp",
+        url: "/products/ARABIC MAGIC LAMP 55GM KB1685.png",
         alt: "999 Silver Arabic Magic Lamp",
       },
       {
-        url: "/products/KB1685/gallery_01.webp",
+        url: "/products/KB1685/gallery_01.png",
         alt: "999 Silver Arabic Magic Lamp",
       },
       {
-        url: "/products/KB1685/gallery_02.webp",
+        url: "/products/KB1685/gallery_02.png",
         alt: "999 Silver Arabic Magic Lamp",
       },
       {
-        url: "/products/KB1685/gallery_03.webp",
+        url: "/products/KB1685/gallery_03.png",
         alt: "999 Silver Arabic Magic Lamp",
       },
       {
-        url: "/products/KB1685/gallery_04.webp",
+        url: "/products/KB1685/gallery_04.png",
         alt: "999 Silver Arabic Magic Lamp",
       },
       {
-        url: "/products/KB1685/gallery_05.webp",
+        url: "/products/KB1685/gallery_05.png",
         alt: "999 Silver Arabic Magic Lamp",
       },
     ],
@@ -24916,27 +24916,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COFFEE POT 25 GM KB1688.webp",
+        url: "/products/COFFEE POT 25 GM KB1688.png",
         alt: "999 Silver Coffee Pot",
       },
       {
-        url: "/products/KB1688/gallery_01.webp",
+        url: "/products/KB1688/gallery_01.png",
         alt: "999 Silver Coffee Pot",
       },
       {
-        url: "/products/KB1688/gallery_02.webp",
+        url: "/products/KB1688/gallery_02.png",
         alt: "999 Silver Coffee Pot",
       },
       {
-        url: "/products/KB1688/gallery_03.webp",
+        url: "/products/KB1688/gallery_03.png",
         alt: "999 Silver Coffee Pot",
       },
       {
-        url: "/products/KB1688/gallery_04.webp",
+        url: "/products/KB1688/gallery_04.png",
         alt: "999 Silver Coffee Pot",
       },
       {
-        url: "/products/KB1688/gallery_05.webp",
+        url: "/products/KB1688/gallery_05.png",
         alt: "999 Silver Coffee Pot",
       },
     ],
@@ -24973,27 +24973,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/VINTAGE EAGLE STATUE KB1689.webp",
+        url: "/products/VINTAGE EAGLE STATUE KB1689.png",
         alt: "999 Silver Vintage Eagle Statue",
       },
       {
-        url: "/products/KB1689/gallery_01.webp",
+        url: "/products/KB1689/gallery_01.png",
         alt: "999 Silver Vintage Eagle Statue",
       },
       {
-        url: "/products/KB1689/gallery_02.webp",
+        url: "/products/KB1689/gallery_02.png",
         alt: "999 Silver Vintage Eagle Statue",
       },
       {
-        url: "/products/KB1689/gallery_03.webp",
+        url: "/products/KB1689/gallery_03.png",
         alt: "999 Silver Vintage Eagle Statue",
       },
       {
-        url: "/products/KB1689/gallery_04.webp",
+        url: "/products/KB1689/gallery_04.png",
         alt: "999 Silver Vintage Eagle Statue",
       },
       {
-        url: "/products/KB1689/gallery_05.webp",
+        url: "/products/KB1689/gallery_05.png",
         alt: "999 Silver Vintage Eagle Statue",
       },
     ],
@@ -25029,27 +25029,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BURJ KHALIFA 35GM KB1691.webp",
+        url: "/products/BURJ KHALIFA 35GM KB1691.png",
         alt: "999 Silver Burj Khalifa",
       },
       {
-        url: "/products/KB1691/gallery_01.webp",
+        url: "/products/KB1691/gallery_01.png",
         alt: "999 Silver Burj Khalifa",
       },
       {
-        url: "/products/KB1691/gallery_02.webp",
+        url: "/products/KB1691/gallery_02.png",
         alt: "999 Silver Burj Khalifa",
       },
       {
-        url: "/products/KB1691/gallery_03.webp",
+        url: "/products/KB1691/gallery_03.png",
         alt: "999 Silver Burj Khalifa",
       },
       {
-        url: "/products/KB1691/gallery_04.webp",
+        url: "/products/KB1691/gallery_04.png",
         alt: "999 Silver Burj Khalifa",
       },
       {
-        url: "/products/KB1691/gallery_05.webp",
+        url: "/products/KB1691/gallery_05.png",
         alt: "999 Silver Burj Khalifa",
       },
     ],
@@ -25086,27 +25086,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ARAB CAMEL AND BURJ KHLIFA WITH TREE 65GM KB1692.webp",
+        url: "/products/ARAB CAMEL AND BURJ KHLIFA WITH TREE 65GM KB1692.png",
         alt: "999 Silver Arab Camel And Burj Khlifa With Tree",
       },
       {
-        url: "/products/KB1692/gallery_01.webp",
+        url: "/products/KB1692/gallery_01.png",
         alt: "999 Silver Arab Camel And Burj Khlifa With Tree",
       },
       {
-        url: "/products/KB1692/gallery_02.webp",
+        url: "/products/KB1692/gallery_02.png",
         alt: "999 Silver Arab Camel And Burj Khlifa With Tree",
       },
       {
-        url: "/products/KB1692/gallery_03.webp",
+        url: "/products/KB1692/gallery_03.png",
         alt: "999 Silver Arab Camel And Burj Khlifa With Tree",
       },
       {
-        url: "/products/KB1692/gallery_04.webp",
+        url: "/products/KB1692/gallery_04.png",
         alt: "999 Silver Arab Camel And Burj Khlifa With Tree",
       },
       {
-        url: "/products/KB1692/gallery_05.webp",
+        url: "/products/KB1692/gallery_05.png",
         alt: "999 Silver Arab Camel And Burj Khlifa With Tree",
       },
     ],
@@ -25145,27 +25145,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PEACOCK SCULPTURE 70GM KB1694.webp",
+        url: "/products/PEACOCK SCULPTURE 70GM KB1694.png",
         alt: "999 Silver Peacock Sculpture",
       },
       {
-        url: "/products/KB1694/gallery_01.webp",
+        url: "/products/KB1694/gallery_01.png",
         alt: "999 Silver Peacock Sculpture",
       },
       {
-        url: "/products/KB1694/gallery_02.webp",
+        url: "/products/KB1694/gallery_02.png",
         alt: "999 Silver Peacock Sculpture",
       },
       {
-        url: "/products/KB1694/gallery_03.webp",
+        url: "/products/KB1694/gallery_03.png",
         alt: "999 Silver Peacock Sculpture",
       },
       {
-        url: "/products/KB1694/gallery_04.webp",
+        url: "/products/KB1694/gallery_04.png",
         alt: "999 Silver Peacock Sculpture",
       },
       {
-        url: "/products/KB1694/gallery_05.webp",
+        url: "/products/KB1694/gallery_05.png",
         alt: "999 Silver Peacock Sculpture",
       },
     ],
@@ -25205,27 +25205,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Peacock 55gm KB1694M.webp",
+        url: "/products/Peacock 55gm KB1694M.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB1694M/gallery_01.webp",
+        url: "/products/KB1694M/gallery_01.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB1694M/gallery_02.webp",
+        url: "/products/KB1694M/gallery_02.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB1694M/gallery_03.webp",
+        url: "/products/KB1694M/gallery_03.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB1694M/gallery_04.webp",
+        url: "/products/KB1694M/gallery_04.png",
         alt: "999 Silver Peacock",
       },
       {
-        url: "/products/KB1694M/gallery_05.webp",
+        url: "/products/KB1694M/gallery_05.png",
         alt: "999 Silver Peacock",
       },
     ],
@@ -25262,27 +25262,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ADIYOGI SHIVA 65GM Kb1696.webp",
+        url: "/products/ADIYOGI SHIVA 65GM Kb1696.png",
         alt: "999 Silver Adiyogi Shiva",
       },
       {
-        url: "/products/KB1696/gallery_01.webp",
+        url: "/products/KB1696/gallery_01.png",
         alt: "999 Silver Adiyogi Shiva",
       },
       {
-        url: "/products/KB1696/gallery_02.webp",
+        url: "/products/KB1696/gallery_02.png",
         alt: "999 Silver Adiyogi Shiva",
       },
       {
-        url: "/products/KB1696/gallery_03.webp",
+        url: "/products/KB1696/gallery_03.png",
         alt: "999 Silver Adiyogi Shiva",
       },
       {
-        url: "/products/KB1696/gallery_04.webp",
+        url: "/products/KB1696/gallery_04.png",
         alt: "999 Silver Adiyogi Shiva",
       },
       {
-        url: "/products/KB1696/gallery_05.webp",
+        url: "/products/KB1696/gallery_05.png",
         alt: "999 Silver Adiyogi Shiva",
       },
     ],
@@ -25321,27 +25321,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shree Jagannath BHAGWAN 110GM Kb1697.webp",
+        url: "/products/Shree Jagannath BHAGWAN 110GM Kb1697.png",
         alt: "999 Silver Shree Jagannath BHAGWAN",
       },
       {
-        url: "/products/KB1697/gallery_01.webp",
+        url: "/products/KB1697/gallery_01.png",
         alt: "999 Silver Shree Jagannath BHAGWAN",
       },
       {
-        url: "/products/KB1697/gallery_02.webp",
+        url: "/products/KB1697/gallery_02.png",
         alt: "999 Silver Shree Jagannath BHAGWAN",
       },
       {
-        url: "/products/KB1697/gallery_03.webp",
+        url: "/products/KB1697/gallery_03.png",
         alt: "999 Silver Shree Jagannath BHAGWAN",
       },
       {
-        url: "/products/KB1697/gallery_04.webp",
+        url: "/products/KB1697/gallery_04.png",
         alt: "999 Silver Shree Jagannath BHAGWAN",
       },
       {
-        url: "/products/KB1697/gallery_05.webp",
+        url: "/products/KB1697/gallery_05.png",
         alt: "999 Silver Shree Jagannath BHAGWAN",
       },
     ],
@@ -25378,27 +25378,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIVPARIVAR IDOL 140 GMS Kb1700.webp",
+        url: "/products/SHIVPARIVAR IDOL 140 GMS Kb1700.png",
         alt: "999 Silver Shivparivar Idol",
       },
       {
-        url: "/products/KB1700/gallery_01.webp",
+        url: "/products/KB1700/gallery_01.png",
         alt: "999 Silver Shivparivar Idol",
       },
       {
-        url: "/products/KB1700/gallery_02.webp",
+        url: "/products/KB1700/gallery_02.png",
         alt: "999 Silver Shivparivar Idol",
       },
       {
-        url: "/products/KB1700/gallery_03.webp",
+        url: "/products/KB1700/gallery_03.png",
         alt: "999 Silver Shivparivar Idol",
       },
       {
-        url: "/products/KB1700/gallery_04.webp",
+        url: "/products/KB1700/gallery_04.png",
         alt: "999 Silver Shivparivar Idol",
       },
       {
-        url: "/products/KB1700/gallery_05.webp",
+        url: "/products/KB1700/gallery_05.png",
         alt: "999 Silver Shivparivar Idol",
       },
     ],
@@ -25437,27 +25437,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH SARSWATI 75GM KB1704.webp",
+        url: "/products/LAXMI GANESH SARSWATI 75GM KB1704.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1704/gallery_01.webp",
+        url: "/products/KB1704/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1704/gallery_02.webp",
+        url: "/products/KB1704/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1704/gallery_03.webp",
+        url: "/products/KB1704/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1704/gallery_04.webp",
+        url: "/products/KB1704/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1704/gallery_05.webp",
+        url: "/products/KB1704/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -25495,27 +25495,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 25GM KB1704B.webp",
+        url: "/products/GANESH JI 25GM KB1704B.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1704B/gallery_01.webp",
+        url: "/products/KB1704B/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1704B/gallery_02.webp",
+        url: "/products/KB1704B/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1704B/gallery_03.webp",
+        url: "/products/KB1704B/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1704B/gallery_04.webp",
+        url: "/products/KB1704B/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1704B/gallery_05.webp",
+        url: "/products/KB1704B/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -25553,27 +25553,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SARSWATI MAA 25GM KB1704C.webp",
+        url: "/products/SARSWATI MAA 25GM KB1704C.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1704C/gallery_01.webp",
+        url: "/products/KB1704C/gallery_01.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1704C/gallery_02.webp",
+        url: "/products/KB1704C/gallery_02.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1704C/gallery_03.webp",
+        url: "/products/KB1704C/gallery_03.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1704C/gallery_04.webp",
+        url: "/products/KB1704C/gallery_04.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1704C/gallery_05.webp",
+        url: "/products/KB1704C/gallery_05.png",
         alt: "999 Silver Sarswati Maa",
       },
     ],
@@ -25611,23 +25611,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB1704D/gallery_01.webp",
+        url: "/products/KB1704D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1704D/gallery_02.webp",
+        url: "/products/KB1704D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1704D/gallery_03.webp",
+        url: "/products/KB1704D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1704D/gallery_04.webp",
+        url: "/products/KB1704D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1704D/gallery_05.webp",
+        url: "/products/KB1704D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
     ],
@@ -25665,27 +25665,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH SARSWATI 70GM KB1705.webp",
+        url: "/products/LAXMI GANESH SARSWATI 70GM KB1705.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1705/gallery_01.webp",
+        url: "/products/KB1705/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1705/gallery_02.webp",
+        url: "/products/KB1705/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1705/gallery_03.webp",
+        url: "/products/KB1705/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1705/gallery_04.webp",
+        url: "/products/KB1705/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/KB1705/gallery_05.webp",
+        url: "/products/KB1705/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -25723,27 +25723,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI 25GM KB1705A.webp",
+        url: "/products/LAXMI 25GM KB1705A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB1705A/gallery_01.webp",
+        url: "/products/KB1705A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB1705A/gallery_02.webp",
+        url: "/products/KB1705A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB1705A/gallery_03.webp",
+        url: "/products/KB1705A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB1705A/gallery_04.webp",
+        url: "/products/KB1705A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/KB1705A/gallery_05.webp",
+        url: "/products/KB1705A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -25781,27 +25781,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 25GM KB1705B.webp",
+        url: "/products/GANESH JI 25GM KB1705B.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1705B/gallery_01.webp",
+        url: "/products/KB1705B/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1705B/gallery_02.webp",
+        url: "/products/KB1705B/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1705B/gallery_03.webp",
+        url: "/products/KB1705B/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1705B/gallery_04.webp",
+        url: "/products/KB1705B/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/KB1705B/gallery_05.webp",
+        url: "/products/KB1705B/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -25839,27 +25839,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SARSWATI MAA 25GM KB1705C.webp",
+        url: "/products/SARSWATI MAA 25GM KB1705C.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1705C/gallery_01.webp",
+        url: "/products/KB1705C/gallery_01.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1705C/gallery_02.webp",
+        url: "/products/KB1705C/gallery_02.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1705C/gallery_03.webp",
+        url: "/products/KB1705C/gallery_03.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1705C/gallery_04.webp",
+        url: "/products/KB1705C/gallery_04.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/KB1705C/gallery_05.webp",
+        url: "/products/KB1705C/gallery_05.png",
         alt: "999 Silver Sarswati Maa",
       },
     ],
@@ -25897,23 +25897,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KB1705D/gallery_01.webp",
+        url: "/products/KB1705D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1705D/gallery_02.webp",
+        url: "/products/KB1705D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1705D/gallery_03.webp",
+        url: "/products/KB1705D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1705D/gallery_04.webp",
+        url: "/products/KB1705D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
       {
-        url: "/products/KB1705D/gallery_05.webp",
+        url: "/products/KB1705D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Ji",
       },
     ],
@@ -25951,27 +25951,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MURGAN SWAMI 70GM KB1706.webp",
+        url: "/products/MURGAN SWAMI 70GM KB1706.png",
         alt: "999 Silver Murgan Swami",
       },
       {
-        url: "/products/KB1706/gallery_01.webp",
+        url: "/products/KB1706/gallery_01.png",
         alt: "999 Silver Murgan Swami",
       },
       {
-        url: "/products/KB1706/gallery_02.webp",
+        url: "/products/KB1706/gallery_02.png",
         alt: "999 Silver Murgan Swami",
       },
       {
-        url: "/products/KB1706/gallery_03.webp",
+        url: "/products/KB1706/gallery_03.png",
         alt: "999 Silver Murgan Swami",
       },
       {
-        url: "/products/KB1706/gallery_04.webp",
+        url: "/products/KB1706/gallery_04.png",
         alt: "999 Silver Murgan Swami",
       },
       {
-        url: "/products/KB1706/gallery_05.webp",
+        url: "/products/KB1706/gallery_05.png",
         alt: "999 Silver Murgan Swami",
       },
     ],
@@ -26009,27 +26009,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW AND CALF 65GM KB1707.webp",
+        url: "/products/COW AND CALF 65GM KB1707.png",
         alt: "999 Silver Cow And Calf",
       },
       {
-        url: "/products/KB1707/gallery_01.webp",
+        url: "/products/KB1707/gallery_01.png",
         alt: "999 Silver Cow And Calf",
       },
       {
-        url: "/products/KB1707/gallery_02.webp",
+        url: "/products/KB1707/gallery_02.png",
         alt: "999 Silver Cow And Calf",
       },
       {
-        url: "/products/KB1707/gallery_03.webp",
+        url: "/products/KB1707/gallery_03.png",
         alt: "999 Silver Cow And Calf",
       },
       {
-        url: "/products/KB1707/gallery_04.webp",
+        url: "/products/KB1707/gallery_04.png",
         alt: "999 Silver Cow And Calf",
       },
       {
-        url: "/products/KB1707/gallery_05.webp",
+        url: "/products/KB1707/gallery_05.png",
         alt: "999 Silver Cow And Calf",
       },
     ],
@@ -26068,27 +26068,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/24 tirthankar 350GM KB1708.webp",
+        url: "/products/24 tirthankar 350GM KB1708.png",
         alt: "999 Silver 24 tirthankar",
       },
       {
-        url: "/products/KB1708/gallery_01.webp",
+        url: "/products/KB1708/gallery_01.png",
         alt: "999 Silver 24 tirthankar",
       },
       {
-        url: "/products/KB1708/gallery_02.webp",
+        url: "/products/KB1708/gallery_02.png",
         alt: "999 Silver 24 tirthankar",
       },
       {
-        url: "/products/KB1708/gallery_03.webp",
+        url: "/products/KB1708/gallery_03.png",
         alt: "999 Silver 24 tirthankar",
       },
       {
-        url: "/products/KB1708/gallery_04.webp",
+        url: "/products/KB1708/gallery_04.png",
         alt: "999 Silver 24 tirthankar",
       },
       {
-        url: "/products/KB1708/gallery_05.webp",
+        url: "/products/KB1708/gallery_05.png",
         alt: "999 Silver 24 tirthankar",
       },
     ],
@@ -26127,27 +26127,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ASTHA LAXMI MAA 105GM KB1710.webp",
+        url: "/products/ASTHA LAXMI MAA 105GM KB1710.png",
         alt: "999 Silver Astha Laxmi Maa",
       },
       {
-        url: "/products/KB1710/gallery_01.webp",
+        url: "/products/KB1710/gallery_01.png",
         alt: "999 Silver Astha Laxmi Maa",
       },
       {
-        url: "/products/KB1710/gallery_02.webp",
+        url: "/products/KB1710/gallery_02.png",
         alt: "999 Silver Astha Laxmi Maa",
       },
       {
-        url: "/products/KB1710/gallery_03.webp",
+        url: "/products/KB1710/gallery_03.png",
         alt: "999 Silver Astha Laxmi Maa",
       },
       {
-        url: "/products/KB1710/gallery_04.webp",
+        url: "/products/KB1710/gallery_04.png",
         alt: "999 Silver Astha Laxmi Maa",
       },
       {
-        url: "/products/KB1710/gallery_05.webp",
+        url: "/products/KB1710/gallery_05.png",
         alt: "999 Silver Astha Laxmi Maa",
       },
     ],
@@ -26186,27 +26186,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA WITH COW MSI010.webp",
+        url: "/products/KRISHNA WITH COW MSI010.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI010/gallery_01.webp",
+        url: "/products/MSI010/gallery_01.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI010/gallery_02.webp",
+        url: "/products/MSI010/gallery_02.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI010/gallery_03.webp",
+        url: "/products/MSI010/gallery_03.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI010/gallery_04.webp",
+        url: "/products/MSI010/gallery_04.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI010/gallery_05.webp",
+        url: "/products/MSI010/gallery_05.png",
         alt: "999 Silver Krishna With Cow",
       },
     ],
@@ -26242,27 +26242,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LADDU GOPAL WITH COW MSI011.webp",
+        url: "/products/LADDU GOPAL WITH COW MSI011.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI011/gallery_01.webp",
+        url: "/products/MSI011/gallery_01.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI011/gallery_02.webp",
+        url: "/products/MSI011/gallery_02.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI011/gallery_03.webp",
+        url: "/products/MSI011/gallery_03.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI011/gallery_04.webp",
+        url: "/products/MSI011/gallery_04.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI011/gallery_05.webp",
+        url: "/products/MSI011/gallery_05.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
     ],
@@ -26298,27 +26298,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIV LINGA WITH NANDI SET 80GM MSI012.webp",
+        url: "/products/SHIV LINGA WITH NANDI SET 80GM MSI012.png",
         alt: "999 Silver Shiv Linga With Nandi Set",
       },
       {
-        url: "/products/MSI012/gallery_01.webp",
+        url: "/products/MSI012/gallery_01.png",
         alt: "999 Silver Shiv Linga With Nandi Set",
       },
       {
-        url: "/products/MSI012/gallery_02.webp",
+        url: "/products/MSI012/gallery_02.png",
         alt: "999 Silver Shiv Linga With Nandi Set",
       },
       {
-        url: "/products/MSI012/gallery_03.webp",
+        url: "/products/MSI012/gallery_03.png",
         alt: "999 Silver Shiv Linga With Nandi Set",
       },
       {
-        url: "/products/MSI012/gallery_04.webp",
+        url: "/products/MSI012/gallery_04.png",
         alt: "999 Silver Shiv Linga With Nandi Set",
       },
       {
-        url: "/products/MSI012/gallery_05.webp",
+        url: "/products/MSI012/gallery_05.png",
         alt: "999 Silver Shiv Linga With Nandi Set",
       },
     ],
@@ -26353,27 +26353,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna With Cow Peacock 170gm MSI013.webp",
+        url: "/products/Krishna With Cow Peacock 170gm MSI013.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI013/gallery_01.webp",
+        url: "/products/MSI013/gallery_01.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI013/gallery_02.webp",
+        url: "/products/MSI013/gallery_02.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI013/gallery_03.webp",
+        url: "/products/MSI013/gallery_03.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI013/gallery_04.webp",
+        url: "/products/MSI013/gallery_04.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI013/gallery_05.webp",
+        url: "/products/MSI013/gallery_05.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
     ],
@@ -26406,27 +26406,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Krishna With Cow Peacock 170gm MSI014.webp",
+        url: "/products/Krishna With Cow Peacock 170gm MSI014.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI014/gallery_01.webp",
+        url: "/products/MSI014/gallery_01.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI014/gallery_02.webp",
+        url: "/products/MSI014/gallery_02.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI014/gallery_03.webp",
+        url: "/products/MSI014/gallery_03.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI014/gallery_04.webp",
+        url: "/products/MSI014/gallery_04.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
       {
-        url: "/products/MSI014/gallery_05.webp",
+        url: "/products/MSI014/gallery_05.png",
         alt: "999 Silver Krishna With Cow & Peacock",
       },
     ],
@@ -26459,27 +26459,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan With Cow 210GM MSI015.webp",
+        url: "/products/Radhakrishnan With Cow 210GM MSI015.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI015/gallery_01.webp",
+        url: "/products/MSI015/gallery_01.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI015/gallery_02.webp",
+        url: "/products/MSI015/gallery_02.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI015/gallery_03.webp",
+        url: "/products/MSI015/gallery_03.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI015/gallery_04.webp",
+        url: "/products/MSI015/gallery_04.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI015/gallery_05.webp",
+        url: "/products/MSI015/gallery_05.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
     ],
@@ -26512,27 +26512,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan With Peacock 260GM MSI016.webp",
+        url: "/products/Radhakrishnan With Peacock 260GM MSI016.png",
         alt: "999 Silver Radhakrishnan With Peacock",
       },
       {
-        url: "/products/MSI016/gallery_01.webp",
+        url: "/products/MSI016/gallery_01.png",
         alt: "999 Silver Radhakrishnan With Peacock",
       },
       {
-        url: "/products/MSI016/gallery_02.webp",
+        url: "/products/MSI016/gallery_02.png",
         alt: "999 Silver Radhakrishnan With Peacock",
       },
       {
-        url: "/products/MSI016/gallery_03.webp",
+        url: "/products/MSI016/gallery_03.png",
         alt: "999 Silver Radhakrishnan With Peacock",
       },
       {
-        url: "/products/MSI016/gallery_04.webp",
+        url: "/products/MSI016/gallery_04.png",
         alt: "999 Silver Radhakrishnan With Peacock",
       },
       {
-        url: "/products/MSI016/gallery_05.webp",
+        url: "/products/MSI016/gallery_05.png",
         alt: "999 Silver Radhakrishnan With Peacock",
       },
     ],
@@ -26565,27 +26565,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan With Cow 260GM MSI017.webp",
+        url: "/products/Radhakrishnan With Cow 260GM MSI017.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI017/gallery_01.webp",
+        url: "/products/MSI017/gallery_01.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI017/gallery_02.webp",
+        url: "/products/MSI017/gallery_02.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI017/gallery_03.webp",
+        url: "/products/MSI017/gallery_03.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI017/gallery_04.webp",
+        url: "/products/MSI017/gallery_04.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
       {
-        url: "/products/MSI017/gallery_05.webp",
+        url: "/products/MSI017/gallery_05.png",
         alt: "999 Silver Radhakrishnan With Cow",
       },
     ],
@@ -26618,27 +26618,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/laddu gopal with cow PEACOCK 280GM MSI018.webp",
+        url: "/products/laddu gopal with cow PEACOCK 280GM MSI018.png",
         alt: "999 Silver laddu gopal with cow & PEACOCK",
       },
       {
-        url: "/products/MSI018/gallery_01.webp",
+        url: "/products/MSI018/gallery_01.png",
         alt: "999 Silver laddu gopal with cow & PEACOCK",
       },
       {
-        url: "/products/MSI018/gallery_02.webp",
+        url: "/products/MSI018/gallery_02.png",
         alt: "999 Silver laddu gopal with cow & PEACOCK",
       },
       {
-        url: "/products/MSI018/gallery_03.webp",
+        url: "/products/MSI018/gallery_03.png",
         alt: "999 Silver laddu gopal with cow & PEACOCK",
       },
       {
-        url: "/products/MSI018/gallery_04.webp",
+        url: "/products/MSI018/gallery_04.png",
         alt: "999 Silver laddu gopal with cow & PEACOCK",
       },
       {
-        url: "/products/MSI018/gallery_05.webp",
+        url: "/products/MSI018/gallery_05.png",
         alt: "999 Silver laddu gopal with cow & PEACOCK",
       },
     ],
@@ -26673,27 +26673,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI MSI019.webp",
+        url: "/products/GANESH JI MSI019.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI019/gallery_01.webp",
+        url: "/products/MSI019/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI019/gallery_02.webp",
+        url: "/products/MSI019/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI019/gallery_03.webp",
+        url: "/products/MSI019/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI019/gallery_04.webp",
+        url: "/products/MSI019/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI019/gallery_05.webp",
+        url: "/products/MSI019/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -26729,27 +26729,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 105GM MSI01B.webp",
+        url: "/products/Ganesha 105GM MSI01B.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI01B/gallery_01.webp",
+        url: "/products/MSI01B/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI01B/gallery_02.webp",
+        url: "/products/MSI01B/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI01B/gallery_03.webp",
+        url: "/products/MSI01B/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI01B/gallery_04.webp",
+        url: "/products/MSI01B/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI01B/gallery_05.webp",
+        url: "/products/MSI01B/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -26784,27 +26784,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi With Elephant 60GM MSI02.webp",
+        url: "/products/Laxmi With Elephant 60GM MSI02.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI02/gallery_01.webp",
+        url: "/products/MSI02/gallery_01.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI02/gallery_02.webp",
+        url: "/products/MSI02/gallery_02.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI02/gallery_03.webp",
+        url: "/products/MSI02/gallery_03.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI02/gallery_04.webp",
+        url: "/products/MSI02/gallery_04.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI02/gallery_05.webp",
+        url: "/products/MSI02/gallery_05.png",
         alt: "999 Silver Laxmi With Elephant",
       },
     ],
@@ -26839,27 +26839,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA WITH COW MSI020.webp",
+        url: "/products/RADHAKRISHNA WITH COW MSI020.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI020/gallery_01.webp",
+        url: "/products/MSI020/gallery_01.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI020/gallery_02.webp",
+        url: "/products/MSI020/gallery_02.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI020/gallery_03.webp",
+        url: "/products/MSI020/gallery_03.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI020/gallery_04.webp",
+        url: "/products/MSI020/gallery_04.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI020/gallery_05.webp",
+        url: "/products/MSI020/gallery_05.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
     ],
@@ -26893,27 +26893,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh With Elephant 70GM MSI02A.webp",
+        url: "/products/Ganesh With Elephant 70GM MSI02A.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI02A/gallery_01.webp",
+        url: "/products/MSI02A/gallery_01.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI02A/gallery_02.webp",
+        url: "/products/MSI02A/gallery_02.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI02A/gallery_03.webp",
+        url: "/products/MSI02A/gallery_03.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI02A/gallery_04.webp",
+        url: "/products/MSI02A/gallery_04.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI02A/gallery_05.webp",
+        url: "/products/MSI02A/gallery_05.png",
         alt: "999 Silver Ganesh With Elephant",
       },
     ],
@@ -26948,27 +26948,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 110GM MSI03.webp",
+        url: "/products/LAXMI GANESH 110GM MSI03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI03/gallery_01.webp",
+        url: "/products/MSI03/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI03/gallery_02.webp",
+        url: "/products/MSI03/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI03/gallery_03.webp",
+        url: "/products/MSI03/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI03/gallery_04.webp",
+        url: "/products/MSI03/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI03/gallery_05.webp",
+        url: "/products/MSI03/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -27003,23 +27003,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI031/gallery_01.webp",
+        url: "/products/MSI031/gallery_01.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI031/gallery_02.webp",
+        url: "/products/MSI031/gallery_02.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI031/gallery_03.webp",
+        url: "/products/MSI031/gallery_03.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI031/gallery_04.webp",
+        url: "/products/MSI031/gallery_04.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI031/gallery_05.webp",
+        url: "/products/MSI031/gallery_05.png",
         alt: "999 Silver Lg",
       },
     ],
@@ -27052,27 +27052,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LGS 65GM MSI032.webp",
+        url: "/products/LGS 65GM MSI032.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/MSI032/gallery_01.webp",
+        url: "/products/MSI032/gallery_01.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/MSI032/gallery_02.webp",
+        url: "/products/MSI032/gallery_02.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/MSI032/gallery_03.webp",
+        url: "/products/MSI032/gallery_03.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/MSI032/gallery_04.webp",
+        url: "/products/MSI032/gallery_04.png",
         alt: "999 Silver Lgs",
       },
       {
-        url: "/products/MSI032/gallery_05.webp",
+        url: "/products/MSI032/gallery_05.png",
         alt: "999 Silver Lgs",
       },
     ],
@@ -27105,23 +27105,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI033/gallery_01.webp",
+        url: "/products/MSI033/gallery_01.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI033/gallery_02.webp",
+        url: "/products/MSI033/gallery_02.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI033/gallery_03.webp",
+        url: "/products/MSI033/gallery_03.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI033/gallery_04.webp",
+        url: "/products/MSI033/gallery_04.png",
         alt: "999 Silver Lg",
       },
       {
-        url: "/products/MSI033/gallery_05.webp",
+        url: "/products/MSI033/gallery_05.png",
         alt: "999 Silver Lg",
       },
     ],
@@ -27154,27 +27154,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow tulsi L gopal 45gm MSI034.webp",
+        url: "/products/Cow tulsi L gopal 45gm MSI034.png",
         alt: "999 Silver Cow tulsi & L.gopal",
       },
       {
-        url: "/products/MSI034/gallery_01.webp",
+        url: "/products/MSI034/gallery_01.png",
         alt: "999 Silver Cow tulsi & L.gopal",
       },
       {
-        url: "/products/MSI034/gallery_02.webp",
+        url: "/products/MSI034/gallery_02.png",
         alt: "999 Silver Cow tulsi & L.gopal",
       },
       {
-        url: "/products/MSI034/gallery_03.webp",
+        url: "/products/MSI034/gallery_03.png",
         alt: "999 Silver Cow tulsi & L.gopal",
       },
       {
-        url: "/products/MSI034/gallery_04.webp",
+        url: "/products/MSI034/gallery_04.png",
         alt: "999 Silver Cow tulsi & L.gopal",
       },
       {
-        url: "/products/MSI034/gallery_05.webp",
+        url: "/products/MSI034/gallery_05.png",
         alt: "999 Silver Cow tulsi & L.gopal",
       },
     ],
@@ -27207,27 +27207,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Bala ji new 50g MSI035.webp",
+        url: "/products/Bala ji new 50g MSI035.png",
         alt: "999 Silver Bala ji new 50g",
       },
       {
-        url: "/products/MSI035/gallery_01.webp",
+        url: "/products/MSI035/gallery_01.png",
         alt: "999 Silver Bala ji new 50g",
       },
       {
-        url: "/products/MSI035/gallery_02.webp",
+        url: "/products/MSI035/gallery_02.png",
         alt: "999 Silver Bala ji new 50g",
       },
       {
-        url: "/products/MSI035/gallery_03.webp",
+        url: "/products/MSI035/gallery_03.png",
         alt: "999 Silver Bala ji new 50g",
       },
       {
-        url: "/products/MSI035/gallery_04.webp",
+        url: "/products/MSI035/gallery_04.png",
         alt: "999 Silver Bala ji new 50g",
       },
       {
-        url: "/products/MSI035/gallery_05.webp",
+        url: "/products/MSI035/gallery_05.png",
         alt: "999 Silver Bala ji new 50g",
       },
     ],
@@ -27259,27 +27259,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow and tulsi 15g MSI036.webp",
+        url: "/products/Cow and tulsi 15g MSI036.png",
         alt: "999 Silver Cow and tulsi 15g",
       },
       {
-        url: "/products/MSI036/gallery_01.webp",
+        url: "/products/MSI036/gallery_01.png",
         alt: "999 Silver Cow and tulsi 15g",
       },
       {
-        url: "/products/MSI036/gallery_02.webp",
+        url: "/products/MSI036/gallery_02.png",
         alt: "999 Silver Cow and tulsi 15g",
       },
       {
-        url: "/products/MSI036/gallery_03.webp",
+        url: "/products/MSI036/gallery_03.png",
         alt: "999 Silver Cow and tulsi 15g",
       },
       {
-        url: "/products/MSI036/gallery_04.webp",
+        url: "/products/MSI036/gallery_04.png",
         alt: "999 Silver Cow and tulsi 15g",
       },
       {
-        url: "/products/MSI036/gallery_05.webp",
+        url: "/products/MSI036/gallery_05.png",
         alt: "999 Silver Cow and tulsi 15g",
       },
     ],
@@ -27313,27 +27313,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Srinath ji with cow and tulsi MSI037.webp",
+        url: "/products/Srinath ji with cow and tulsi MSI037.png",
         alt: "999 Silver Srinath ji with cow and tulsi",
       },
       {
-        url: "/products/MSI037/gallery_01.webp",
+        url: "/products/MSI037/gallery_01.png",
         alt: "999 Silver Srinath ji with cow and tulsi",
       },
       {
-        url: "/products/MSI037/gallery_02.webp",
+        url: "/products/MSI037/gallery_02.png",
         alt: "999 Silver Srinath ji with cow and tulsi",
       },
       {
-        url: "/products/MSI037/gallery_03.webp",
+        url: "/products/MSI037/gallery_03.png",
         alt: "999 Silver Srinath ji with cow and tulsi",
       },
       {
-        url: "/products/MSI037/gallery_04.webp",
+        url: "/products/MSI037/gallery_04.png",
         alt: "999 Silver Srinath ji with cow and tulsi",
       },
       {
-        url: "/products/MSI037/gallery_05.webp",
+        url: "/products/MSI037/gallery_05.png",
         alt: "999 Silver Srinath ji with cow and tulsi",
       },
     ],
@@ -27371,27 +27371,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Srinath ji with cow 25g MSI038.webp",
+        url: "/products/Srinath ji with cow 25g MSI038.png",
         alt: "999 Silver Srinath ji with cow 25g",
       },
       {
-        url: "/products/MSI038/gallery_01.webp",
+        url: "/products/MSI038/gallery_01.png",
         alt: "999 Silver Srinath ji with cow 25g",
       },
       {
-        url: "/products/MSI038/gallery_02.webp",
+        url: "/products/MSI038/gallery_02.png",
         alt: "999 Silver Srinath ji with cow 25g",
       },
       {
-        url: "/products/MSI038/gallery_03.webp",
+        url: "/products/MSI038/gallery_03.png",
         alt: "999 Silver Srinath ji with cow 25g",
       },
       {
-        url: "/products/MSI038/gallery_04.webp",
+        url: "/products/MSI038/gallery_04.png",
         alt: "999 Silver Srinath ji with cow 25g",
       },
       {
-        url: "/products/MSI038/gallery_05.webp",
+        url: "/products/MSI038/gallery_05.png",
         alt: "999 Silver Srinath ji with cow 25g",
       },
     ],
@@ -27427,27 +27427,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RK with cow tulsi 40g MSI039.webp",
+        url: "/products/RK with cow tulsi 40g MSI039.png",
         alt: "999 Silver RK with cow & tulsi 40g",
       },
       {
-        url: "/products/MSI039/gallery_01.webp",
+        url: "/products/MSI039/gallery_01.png",
         alt: "999 Silver RK with cow & tulsi 40g",
       },
       {
-        url: "/products/MSI039/gallery_02.webp",
+        url: "/products/MSI039/gallery_02.png",
         alt: "999 Silver RK with cow & tulsi 40g",
       },
       {
-        url: "/products/MSI039/gallery_03.webp",
+        url: "/products/MSI039/gallery_03.png",
         alt: "999 Silver RK with cow & tulsi 40g",
       },
       {
-        url: "/products/MSI039/gallery_04.webp",
+        url: "/products/MSI039/gallery_04.png",
         alt: "999 Silver RK with cow & tulsi 40g",
       },
       {
-        url: "/products/MSI039/gallery_05.webp",
+        url: "/products/MSI039/gallery_05.png",
         alt: "999 Silver RK with cow & tulsi 40g",
       },
     ],
@@ -27481,27 +27481,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA ON ELEPHANT 200GM MSI04.webp",
+        url: "/products/KRISHNA ON ELEPHANT 200GM MSI04.png",
         alt: "999 Silver Krishna On Elephant",
       },
       {
-        url: "/products/MSI04/gallery_01.webp",
+        url: "/products/MSI04/gallery_01.png",
         alt: "999 Silver Krishna On Elephant",
       },
       {
-        url: "/products/MSI04/gallery_02.webp",
+        url: "/products/MSI04/gallery_02.png",
         alt: "999 Silver Krishna On Elephant",
       },
       {
-        url: "/products/MSI04/gallery_03.webp",
+        url: "/products/MSI04/gallery_03.png",
         alt: "999 Silver Krishna On Elephant",
       },
       {
-        url: "/products/MSI04/gallery_04.webp",
+        url: "/products/MSI04/gallery_04.png",
         alt: "999 Silver Krishna On Elephant",
       },
       {
-        url: "/products/MSI04/gallery_05.webp",
+        url: "/products/MSI04/gallery_05.png",
         alt: "999 Silver Krishna On Elephant",
       },
     ],
@@ -27536,27 +27536,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radha Krishna new 70gm MSI040.webp",
+        url: "/products/Radha Krishna new 70gm MSI040.png",
         alt: "999 Silver Radha Krishna new",
       },
       {
-        url: "/products/MSI040/gallery_01.webp",
+        url: "/products/MSI040/gallery_01.png",
         alt: "999 Silver Radha Krishna new",
       },
       {
-        url: "/products/MSI040/gallery_02.webp",
+        url: "/products/MSI040/gallery_02.png",
         alt: "999 Silver Radha Krishna new",
       },
       {
-        url: "/products/MSI040/gallery_03.webp",
+        url: "/products/MSI040/gallery_03.png",
         alt: "999 Silver Radha Krishna new",
       },
       {
-        url: "/products/MSI040/gallery_04.webp",
+        url: "/products/MSI040/gallery_04.png",
         alt: "999 Silver Radha Krishna new",
       },
       {
-        url: "/products/MSI040/gallery_05.webp",
+        url: "/products/MSI040/gallery_05.png",
         alt: "999 Silver Radha Krishna new",
       },
     ],
@@ -27591,27 +27591,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Royal Silver Horses Kalash Showpiece 175gm MSI042.webp",
+        url: "/products/Royal Silver Horses Kalash Showpiece 175gm MSI042.png",
         alt: "999 Silver Royal Silver Horses Kalash Showpiece",
       },
       {
-        url: "/products/MSI042/gallery_01.webp",
+        url: "/products/MSI042/gallery_01.png",
         alt: "999 Silver Royal Silver Horses Kalash Showpiece",
       },
       {
-        url: "/products/MSI042/gallery_02.webp",
+        url: "/products/MSI042/gallery_02.png",
         alt: "999 Silver Royal Silver Horses Kalash Showpiece",
       },
       {
-        url: "/products/MSI042/gallery_03.webp",
+        url: "/products/MSI042/gallery_03.png",
         alt: "999 Silver Royal Silver Horses Kalash Showpiece",
       },
       {
-        url: "/products/MSI042/gallery_04.webp",
+        url: "/products/MSI042/gallery_04.png",
         alt: "999 Silver Royal Silver Horses Kalash Showpiece",
       },
       {
-        url: "/products/MSI042/gallery_05.webp",
+        url: "/products/MSI042/gallery_05.png",
         alt: "999 Silver Royal Silver Horses Kalash Showpiece",
       },
     ],
@@ -27650,27 +27650,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Double Horse Kalash D%C3%A9cor 140gm MSI043.webp",
+        url: "/products/Double Horse Kalash D%C3%A9cor 140gm MSI043.png",
         alt: "999 Silver Double Horse Kalash Décor",
       },
       {
-        url: "/products/MSI043/gallery_01.webp",
+        url: "/products/MSI043/gallery_01.png",
         alt: "999 Silver Double Horse Kalash Décor",
       },
       {
-        url: "/products/MSI043/gallery_02.webp",
+        url: "/products/MSI043/gallery_02.png",
         alt: "999 Silver Double Horse Kalash Décor",
       },
       {
-        url: "/products/MSI043/gallery_03.webp",
+        url: "/products/MSI043/gallery_03.png",
         alt: "999 Silver Double Horse Kalash Décor",
       },
       {
-        url: "/products/MSI043/gallery_04.webp",
+        url: "/products/MSI043/gallery_04.png",
         alt: "999 Silver Double Horse Kalash Décor",
       },
       {
-        url: "/products/MSI043/gallery_05.webp",
+        url: "/products/MSI043/gallery_05.png",
         alt: "999 Silver Double Horse Kalash Décor",
       },
     ],
@@ -27709,27 +27709,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Silver Bal Gopal Eating fruits125gm MSI044.webp",
+        url: "/products/Silver Bal Gopal Eating fruits125gm MSI044.png",
         alt: "999 Silver Silver Bal Gopal Eating fruits125gm",
       },
       {
-        url: "/products/MSI044/gallery_01.webp",
+        url: "/products/MSI044/gallery_01.png",
         alt: "999 Silver Silver Bal Gopal Eating fruits125gm",
       },
       {
-        url: "/products/MSI044/gallery_02.webp",
+        url: "/products/MSI044/gallery_02.png",
         alt: "999 Silver Silver Bal Gopal Eating fruits125gm",
       },
       {
-        url: "/products/MSI044/gallery_03.webp",
+        url: "/products/MSI044/gallery_03.png",
         alt: "999 Silver Silver Bal Gopal Eating fruits125gm",
       },
       {
-        url: "/products/MSI044/gallery_04.webp",
+        url: "/products/MSI044/gallery_04.png",
         alt: "999 Silver Silver Bal Gopal Eating fruits125gm",
       },
       {
-        url: "/products/MSI044/gallery_05.webp",
+        url: "/products/MSI044/gallery_05.png",
         alt: "999 Silver Silver Bal Gopal Eating fruits125gm",
       },
     ],
@@ -27768,27 +27768,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Silver Shivling with Ganesh Set 65gm MSI045.webp",
+        url: "/products/Silver Shivling with Ganesh Set 65gm MSI045.png",
         alt: "999 Silver Silver Shivling with Ganesh Set",
       },
       {
-        url: "/products/MSI045/gallery_01.webp",
+        url: "/products/MSI045/gallery_01.png",
         alt: "999 Silver Silver Shivling with Ganesh Set",
       },
       {
-        url: "/products/MSI045/gallery_02.webp",
+        url: "/products/MSI045/gallery_02.png",
         alt: "999 Silver Silver Shivling with Ganesh Set",
       },
       {
-        url: "/products/MSI045/gallery_03.webp",
+        url: "/products/MSI045/gallery_03.png",
         alt: "999 Silver Silver Shivling with Ganesh Set",
       },
       {
-        url: "/products/MSI045/gallery_04.webp",
+        url: "/products/MSI045/gallery_04.png",
         alt: "999 Silver Silver Shivling with Ganesh Set",
       },
       {
-        url: "/products/MSI045/gallery_05.webp",
+        url: "/products/MSI045/gallery_05.png",
         alt: "999 Silver Silver Shivling with Ganesh Set",
       },
     ],
@@ -27827,27 +27827,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/laxmi kuber with shree yantra 80gm MSI046.webp",
+        url: "/products/laxmi kuber with shree yantra 80gm MSI046.png",
         alt: "999 Silver laxmi kuber with shree yantra",
       },
       {
-        url: "/products/MSI046/gallery_01.webp",
+        url: "/products/MSI046/gallery_01.png",
         alt: "999 Silver laxmi kuber with shree yantra",
       },
       {
-        url: "/products/MSI046/gallery_02.webp",
+        url: "/products/MSI046/gallery_02.png",
         alt: "999 Silver laxmi kuber with shree yantra",
       },
       {
-        url: "/products/MSI046/gallery_03.webp",
+        url: "/products/MSI046/gallery_03.png",
         alt: "999 Silver laxmi kuber with shree yantra",
       },
       {
-        url: "/products/MSI046/gallery_04.webp",
+        url: "/products/MSI046/gallery_04.png",
         alt: "999 Silver laxmi kuber with shree yantra",
       },
       {
-        url: "/products/MSI046/gallery_05.webp",
+        url: "/products/MSI046/gallery_05.png",
         alt: "999 Silver laxmi kuber with shree yantra",
       },
     ],
@@ -27886,23 +27886,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI047/gallery_01.webp",
+        url: "/products/MSI047/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh With Yantra",
       },
       {
-        url: "/products/MSI047/gallery_02.webp",
+        url: "/products/MSI047/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh With Yantra",
       },
       {
-        url: "/products/MSI047/gallery_03.webp",
+        url: "/products/MSI047/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh With Yantra",
       },
       {
-        url: "/products/MSI047/gallery_04.webp",
+        url: "/products/MSI047/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh With Yantra",
       },
       {
-        url: "/products/MSI047/gallery_05.webp",
+        url: "/products/MSI047/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh With Yantra",
       },
     ],
@@ -27939,27 +27939,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA WITH ELELPHENT BOTH SIDE 60GM MSI048.webp",
+        url: "/products/KRISHNA WITH ELELPHENT BOTH SIDE 60GM MSI048.png",
         alt: "999 Silver Krishna With Elelphent Both Side",
       },
       {
-        url: "/products/MSI048/gallery_01.webp",
+        url: "/products/MSI048/gallery_01.png",
         alt: "999 Silver Krishna With Elelphent Both Side",
       },
       {
-        url: "/products/MSI048/gallery_02.webp",
+        url: "/products/MSI048/gallery_02.png",
         alt: "999 Silver Krishna With Elelphent Both Side",
       },
       {
-        url: "/products/MSI048/gallery_03.webp",
+        url: "/products/MSI048/gallery_03.png",
         alt: "999 Silver Krishna With Elelphent Both Side",
       },
       {
-        url: "/products/MSI048/gallery_04.webp",
+        url: "/products/MSI048/gallery_04.png",
         alt: "999 Silver Krishna With Elelphent Both Side",
       },
       {
-        url: "/products/MSI048/gallery_05.webp",
+        url: "/products/MSI048/gallery_05.png",
         alt: "999 Silver Krishna With Elelphent Both Side",
       },
     ],
@@ -27996,27 +27996,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SUN WITH HORSE BOTH SIDE 105GM MSI049.webp",
+        url: "/products/SUN WITH HORSE BOTH SIDE 105GM MSI049.png",
         alt: "999 Silver Sun With Horse Both Side",
       },
       {
-        url: "/products/MSI049/gallery_01.webp",
+        url: "/products/MSI049/gallery_01.png",
         alt: "999 Silver Sun With Horse Both Side",
       },
       {
-        url: "/products/MSI049/gallery_02.webp",
+        url: "/products/MSI049/gallery_02.png",
         alt: "999 Silver Sun With Horse Both Side",
       },
       {
-        url: "/products/MSI049/gallery_03.webp",
+        url: "/products/MSI049/gallery_03.png",
         alt: "999 Silver Sun With Horse Both Side",
       },
       {
-        url: "/products/MSI049/gallery_04.webp",
+        url: "/products/MSI049/gallery_04.png",
         alt: "999 Silver Sun With Horse Both Side",
       },
       {
-        url: "/products/MSI049/gallery_05.webp",
+        url: "/products/MSI049/gallery_05.png",
         alt: "999 Silver Sun With Horse Both Side",
       },
     ],
@@ -28053,27 +28053,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 60GM MSI05.webp",
+        url: "/products/LAXMI GANESH 60GM MSI05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI05/gallery_01.webp",
+        url: "/products/MSI05/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI05/gallery_02.webp",
+        url: "/products/MSI05/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI05/gallery_03.webp",
+        url: "/products/MSI05/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI05/gallery_04.webp",
+        url: "/products/MSI05/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI05/gallery_05.webp",
+        url: "/products/MSI05/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -28112,27 +28112,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAKHAN GOPAL WITH COW 70GM MSI050.webp",
+        url: "/products/MAKHAN GOPAL WITH COW 70GM MSI050.png",
         alt: "999 Silver Makhan Gopal With Cow",
       },
       {
-        url: "/products/MSI050/gallery_01.webp",
+        url: "/products/MSI050/gallery_01.png",
         alt: "999 Silver Makhan Gopal With Cow",
       },
       {
-        url: "/products/MSI050/gallery_02.webp",
+        url: "/products/MSI050/gallery_02.png",
         alt: "999 Silver Makhan Gopal With Cow",
       },
       {
-        url: "/products/MSI050/gallery_03.webp",
+        url: "/products/MSI050/gallery_03.png",
         alt: "999 Silver Makhan Gopal With Cow",
       },
       {
-        url: "/products/MSI050/gallery_04.webp",
+        url: "/products/MSI050/gallery_04.png",
         alt: "999 Silver Makhan Gopal With Cow",
       },
       {
-        url: "/products/MSI050/gallery_05.webp",
+        url: "/products/MSI050/gallery_05.png",
         alt: "999 Silver Makhan Gopal With Cow",
       },
     ],
@@ -28169,27 +28169,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANPATI DARBAR 80GM MSI051.webp",
+        url: "/products/GANPATI DARBAR 80GM MSI051.png",
         alt: "999 Silver Ganpati Darbar",
       },
       {
-        url: "/products/MSI051/gallery_01.webp",
+        url: "/products/MSI051/gallery_01.png",
         alt: "999 Silver Ganpati Darbar",
       },
       {
-        url: "/products/MSI051/gallery_02.webp",
+        url: "/products/MSI051/gallery_02.png",
         alt: "999 Silver Ganpati Darbar",
       },
       {
-        url: "/products/MSI051/gallery_03.webp",
+        url: "/products/MSI051/gallery_03.png",
         alt: "999 Silver Ganpati Darbar",
       },
       {
-        url: "/products/MSI051/gallery_04.webp",
+        url: "/products/MSI051/gallery_04.png",
         alt: "999 Silver Ganpati Darbar",
       },
       {
-        url: "/products/MSI051/gallery_05.webp",
+        url: "/products/MSI051/gallery_05.png",
         alt: "999 Silver Ganpati Darbar",
       },
     ],
@@ -28226,23 +28226,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI052/gallery_01.webp",
+        url: "/products/MSI052/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Darbar",
       },
       {
-        url: "/products/MSI052/gallery_02.webp",
+        url: "/products/MSI052/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Darbar",
       },
       {
-        url: "/products/MSI052/gallery_03.webp",
+        url: "/products/MSI052/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Darbar",
       },
       {
-        url: "/products/MSI052/gallery_04.webp",
+        url: "/products/MSI052/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Darbar",
       },
       {
-        url: "/products/MSI052/gallery_05.webp",
+        url: "/products/MSI052/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Darbar",
       },
     ],
@@ -28279,23 +28279,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI052A/gallery_01.webp",
+        url: "/products/MSI052A/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI052A/gallery_02.webp",
+        url: "/products/MSI052A/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI052A/gallery_03.webp",
+        url: "/products/MSI052A/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI052A/gallery_04.webp",
+        url: "/products/MSI052A/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI052A/gallery_05.webp",
+        url: "/products/MSI052A/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -28332,27 +28332,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIV PARIWAR WITH SHIVLING 120GM MSI053.webp",
+        url: "/products/SHIV PARIWAR WITH SHIVLING 120GM MSI053.png",
         alt: "999 Silver Shiv Pariwar With Shivling",
       },
       {
-        url: "/products/MSI053/gallery_01.webp",
+        url: "/products/MSI053/gallery_01.png",
         alt: "999 Silver Shiv Pariwar With Shivling",
       },
       {
-        url: "/products/MSI053/gallery_02.webp",
+        url: "/products/MSI053/gallery_02.png",
         alt: "999 Silver Shiv Pariwar With Shivling",
       },
       {
-        url: "/products/MSI053/gallery_03.webp",
+        url: "/products/MSI053/gallery_03.png",
         alt: "999 Silver Shiv Pariwar With Shivling",
       },
       {
-        url: "/products/MSI053/gallery_04.webp",
+        url: "/products/MSI053/gallery_04.png",
         alt: "999 Silver Shiv Pariwar With Shivling",
       },
       {
-        url: "/products/MSI053/gallery_05.webp",
+        url: "/products/MSI053/gallery_05.png",
         alt: "999 Silver Shiv Pariwar With Shivling",
       },
     ],
@@ -28389,27 +28389,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Divine Silver Vishnu Ji with Bal Gopal Idol 125gm MSI054.webp",
+        url: "/products/Divine Silver Vishnu Ji with Bal Gopal Idol 125gm MSI054.png",
         alt: "999 Silver Divine Silver Vishnu Ji with Bal Gopal Idol",
       },
       {
-        url: "/products/MSI054/gallery_01.webp",
+        url: "/products/MSI054/gallery_01.png",
         alt: "999 Silver Divine Silver Vishnu Ji with Bal Gopal Idol",
       },
       {
-        url: "/products/MSI054/gallery_02.webp",
+        url: "/products/MSI054/gallery_02.png",
         alt: "999 Silver Divine Silver Vishnu Ji with Bal Gopal Idol",
       },
       {
-        url: "/products/MSI054/gallery_03.webp",
+        url: "/products/MSI054/gallery_03.png",
         alt: "999 Silver Divine Silver Vishnu Ji with Bal Gopal Idol",
       },
       {
-        url: "/products/MSI054/gallery_04.webp",
+        url: "/products/MSI054/gallery_04.png",
         alt: "999 Silver Divine Silver Vishnu Ji with Bal Gopal Idol",
       },
       {
-        url: "/products/MSI054/gallery_05.webp",
+        url: "/products/MSI054/gallery_05.png",
         alt: "999 Silver Divine Silver Vishnu Ji with Bal Gopal Idol",
       },
     ],
@@ -28448,27 +28448,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAM MANDIR WITH RAM JI ELEPHENT 150GM MSI055.webp",
+        url: "/products/RAM MANDIR WITH RAM JI ELEPHENT 150GM MSI055.png",
         alt: "999 Silver Ram Mandir With Ram Ji & Elephent",
       },
       {
-        url: "/products/MSI055/gallery_01.webp",
+        url: "/products/MSI055/gallery_01.png",
         alt: "999 Silver Ram Mandir With Ram Ji & Elephent",
       },
       {
-        url: "/products/MSI055/gallery_02.webp",
+        url: "/products/MSI055/gallery_02.png",
         alt: "999 Silver Ram Mandir With Ram Ji & Elephent",
       },
       {
-        url: "/products/MSI055/gallery_03.webp",
+        url: "/products/MSI055/gallery_03.png",
         alt: "999 Silver Ram Mandir With Ram Ji & Elephent",
       },
       {
-        url: "/products/MSI055/gallery_04.webp",
+        url: "/products/MSI055/gallery_04.png",
         alt: "999 Silver Ram Mandir With Ram Ji & Elephent",
       },
       {
-        url: "/products/MSI055/gallery_05.webp",
+        url: "/products/MSI055/gallery_05.png",
         alt: "999 Silver Ram Mandir With Ram Ji & Elephent",
       },
     ],
@@ -28505,27 +28505,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW WITH TULSI M GOPAL 285GM MSI056.webp",
+        url: "/products/COW WITH TULSI M GOPAL 285GM MSI056.png",
         alt: "999 Silver Cow With Tulsi & M.Gopal",
       },
       {
-        url: "/products/MSI056/gallery_01.webp",
+        url: "/products/MSI056/gallery_01.png",
         alt: "999 Silver Cow With Tulsi & M.Gopal",
       },
       {
-        url: "/products/MSI056/gallery_02.webp",
+        url: "/products/MSI056/gallery_02.png",
         alt: "999 Silver Cow With Tulsi & M.Gopal",
       },
       {
-        url: "/products/MSI056/gallery_03.webp",
+        url: "/products/MSI056/gallery_03.png",
         alt: "999 Silver Cow With Tulsi & M.Gopal",
       },
       {
-        url: "/products/MSI056/gallery_04.webp",
+        url: "/products/MSI056/gallery_04.png",
         alt: "999 Silver Cow With Tulsi & M.Gopal",
       },
       {
-        url: "/products/MSI056/gallery_05.webp",
+        url: "/products/MSI056/gallery_05.png",
         alt: "999 Silver Cow With Tulsi & M.Gopal",
       },
     ],
@@ -28562,27 +28562,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW WITH TULSI L GOPAL 100GM MSI057.webp",
+        url: "/products/COW WITH TULSI L GOPAL 100GM MSI057.png",
         alt: "999 Silver Cow With Tulsi & L Gopal",
       },
       {
-        url: "/products/MSI057/gallery_01.webp",
+        url: "/products/MSI057/gallery_01.png",
         alt: "999 Silver Cow With Tulsi & L Gopal",
       },
       {
-        url: "/products/MSI057/gallery_02.webp",
+        url: "/products/MSI057/gallery_02.png",
         alt: "999 Silver Cow With Tulsi & L Gopal",
       },
       {
-        url: "/products/MSI057/gallery_03.webp",
+        url: "/products/MSI057/gallery_03.png",
         alt: "999 Silver Cow With Tulsi & L Gopal",
       },
       {
-        url: "/products/MSI057/gallery_04.webp",
+        url: "/products/MSI057/gallery_04.png",
         alt: "999 Silver Cow With Tulsi & L Gopal",
       },
       {
-        url: "/products/MSI057/gallery_05.webp",
+        url: "/products/MSI057/gallery_05.png",
         alt: "999 Silver Cow With Tulsi & L Gopal",
       },
     ],
@@ -28619,27 +28619,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAM SITA WITH HANUMAN JI 100GM MSI058.webp",
+        url: "/products/RAM SITA WITH HANUMAN JI 100GM MSI058.png",
         alt: "999 Silver Ram Sita With Hanuman Ji",
       },
       {
-        url: "/products/MSI058/gallery_01.webp",
+        url: "/products/MSI058/gallery_01.png",
         alt: "999 Silver Ram Sita With Hanuman Ji",
       },
       {
-        url: "/products/MSI058/gallery_02.webp",
+        url: "/products/MSI058/gallery_02.png",
         alt: "999 Silver Ram Sita With Hanuman Ji",
       },
       {
-        url: "/products/MSI058/gallery_03.webp",
+        url: "/products/MSI058/gallery_03.png",
         alt: "999 Silver Ram Sita With Hanuman Ji",
       },
       {
-        url: "/products/MSI058/gallery_04.webp",
+        url: "/products/MSI058/gallery_04.png",
         alt: "999 Silver Ram Sita With Hanuman Ji",
       },
       {
-        url: "/products/MSI058/gallery_05.webp",
+        url: "/products/MSI058/gallery_05.png",
         alt: "999 Silver Ram Sita With Hanuman Ji",
       },
     ],
@@ -28676,27 +28676,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA WITH PEACOCK BOTH SIDE 250GM MSI059.webp",
+        url: "/products/RADHAKRISHNA WITH PEACOCK BOTH SIDE 250GM MSI059.png",
         alt: "999 Silver Radhakrishna With Peacock Both Side",
       },
       {
-        url: "/products/MSI059/gallery_01.webp",
+        url: "/products/MSI059/gallery_01.png",
         alt: "999 Silver Radhakrishna With Peacock Both Side",
       },
       {
-        url: "/products/MSI059/gallery_02.webp",
+        url: "/products/MSI059/gallery_02.png",
         alt: "999 Silver Radhakrishna With Peacock Both Side",
       },
       {
-        url: "/products/MSI059/gallery_03.webp",
+        url: "/products/MSI059/gallery_03.png",
         alt: "999 Silver Radhakrishna With Peacock Both Side",
       },
       {
-        url: "/products/MSI059/gallery_04.webp",
+        url: "/products/MSI059/gallery_04.png",
         alt: "999 Silver Radhakrishna With Peacock Both Side",
       },
       {
-        url: "/products/MSI059/gallery_05.webp",
+        url: "/products/MSI059/gallery_05.png",
         alt: "999 Silver Radhakrishna With Peacock Both Side",
       },
     ],
@@ -28733,27 +28733,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 35GM MSI05A.webp",
+        url: "/products/Laxmi 35GM MSI05A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/MSI05A/gallery_01.webp",
+        url: "/products/MSI05A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/MSI05A/gallery_02.webp",
+        url: "/products/MSI05A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/MSI05A/gallery_03.webp",
+        url: "/products/MSI05A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/MSI05A/gallery_04.webp",
+        url: "/products/MSI05A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/MSI05A/gallery_05.webp",
+        url: "/products/MSI05A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -28792,27 +28792,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 30GM MSI05B.webp",
+        url: "/products/Ganesh 30GM MSI05B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI05B/gallery_01.webp",
+        url: "/products/MSI05B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI05B/gallery_02.webp",
+        url: "/products/MSI05B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI05B/gallery_03.webp",
+        url: "/products/MSI05B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI05B/gallery_04.webp",
+        url: "/products/MSI05B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI05B/gallery_05.webp",
+        url: "/products/MSI05B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -28849,27 +28849,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Balaji Msi06.webp",
+        url: "/products/Balaji Msi06.png",
         alt: "999 Silver Balaji",
       },
       {
-        url: "/products/MSI06/gallery_01.webp",
+        url: "/products/MSI06/gallery_01.png",
         alt: "999 Silver Balaji",
       },
       {
-        url: "/products/MSI06/gallery_02.webp",
+        url: "/products/MSI06/gallery_02.png",
         alt: "999 Silver Balaji",
       },
       {
-        url: "/products/MSI06/gallery_03.webp",
+        url: "/products/MSI06/gallery_03.png",
         alt: "999 Silver Balaji",
       },
       {
-        url: "/products/MSI06/gallery_04.webp",
+        url: "/products/MSI06/gallery_04.png",
         alt: "999 Silver Balaji",
       },
       {
-        url: "/products/MSI06/gallery_05.webp",
+        url: "/products/MSI06/gallery_05.png",
         alt: "999 Silver Balaji",
       },
     ],
@@ -28903,27 +28903,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA WITH COW 150GM MSI060.webp",
+        url: "/products/RADHAKRISHNA WITH COW 150GM MSI060.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI060/gallery_01.webp",
+        url: "/products/MSI060/gallery_01.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI060/gallery_02.webp",
+        url: "/products/MSI060/gallery_02.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI060/gallery_03.webp",
+        url: "/products/MSI060/gallery_03.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI060/gallery_04.webp",
+        url: "/products/MSI060/gallery_04.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
       {
-        url: "/products/MSI060/gallery_05.webp",
+        url: "/products/MSI060/gallery_05.png",
         alt: "999 Silver Radhakrishna With Cow",
       },
     ],
@@ -28960,27 +28960,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA WITH HORSE BOTH SIDE 60GM MSI061.webp",
+        url: "/products/KRISHNA WITH HORSE BOTH SIDE 60GM MSI061.png",
         alt: "999 Silver Krishna With Horse Both Side",
       },
       {
-        url: "/products/MSI061/gallery_01.webp",
+        url: "/products/MSI061/gallery_01.png",
         alt: "999 Silver Krishna With Horse Both Side",
       },
       {
-        url: "/products/MSI061/gallery_02.webp",
+        url: "/products/MSI061/gallery_02.png",
         alt: "999 Silver Krishna With Horse Both Side",
       },
       {
-        url: "/products/MSI061/gallery_03.webp",
+        url: "/products/MSI061/gallery_03.png",
         alt: "999 Silver Krishna With Horse Both Side",
       },
       {
-        url: "/products/MSI061/gallery_04.webp",
+        url: "/products/MSI061/gallery_04.png",
         alt: "999 Silver Krishna With Horse Both Side",
       },
       {
-        url: "/products/MSI061/gallery_05.webp",
+        url: "/products/MSI061/gallery_05.png",
         alt: "999 Silver Krishna With Horse Both Side",
       },
     ],
@@ -29017,27 +29017,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHA WITH HORSE BOTH SIDE 65GM MSI062.webp",
+        url: "/products/GANESHA WITH HORSE BOTH SIDE 65GM MSI062.png",
         alt: "999 Silver Ganesha With Horse Both Side",
       },
       {
-        url: "/products/MSI062/gallery_01.webp",
+        url: "/products/MSI062/gallery_01.png",
         alt: "999 Silver Ganesha With Horse Both Side",
       },
       {
-        url: "/products/MSI062/gallery_02.webp",
+        url: "/products/MSI062/gallery_02.png",
         alt: "999 Silver Ganesha With Horse Both Side",
       },
       {
-        url: "/products/MSI062/gallery_03.webp",
+        url: "/products/MSI062/gallery_03.png",
         alt: "999 Silver Ganesha With Horse Both Side",
       },
       {
-        url: "/products/MSI062/gallery_04.webp",
+        url: "/products/MSI062/gallery_04.png",
         alt: "999 Silver Ganesha With Horse Both Side",
       },
       {
-        url: "/products/MSI062/gallery_05.webp",
+        url: "/products/MSI062/gallery_05.png",
         alt: "999 Silver Ganesha With Horse Both Side",
       },
     ],
@@ -29074,27 +29074,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RK WITH COW BOTH SIDE 70GM MSI063.webp",
+        url: "/products/RK WITH COW BOTH SIDE 70GM MSI063.png",
         alt: "999 Silver Rk With Cow Both Side",
       },
       {
-        url: "/products/MSI063/gallery_01.webp",
+        url: "/products/MSI063/gallery_01.png",
         alt: "999 Silver Rk With Cow Both Side",
       },
       {
-        url: "/products/MSI063/gallery_02.webp",
+        url: "/products/MSI063/gallery_02.png",
         alt: "999 Silver Rk With Cow Both Side",
       },
       {
-        url: "/products/MSI063/gallery_03.webp",
+        url: "/products/MSI063/gallery_03.png",
         alt: "999 Silver Rk With Cow Both Side",
       },
       {
-        url: "/products/MSI063/gallery_04.webp",
+        url: "/products/MSI063/gallery_04.png",
         alt: "999 Silver Rk With Cow Both Side",
       },
       {
-        url: "/products/MSI063/gallery_05.webp",
+        url: "/products/MSI063/gallery_05.png",
         alt: "999 Silver Rk With Cow Both Side",
       },
     ],
@@ -29131,27 +29131,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIVLING HANUMAN JI 75GM MSI064.webp",
+        url: "/products/SHIVLING HANUMAN JI 75GM MSI064.png",
         alt: "999 Silver Shivling Hanuman Ji",
       },
       {
-        url: "/products/MSI064/gallery_01.webp",
+        url: "/products/MSI064/gallery_01.png",
         alt: "999 Silver Shivling Hanuman Ji",
       },
       {
-        url: "/products/MSI064/gallery_02.webp",
+        url: "/products/MSI064/gallery_02.png",
         alt: "999 Silver Shivling Hanuman Ji",
       },
       {
-        url: "/products/MSI064/gallery_03.webp",
+        url: "/products/MSI064/gallery_03.png",
         alt: "999 Silver Shivling Hanuman Ji",
       },
       {
-        url: "/products/MSI064/gallery_04.webp",
+        url: "/products/MSI064/gallery_04.png",
         alt: "999 Silver Shivling Hanuman Ji",
       },
       {
-        url: "/products/MSI064/gallery_05.webp",
+        url: "/products/MSI064/gallery_05.png",
         alt: "999 Silver Shivling Hanuman Ji",
       },
     ],
@@ -29188,27 +29188,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GAJ GANESH 45GM MSI065.webp",
+        url: "/products/GAJ GANESH 45GM MSI065.png",
         alt: "999 Silver Gaj Ganesh",
       },
       {
-        url: "/products/MSI065/gallery_01.webp",
+        url: "/products/MSI065/gallery_01.png",
         alt: "999 Silver Gaj Ganesh",
       },
       {
-        url: "/products/MSI065/gallery_02.webp",
+        url: "/products/MSI065/gallery_02.png",
         alt: "999 Silver Gaj Ganesh",
       },
       {
-        url: "/products/MSI065/gallery_03.webp",
+        url: "/products/MSI065/gallery_03.png",
         alt: "999 Silver Gaj Ganesh",
       },
       {
-        url: "/products/MSI065/gallery_04.webp",
+        url: "/products/MSI065/gallery_04.png",
         alt: "999 Silver Gaj Ganesh",
       },
       {
-        url: "/products/MSI065/gallery_05.webp",
+        url: "/products/MSI065/gallery_05.png",
         alt: "999 Silver Gaj Ganesh",
       },
     ],
@@ -29245,27 +29245,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MINI MAHARAJA GANESH 75GM MSI066.webp",
+        url: "/products/MINI MAHARAJA GANESH 75GM MSI066.png",
         alt: "999 Silver Mini Maharaja Ganesh",
       },
       {
-        url: "/products/MSI066/gallery_01.webp",
+        url: "/products/MSI066/gallery_01.png",
         alt: "999 Silver Mini Maharaja Ganesh",
       },
       {
-        url: "/products/MSI066/gallery_02.webp",
+        url: "/products/MSI066/gallery_02.png",
         alt: "999 Silver Mini Maharaja Ganesh",
       },
       {
-        url: "/products/MSI066/gallery_03.webp",
+        url: "/products/MSI066/gallery_03.png",
         alt: "999 Silver Mini Maharaja Ganesh",
       },
       {
-        url: "/products/MSI066/gallery_04.webp",
+        url: "/products/MSI066/gallery_04.png",
         alt: "999 Silver Mini Maharaja Ganesh",
       },
       {
-        url: "/products/MSI066/gallery_05.webp",
+        url: "/products/MSI066/gallery_05.png",
         alt: "999 Silver Mini Maharaja Ganesh",
       },
     ],
@@ -29302,27 +29302,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESHA 35GM MSI067.webp",
+        url: "/products/GANESHA 35GM MSI067.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI067/gallery_01.webp",
+        url: "/products/MSI067/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI067/gallery_02.webp",
+        url: "/products/MSI067/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI067/gallery_03.webp",
+        url: "/products/MSI067/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI067/gallery_04.webp",
+        url: "/products/MSI067/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI067/gallery_05.webp",
+        url: "/products/MSI067/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -29359,27 +29359,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha standing on elephant 65GM MSI068.webp",
+        url: "/products/Ganesha standing on elephant 65GM MSI068.png",
         alt: "999 Silver Ganesha standing on elephant",
       },
       {
-        url: "/products/MSI068/gallery_01.webp",
+        url: "/products/MSI068/gallery_01.png",
         alt: "999 Silver Ganesha standing on elephant",
       },
       {
-        url: "/products/MSI068/gallery_02.webp",
+        url: "/products/MSI068/gallery_02.png",
         alt: "999 Silver Ganesha standing on elephant",
       },
       {
-        url: "/products/MSI068/gallery_03.webp",
+        url: "/products/MSI068/gallery_03.png",
         alt: "999 Silver Ganesha standing on elephant",
       },
       {
-        url: "/products/MSI068/gallery_04.webp",
+        url: "/products/MSI068/gallery_04.png",
         alt: "999 Silver Ganesha standing on elephant",
       },
       {
-        url: "/products/MSI068/gallery_05.webp",
+        url: "/products/MSI068/gallery_05.png",
         alt: "999 Silver Ganesha standing on elephant",
       },
     ],
@@ -29414,27 +29414,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 30G MSI069.webp",
+        url: "/products/GANESH 30G MSI069.png",
         alt: "999 Silver Ganesh 30G",
       },
       {
-        url: "/products/MSI069/gallery_01.webp",
+        url: "/products/MSI069/gallery_01.png",
         alt: "999 Silver Ganesh 30G",
       },
       {
-        url: "/products/MSI069/gallery_02.webp",
+        url: "/products/MSI069/gallery_02.png",
         alt: "999 Silver Ganesh 30G",
       },
       {
-        url: "/products/MSI069/gallery_03.webp",
+        url: "/products/MSI069/gallery_03.png",
         alt: "999 Silver Ganesh 30G",
       },
       {
-        url: "/products/MSI069/gallery_04.webp",
+        url: "/products/MSI069/gallery_04.png",
         alt: "999 Silver Ganesh 30G",
       },
       {
-        url: "/products/MSI069/gallery_05.webp",
+        url: "/products/MSI069/gallery_05.png",
         alt: "999 Silver Ganesh 30G",
       },
     ],
@@ -29468,27 +29468,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 75GM MSI070.webp",
+        url: "/products/GANESH JI 75GM MSI070.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI070/gallery_01.webp",
+        url: "/products/MSI070/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI070/gallery_02.webp",
+        url: "/products/MSI070/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI070/gallery_03.webp",
+        url: "/products/MSI070/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI070/gallery_04.webp",
+        url: "/products/MSI070/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/MSI070/gallery_05.webp",
+        url: "/products/MSI070/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -29525,27 +29525,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI JI 75GM MSI071.webp",
+        url: "/products/LAXMI JI 75GM MSI071.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/MSI071/gallery_01.webp",
+        url: "/products/MSI071/gallery_01.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/MSI071/gallery_02.webp",
+        url: "/products/MSI071/gallery_02.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/MSI071/gallery_03.webp",
+        url: "/products/MSI071/gallery_03.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/MSI071/gallery_04.webp",
+        url: "/products/MSI071/gallery_04.png",
         alt: "999 Silver Laxmi Ji",
       },
       {
-        url: "/products/MSI071/gallery_05.webp",
+        url: "/products/MSI071/gallery_05.png",
         alt: "999 Silver Laxmi Ji",
       },
     ],
@@ -29582,27 +29582,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KALAS ON ELEPHENT 145GM MSI072.webp",
+        url: "/products/KALAS ON ELEPHENT 145GM MSI072.png",
         alt: "999 Silver Kalas On Elephent",
       },
       {
-        url: "/products/MSI072/gallery_01.webp",
+        url: "/products/MSI072/gallery_01.png",
         alt: "999 Silver Kalas On Elephent",
       },
       {
-        url: "/products/MSI072/gallery_02.webp",
+        url: "/products/MSI072/gallery_02.png",
         alt: "999 Silver Kalas On Elephent",
       },
       {
-        url: "/products/MSI072/gallery_03.webp",
+        url: "/products/MSI072/gallery_03.png",
         alt: "999 Silver Kalas On Elephent",
       },
       {
-        url: "/products/MSI072/gallery_04.webp",
+        url: "/products/MSI072/gallery_04.png",
         alt: "999 Silver Kalas On Elephent",
       },
       {
-        url: "/products/MSI072/gallery_05.webp",
+        url: "/products/MSI072/gallery_05.png",
         alt: "999 Silver Kalas On Elephent",
       },
     ],
@@ -29639,23 +29639,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI073/gallery_01.webp",
+        url: "/products/MSI073/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh With Elephents",
       },
       {
-        url: "/products/MSI073/gallery_02.webp",
+        url: "/products/MSI073/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh With Elephents",
       },
       {
-        url: "/products/MSI073/gallery_03.webp",
+        url: "/products/MSI073/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh With Elephents",
       },
       {
-        url: "/products/MSI073/gallery_04.webp",
+        url: "/products/MSI073/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh With Elephents",
       },
       {
-        url: "/products/MSI073/gallery_05.webp",
+        url: "/products/MSI073/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh With Elephents",
       },
     ],
@@ -29692,27 +29692,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA WITH PEACOCK 135GM MSI074.webp",
+        url: "/products/KRISHNA WITH PEACOCK 135GM MSI074.png",
         alt: "999 Silver Krishna With Peacock",
       },
       {
-        url: "/products/MSI074/gallery_01.webp",
+        url: "/products/MSI074/gallery_01.png",
         alt: "999 Silver Krishna With Peacock",
       },
       {
-        url: "/products/MSI074/gallery_02.webp",
+        url: "/products/MSI074/gallery_02.png",
         alt: "999 Silver Krishna With Peacock",
       },
       {
-        url: "/products/MSI074/gallery_03.webp",
+        url: "/products/MSI074/gallery_03.png",
         alt: "999 Silver Krishna With Peacock",
       },
       {
-        url: "/products/MSI074/gallery_04.webp",
+        url: "/products/MSI074/gallery_04.png",
         alt: "999 Silver Krishna With Peacock",
       },
       {
-        url: "/products/MSI074/gallery_05.webp",
+        url: "/products/MSI074/gallery_05.png",
         alt: "999 Silver Krishna With Peacock",
       },
     ],
@@ -29749,27 +29749,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SRIFAL WITH ELEPHENTS BOTH SIDE 60GM MSI075.webp",
+        url: "/products/SRIFAL WITH ELEPHENTS BOTH SIDE 60GM MSI075.png",
         alt: "999 Silver Srifal With Elephents Both Side",
       },
       {
-        url: "/products/MSI075/gallery_01.webp",
+        url: "/products/MSI075/gallery_01.png",
         alt: "999 Silver Srifal With Elephents Both Side",
       },
       {
-        url: "/products/MSI075/gallery_02.webp",
+        url: "/products/MSI075/gallery_02.png",
         alt: "999 Silver Srifal With Elephents Both Side",
       },
       {
-        url: "/products/MSI075/gallery_03.webp",
+        url: "/products/MSI075/gallery_03.png",
         alt: "999 Silver Srifal With Elephents Both Side",
       },
       {
-        url: "/products/MSI075/gallery_04.webp",
+        url: "/products/MSI075/gallery_04.png",
         alt: "999 Silver Srifal With Elephents Both Side",
       },
       {
-        url: "/products/MSI075/gallery_05.webp",
+        url: "/products/MSI075/gallery_05.png",
         alt: "999 Silver Srifal With Elephents Both Side",
       },
     ],
@@ -29806,27 +29806,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI DARBAR 145GM MSI076.webp",
+        url: "/products/LAXMI DARBAR 145GM MSI076.png",
         alt: "999 Silver Laxmi Darbar",
       },
       {
-        url: "/products/MSI076/gallery_01.webp",
+        url: "/products/MSI076/gallery_01.png",
         alt: "999 Silver Laxmi Darbar",
       },
       {
-        url: "/products/MSI076/gallery_02.webp",
+        url: "/products/MSI076/gallery_02.png",
         alt: "999 Silver Laxmi Darbar",
       },
       {
-        url: "/products/MSI076/gallery_03.webp",
+        url: "/products/MSI076/gallery_03.png",
         alt: "999 Silver Laxmi Darbar",
       },
       {
-        url: "/products/MSI076/gallery_04.webp",
+        url: "/products/MSI076/gallery_04.png",
         alt: "999 Silver Laxmi Darbar",
       },
       {
-        url: "/products/MSI076/gallery_05.webp",
+        url: "/products/MSI076/gallery_05.png",
         alt: "999 Silver Laxmi Darbar",
       },
     ],
@@ -29861,27 +29861,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Silver Pyramid Elephants on Wooden Base 55gm MSI077.webp",
+        url: "/products/Silver Pyramid Elephants on Wooden Base 55gm MSI077.png",
         alt: "999 Silver Silver Pyramid & Elephants on Wooden Base",
       },
       {
-        url: "/products/MSI077/gallery_01.webp",
+        url: "/products/MSI077/gallery_01.png",
         alt: "999 Silver Silver Pyramid & Elephants on Wooden Base",
       },
       {
-        url: "/products/MSI077/gallery_02.webp",
+        url: "/products/MSI077/gallery_02.png",
         alt: "999 Silver Silver Pyramid & Elephants on Wooden Base",
       },
       {
-        url: "/products/MSI077/gallery_03.webp",
+        url: "/products/MSI077/gallery_03.png",
         alt: "999 Silver Silver Pyramid & Elephants on Wooden Base",
       },
       {
-        url: "/products/MSI077/gallery_04.webp",
+        url: "/products/MSI077/gallery_04.png",
         alt: "999 Silver Silver Pyramid & Elephants on Wooden Base",
       },
       {
-        url: "/products/MSI077/gallery_05.webp",
+        url: "/products/MSI077/gallery_05.png",
         alt: "999 Silver Silver Pyramid & Elephants on Wooden Base",
       },
     ],
@@ -29916,27 +29916,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/tulsi with cow 110gm MSI078.webp",
+        url: "/products/tulsi with cow 110gm MSI078.png",
         alt: "999 Silver tulsi with cow",
       },
       {
-        url: "/products/MSI078/gallery_01.webp",
+        url: "/products/MSI078/gallery_01.png",
         alt: "999 Silver tulsi with cow",
       },
       {
-        url: "/products/MSI078/gallery_02.webp",
+        url: "/products/MSI078/gallery_02.png",
         alt: "999 Silver tulsi with cow",
       },
       {
-        url: "/products/MSI078/gallery_03.webp",
+        url: "/products/MSI078/gallery_03.png",
         alt: "999 Silver tulsi with cow",
       },
       {
-        url: "/products/MSI078/gallery_04.webp",
+        url: "/products/MSI078/gallery_04.png",
         alt: "999 Silver tulsi with cow",
       },
       {
-        url: "/products/MSI078/gallery_05.webp",
+        url: "/products/MSI078/gallery_05.png",
         alt: "999 Silver tulsi with cow",
       },
     ],
@@ -29975,27 +29975,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TRUPATI BALA JI MSI079.webp",
+        url: "/products/TRUPATI BALA JI MSI079.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/MSI079/gallery_01.webp",
+        url: "/products/MSI079/gallery_01.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/MSI079/gallery_02.webp",
+        url: "/products/MSI079/gallery_02.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/MSI079/gallery_03.webp",
+        url: "/products/MSI079/gallery_03.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/MSI079/gallery_04.webp",
+        url: "/products/MSI079/gallery_04.png",
         alt: "999 Silver Trupati Bala Ji",
       },
       {
-        url: "/products/MSI079/gallery_05.webp",
+        url: "/products/MSI079/gallery_05.png",
         alt: "999 Silver Trupati Bala Ji",
       },
     ],
@@ -30033,27 +30033,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BAL GOPAL SET ELEPHANT PEACOCK COW MSI08.webp",
+        url: "/products/BAL GOPAL SET ELEPHANT PEACOCK COW MSI08.png",
         alt: "999 Silver Bal Gopal Set Elephant,Peacock & Cow",
       },
       {
-        url: "/products/MSI08/gallery_01.webp",
+        url: "/products/MSI08/gallery_01.png",
         alt: "999 Silver Bal Gopal Set Elephant,Peacock & Cow",
       },
       {
-        url: "/products/MSI08/gallery_02.webp",
+        url: "/products/MSI08/gallery_02.png",
         alt: "999 Silver Bal Gopal Set Elephant,Peacock & Cow",
       },
       {
-        url: "/products/MSI08/gallery_03.webp",
+        url: "/products/MSI08/gallery_03.png",
         alt: "999 Silver Bal Gopal Set Elephant,Peacock & Cow",
       },
       {
-        url: "/products/MSI08/gallery_04.webp",
+        url: "/products/MSI08/gallery_04.png",
         alt: "999 Silver Bal Gopal Set Elephant,Peacock & Cow",
       },
       {
-        url: "/products/MSI08/gallery_05.webp",
+        url: "/products/MSI08/gallery_05.png",
         alt: "999 Silver Bal Gopal Set Elephant,Peacock & Cow",
       },
     ],
@@ -30089,27 +30089,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA WITH COW TULSI MSI080.webp",
+        url: "/products/RADHA KRISHNA WITH COW TULSI MSI080.png",
         alt: "999 Silver Radha Krishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080/gallery_01.webp",
+        url: "/products/MSI080/gallery_01.png",
         alt: "999 Silver Radha Krishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080/gallery_02.webp",
+        url: "/products/MSI080/gallery_02.png",
         alt: "999 Silver Radha Krishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080/gallery_03.webp",
+        url: "/products/MSI080/gallery_03.png",
         alt: "999 Silver Radha Krishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080/gallery_04.webp",
+        url: "/products/MSI080/gallery_04.png",
         alt: "999 Silver Radha Krishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080/gallery_05.webp",
+        url: "/products/MSI080/gallery_05.png",
         alt: "999 Silver Radha Krishna With Cow & Tulsi",
       },
     ],
@@ -30145,27 +30145,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHAKRISHNA WITH COW TULSI 90GM MSI080A.webp",
+        url: "/products/RADHAKRISHNA WITH COW TULSI 90GM MSI080A.png",
         alt: "999 Silver Radhakrishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080A/gallery_01.webp",
+        url: "/products/MSI080A/gallery_01.png",
         alt: "999 Silver Radhakrishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080A/gallery_02.webp",
+        url: "/products/MSI080A/gallery_02.png",
         alt: "999 Silver Radhakrishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080A/gallery_03.webp",
+        url: "/products/MSI080A/gallery_03.png",
         alt: "999 Silver Radhakrishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080A/gallery_04.webp",
+        url: "/products/MSI080A/gallery_04.png",
         alt: "999 Silver Radhakrishna With Cow & Tulsi",
       },
       {
-        url: "/products/MSI080A/gallery_05.webp",
+        url: "/products/MSI080A/gallery_05.png",
         alt: "999 Silver Radhakrishna With Cow & Tulsi",
       },
     ],
@@ -30202,27 +30202,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA ON ELEPHANTS MSI081.webp",
+        url: "/products/KRISHNA ON ELEPHANTS MSI081.png",
         alt: "999 Silver Krishna On Elephants",
       },
       {
-        url: "/products/MSI081/gallery_01.webp",
+        url: "/products/MSI081/gallery_01.png",
         alt: "999 Silver Krishna On Elephants",
       },
       {
-        url: "/products/MSI081/gallery_02.webp",
+        url: "/products/MSI081/gallery_02.png",
         alt: "999 Silver Krishna On Elephants",
       },
       {
-        url: "/products/MSI081/gallery_03.webp",
+        url: "/products/MSI081/gallery_03.png",
         alt: "999 Silver Krishna On Elephants",
       },
       {
-        url: "/products/MSI081/gallery_04.webp",
+        url: "/products/MSI081/gallery_04.png",
         alt: "999 Silver Krishna On Elephants",
       },
       {
-        url: "/products/MSI081/gallery_05.webp",
+        url: "/products/MSI081/gallery_05.png",
         alt: "999 Silver Krishna On Elephants",
       },
     ],
@@ -30258,27 +30258,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RADHA KRISHNA WITH COW MSI082.webp",
+        url: "/products/RADHA KRISHNA WITH COW MSI082.png",
         alt: "999 Silver Radha Krishna With Cow",
       },
       {
-        url: "/products/MSI082/gallery_01.webp",
+        url: "/products/MSI082/gallery_01.png",
         alt: "999 Silver Radha Krishna With Cow",
       },
       {
-        url: "/products/MSI082/gallery_02.webp",
+        url: "/products/MSI082/gallery_02.png",
         alt: "999 Silver Radha Krishna With Cow",
       },
       {
-        url: "/products/MSI082/gallery_03.webp",
+        url: "/products/MSI082/gallery_03.png",
         alt: "999 Silver Radha Krishna With Cow",
       },
       {
-        url: "/products/MSI082/gallery_04.webp",
+        url: "/products/MSI082/gallery_04.png",
         alt: "999 Silver Radha Krishna With Cow",
       },
       {
-        url: "/products/MSI082/gallery_05.webp",
+        url: "/products/MSI082/gallery_05.png",
         alt: "999 Silver Radha Krishna With Cow",
       },
     ],
@@ -30314,27 +30314,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH WITH ELEPHANTS MSI083.webp",
+        url: "/products/GANESH WITH ELEPHANTS MSI083.png",
         alt: "999 Silver Ganesh With Elephants",
       },
       {
-        url: "/products/MSI083/gallery_01.webp",
+        url: "/products/MSI083/gallery_01.png",
         alt: "999 Silver Ganesh With Elephants",
       },
       {
-        url: "/products/MSI083/gallery_02.webp",
+        url: "/products/MSI083/gallery_02.png",
         alt: "999 Silver Ganesh With Elephants",
       },
       {
-        url: "/products/MSI083/gallery_03.webp",
+        url: "/products/MSI083/gallery_03.png",
         alt: "999 Silver Ganesh With Elephants",
       },
       {
-        url: "/products/MSI083/gallery_04.webp",
+        url: "/products/MSI083/gallery_04.png",
         alt: "999 Silver Ganesh With Elephants",
       },
       {
-        url: "/products/MSI083/gallery_05.webp",
+        url: "/products/MSI083/gallery_05.png",
         alt: "999 Silver Ganesh With Elephants",
       },
     ],
@@ -30370,27 +30370,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI WITH ELEPHANT MSI084.webp",
+        url: "/products/LAXMI WITH ELEPHANT MSI084.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI084/gallery_01.webp",
+        url: "/products/MSI084/gallery_01.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI084/gallery_02.webp",
+        url: "/products/MSI084/gallery_02.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI084/gallery_03.webp",
+        url: "/products/MSI084/gallery_03.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI084/gallery_04.webp",
+        url: "/products/MSI084/gallery_04.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI084/gallery_05.webp",
+        url: "/products/MSI084/gallery_05.png",
         alt: "999 Silver Laxmi With Elephant",
       },
     ],
@@ -30426,27 +30426,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON MOUSE MSI085.webp",
+        url: "/products/GANESH ON MOUSE MSI085.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/MSI085/gallery_01.webp",
+        url: "/products/MSI085/gallery_01.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/MSI085/gallery_02.webp",
+        url: "/products/MSI085/gallery_02.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/MSI085/gallery_03.webp",
+        url: "/products/MSI085/gallery_03.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/MSI085/gallery_04.webp",
+        url: "/products/MSI085/gallery_04.png",
         alt: "999 Silver Ganesh On Mouse",
       },
       {
-        url: "/products/MSI085/gallery_05.webp",
+        url: "/products/MSI085/gallery_05.png",
         alt: "999 Silver Ganesh On Mouse",
       },
     ],
@@ -30482,27 +30482,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant Kalas MSI086.webp",
+        url: "/products/Elephant Kalas MSI086.png",
         alt: "999 Silver Elephant Kalas",
       },
       {
-        url: "/products/MSI086/gallery_01.webp",
+        url: "/products/MSI086/gallery_01.png",
         alt: "999 Silver Elephant Kalas",
       },
       {
-        url: "/products/MSI086/gallery_02.webp",
+        url: "/products/MSI086/gallery_02.png",
         alt: "999 Silver Elephant Kalas",
       },
       {
-        url: "/products/MSI086/gallery_03.webp",
+        url: "/products/MSI086/gallery_03.png",
         alt: "999 Silver Elephant Kalas",
       },
       {
-        url: "/products/MSI086/gallery_04.webp",
+        url: "/products/MSI086/gallery_04.png",
         alt: "999 Silver Elephant Kalas",
       },
       {
-        url: "/products/MSI086/gallery_05.webp",
+        url: "/products/MSI086/gallery_05.png",
         alt: "999 Silver Elephant Kalas",
       },
     ],
@@ -30538,23 +30538,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI087/gallery_01.webp",
+        url: "/products/MSI087/gallery_01.png",
         alt: "999 Silver Vishnu Laxmi Ganesh",
       },
       {
-        url: "/products/MSI087/gallery_02.webp",
+        url: "/products/MSI087/gallery_02.png",
         alt: "999 Silver Vishnu Laxmi Ganesh",
       },
       {
-        url: "/products/MSI087/gallery_03.webp",
+        url: "/products/MSI087/gallery_03.png",
         alt: "999 Silver Vishnu Laxmi Ganesh",
       },
       {
-        url: "/products/MSI087/gallery_04.webp",
+        url: "/products/MSI087/gallery_04.png",
         alt: "999 Silver Vishnu Laxmi Ganesh",
       },
       {
-        url: "/products/MSI087/gallery_05.webp",
+        url: "/products/MSI087/gallery_05.png",
         alt: "999 Silver Vishnu Laxmi Ganesh",
       },
     ],
@@ -30588,27 +30588,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 85GM MSI088.webp",
+        url: "/products/Laxmi Ganesh 85GM MSI088.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI088/gallery_01.webp",
+        url: "/products/MSI088/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI088/gallery_02.webp",
+        url: "/products/MSI088/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI088/gallery_03.webp",
+        url: "/products/MSI088/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI088/gallery_04.webp",
+        url: "/products/MSI088/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI088/gallery_05.webp",
+        url: "/products/MSI088/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -30641,27 +30641,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 75GM MSI089.webp",
+        url: "/products/Laxmi Ganesh 75GM MSI089.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI089/gallery_01.webp",
+        url: "/products/MSI089/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI089/gallery_02.webp",
+        url: "/products/MSI089/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI089/gallery_03.webp",
+        url: "/products/MSI089/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI089/gallery_04.webp",
+        url: "/products/MSI089/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/MSI089/gallery_05.webp",
+        url: "/products/MSI089/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -30696,27 +30696,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LADDU GOPAL WITH COW MSI09.webp",
+        url: "/products/LADDU GOPAL WITH COW MSI09.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09/gallery_01.webp",
+        url: "/products/MSI09/gallery_01.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09/gallery_02.webp",
+        url: "/products/MSI09/gallery_02.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09/gallery_03.webp",
+        url: "/products/MSI09/gallery_03.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09/gallery_04.webp",
+        url: "/products/MSI09/gallery_04.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09/gallery_05.webp",
+        url: "/products/MSI09/gallery_05.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
     ],
@@ -30750,27 +30750,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh With PAN STAND 65GM MSI090.webp",
+        url: "/products/Laxmi Ganesh With PAN STAND 65GM MSI090.png",
         alt: "999 Silver Laxmi Ganesh With PAN STAND",
       },
       {
-        url: "/products/MSI090/gallery_01.webp",
+        url: "/products/MSI090/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh With PAN STAND",
       },
       {
-        url: "/products/MSI090/gallery_02.webp",
+        url: "/products/MSI090/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh With PAN STAND",
       },
       {
-        url: "/products/MSI090/gallery_03.webp",
+        url: "/products/MSI090/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh With PAN STAND",
       },
       {
-        url: "/products/MSI090/gallery_04.webp",
+        url: "/products/MSI090/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh With PAN STAND",
       },
       {
-        url: "/products/MSI090/gallery_05.webp",
+        url: "/products/MSI090/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh With PAN STAND",
       },
     ],
@@ -30805,23 +30805,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI092/gallery_01.webp",
+        url: "/products/MSI092/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Fram",
       },
       {
-        url: "/products/MSI092/gallery_02.webp",
+        url: "/products/MSI092/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Fram",
       },
       {
-        url: "/products/MSI092/gallery_03.webp",
+        url: "/products/MSI092/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Fram",
       },
       {
-        url: "/products/MSI092/gallery_04.webp",
+        url: "/products/MSI092/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Fram",
       },
       {
-        url: "/products/MSI092/gallery_05.webp",
+        url: "/products/MSI092/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Fram",
       },
     ],
@@ -30855,27 +30855,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 30GM MSI093.webp",
+        url: "/products/Ganesh 30GM MSI093.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI093/gallery_01.webp",
+        url: "/products/MSI093/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI093/gallery_02.webp",
+        url: "/products/MSI093/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI093/gallery_03.webp",
+        url: "/products/MSI093/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI093/gallery_04.webp",
+        url: "/products/MSI093/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI093/gallery_05.webp",
+        url: "/products/MSI093/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -30908,27 +30908,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 30GM MSI094.webp",
+        url: "/products/GANESH 30GM MSI094.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI094/gallery_01.webp",
+        url: "/products/MSI094/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI094/gallery_02.webp",
+        url: "/products/MSI094/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI094/gallery_03.webp",
+        url: "/products/MSI094/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI094/gallery_04.webp",
+        url: "/products/MSI094/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI094/gallery_05.webp",
+        url: "/products/MSI094/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -30961,27 +30961,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Kuber 75GM MSI095.webp",
+        url: "/products/Laxmi Kuber 75GM MSI095.png",
         alt: "999 Silver Laxmi Kuber",
       },
       {
-        url: "/products/MSI095/gallery_01.webp",
+        url: "/products/MSI095/gallery_01.png",
         alt: "999 Silver Laxmi Kuber",
       },
       {
-        url: "/products/MSI095/gallery_02.webp",
+        url: "/products/MSI095/gallery_02.png",
         alt: "999 Silver Laxmi Kuber",
       },
       {
-        url: "/products/MSI095/gallery_03.webp",
+        url: "/products/MSI095/gallery_03.png",
         alt: "999 Silver Laxmi Kuber",
       },
       {
-        url: "/products/MSI095/gallery_04.webp",
+        url: "/products/MSI095/gallery_04.png",
         alt: "999 Silver Laxmi Kuber",
       },
       {
-        url: "/products/MSI095/gallery_05.webp",
+        url: "/products/MSI095/gallery_05.png",
         alt: "999 Silver Laxmi Kuber",
       },
     ],
@@ -31014,27 +31014,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 35GM MSI096.webp",
+        url: "/products/GANESH 35GM MSI096.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI096/gallery_01.webp",
+        url: "/products/MSI096/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI096/gallery_02.webp",
+        url: "/products/MSI096/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI096/gallery_03.webp",
+        url: "/products/MSI096/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI096/gallery_04.webp",
+        url: "/products/MSI096/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI096/gallery_05.webp",
+        url: "/products/MSI096/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -31067,27 +31067,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 35GM MSI097.webp",
+        url: "/products/GANESH 35GM MSI097.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI097/gallery_01.webp",
+        url: "/products/MSI097/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI097/gallery_02.webp",
+        url: "/products/MSI097/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI097/gallery_03.webp",
+        url: "/products/MSI097/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI097/gallery_04.webp",
+        url: "/products/MSI097/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI097/gallery_05.webp",
+        url: "/products/MSI097/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -31122,27 +31122,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 45GM MSI098.webp",
+        url: "/products/Ganesha 45GM MSI098.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI098/gallery_01.webp",
+        url: "/products/MSI098/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI098/gallery_02.webp",
+        url: "/products/MSI098/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI098/gallery_03.webp",
+        url: "/products/MSI098/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI098/gallery_04.webp",
+        url: "/products/MSI098/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI098/gallery_05.webp",
+        url: "/products/MSI098/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -31177,27 +31177,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 65GM MSI099.webp",
+        url: "/products/Ganesh 65GM MSI099.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI099/gallery_01.webp",
+        url: "/products/MSI099/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI099/gallery_02.webp",
+        url: "/products/MSI099/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI099/gallery_03.webp",
+        url: "/products/MSI099/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI099/gallery_04.webp",
+        url: "/products/MSI099/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI099/gallery_05.webp",
+        url: "/products/MSI099/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -31232,27 +31232,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LADDU GOPAL WITH COW 80GM MSI09A.webp",
+        url: "/products/LADDU GOPAL WITH COW 80GM MSI09A.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09A/gallery_01.webp",
+        url: "/products/MSI09A/gallery_01.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09A/gallery_02.webp",
+        url: "/products/MSI09A/gallery_02.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09A/gallery_03.webp",
+        url: "/products/MSI09A/gallery_03.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09A/gallery_04.webp",
+        url: "/products/MSI09A/gallery_04.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
       {
-        url: "/products/MSI09A/gallery_05.webp",
+        url: "/products/MSI09A/gallery_05.png",
         alt: "999 Silver Laddu Gopal With Cow",
       },
     ],
@@ -31289,27 +31289,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh With Elephant 100GM MSI100.webp",
+        url: "/products/Ganesh With Elephant 100GM MSI100.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI100/gallery_01.webp",
+        url: "/products/MSI100/gallery_01.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI100/gallery_02.webp",
+        url: "/products/MSI100/gallery_02.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI100/gallery_03.webp",
+        url: "/products/MSI100/gallery_03.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI100/gallery_04.webp",
+        url: "/products/MSI100/gallery_04.png",
         alt: "999 Silver Ganesh With Elephant",
       },
       {
-        url: "/products/MSI100/gallery_05.webp",
+        url: "/products/MSI100/gallery_05.png",
         alt: "999 Silver Ganesh With Elephant",
       },
     ],
@@ -31342,27 +31342,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI WITH ELEPHANT 110GM MSI100A.webp",
+        url: "/products/LAXMI WITH ELEPHANT 110GM MSI100A.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI100A/gallery_01.webp",
+        url: "/products/MSI100A/gallery_01.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI100A/gallery_02.webp",
+        url: "/products/MSI100A/gallery_02.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI100A/gallery_03.webp",
+        url: "/products/MSI100A/gallery_03.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI100A/gallery_04.webp",
+        url: "/products/MSI100A/gallery_04.png",
         alt: "999 Silver Laxmi With Elephant",
       },
       {
-        url: "/products/MSI100A/gallery_05.webp",
+        url: "/products/MSI100A/gallery_05.png",
         alt: "999 Silver Laxmi With Elephant",
       },
     ],
@@ -31395,27 +31395,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/AYODHYA RAM LALA WITH MANDIR MSI101.webp",
+        url: "/products/AYODHYA RAM LALA WITH MANDIR MSI101.png",
         alt: "999 Silver Ayodhya Ram Lala With Mandir",
       },
       {
-        url: "/products/MSI101/gallery_01.webp",
+        url: "/products/MSI101/gallery_01.png",
         alt: "999 Silver Ayodhya Ram Lala With Mandir",
       },
       {
-        url: "/products/MSI101/gallery_02.webp",
+        url: "/products/MSI101/gallery_02.png",
         alt: "999 Silver Ayodhya Ram Lala With Mandir",
       },
       {
-        url: "/products/MSI101/gallery_03.webp",
+        url: "/products/MSI101/gallery_03.png",
         alt: "999 Silver Ayodhya Ram Lala With Mandir",
       },
       {
-        url: "/products/MSI101/gallery_04.webp",
+        url: "/products/MSI101/gallery_04.png",
         alt: "999 Silver Ayodhya Ram Lala With Mandir",
       },
       {
-        url: "/products/MSI101/gallery_05.webp",
+        url: "/products/MSI101/gallery_05.png",
         alt: "999 Silver Ayodhya Ram Lala With Mandir",
       },
     ],
@@ -31447,27 +31447,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/AYODHYA RAM LALA MANDIR MSI101A.webp",
+        url: "/products/AYODHYA RAM LALA MANDIR MSI101A.png",
         alt: "999 Silver Ayodhya Ram Lala & Mandir",
       },
       {
-        url: "/products/MSI101A/gallery_01.webp",
+        url: "/products/MSI101A/gallery_01.png",
         alt: "999 Silver Ayodhya Ram Lala & Mandir",
       },
       {
-        url: "/products/MSI101A/gallery_02.webp",
+        url: "/products/MSI101A/gallery_02.png",
         alt: "999 Silver Ayodhya Ram Lala & Mandir",
       },
       {
-        url: "/products/MSI101A/gallery_03.webp",
+        url: "/products/MSI101A/gallery_03.png",
         alt: "999 Silver Ayodhya Ram Lala & Mandir",
       },
       {
-        url: "/products/MSI101A/gallery_04.webp",
+        url: "/products/MSI101A/gallery_04.png",
         alt: "999 Silver Ayodhya Ram Lala & Mandir",
       },
       {
-        url: "/products/MSI101A/gallery_05.webp",
+        url: "/products/MSI101A/gallery_05.png",
         alt: "999 Silver Ayodhya Ram Lala & Mandir",
       },
     ],
@@ -31501,27 +31501,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ram Lala Set MSI101B.webp",
+        url: "/products/Ram Lala Set MSI101B.png",
         alt: "999 Silver Ram Lala Set",
       },
       {
-        url: "/products/MSI101B/gallery_01.webp",
+        url: "/products/MSI101B/gallery_01.png",
         alt: "999 Silver Ram Lala Set",
       },
       {
-        url: "/products/MSI101B/gallery_02.webp",
+        url: "/products/MSI101B/gallery_02.png",
         alt: "999 Silver Ram Lala Set",
       },
       {
-        url: "/products/MSI101B/gallery_03.webp",
+        url: "/products/MSI101B/gallery_03.png",
         alt: "999 Silver Ram Lala Set",
       },
       {
-        url: "/products/MSI101B/gallery_04.webp",
+        url: "/products/MSI101B/gallery_04.png",
         alt: "999 Silver Ram Lala Set",
       },
       {
-        url: "/products/MSI101B/gallery_05.webp",
+        url: "/products/MSI101B/gallery_05.png",
         alt: "999 Silver Ram Lala Set",
       },
     ],
@@ -31555,27 +31555,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Srinath ji Cow And Katori MSI102.webp",
+        url: "/products/Srinath ji Cow And Katori MSI102.png",
         alt: "999 Silver Srinath ji Cow And Katori",
       },
       {
-        url: "/products/MSI102/gallery_01.webp",
+        url: "/products/MSI102/gallery_01.png",
         alt: "999 Silver Srinath ji Cow And Katori",
       },
       {
-        url: "/products/MSI102/gallery_02.webp",
+        url: "/products/MSI102/gallery_02.png",
         alt: "999 Silver Srinath ji Cow And Katori",
       },
       {
-        url: "/products/MSI102/gallery_03.webp",
+        url: "/products/MSI102/gallery_03.png",
         alt: "999 Silver Srinath ji Cow And Katori",
       },
       {
-        url: "/products/MSI102/gallery_04.webp",
+        url: "/products/MSI102/gallery_04.png",
         alt: "999 Silver Srinath ji Cow And Katori",
       },
       {
-        url: "/products/MSI102/gallery_05.webp",
+        url: "/products/MSI102/gallery_05.png",
         alt: "999 Silver Srinath ji Cow And Katori",
       },
     ],
@@ -31607,23 +31607,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MSI103/gallery_01.webp",
+        url: "/products/MSI103/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Gajface Base",
       },
       {
-        url: "/products/MSI103/gallery_02.webp",
+        url: "/products/MSI103/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Gajface Base",
       },
       {
-        url: "/products/MSI103/gallery_03.webp",
+        url: "/products/MSI103/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Gajface Base",
       },
       {
-        url: "/products/MSI103/gallery_04.webp",
+        url: "/products/MSI103/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Gajface Base",
       },
       {
-        url: "/products/MSI103/gallery_05.webp",
+        url: "/products/MSI103/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Gajface Base",
       },
     ],
@@ -31657,27 +31657,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 35GM MSI280.webp",
+        url: "/products/Ganesha 35GM MSI280.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI280/gallery_01.webp",
+        url: "/products/MSI280/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI280/gallery_02.webp",
+        url: "/products/MSI280/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI280/gallery_03.webp",
+        url: "/products/MSI280/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI280/gallery_04.webp",
+        url: "/products/MSI280/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI280/gallery_05.webp",
+        url: "/products/MSI280/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -31714,27 +31714,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA WITH COW 120GM MSI298.webp",
+        url: "/products/KRISHNA WITH COW 120GM MSI298.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI298/gallery_01.webp",
+        url: "/products/MSI298/gallery_01.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI298/gallery_02.webp",
+        url: "/products/MSI298/gallery_02.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI298/gallery_03.webp",
+        url: "/products/MSI298/gallery_03.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI298/gallery_04.webp",
+        url: "/products/MSI298/gallery_04.png",
         alt: "999 Silver Krishna With Cow",
       },
       {
-        url: "/products/MSI298/gallery_05.webp",
+        url: "/products/MSI298/gallery_05.png",
         alt: "999 Silver Krishna With Cow",
       },
     ],
@@ -31769,27 +31769,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KRISHNA WITH COW SET 60gm MSI299.webp",
+        url: "/products/KRISHNA WITH COW SET 60gm MSI299.png",
         alt: "999 Silver Krishna With Cow Set",
       },
       {
-        url: "/products/MSI299/gallery_01.webp",
+        url: "/products/MSI299/gallery_01.png",
         alt: "999 Silver Krishna With Cow Set",
       },
       {
-        url: "/products/MSI299/gallery_02.webp",
+        url: "/products/MSI299/gallery_02.png",
         alt: "999 Silver Krishna With Cow Set",
       },
       {
-        url: "/products/MSI299/gallery_03.webp",
+        url: "/products/MSI299/gallery_03.png",
         alt: "999 Silver Krishna With Cow Set",
       },
       {
-        url: "/products/MSI299/gallery_04.webp",
+        url: "/products/MSI299/gallery_04.png",
         alt: "999 Silver Krishna With Cow Set",
       },
       {
-        url: "/products/MSI299/gallery_05.webp",
+        url: "/products/MSI299/gallery_05.png",
         alt: "999 Silver Krishna With Cow Set",
       },
     ],
@@ -31824,27 +31824,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 40GM MSI302.webp",
+        url: "/products/Ganesha 40GM MSI302.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302/gallery_01.webp",
+        url: "/products/MSI302/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302/gallery_02.webp",
+        url: "/products/MSI302/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302/gallery_03.webp",
+        url: "/products/MSI302/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302/gallery_04.webp",
+        url: "/products/MSI302/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302/gallery_05.webp",
+        url: "/products/MSI302/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -31881,27 +31881,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesha 50GM MSI302B.webp",
+        url: "/products/Ganesha 50GM MSI302B.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302B/gallery_01.webp",
+        url: "/products/MSI302B/gallery_01.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302B/gallery_02.webp",
+        url: "/products/MSI302B/gallery_02.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302B/gallery_03.webp",
+        url: "/products/MSI302B/gallery_03.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302B/gallery_04.webp",
+        url: "/products/MSI302B/gallery_04.png",
         alt: "999 Silver Ganesha",
       },
       {
-        url: "/products/MSI302B/gallery_05.webp",
+        url: "/products/MSI302B/gallery_05.png",
         alt: "999 Silver Ganesha",
       },
     ],
@@ -31936,27 +31936,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Gopal Set 300GM MSI30B.webp",
+        url: "/products/Gopal Set 300GM MSI30B.png",
         alt: "999 Silver Gopal Set",
       },
       {
-        url: "/products/MSI30B/gallery_01.webp",
+        url: "/products/MSI30B/gallery_01.png",
         alt: "999 Silver Gopal Set",
       },
       {
-        url: "/products/MSI30B/gallery_02.webp",
+        url: "/products/MSI30B/gallery_02.png",
         alt: "999 Silver Gopal Set",
       },
       {
-        url: "/products/MSI30B/gallery_03.webp",
+        url: "/products/MSI30B/gallery_03.png",
         alt: "999 Silver Gopal Set",
       },
       {
-        url: "/products/MSI30B/gallery_04.webp",
+        url: "/products/MSI30B/gallery_04.png",
         alt: "999 Silver Gopal Set",
       },
       {
-        url: "/products/MSI30B/gallery_05.webp",
+        url: "/products/MSI30B/gallery_05.png",
         alt: "999 Silver Gopal Set",
       },
     ],
@@ -31991,27 +31991,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 135GM MSI769.webp",
+        url: "/products/Ganesh 135GM MSI769.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI769/gallery_01.webp",
+        url: "/products/MSI769/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI769/gallery_02.webp",
+        url: "/products/MSI769/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI769/gallery_03.webp",
+        url: "/products/MSI769/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI769/gallery_04.webp",
+        url: "/products/MSI769/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/MSI769/gallery_05.webp",
+        url: "/products/MSI769/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32046,27 +32046,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH WITH CARDHOLDER 65GM MSI91.webp",
+        url: "/products/LAXMI GANESH WITH CARDHOLDER 65GM MSI91.png",
         alt: "999 Silver Laxmi Ganesh With Cardholder",
       },
       {
-        url: "/products/MSI91/gallery_01.webp",
+        url: "/products/MSI91/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh With Cardholder",
       },
       {
-        url: "/products/MSI91/gallery_02.webp",
+        url: "/products/MSI91/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh With Cardholder",
       },
       {
-        url: "/products/MSI91/gallery_03.webp",
+        url: "/products/MSI91/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh With Cardholder",
       },
       {
-        url: "/products/MSI91/gallery_04.webp",
+        url: "/products/MSI91/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh With Cardholder",
       },
       {
-        url: "/products/MSI91/gallery_05.webp",
+        url: "/products/MSI91/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh With Cardholder",
       },
     ],
@@ -32101,27 +32101,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rk With Cow MSI974.webp",
+        url: "/products/Rk With Cow MSI974.png",
         alt: "999 Silver Rk With Cow",
       },
       {
-        url: "/products/MSI974/gallery_01.webp",
+        url: "/products/MSI974/gallery_01.png",
         alt: "999 Silver Rk With Cow",
       },
       {
-        url: "/products/MSI974/gallery_02.webp",
+        url: "/products/MSI974/gallery_02.png",
         alt: "999 Silver Rk With Cow",
       },
       {
-        url: "/products/MSI974/gallery_03.webp",
+        url: "/products/MSI974/gallery_03.png",
         alt: "999 Silver Rk With Cow",
       },
       {
-        url: "/products/MSI974/gallery_04.webp",
+        url: "/products/MSI974/gallery_04.png",
         alt: "999 Silver Rk With Cow",
       },
       {
-        url: "/products/MSI974/gallery_05.webp",
+        url: "/products/MSI974/gallery_05.png",
         alt: "999 Silver Rk With Cow",
       },
     ],
@@ -32155,7 +32155,7 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SARDAR PATEL 170GM MGU2 N.webp",
+        url: "/products/SARDAR PATEL 170GM MGU2 N.png",
         alt: "999 Silver Sardar Patel -N",
       },
     ],
@@ -32188,7 +32188,7 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Jirawala Parshwanath.webp",
+        url: "/products/Jirawala Parshwanath.png",
         alt: "999 Silver Jirawala Parshwanath",
       },
     ],
@@ -32222,27 +32222,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ROUND GANESH 22GM S003.webp",
+        url: "/products/ROUND GANESH 22GM S003.png",
         alt: "999 Silver Round Ganesh",
       },
       {
-        url: "/products/S003/gallery_01.webp",
+        url: "/products/S003/gallery_01.png",
         alt: "999 Silver Round Ganesh",
       },
       {
-        url: "/products/S003/gallery_02.webp",
+        url: "/products/S003/gallery_02.png",
         alt: "999 Silver Round Ganesh",
       },
       {
-        url: "/products/S003/gallery_03.webp",
+        url: "/products/S003/gallery_03.png",
         alt: "999 Silver Round Ganesh",
       },
       {
-        url: "/products/S003/gallery_04.webp",
+        url: "/products/S003/gallery_04.png",
         alt: "999 Silver Round Ganesh",
       },
       {
-        url: "/products/S003/gallery_05.webp",
+        url: "/products/S003/gallery_05.png",
         alt: "999 Silver Round Ganesh",
       },
     ],
@@ -32279,27 +32279,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH ON SHANKH 15GM S004.webp",
+        url: "/products/GANESH ON SHANKH 15GM S004.png",
         alt: "999 Silver Ganesh On Shankh",
       },
       {
-        url: "/products/S004/gallery_01.webp",
+        url: "/products/S004/gallery_01.png",
         alt: "999 Silver Ganesh On Shankh",
       },
       {
-        url: "/products/S004/gallery_02.webp",
+        url: "/products/S004/gallery_02.png",
         alt: "999 Silver Ganesh On Shankh",
       },
       {
-        url: "/products/S004/gallery_03.webp",
+        url: "/products/S004/gallery_03.png",
         alt: "999 Silver Ganesh On Shankh",
       },
       {
-        url: "/products/S004/gallery_04.webp",
+        url: "/products/S004/gallery_04.png",
         alt: "999 Silver Ganesh On Shankh",
       },
       {
-        url: "/products/S004/gallery_05.webp",
+        url: "/products/S004/gallery_05.png",
         alt: "999 Silver Ganesh On Shankh",
       },
     ],
@@ -32334,23 +32334,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/S005/gallery_01.webp",
+        url: "/products/S005/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S005/gallery_02.webp",
+        url: "/products/S005/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S005/gallery_03.webp",
+        url: "/products/S005/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S005/gallery_04.webp",
+        url: "/products/S005/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S005/gallery_05.webp",
+        url: "/products/S005/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -32385,27 +32385,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH S006.webp",
+        url: "/products/GANESH S006.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S006/gallery_01.webp",
+        url: "/products/S006/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S006/gallery_02.webp",
+        url: "/products/S006/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S006/gallery_03.webp",
+        url: "/products/S006/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S006/gallery_04.webp",
+        url: "/products/S006/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S006/gallery_05.webp",
+        url: "/products/S006/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32439,27 +32439,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 15GM S008.webp",
+        url: "/products/Ganesh 15GM S008.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S008/gallery_01.webp",
+        url: "/products/S008/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S008/gallery_02.webp",
+        url: "/products/S008/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S008/gallery_03.webp",
+        url: "/products/S008/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S008/gallery_04.webp",
+        url: "/products/S008/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S008/gallery_05.webp",
+        url: "/products/S008/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32494,27 +32494,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 16GM S009.webp",
+        url: "/products/GANESH 16GM S009.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S009/gallery_01.webp",
+        url: "/products/S009/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S009/gallery_02.webp",
+        url: "/products/S009/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S009/gallery_03.webp",
+        url: "/products/S009/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S009/gallery_04.webp",
+        url: "/products/S009/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S009/gallery_05.webp",
+        url: "/products/S009/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32549,27 +32549,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Bansi Wale Krishna 30gm S012.webp",
+        url: "/products/Bansi Wale Krishna 30gm S012.png",
         alt: "999 Silver Bansi Wale Krishna",
       },
       {
-        url: "/products/S012/gallery_01.webp",
+        url: "/products/S012/gallery_01.png",
         alt: "999 Silver Bansi Wale Krishna",
       },
       {
-        url: "/products/S012/gallery_02.webp",
+        url: "/products/S012/gallery_02.png",
         alt: "999 Silver Bansi Wale Krishna",
       },
       {
-        url: "/products/S012/gallery_03.webp",
+        url: "/products/S012/gallery_03.png",
         alt: "999 Silver Bansi Wale Krishna",
       },
       {
-        url: "/products/S012/gallery_04.webp",
+        url: "/products/S012/gallery_04.png",
         alt: "999 Silver Bansi Wale Krishna",
       },
       {
-        url: "/products/S012/gallery_05.webp",
+        url: "/products/S012/gallery_05.png",
         alt: "999 Silver Bansi Wale Krishna",
       },
     ],
@@ -32602,27 +32602,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 35GM S014.webp",
+        url: "/products/GANESH 35GM S014.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S014/gallery_01.webp",
+        url: "/products/S014/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S014/gallery_02.webp",
+        url: "/products/S014/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S014/gallery_03.webp",
+        url: "/products/S014/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S014/gallery_04.webp",
+        url: "/products/S014/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S014/gallery_05.webp",
+        url: "/products/S014/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32657,27 +32657,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 18GM S015.webp",
+        url: "/products/GANESH 18GM S015.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S015/gallery_01.webp",
+        url: "/products/S015/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S015/gallery_02.webp",
+        url: "/products/S015/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S015/gallery_03.webp",
+        url: "/products/S015/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S015/gallery_04.webp",
+        url: "/products/S015/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S015/gallery_05.webp",
+        url: "/products/S015/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32715,27 +32715,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 30GM S016.webp",
+        url: "/products/Ganesh 30GM S016.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S016/gallery_01.webp",
+        url: "/products/S016/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S016/gallery_02.webp",
+        url: "/products/S016/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S016/gallery_03.webp",
+        url: "/products/S016/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S016/gallery_04.webp",
+        url: "/products/S016/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S016/gallery_05.webp",
+        url: "/products/S016/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -32770,27 +32770,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 45GM S025.webp",
+        url: "/products/Laxmi Ganesh 45GM S025.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S025/gallery_01.webp",
+        url: "/products/S025/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S025/gallery_02.webp",
+        url: "/products/S025/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S025/gallery_03.webp",
+        url: "/products/S025/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S025/gallery_04.webp",
+        url: "/products/S025/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S025/gallery_05.webp",
+        url: "/products/S025/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -32823,23 +32823,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/S026/gallery_01.webp",
+        url: "/products/S026/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S026/gallery_02.webp",
+        url: "/products/S026/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S026/gallery_03.webp",
+        url: "/products/S026/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S026/gallery_04.webp",
+        url: "/products/S026/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S026/gallery_05.webp",
+        url: "/products/S026/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -32874,27 +32874,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANPATI 22GM S026B.webp",
+        url: "/products/GANPATI 22GM S026B.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/S026B/gallery_01.webp",
+        url: "/products/S026B/gallery_01.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/S026B/gallery_02.webp",
+        url: "/products/S026B/gallery_02.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/S026B/gallery_03.webp",
+        url: "/products/S026B/gallery_03.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/S026B/gallery_04.webp",
+        url: "/products/S026B/gallery_04.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/S026B/gallery_05.webp",
+        url: "/products/S026B/gallery_05.png",
         alt: "999 Silver Ganpati",
       },
     ],
@@ -32931,27 +32931,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH JI 10GM S027.webp",
+        url: "/products/GANESH JI 10GM S027.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/S027/gallery_01.webp",
+        url: "/products/S027/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/S027/gallery_02.webp",
+        url: "/products/S027/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/S027/gallery_03.webp",
+        url: "/products/S027/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/S027/gallery_04.webp",
+        url: "/products/S027/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/S027/gallery_05.webp",
+        url: "/products/S027/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -32988,27 +32988,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 8GM S028.webp",
+        url: "/products/GANESH 8GM S028.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S028/gallery_01.webp",
+        url: "/products/S028/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S028/gallery_02.webp",
+        url: "/products/S028/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S028/gallery_03.webp",
+        url: "/products/S028/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S028/gallery_04.webp",
+        url: "/products/S028/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/S028/gallery_05.webp",
+        url: "/products/S028/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -33043,27 +33043,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MAKHAN GOPAL 15GM S035.webp",
+        url: "/products/MAKHAN GOPAL 15GM S035.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/S035/gallery_01.webp",
+        url: "/products/S035/gallery_01.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/S035/gallery_02.webp",
+        url: "/products/S035/gallery_02.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/S035/gallery_03.webp",
+        url: "/products/S035/gallery_03.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/S035/gallery_04.webp",
+        url: "/products/S035/gallery_04.png",
         alt: "999 Silver Makhan Gopal",
       },
       {
-        url: "/products/S035/gallery_05.webp",
+        url: "/products/S035/gallery_05.png",
         alt: "999 Silver Makhan Gopal",
       },
     ],
@@ -33100,27 +33100,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/COW RIGHT SIDE FACE 20GM S037.webp",
+        url: "/products/COW RIGHT SIDE FACE 20GM S037.png",
         alt: "999 Silver Cow Right Side Face",
       },
       {
-        url: "/products/S037/gallery_01.webp",
+        url: "/products/S037/gallery_01.png",
         alt: "999 Silver Cow Right Side Face",
       },
       {
-        url: "/products/S037/gallery_02.webp",
+        url: "/products/S037/gallery_02.png",
         alt: "999 Silver Cow Right Side Face",
       },
       {
-        url: "/products/S037/gallery_03.webp",
+        url: "/products/S037/gallery_03.png",
         alt: "999 Silver Cow Right Side Face",
       },
       {
-        url: "/products/S037/gallery_04.webp",
+        url: "/products/S037/gallery_04.png",
         alt: "999 Silver Cow Right Side Face",
       },
       {
-        url: "/products/S037/gallery_05.webp",
+        url: "/products/S037/gallery_05.png",
         alt: "999 Silver Cow Right Side Face",
       },
     ],
@@ -33153,27 +33153,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/cow 22GM S037A.webp",
+        url: "/products/cow 22GM S037A.png",
         alt: "999 Silver cow",
       },
       {
-        url: "/products/S037A/gallery_01.webp",
+        url: "/products/S037A/gallery_01.png",
         alt: "999 Silver cow",
       },
       {
-        url: "/products/S037A/gallery_02.webp",
+        url: "/products/S037A/gallery_02.png",
         alt: "999 Silver cow",
       },
       {
-        url: "/products/S037A/gallery_03.webp",
+        url: "/products/S037A/gallery_03.png",
         alt: "999 Silver cow",
       },
       {
-        url: "/products/S037A/gallery_04.webp",
+        url: "/products/S037A/gallery_04.png",
         alt: "999 Silver cow",
       },
       {
-        url: "/products/S037A/gallery_05.webp",
+        url: "/products/S037A/gallery_05.png",
         alt: "999 Silver cow",
       },
     ],
@@ -33208,27 +33208,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LEFT RIGHT FACE COW 45GM S037B.webp",
+        url: "/products/LEFT RIGHT FACE COW 45GM S037B.png",
         alt: "999 Silver Left Right Face Cow",
       },
       {
-        url: "/products/S037B/gallery_01.webp",
+        url: "/products/S037B/gallery_01.png",
         alt: "999 Silver Left Right Face Cow",
       },
       {
-        url: "/products/S037B/gallery_02.webp",
+        url: "/products/S037B/gallery_02.png",
         alt: "999 Silver Left Right Face Cow",
       },
       {
-        url: "/products/S037B/gallery_03.webp",
+        url: "/products/S037B/gallery_03.png",
         alt: "999 Silver Left Right Face Cow",
       },
       {
-        url: "/products/S037B/gallery_04.webp",
+        url: "/products/S037B/gallery_04.png",
         alt: "999 Silver Left Right Face Cow",
       },
       {
-        url: "/products/S037B/gallery_05.webp",
+        url: "/products/S037B/gallery_05.png",
         alt: "999 Silver Left Right Face Cow",
       },
     ],
@@ -33265,23 +33265,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/S040/gallery_01.webp",
+        url: "/products/S040/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S040/gallery_02.webp",
+        url: "/products/S040/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S040/gallery_03.webp",
+        url: "/products/S040/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S040/gallery_04.webp",
+        url: "/products/S040/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/S040/gallery_05.webp",
+        url: "/products/S040/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -33314,27 +33314,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Tortoise T001.webp",
+        url: "/products/Tortoise T001.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T001/gallery_01.webp",
+        url: "/products/T001/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T001/gallery_02.webp",
+        url: "/products/T001/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T001/gallery_03.webp",
+        url: "/products/T001/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T001/gallery_04.webp",
+        url: "/products/T001/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T001/gallery_05.webp",
+        url: "/products/T001/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -33366,27 +33366,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Tortoise T002.webp",
+        url: "/products/Tortoise T002.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T002/gallery_01.webp",
+        url: "/products/T002/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T002/gallery_02.webp",
+        url: "/products/T002/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T002/gallery_03.webp",
+        url: "/products/T002/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T002/gallery_04.webp",
+        url: "/products/T002/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T002/gallery_05.webp",
+        url: "/products/T002/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -33420,27 +33420,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KACHUA 15GM T004.webp",
+        url: "/products/KACHUA 15GM T004.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T004/gallery_01.webp",
+        url: "/products/T004/gallery_01.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T004/gallery_02.webp",
+        url: "/products/T004/gallery_02.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T004/gallery_03.webp",
+        url: "/products/T004/gallery_03.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T004/gallery_04.webp",
+        url: "/products/T004/gallery_04.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T004/gallery_05.webp",
+        url: "/products/T004/gallery_05.png",
         alt: "999 Silver Kachua",
       },
     ],
@@ -33477,27 +33477,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KACHUA 15GM T005.webp",
+        url: "/products/KACHUA 15GM T005.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T005/gallery_01.webp",
+        url: "/products/T005/gallery_01.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T005/gallery_02.webp",
+        url: "/products/T005/gallery_02.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T005/gallery_03.webp",
+        url: "/products/T005/gallery_03.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T005/gallery_04.webp",
+        url: "/products/T005/gallery_04.png",
         alt: "999 Silver Kachua",
       },
       {
-        url: "/products/T005/gallery_05.webp",
+        url: "/products/T005/gallery_05.png",
         alt: "999 Silver Kachua",
       },
     ],
@@ -33533,27 +33533,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TORTOISE T006.webp",
+        url: "/products/TORTOISE T006.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T006/gallery_01.webp",
+        url: "/products/T006/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T006/gallery_02.webp",
+        url: "/products/T006/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T006/gallery_03.webp",
+        url: "/products/T006/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T006/gallery_04.webp",
+        url: "/products/T006/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T006/gallery_05.webp",
+        url: "/products/T006/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -33587,27 +33587,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Tortoise T07.webp",
+        url: "/products/Tortoise T07.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T07/gallery_01.webp",
+        url: "/products/T07/gallery_01.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T07/gallery_02.webp",
+        url: "/products/T07/gallery_02.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T07/gallery_03.webp",
+        url: "/products/T07/gallery_03.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T07/gallery_04.webp",
+        url: "/products/T07/gallery_04.png",
         alt: "999 Silver Tortoise",
       },
       {
-        url: "/products/T07/gallery_05.webp",
+        url: "/products/T07/gallery_05.png",
         alt: "999 Silver Tortoise",
       },
     ],
@@ -33639,27 +33639,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Elephant Samai 420GM WA307.webp",
+        url: "/products/Elephant Samai 420GM WA307.png",
         alt: "999 Silver Elephant Samai",
       },
       {
-        url: "/products/WA307/gallery_01.webp",
+        url: "/products/WA307/gallery_01.png",
         alt: "999 Silver Elephant Samai",
       },
       {
-        url: "/products/WA307/gallery_02.webp",
+        url: "/products/WA307/gallery_02.png",
         alt: "999 Silver Elephant Samai",
       },
       {
-        url: "/products/WA307/gallery_03.webp",
+        url: "/products/WA307/gallery_03.png",
         alt: "999 Silver Elephant Samai",
       },
       {
-        url: "/products/WA307/gallery_04.webp",
+        url: "/products/WA307/gallery_04.png",
         alt: "999 Silver Elephant Samai",
       },
       {
-        url: "/products/WA307/gallery_05.webp",
+        url: "/products/WA307/gallery_05.png",
         alt: "999 Silver Elephant Samai",
       },
     ],
@@ -33692,27 +33692,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 115GM WA333.webp",
+        url: "/products/Cow 115GM WA333.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WA333/gallery_01.webp",
+        url: "/products/WA333/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WA333/gallery_02.webp",
+        url: "/products/WA333/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WA333/gallery_03.webp",
+        url: "/products/WA333/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WA333/gallery_04.webp",
+        url: "/products/WA333/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WA333/gallery_05.webp",
+        url: "/products/WA333/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -33745,27 +33745,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 20GM WKA001A.webp",
+        url: "/products/GANESH 20GM WKA001A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA001A/gallery_01.webp",
+        url: "/products/WKA001A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA001A/gallery_02.webp",
+        url: "/products/WKA001A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA001A/gallery_03.webp",
+        url: "/products/WKA001A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA001A/gallery_04.webp",
+        url: "/products/WKA001A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA001A/gallery_05.webp",
+        url: "/products/WKA001A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -33798,27 +33798,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/bal gopal 50GM WKA002A.webp",
+        url: "/products/bal gopal 50GM WKA002A.png",
         alt: "999 Silver bal gopal",
       },
       {
-        url: "/products/WKA002A/gallery_01.webp",
+        url: "/products/WKA002A/gallery_01.png",
         alt: "999 Silver bal gopal",
       },
       {
-        url: "/products/WKA002A/gallery_02.webp",
+        url: "/products/WKA002A/gallery_02.png",
         alt: "999 Silver bal gopal",
       },
       {
-        url: "/products/WKA002A/gallery_03.webp",
+        url: "/products/WKA002A/gallery_03.png",
         alt: "999 Silver bal gopal",
       },
       {
-        url: "/products/WKA002A/gallery_04.webp",
+        url: "/products/WKA002A/gallery_04.png",
         alt: "999 Silver bal gopal",
       },
       {
-        url: "/products/WKA002A/gallery_05.webp",
+        url: "/products/WKA002A/gallery_05.png",
         alt: "999 Silver bal gopal",
       },
     ],
@@ -33853,27 +33853,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sai Nath Sai Baba 30GM WKA005B.webp",
+        url: "/products/Sai Nath Sai Baba 30GM WKA005B.png",
         alt: "999 Silver Sai Nath (Sai Baba)",
       },
       {
-        url: "/products/WKA005B/gallery_01.webp",
+        url: "/products/WKA005B/gallery_01.png",
         alt: "999 Silver Sai Nath (Sai Baba)",
       },
       {
-        url: "/products/WKA005B/gallery_02.webp",
+        url: "/products/WKA005B/gallery_02.png",
         alt: "999 Silver Sai Nath (Sai Baba)",
       },
       {
-        url: "/products/WKA005B/gallery_03.webp",
+        url: "/products/WKA005B/gallery_03.png",
         alt: "999 Silver Sai Nath (Sai Baba)",
       },
       {
-        url: "/products/WKA005B/gallery_04.webp",
+        url: "/products/WKA005B/gallery_04.png",
         alt: "999 Silver Sai Nath (Sai Baba)",
       },
       {
-        url: "/products/WKA005B/gallery_05.webp",
+        url: "/products/WKA005B/gallery_05.png",
         alt: "999 Silver Sai Nath (Sai Baba)",
       },
     ],
@@ -33908,27 +33908,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan 110GM WKA009.webp",
+        url: "/products/Radhakrishnan 110GM WKA009.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA009/gallery_01.webp",
+        url: "/products/WKA009/gallery_01.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA009/gallery_02.webp",
+        url: "/products/WKA009/gallery_02.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA009/gallery_03.webp",
+        url: "/products/WKA009/gallery_03.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA009/gallery_04.webp",
+        url: "/products/WKA009/gallery_04.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA009/gallery_05.webp",
+        url: "/products/WKA009/gallery_05.png",
         alt: "999 Silver Radhakrishnan",
       },
     ],
@@ -33963,27 +33963,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Big Size Lord Vishnu Lakshmi 250GM WKA012.webp",
+        url: "/products/Big Size Lord Vishnu Lakshmi 250GM WKA012.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi",
       },
       {
-        url: "/products/WKA012/gallery_01.webp",
+        url: "/products/WKA012/gallery_01.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi",
       },
       {
-        url: "/products/WKA012/gallery_02.webp",
+        url: "/products/WKA012/gallery_02.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi",
       },
       {
-        url: "/products/WKA012/gallery_03.webp",
+        url: "/products/WKA012/gallery_03.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi",
       },
       {
-        url: "/products/WKA012/gallery_04.webp",
+        url: "/products/WKA012/gallery_04.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi",
       },
       {
-        url: "/products/WKA012/gallery_05.webp",
+        url: "/products/WKA012/gallery_05.png",
         alt: "999 Silver Big Size Lord Vishnu Lakshmi",
       },
     ],
@@ -34018,27 +34018,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Vishnu Laxmi Sitting 50GM WKA012A.webp",
+        url: "/products/Vishnu Laxmi Sitting 50GM WKA012A.png",
         alt: "999 Silver Vishnu Laxmi Sitting",
       },
       {
-        url: "/products/WKA012A/gallery_01.webp",
+        url: "/products/WKA012A/gallery_01.png",
         alt: "999 Silver Vishnu Laxmi Sitting",
       },
       {
-        url: "/products/WKA012A/gallery_02.webp",
+        url: "/products/WKA012A/gallery_02.png",
         alt: "999 Silver Vishnu Laxmi Sitting",
       },
       {
-        url: "/products/WKA012A/gallery_03.webp",
+        url: "/products/WKA012A/gallery_03.png",
         alt: "999 Silver Vishnu Laxmi Sitting",
       },
       {
-        url: "/products/WKA012A/gallery_04.webp",
+        url: "/products/WKA012A/gallery_04.png",
         alt: "999 Silver Vishnu Laxmi Sitting",
       },
       {
-        url: "/products/WKA012A/gallery_05.webp",
+        url: "/products/WKA012A/gallery_05.png",
         alt: "999 Silver Vishnu Laxmi Sitting",
       },
     ],
@@ -34071,27 +34071,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 90GM WKA029.webp",
+        url: "/products/Laxmi Ganesh 90GM WKA029.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA029/gallery_01.webp",
+        url: "/products/WKA029/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA029/gallery_02.webp",
+        url: "/products/WKA029/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA029/gallery_03.webp",
+        url: "/products/WKA029/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA029/gallery_04.webp",
+        url: "/products/WKA029/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA029/gallery_05.webp",
+        url: "/products/WKA029/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -34124,27 +34124,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH PAT 45GM WKA029C.webp",
+        url: "/products/GANESH PAT 45GM WKA029C.png",
         alt: "999 Silver Ganesh Pat",
       },
       {
-        url: "/products/WKA029C/gallery_01.webp",
+        url: "/products/WKA029C/gallery_01.png",
         alt: "999 Silver Ganesh Pat",
       },
       {
-        url: "/products/WKA029C/gallery_02.webp",
+        url: "/products/WKA029C/gallery_02.png",
         alt: "999 Silver Ganesh Pat",
       },
       {
-        url: "/products/WKA029C/gallery_03.webp",
+        url: "/products/WKA029C/gallery_03.png",
         alt: "999 Silver Ganesh Pat",
       },
       {
-        url: "/products/WKA029C/gallery_04.webp",
+        url: "/products/WKA029C/gallery_04.png",
         alt: "999 Silver Ganesh Pat",
       },
       {
-        url: "/products/WKA029C/gallery_05.webp",
+        url: "/products/WKA029C/gallery_05.png",
         alt: "999 Silver Ganesh Pat",
       },
     ],
@@ -34177,27 +34177,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 270GM WKA031.webp",
+        url: "/products/Ganesh 270GM WKA031.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031/gallery_01.webp",
+        url: "/products/WKA031/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031/gallery_02.webp",
+        url: "/products/WKA031/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031/gallery_03.webp",
+        url: "/products/WKA031/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031/gallery_04.webp",
+        url: "/products/WKA031/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031/gallery_05.webp",
+        url: "/products/WKA031/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -34230,27 +34230,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 210GM WKA031AB.webp",
+        url: "/products/Ganesh 210GM WKA031AB.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031AB/gallery_01.webp",
+        url: "/products/WKA031AB/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031AB/gallery_02.webp",
+        url: "/products/WKA031AB/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031AB/gallery_03.webp",
+        url: "/products/WKA031AB/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031AB/gallery_04.webp",
+        url: "/products/WKA031AB/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA031AB/gallery_05.webp",
+        url: "/products/WKA031AB/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -34283,27 +34283,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shreenath Ji 55GM WKA034.webp",
+        url: "/products/Shreenath Ji 55GM WKA034.png",
         alt: "999 Silver Shreenath Ji",
       },
       {
-        url: "/products/WKA034/gallery_01.webp",
+        url: "/products/WKA034/gallery_01.png",
         alt: "999 Silver Shreenath Ji",
       },
       {
-        url: "/products/WKA034/gallery_02.webp",
+        url: "/products/WKA034/gallery_02.png",
         alt: "999 Silver Shreenath Ji",
       },
       {
-        url: "/products/WKA034/gallery_03.webp",
+        url: "/products/WKA034/gallery_03.png",
         alt: "999 Silver Shreenath Ji",
       },
       {
-        url: "/products/WKA034/gallery_04.webp",
+        url: "/products/WKA034/gallery_04.png",
         alt: "999 Silver Shreenath Ji",
       },
       {
-        url: "/products/WKA034/gallery_05.webp",
+        url: "/products/WKA034/gallery_05.png",
         alt: "999 Silver Shreenath Ji",
       },
     ],
@@ -34336,27 +34336,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laddu Gopal 30GM WKA035.webp",
+        url: "/products/Laddu Gopal 30GM WKA035.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKA035/gallery_01.webp",
+        url: "/products/WKA035/gallery_01.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKA035/gallery_02.webp",
+        url: "/products/WKA035/gallery_02.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKA035/gallery_03.webp",
+        url: "/products/WKA035/gallery_03.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKA035/gallery_04.webp",
+        url: "/products/WKA035/gallery_04.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKA035/gallery_05.webp",
+        url: "/products/WKA035/gallery_05.png",
         alt: "999 Silver Laddu Gopal",
       },
     ],
@@ -34389,27 +34389,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Lotus Laxmi 40GM WKA036B.webp",
+        url: "/products/Lotus Laxmi 40GM WKA036B.png",
         alt: "999 Silver Lotus Laxmi",
       },
       {
-        url: "/products/WKA036B/gallery_01.webp",
+        url: "/products/WKA036B/gallery_01.png",
         alt: "999 Silver Lotus Laxmi",
       },
       {
-        url: "/products/WKA036B/gallery_02.webp",
+        url: "/products/WKA036B/gallery_02.png",
         alt: "999 Silver Lotus Laxmi",
       },
       {
-        url: "/products/WKA036B/gallery_03.webp",
+        url: "/products/WKA036B/gallery_03.png",
         alt: "999 Silver Lotus Laxmi",
       },
       {
-        url: "/products/WKA036B/gallery_04.webp",
+        url: "/products/WKA036B/gallery_04.png",
         alt: "999 Silver Lotus Laxmi",
       },
       {
-        url: "/products/WKA036B/gallery_05.webp",
+        url: "/products/WKA036B/gallery_05.png",
         alt: "999 Silver Lotus Laxmi",
       },
     ],
@@ -34442,27 +34442,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 40GM WKA036C.webp",
+        url: "/products/GANESH 40GM WKA036C.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA036C/gallery_01.webp",
+        url: "/products/WKA036C/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA036C/gallery_02.webp",
+        url: "/products/WKA036C/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA036C/gallery_03.webp",
+        url: "/products/WKA036C/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA036C/gallery_04.webp",
+        url: "/products/WKA036C/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA036C/gallery_05.webp",
+        url: "/products/WKA036C/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -34495,27 +34495,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Laxmi 50GM WKA039.webp",
+        url: "/products/Ganesh Laxmi 50GM WKA039.png",
         alt: "999 Silver Ganesh Laxmi",
       },
       {
-        url: "/products/WKA039/gallery_01.webp",
+        url: "/products/WKA039/gallery_01.png",
         alt: "999 Silver Ganesh Laxmi",
       },
       {
-        url: "/products/WKA039/gallery_02.webp",
+        url: "/products/WKA039/gallery_02.png",
         alt: "999 Silver Ganesh Laxmi",
       },
       {
-        url: "/products/WKA039/gallery_03.webp",
+        url: "/products/WKA039/gallery_03.png",
         alt: "999 Silver Ganesh Laxmi",
       },
       {
-        url: "/products/WKA039/gallery_04.webp",
+        url: "/products/WKA039/gallery_04.png",
         alt: "999 Silver Ganesh Laxmi",
       },
       {
-        url: "/products/WKA039/gallery_05.webp",
+        url: "/products/WKA039/gallery_05.png",
         alt: "999 Silver Ganesh Laxmi",
       },
     ],
@@ -34548,27 +34548,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 25GM WKA039B.webp",
+        url: "/products/Ganesh 25GM WKA039B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA039B/gallery_01.webp",
+        url: "/products/WKA039B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA039B/gallery_02.webp",
+        url: "/products/WKA039B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA039B/gallery_03.webp",
+        url: "/products/WKA039B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA039B/gallery_04.webp",
+        url: "/products/WKA039B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA039B/gallery_05.webp",
+        url: "/products/WKA039B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -34601,27 +34601,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 85GM WKA041.webp",
+        url: "/products/Laxmi Ganesh 85GM WKA041.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA041/gallery_01.webp",
+        url: "/products/WKA041/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA041/gallery_02.webp",
+        url: "/products/WKA041/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA041/gallery_03.webp",
+        url: "/products/WKA041/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA041/gallery_04.webp",
+        url: "/products/WKA041/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA041/gallery_05.webp",
+        url: "/products/WKA041/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -34654,27 +34654,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 40GM WKA041A.webp",
+        url: "/products/Laxmi 40GM WKA041A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA041A/gallery_01.webp",
+        url: "/products/WKA041A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA041A/gallery_02.webp",
+        url: "/products/WKA041A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA041A/gallery_03.webp",
+        url: "/products/WKA041A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA041A/gallery_04.webp",
+        url: "/products/WKA041A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA041A/gallery_05.webp",
+        url: "/products/WKA041A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -34707,27 +34707,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 110GM WKA046B.webp",
+        url: "/products/Ganesh 110GM WKA046B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046B/gallery_01.webp",
+        url: "/products/WKA046B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046B/gallery_02.webp",
+        url: "/products/WKA046B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046B/gallery_03.webp",
+        url: "/products/WKA046B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046B/gallery_04.webp",
+        url: "/products/WKA046B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046B/gallery_05.webp",
+        url: "/products/WKA046B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -34760,27 +34760,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 90GM WKA046C.webp",
+        url: "/products/Laxmi Ganesh 90GM WKA046C.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA046C/gallery_01.webp",
+        url: "/products/WKA046C/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA046C/gallery_02.webp",
+        url: "/products/WKA046C/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA046C/gallery_03.webp",
+        url: "/products/WKA046C/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA046C/gallery_04.webp",
+        url: "/products/WKA046C/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA046C/gallery_05.webp",
+        url: "/products/WKA046C/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -34813,27 +34813,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 45GM WKA046CA.webp",
+        url: "/products/Laxmi 45GM WKA046CA.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA046CA/gallery_01.webp",
+        url: "/products/WKA046CA/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA046CA/gallery_02.webp",
+        url: "/products/WKA046CA/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA046CA/gallery_03.webp",
+        url: "/products/WKA046CA/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA046CA/gallery_04.webp",
+        url: "/products/WKA046CA/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA046CA/gallery_05.webp",
+        url: "/products/WKA046CA/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -34866,27 +34866,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 45GM WKA046CB.webp",
+        url: "/products/Ganesh 45GM WKA046CB.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046CB/gallery_01.webp",
+        url: "/products/WKA046CB/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046CB/gallery_02.webp",
+        url: "/products/WKA046CB/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046CB/gallery_03.webp",
+        url: "/products/WKA046CB/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046CB/gallery_04.webp",
+        url: "/products/WKA046CB/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA046CB/gallery_05.webp",
+        url: "/products/WKA046CB/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -34919,27 +34919,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sarswati 45GM WKA046CC.webp",
+        url: "/products/Sarswati 45GM WKA046CC.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA046CC/gallery_01.webp",
+        url: "/products/WKA046CC/gallery_01.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA046CC/gallery_02.webp",
+        url: "/products/WKA046CC/gallery_02.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA046CC/gallery_03.webp",
+        url: "/products/WKA046CC/gallery_03.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA046CC/gallery_04.webp",
+        url: "/products/WKA046CC/gallery_04.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA046CC/gallery_05.webp",
+        url: "/products/WKA046CC/gallery_05.png",
         alt: "999 Silver Sarswati",
       },
     ],
@@ -34972,27 +34972,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 135GM WKA046D.webp",
+        url: "/products/Laxmi Ganesh Sarswati 135GM WKA046D.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA046D/gallery_01.webp",
+        url: "/products/WKA046D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA046D/gallery_02.webp",
+        url: "/products/WKA046D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA046D/gallery_03.webp",
+        url: "/products/WKA046D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA046D/gallery_04.webp",
+        url: "/products/WKA046D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA046D/gallery_05.webp",
+        url: "/products/WKA046D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -35027,27 +35027,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/NILKANTH VARNI 65GM WKA047.webp",
+        url: "/products/NILKANTH VARNI 65GM WKA047.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047/gallery_01.webp",
+        url: "/products/WKA047/gallery_01.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047/gallery_02.webp",
+        url: "/products/WKA047/gallery_02.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047/gallery_03.webp",
+        url: "/products/WKA047/gallery_03.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047/gallery_04.webp",
+        url: "/products/WKA047/gallery_04.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047/gallery_05.webp",
+        url: "/products/WKA047/gallery_05.png",
         alt: "999 Silver Nilkanth Varni",
       },
     ],
@@ -35082,27 +35082,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Nilkanth Varni 25GM WKA047AM.webp",
+        url: "/products/Nilkanth Varni 25GM WKA047AM.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047AM/gallery_01.webp",
+        url: "/products/WKA047AM/gallery_01.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047AM/gallery_02.webp",
+        url: "/products/WKA047AM/gallery_02.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047AM/gallery_03.webp",
+        url: "/products/WKA047AM/gallery_03.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047AM/gallery_04.webp",
+        url: "/products/WKA047AM/gallery_04.png",
         alt: "999 Silver Nilkanth Varni",
       },
       {
-        url: "/products/WKA047AM/gallery_05.webp",
+        url: "/products/WKA047AM/gallery_05.png",
         alt: "999 Silver Nilkanth Varni",
       },
     ],
@@ -35135,27 +35135,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Feta Ganesh 80GM WKA055.webp",
+        url: "/products/Feta Ganesh 80GM WKA055.png",
         alt: "999 Silver Feta Ganesh",
       },
       {
-        url: "/products/WKA055/gallery_01.webp",
+        url: "/products/WKA055/gallery_01.png",
         alt: "999 Silver Feta Ganesh",
       },
       {
-        url: "/products/WKA055/gallery_02.webp",
+        url: "/products/WKA055/gallery_02.png",
         alt: "999 Silver Feta Ganesh",
       },
       {
-        url: "/products/WKA055/gallery_03.webp",
+        url: "/products/WKA055/gallery_03.png",
         alt: "999 Silver Feta Ganesh",
       },
       {
-        url: "/products/WKA055/gallery_04.webp",
+        url: "/products/WKA055/gallery_04.png",
         alt: "999 Silver Feta Ganesh",
       },
       {
-        url: "/products/WKA055/gallery_05.webp",
+        url: "/products/WKA055/gallery_05.png",
         alt: "999 Silver Feta Ganesh",
       },
     ],
@@ -35188,27 +35188,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan 270GM WKA073.webp",
+        url: "/products/Radhakrishnan 270GM WKA073.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA073/gallery_01.webp",
+        url: "/products/WKA073/gallery_01.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA073/gallery_02.webp",
+        url: "/products/WKA073/gallery_02.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA073/gallery_03.webp",
+        url: "/products/WKA073/gallery_03.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA073/gallery_04.webp",
+        url: "/products/WKA073/gallery_04.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA073/gallery_05.webp",
+        url: "/products/WKA073/gallery_05.png",
         alt: "999 Silver Radhakrishnan",
       },
     ],
@@ -35241,27 +35241,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 1300GM WKA076.webp",
+        url: "/products/GANESH 1300GM WKA076.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA076/gallery_01.webp",
+        url: "/products/WKA076/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA076/gallery_02.webp",
+        url: "/products/WKA076/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA076/gallery_03.webp",
+        url: "/products/WKA076/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA076/gallery_04.webp",
+        url: "/products/WKA076/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA076/gallery_05.webp",
+        url: "/products/WKA076/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -35294,27 +35294,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HANUMANJI WITH STONE BASE 160GM WKA079A.webp",
+        url: "/products/HANUMANJI WITH STONE BASE 160GM WKA079A.png",
         alt: "999 Silver Hanumanji With Stone Base",
       },
       {
-        url: "/products/WKA079A/gallery_01.webp",
+        url: "/products/WKA079A/gallery_01.png",
         alt: "999 Silver Hanumanji With Stone Base",
       },
       {
-        url: "/products/WKA079A/gallery_02.webp",
+        url: "/products/WKA079A/gallery_02.png",
         alt: "999 Silver Hanumanji With Stone Base",
       },
       {
-        url: "/products/WKA079A/gallery_03.webp",
+        url: "/products/WKA079A/gallery_03.png",
         alt: "999 Silver Hanumanji With Stone Base",
       },
       {
-        url: "/products/WKA079A/gallery_04.webp",
+        url: "/products/WKA079A/gallery_04.png",
         alt: "999 Silver Hanumanji With Stone Base",
       },
       {
-        url: "/products/WKA079A/gallery_05.webp",
+        url: "/products/WKA079A/gallery_05.png",
         alt: "999 Silver Hanumanji With Stone Base",
       },
     ],
@@ -35347,27 +35347,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 90GM WKA087.webp",
+        url: "/products/Laxmi Ganesh 90GM WKA087.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA087/gallery_01.webp",
+        url: "/products/WKA087/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA087/gallery_02.webp",
+        url: "/products/WKA087/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA087/gallery_03.webp",
+        url: "/products/WKA087/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA087/gallery_04.webp",
+        url: "/products/WKA087/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA087/gallery_05.webp",
+        url: "/products/WKA087/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -35400,27 +35400,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 50GM WKA087A.webp",
+        url: "/products/Ganesh 50GM WKA087A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA087A/gallery_01.webp",
+        url: "/products/WKA087A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA087A/gallery_02.webp",
+        url: "/products/WKA087A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA087A/gallery_03.webp",
+        url: "/products/WKA087A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA087A/gallery_04.webp",
+        url: "/products/WKA087A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA087A/gallery_05.webp",
+        url: "/products/WKA087A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -35453,27 +35453,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 45GM WKA087B.webp",
+        url: "/products/Laxmi 45GM WKA087B.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA087B/gallery_01.webp",
+        url: "/products/WKA087B/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA087B/gallery_02.webp",
+        url: "/products/WKA087B/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA087B/gallery_03.webp",
+        url: "/products/WKA087B/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA087B/gallery_04.webp",
+        url: "/products/WKA087B/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA087B/gallery_05.webp",
+        url: "/products/WKA087B/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -35508,27 +35508,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/TEMPLE GANESH 110GM WKA095.webp",
+        url: "/products/TEMPLE GANESH 110GM WKA095.png",
         alt: "999 Silver Temple Ganesh",
       },
       {
-        url: "/products/WKA095/gallery_01.webp",
+        url: "/products/WKA095/gallery_01.png",
         alt: "999 Silver Temple Ganesh",
       },
       {
-        url: "/products/WKA095/gallery_02.webp",
+        url: "/products/WKA095/gallery_02.png",
         alt: "999 Silver Temple Ganesh",
       },
       {
-        url: "/products/WKA095/gallery_03.webp",
+        url: "/products/WKA095/gallery_03.png",
         alt: "999 Silver Temple Ganesh",
       },
       {
-        url: "/products/WKA095/gallery_04.webp",
+        url: "/products/WKA095/gallery_04.png",
         alt: "999 Silver Temple Ganesh",
       },
       {
-        url: "/products/WKA095/gallery_05.webp",
+        url: "/products/WKA095/gallery_05.png",
         alt: "999 Silver Temple Ganesh",
       },
     ],
@@ -35563,27 +35563,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Leafing Budha 60GM WKA1021.webp",
+        url: "/products/Leafing Budha 60GM WKA1021.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1021/gallery_01.webp",
+        url: "/products/WKA1021/gallery_01.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1021/gallery_02.webp",
+        url: "/products/WKA1021/gallery_02.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1021/gallery_03.webp",
+        url: "/products/WKA1021/gallery_03.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1021/gallery_04.webp",
+        url: "/products/WKA1021/gallery_04.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1021/gallery_05.webp",
+        url: "/products/WKA1021/gallery_05.png",
         alt: "999 Silver Leafing Budha",
       },
     ],
@@ -35618,27 +35618,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Umiya maa 90gm WKA102C.webp",
+        url: "/products/Umiya maa 90gm WKA102C.png",
         alt: "999 Silver Umiya maa",
       },
       {
-        url: "/products/WKA102C/gallery_01.webp",
+        url: "/products/WKA102C/gallery_01.png",
         alt: "999 Silver Umiya maa",
       },
       {
-        url: "/products/WKA102C/gallery_02.webp",
+        url: "/products/WKA102C/gallery_02.png",
         alt: "999 Silver Umiya maa",
       },
       {
-        url: "/products/WKA102C/gallery_03.webp",
+        url: "/products/WKA102C/gallery_03.png",
         alt: "999 Silver Umiya maa",
       },
       {
-        url: "/products/WKA102C/gallery_04.webp",
+        url: "/products/WKA102C/gallery_04.png",
         alt: "999 Silver Umiya maa",
       },
       {
-        url: "/products/WKA102C/gallery_05.webp",
+        url: "/products/WKA102C/gallery_05.png",
         alt: "999 Silver Umiya maa",
       },
     ],
@@ -35673,27 +35673,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Leafing Budha 35GM WKA1662c.webp",
+        url: "/products/Leafing Budha 35GM WKA1662c.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1662C/gallery_01.webp",
+        url: "/products/WKA1662C/gallery_01.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1662C/gallery_02.webp",
+        url: "/products/WKA1662C/gallery_02.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1662C/gallery_03.webp",
+        url: "/products/WKA1662C/gallery_03.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1662C/gallery_04.webp",
+        url: "/products/WKA1662C/gallery_04.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKA1662C/gallery_05.webp",
+        url: "/products/WKA1662C/gallery_05.png",
         alt: "999 Silver Leafing Budha",
       },
     ],
@@ -35728,27 +35728,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING HANUMANJI 50GM WKA201.webp",
+        url: "/products/STANDING HANUMANJI 50GM WKA201.png",
         alt: "999 Silver Standing Hanumanji",
       },
       {
-        url: "/products/WKA201/gallery_01.webp",
+        url: "/products/WKA201/gallery_01.png",
         alt: "999 Silver Standing Hanumanji",
       },
       {
-        url: "/products/WKA201/gallery_02.webp",
+        url: "/products/WKA201/gallery_02.png",
         alt: "999 Silver Standing Hanumanji",
       },
       {
-        url: "/products/WKA201/gallery_03.webp",
+        url: "/products/WKA201/gallery_03.png",
         alt: "999 Silver Standing Hanumanji",
       },
       {
-        url: "/products/WKA201/gallery_04.webp",
+        url: "/products/WKA201/gallery_04.png",
         alt: "999 Silver Standing Hanumanji",
       },
       {
-        url: "/products/WKA201/gallery_05.webp",
+        url: "/products/WKA201/gallery_05.png",
         alt: "999 Silver Standing Hanumanji",
       },
     ],
@@ -35785,27 +35785,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SWAMINARAYAN JI 30GM WKA202.webp",
+        url: "/products/SWAMINARAYAN JI 30GM WKA202.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/WKA202/gallery_01.webp",
+        url: "/products/WKA202/gallery_01.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/WKA202/gallery_02.webp",
+        url: "/products/WKA202/gallery_02.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/WKA202/gallery_03.webp",
+        url: "/products/WKA202/gallery_03.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/WKA202/gallery_04.webp",
+        url: "/products/WKA202/gallery_04.png",
         alt: "999 Silver Swaminarayan Ji",
       },
       {
-        url: "/products/WKA202/gallery_05.webp",
+        url: "/products/WKA202/gallery_05.png",
         alt: "999 Silver Swaminarayan Ji",
       },
     ],
@@ -35840,27 +35840,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Makkhan Gopal 65GM WKA203.webp",
+        url: "/products/Makkhan Gopal 65GM WKA203.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA203/gallery_01.webp",
+        url: "/products/WKA203/gallery_01.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA203/gallery_02.webp",
+        url: "/products/WKA203/gallery_02.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA203/gallery_03.webp",
+        url: "/products/WKA203/gallery_03.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA203/gallery_04.webp",
+        url: "/products/WKA203/gallery_04.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA203/gallery_05.webp",
+        url: "/products/WKA203/gallery_05.png",
         alt: "999 Silver Makkhan Gopal",
       },
     ],
@@ -35893,27 +35893,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 20GM WKA210.webp",
+        url: "/products/Ganesh 20GM WKA210.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA210/gallery_01.webp",
+        url: "/products/WKA210/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA210/gallery_02.webp",
+        url: "/products/WKA210/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA210/gallery_03.webp",
+        url: "/products/WKA210/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA210/gallery_04.webp",
+        url: "/products/WKA210/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA210/gallery_05.webp",
+        url: "/products/WKA210/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -35946,27 +35946,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Rock Hanuman 50GM WKA218.webp",
+        url: "/products/Rock Hanuman 50GM WKA218.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/WKA218/gallery_01.webp",
+        url: "/products/WKA218/gallery_01.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/WKA218/gallery_02.webp",
+        url: "/products/WKA218/gallery_02.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/WKA218/gallery_03.webp",
+        url: "/products/WKA218/gallery_03.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/WKA218/gallery_04.webp",
+        url: "/products/WKA218/gallery_04.png",
         alt: "999 Silver Rock Hanuman",
       },
       {
-        url: "/products/WKA218/gallery_05.webp",
+        url: "/products/WKA218/gallery_05.png",
         alt: "999 Silver Rock Hanuman",
       },
     ],
@@ -36001,27 +36001,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Swaminarayan ji 50gm WKA221.webp",
+        url: "/products/Swaminarayan ji 50gm WKA221.png",
         alt: "999 Silver Swaminarayan ji",
       },
       {
-        url: "/products/WKA221/gallery_01.webp",
+        url: "/products/WKA221/gallery_01.png",
         alt: "999 Silver Swaminarayan ji",
       },
       {
-        url: "/products/WKA221/gallery_02.webp",
+        url: "/products/WKA221/gallery_02.png",
         alt: "999 Silver Swaminarayan ji",
       },
       {
-        url: "/products/WKA221/gallery_03.webp",
+        url: "/products/WKA221/gallery_03.png",
         alt: "999 Silver Swaminarayan ji",
       },
       {
-        url: "/products/WKA221/gallery_04.webp",
+        url: "/products/WKA221/gallery_04.png",
         alt: "999 Silver Swaminarayan ji",
       },
       {
-        url: "/products/WKA221/gallery_05.webp",
+        url: "/products/WKA221/gallery_05.png",
         alt: "999 Silver Swaminarayan ji",
       },
     ],
@@ -36058,27 +36058,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 20GM WKA225.webp",
+        url: "/products/GANESH 20GM WKA225.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA225/gallery_01.webp",
+        url: "/products/WKA225/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA225/gallery_02.webp",
+        url: "/products/WKA225/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA225/gallery_03.webp",
+        url: "/products/WKA225/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA225/gallery_04.webp",
+        url: "/products/WKA225/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA225/gallery_05.webp",
+        url: "/products/WKA225/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -36113,27 +36113,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PANCHMUKHI HANUMAN 80GM WKA233.webp",
+        url: "/products/PANCHMUKHI HANUMAN 80GM WKA233.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKA233/gallery_01.webp",
+        url: "/products/WKA233/gallery_01.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKA233/gallery_02.webp",
+        url: "/products/WKA233/gallery_02.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKA233/gallery_03.webp",
+        url: "/products/WKA233/gallery_03.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKA233/gallery_04.webp",
+        url: "/products/WKA233/gallery_04.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKA233/gallery_05.webp",
+        url: "/products/WKA233/gallery_05.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
     ],
@@ -36166,27 +36166,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/STANDING VISHNU LAXMI 45GM WKA240.webp",
+        url: "/products/STANDING VISHNU LAXMI 45GM WKA240.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/WKA240/gallery_01.webp",
+        url: "/products/WKA240/gallery_01.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/WKA240/gallery_02.webp",
+        url: "/products/WKA240/gallery_02.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/WKA240/gallery_03.webp",
+        url: "/products/WKA240/gallery_03.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/WKA240/gallery_04.webp",
+        url: "/products/WKA240/gallery_04.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
       {
-        url: "/products/WKA240/gallery_05.webp",
+        url: "/products/WKA240/gallery_05.png",
         alt: "999 Silver Standing Vishnu Laxmi",
       },
     ],
@@ -36221,23 +36221,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/WKA257/gallery_01.webp",
+        url: "/products/WKA257/gallery_01.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/WKA257/gallery_02.webp",
+        url: "/products/WKA257/gallery_02.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/WKA257/gallery_03.webp",
+        url: "/products/WKA257/gallery_03.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/WKA257/gallery_04.webp",
+        url: "/products/WKA257/gallery_04.png",
         alt: "999 Silver Jalaram Bapa",
       },
       {
-        url: "/products/WKA257/gallery_05.webp",
+        url: "/products/WKA257/gallery_05.png",
         alt: "999 Silver Jalaram Bapa",
       },
     ],
@@ -36272,27 +36272,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan 35GM WKA290.webp",
+        url: "/products/Radhakrishnan 35GM WKA290.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA290/gallery_01.webp",
+        url: "/products/WKA290/gallery_01.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA290/gallery_02.webp",
+        url: "/products/WKA290/gallery_02.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA290/gallery_03.webp",
+        url: "/products/WKA290/gallery_03.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA290/gallery_04.webp",
+        url: "/products/WKA290/gallery_04.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKA290/gallery_05.webp",
+        url: "/products/WKA290/gallery_05.png",
         alt: "999 Silver Radhakrishnan",
       },
     ],
@@ -36327,27 +36327,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BAHUCHARA JI 55GM WKA310A.webp",
+        url: "/products/BAHUCHARA JI 55GM WKA310A.png",
         alt: "999 Silver Bahuchara Ji",
       },
       {
-        url: "/products/WKA310A/gallery_01.webp",
+        url: "/products/WKA310A/gallery_01.png",
         alt: "999 Silver Bahuchara Ji",
       },
       {
-        url: "/products/WKA310A/gallery_02.webp",
+        url: "/products/WKA310A/gallery_02.png",
         alt: "999 Silver Bahuchara Ji",
       },
       {
-        url: "/products/WKA310A/gallery_03.webp",
+        url: "/products/WKA310A/gallery_03.png",
         alt: "999 Silver Bahuchara Ji",
       },
       {
-        url: "/products/WKA310A/gallery_04.webp",
+        url: "/products/WKA310A/gallery_04.png",
         alt: "999 Silver Bahuchara Ji",
       },
       {
-        url: "/products/WKA310A/gallery_05.webp",
+        url: "/products/WKA310A/gallery_05.png",
         alt: "999 Silver Bahuchara Ji",
       },
     ],
@@ -36382,27 +36382,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KrishnaWithCow 50GM WKA312.webp",
+        url: "/products/KrishnaWithCow 50GM WKA312.png",
         alt: "999 Silver KrishnaWithCow",
       },
       {
-        url: "/products/WKA312/gallery_01.webp",
+        url: "/products/WKA312/gallery_01.png",
         alt: "999 Silver KrishnaWithCow",
       },
       {
-        url: "/products/WKA312/gallery_02.webp",
+        url: "/products/WKA312/gallery_02.png",
         alt: "999 Silver KrishnaWithCow",
       },
       {
-        url: "/products/WKA312/gallery_03.webp",
+        url: "/products/WKA312/gallery_03.png",
         alt: "999 Silver KrishnaWithCow",
       },
       {
-        url: "/products/WKA312/gallery_04.webp",
+        url: "/products/WKA312/gallery_04.png",
         alt: "999 Silver KrishnaWithCow",
       },
       {
-        url: "/products/WKA312/gallery_05.webp",
+        url: "/products/WKA312/gallery_05.png",
         alt: "999 Silver KrishnaWithCow",
       },
     ],
@@ -36435,27 +36435,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 35GM WKA370.webp",
+        url: "/products/Ganesh 35GM WKA370.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA370/gallery_01.webp",
+        url: "/products/WKA370/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA370/gallery_02.webp",
+        url: "/products/WKA370/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA370/gallery_03.webp",
+        url: "/products/WKA370/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA370/gallery_04.webp",
+        url: "/products/WKA370/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA370/gallery_05.webp",
+        url: "/products/WKA370/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -36488,27 +36488,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 42GM WKA41B.webp",
+        url: "/products/Ganesh 42GM WKA41B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA41B/gallery_01.webp",
+        url: "/products/WKA41B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA41B/gallery_02.webp",
+        url: "/products/WKA41B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA41B/gallery_03.webp",
+        url: "/products/WKA41B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA41B/gallery_04.webp",
+        url: "/products/WKA41B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA41B/gallery_05.webp",
+        url: "/products/WKA41B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -36541,27 +36541,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Panchmukhi Ganesh 120GM WKA902.webp",
+        url: "/products/Panchmukhi Ganesh 120GM WKA902.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/WKA902/gallery_01.webp",
+        url: "/products/WKA902/gallery_01.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/WKA902/gallery_02.webp",
+        url: "/products/WKA902/gallery_02.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/WKA902/gallery_03.webp",
+        url: "/products/WKA902/gallery_03.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/WKA902/gallery_04.webp",
+        url: "/products/WKA902/gallery_04.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
       {
-        url: "/products/WKA902/gallery_05.webp",
+        url: "/products/WKA902/gallery_05.png",
         alt: "999 Silver Panchmukhi Ganesh",
       },
     ],
@@ -36596,23 +36596,23 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/WKA903/gallery_01.webp",
+        url: "/products/WKA903/gallery_01.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/WKA903/gallery_02.webp",
+        url: "/products/WKA903/gallery_02.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/WKA903/gallery_03.webp",
+        url: "/products/WKA903/gallery_03.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/WKA903/gallery_04.webp",
+        url: "/products/WKA903/gallery_04.png",
         alt: "999 Silver Brahmani Maa",
       },
       {
-        url: "/products/WKA903/gallery_05.webp",
+        url: "/products/WKA903/gallery_05.png",
         alt: "999 Silver Brahmani Maa",
       },
     ],
@@ -36647,27 +36647,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 110GM WKA908.webp",
+        url: "/products/Ganesh 110GM WKA908.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA908/gallery_01.webp",
+        url: "/products/WKA908/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA908/gallery_02.webp",
+        url: "/products/WKA908/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA908/gallery_03.webp",
+        url: "/products/WKA908/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA908/gallery_04.webp",
+        url: "/products/WKA908/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA908/gallery_05.webp",
+        url: "/products/WKA908/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -36700,27 +36700,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Baby Makkhan Gopal 40GM WKA909.webp",
+        url: "/products/Baby Makkhan Gopal 40GM WKA909.png",
         alt: "999 Silver Baby Makkhan Gopal",
       },
       {
-        url: "/products/WKA909/gallery_01.webp",
+        url: "/products/WKA909/gallery_01.png",
         alt: "999 Silver Baby Makkhan Gopal",
       },
       {
-        url: "/products/WKA909/gallery_02.webp",
+        url: "/products/WKA909/gallery_02.png",
         alt: "999 Silver Baby Makkhan Gopal",
       },
       {
-        url: "/products/WKA909/gallery_03.webp",
+        url: "/products/WKA909/gallery_03.png",
         alt: "999 Silver Baby Makkhan Gopal",
       },
       {
-        url: "/products/WKA909/gallery_04.webp",
+        url: "/products/WKA909/gallery_04.png",
         alt: "999 Silver Baby Makkhan Gopal",
       },
       {
-        url: "/products/WKA909/gallery_05.webp",
+        url: "/products/WKA909/gallery_05.png",
         alt: "999 Silver Baby Makkhan Gopal",
       },
     ],
@@ -36755,27 +36755,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/shiva parwati with ganesha 275GM WKA915.webp",
+        url: "/products/shiva parwati with ganesha 275GM WKA915.png",
         alt: "999 Silver shiva parwati with ganesha",
       },
       {
-        url: "/products/WKA915/gallery_01.webp",
+        url: "/products/WKA915/gallery_01.png",
         alt: "999 Silver shiva parwati with ganesha",
       },
       {
-        url: "/products/WKA915/gallery_02.webp",
+        url: "/products/WKA915/gallery_02.png",
         alt: "999 Silver shiva parwati with ganesha",
       },
       {
-        url: "/products/WKA915/gallery_03.webp",
+        url: "/products/WKA915/gallery_03.png",
         alt: "999 Silver shiva parwati with ganesha",
       },
       {
-        url: "/products/WKA915/gallery_04.webp",
+        url: "/products/WKA915/gallery_04.png",
         alt: "999 Silver shiva parwati with ganesha",
       },
       {
-        url: "/products/WKA915/gallery_05.webp",
+        url: "/products/WKA915/gallery_05.png",
         alt: "999 Silver shiva parwati with ganesha",
       },
     ],
@@ -36812,27 +36812,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 80GM WKA917B.webp",
+        url: "/products/GANESH 80GM WKA917B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA917B/gallery_01.webp",
+        url: "/products/WKA917B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA917B/gallery_02.webp",
+        url: "/products/WKA917B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA917B/gallery_03.webp",
+        url: "/products/WKA917B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA917B/gallery_04.webp",
+        url: "/products/WKA917B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKA917B/gallery_05.webp",
+        url: "/products/WKA917B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -36867,27 +36867,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Musikvahana Ganpati 90GM WKA921.webp",
+        url: "/products/Musikvahana Ganpati 90GM WKA921.png",
         alt: "999 Silver Musikvahana Ganpati",
       },
       {
-        url: "/products/WKA921/gallery_01.webp",
+        url: "/products/WKA921/gallery_01.png",
         alt: "999 Silver Musikvahana Ganpati",
       },
       {
-        url: "/products/WKA921/gallery_02.webp",
+        url: "/products/WKA921/gallery_02.png",
         alt: "999 Silver Musikvahana Ganpati",
       },
       {
-        url: "/products/WKA921/gallery_03.webp",
+        url: "/products/WKA921/gallery_03.png",
         alt: "999 Silver Musikvahana Ganpati",
       },
       {
-        url: "/products/WKA921/gallery_04.webp",
+        url: "/products/WKA921/gallery_04.png",
         alt: "999 Silver Musikvahana Ganpati",
       },
       {
-        url: "/products/WKA921/gallery_05.webp",
+        url: "/products/WKA921/gallery_05.png",
         alt: "999 Silver Musikvahana Ganpati",
       },
     ],
@@ -36922,27 +36922,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SARSWATI MA 65GM WKA925A.webp",
+        url: "/products/SARSWATI MA 65GM WKA925A.png",
         alt: "999 Silver Sarswati Ma",
       },
       {
-        url: "/products/WKA925A/gallery_01.webp",
+        url: "/products/WKA925A/gallery_01.png",
         alt: "999 Silver Sarswati Ma",
       },
       {
-        url: "/products/WKA925A/gallery_02.webp",
+        url: "/products/WKA925A/gallery_02.png",
         alt: "999 Silver Sarswati Ma",
       },
       {
-        url: "/products/WKA925A/gallery_03.webp",
+        url: "/products/WKA925A/gallery_03.png",
         alt: "999 Silver Sarswati Ma",
       },
       {
-        url: "/products/WKA925A/gallery_04.webp",
+        url: "/products/WKA925A/gallery_04.png",
         alt: "999 Silver Sarswati Ma",
       },
       {
-        url: "/products/WKA925A/gallery_05.webp",
+        url: "/products/WKA925A/gallery_05.png",
         alt: "999 Silver Sarswati Ma",
       },
     ],
@@ -36979,27 +36979,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SARSWATI MAA 45GM WKA925B.webp",
+        url: "/products/SARSWATI MAA 45GM WKA925B.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/WKA925B/gallery_01.webp",
+        url: "/products/WKA925B/gallery_01.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/WKA925B/gallery_02.webp",
+        url: "/products/WKA925B/gallery_02.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/WKA925B/gallery_03.webp",
+        url: "/products/WKA925B/gallery_03.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/WKA925B/gallery_04.webp",
+        url: "/products/WKA925B/gallery_04.png",
         alt: "999 Silver Sarswati Maa",
       },
       {
-        url: "/products/WKA925B/gallery_05.webp",
+        url: "/products/WKA925B/gallery_05.png",
         alt: "999 Silver Sarswati Maa",
       },
     ],
@@ -37034,27 +37034,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LORD SHIVA 70GM WKA928.webp",
+        url: "/products/LORD SHIVA 70GM WKA928.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/WKA928/gallery_01.webp",
+        url: "/products/WKA928/gallery_01.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/WKA928/gallery_02.webp",
+        url: "/products/WKA928/gallery_02.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/WKA928/gallery_03.webp",
+        url: "/products/WKA928/gallery_03.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/WKA928/gallery_04.webp",
+        url: "/products/WKA928/gallery_04.png",
         alt: "999 Silver Lord Shiva",
       },
       {
-        url: "/products/WKA928/gallery_05.webp",
+        url: "/products/WKA928/gallery_05.png",
         alt: "999 Silver Lord Shiva",
       },
     ],
@@ -37087,27 +37087,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Makkhan Gopal 80GM WKA930.webp",
+        url: "/products/Makkhan Gopal 80GM WKA930.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA930/gallery_01.webp",
+        url: "/products/WKA930/gallery_01.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA930/gallery_02.webp",
+        url: "/products/WKA930/gallery_02.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA930/gallery_03.webp",
+        url: "/products/WKA930/gallery_03.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA930/gallery_04.webp",
+        url: "/products/WKA930/gallery_04.png",
         alt: "999 Silver Makkhan Gopal",
       },
       {
-        url: "/products/WKA930/gallery_05.webp",
+        url: "/products/WKA930/gallery_05.png",
         alt: "999 Silver Makkhan Gopal",
       },
     ],
@@ -37142,27 +37142,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MUDRA GANESH 65GM WKA932.webp",
+        url: "/products/MUDRA GANESH 65GM WKA932.png",
         alt: "999 Silver Mudra Ganesh",
       },
       {
-        url: "/products/WKA932/gallery_01.webp",
+        url: "/products/WKA932/gallery_01.png",
         alt: "999 Silver Mudra Ganesh",
       },
       {
-        url: "/products/WKA932/gallery_02.webp",
+        url: "/products/WKA932/gallery_02.png",
         alt: "999 Silver Mudra Ganesh",
       },
       {
-        url: "/products/WKA932/gallery_03.webp",
+        url: "/products/WKA932/gallery_03.png",
         alt: "999 Silver Mudra Ganesh",
       },
       {
-        url: "/products/WKA932/gallery_04.webp",
+        url: "/products/WKA932/gallery_04.png",
         alt: "999 Silver Mudra Ganesh",
       },
       {
-        url: "/products/WKA932/gallery_05.webp",
+        url: "/products/WKA932/gallery_05.png",
         alt: "999 Silver Mudra Ganesh",
       },
     ],
@@ -37197,27 +37197,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 300GM WKA933.webp",
+        url: "/products/Laxmi Ganesh 300GM WKA933.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA933/gallery_01.webp",
+        url: "/products/WKA933/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA933/gallery_02.webp",
+        url: "/products/WKA933/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA933/gallery_03.webp",
+        url: "/products/WKA933/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA933/gallery_04.webp",
+        url: "/products/WKA933/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA933/gallery_05.webp",
+        url: "/products/WKA933/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -37250,27 +37250,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 150GM WKA933A.webp",
+        url: "/products/Laxmi 150GM WKA933A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA933A/gallery_01.webp",
+        url: "/products/WKA933A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA933A/gallery_02.webp",
+        url: "/products/WKA933A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA933A/gallery_03.webp",
+        url: "/products/WKA933A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA933A/gallery_04.webp",
+        url: "/products/WKA933A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA933A/gallery_05.webp",
+        url: "/products/WKA933A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -37303,27 +37303,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/PAT GANESH 150GM WKA933B.webp",
+        url: "/products/PAT GANESH 150GM WKA933B.png",
         alt: "999 Silver Pat Ganesh",
       },
       {
-        url: "/products/WKA933B/gallery_01.webp",
+        url: "/products/WKA933B/gallery_01.png",
         alt: "999 Silver Pat Ganesh",
       },
       {
-        url: "/products/WKA933B/gallery_02.webp",
+        url: "/products/WKA933B/gallery_02.png",
         alt: "999 Silver Pat Ganesh",
       },
       {
-        url: "/products/WKA933B/gallery_03.webp",
+        url: "/products/WKA933B/gallery_03.png",
         alt: "999 Silver Pat Ganesh",
       },
       {
-        url: "/products/WKA933B/gallery_04.webp",
+        url: "/products/WKA933B/gallery_04.png",
         alt: "999 Silver Pat Ganesh",
       },
       {
-        url: "/products/WKA933B/gallery_05.webp",
+        url: "/products/WKA933B/gallery_05.png",
         alt: "999 Silver Pat Ganesh",
       },
     ],
@@ -37356,27 +37356,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Shivji160GM WKA936.webp",
+        url: "/products/Shivji160GM WKA936.png",
         alt: "999 Silver Shivji160GM",
       },
       {
-        url: "/products/WKA936/gallery_01.webp",
+        url: "/products/WKA936/gallery_01.png",
         alt: "999 Silver Shivji160GM",
       },
       {
-        url: "/products/WKA936/gallery_02.webp",
+        url: "/products/WKA936/gallery_02.png",
         alt: "999 Silver Shivji160GM",
       },
       {
-        url: "/products/WKA936/gallery_03.webp",
+        url: "/products/WKA936/gallery_03.png",
         alt: "999 Silver Shivji160GM",
       },
       {
-        url: "/products/WKA936/gallery_04.webp",
+        url: "/products/WKA936/gallery_04.png",
         alt: "999 Silver Shivji160GM",
       },
       {
-        url: "/products/WKA936/gallery_05.webp",
+        url: "/products/WKA936/gallery_05.png",
         alt: "999 Silver Shivji160GM",
       },
     ],
@@ -37411,27 +37411,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ganesh 65GM WKA937.webp",
+        url: "/products/ganesh 65GM WKA937.png",
         alt: "999 Silver ganesh",
       },
       {
-        url: "/products/WKA937/gallery_01.webp",
+        url: "/products/WKA937/gallery_01.png",
         alt: "999 Silver ganesh",
       },
       {
-        url: "/products/WKA937/gallery_02.webp",
+        url: "/products/WKA937/gallery_02.png",
         alt: "999 Silver ganesh",
       },
       {
-        url: "/products/WKA937/gallery_03.webp",
+        url: "/products/WKA937/gallery_03.png",
         alt: "999 Silver ganesh",
       },
       {
-        url: "/products/WKA937/gallery_04.webp",
+        url: "/products/WKA937/gallery_04.png",
         alt: "999 Silver ganesh",
       },
       {
-        url: "/products/WKA937/gallery_05.webp",
+        url: "/products/WKA937/gallery_05.png",
         alt: "999 Silver ganesh",
       },
     ],
@@ -37466,27 +37466,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman 120GM WKA942.webp",
+        url: "/products/Hanuman 120GM WKA942.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942/gallery_01.webp",
+        url: "/products/WKA942/gallery_01.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942/gallery_02.webp",
+        url: "/products/WKA942/gallery_02.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942/gallery_03.webp",
+        url: "/products/WKA942/gallery_03.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942/gallery_04.webp",
+        url: "/products/WKA942/gallery_04.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942/gallery_05.webp",
+        url: "/products/WKA942/gallery_05.png",
         alt: "999 Silver Hanuman",
       },
     ],
@@ -37519,27 +37519,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Hanuman 65GM WKA942A.webp",
+        url: "/products/Hanuman 65GM WKA942A.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942A/gallery_01.webp",
+        url: "/products/WKA942A/gallery_01.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942A/gallery_02.webp",
+        url: "/products/WKA942A/gallery_02.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942A/gallery_03.webp",
+        url: "/products/WKA942A/gallery_03.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942A/gallery_04.webp",
+        url: "/products/WKA942A/gallery_04.png",
         alt: "999 Silver Hanuman",
       },
       {
-        url: "/products/WKA942A/gallery_05.webp",
+        url: "/products/WKA942A/gallery_05.png",
         alt: "999 Silver Hanuman",
       },
     ],
@@ -37572,27 +37572,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 270GM WKA953.webp",
+        url: "/products/Laxmi Ganesh 270GM WKA953.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA953/gallery_01.webp",
+        url: "/products/WKA953/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA953/gallery_02.webp",
+        url: "/products/WKA953/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA953/gallery_03.webp",
+        url: "/products/WKA953/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA953/gallery_04.webp",
+        url: "/products/WKA953/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKA953/gallery_05.webp",
+        url: "/products/WKA953/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -37625,27 +37625,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 135GM WKA953A.webp",
+        url: "/products/Laxmi 135GM WKA953A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA953A/gallery_01.webp",
+        url: "/products/WKA953A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA953A/gallery_02.webp",
+        url: "/products/WKA953A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA953A/gallery_03.webp",
+        url: "/products/WKA953A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA953A/gallery_04.webp",
+        url: "/products/WKA953A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKA953A/gallery_05.webp",
+        url: "/products/WKA953A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -37678,27 +37678,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 400GM WKA953C.webp",
+        url: "/products/Laxmi Ganesh Sarswati 400GM WKA953C.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA953C/gallery_01.webp",
+        url: "/products/WKA953C/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA953C/gallery_02.webp",
+        url: "/products/WKA953C/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA953C/gallery_03.webp",
+        url: "/products/WKA953C/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA953C/gallery_04.webp",
+        url: "/products/WKA953C/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKA953C/gallery_05.webp",
+        url: "/products/WKA953C/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -37731,27 +37731,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sarswati 135GM WKA953CC.webp",
+        url: "/products/Sarswati 135GM WKA953CC.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA953CC/gallery_01.webp",
+        url: "/products/WKA953CC/gallery_01.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA953CC/gallery_02.webp",
+        url: "/products/WKA953CC/gallery_02.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA953CC/gallery_03.webp",
+        url: "/products/WKA953CC/gallery_03.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA953CC/gallery_04.webp",
+        url: "/products/WKA953CC/gallery_04.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKA953CC/gallery_05.webp",
+        url: "/products/WKA953CC/gallery_05.png",
         alt: "999 Silver Sarswati",
       },
     ],
@@ -37784,27 +37784,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/ROCK HANUMANJI 90GM WKB0087.webp",
+        url: "/products/ROCK HANUMANJI 90GM WKB0087.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/WKB0087/gallery_01.webp",
+        url: "/products/WKB0087/gallery_01.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/WKB0087/gallery_02.webp",
+        url: "/products/WKB0087/gallery_02.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/WKB0087/gallery_03.webp",
+        url: "/products/WKB0087/gallery_03.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/WKB0087/gallery_04.webp",
+        url: "/products/WKB0087/gallery_04.png",
         alt: "999 Silver Rock Hanumanji",
       },
       {
-        url: "/products/WKB0087/gallery_05.webp",
+        url: "/products/WKB0087/gallery_05.png",
         alt: "999 Silver Rock Hanumanji",
       },
     ],
@@ -37837,27 +37837,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Archies Ganesh 45GM WKB0125.webp",
+        url: "/products/Archies Ganesh 45GM WKB0125.png",
         alt: "999 Silver Archies Ganesh",
       },
       {
-        url: "/products/WKB0125/gallery_01.webp",
+        url: "/products/WKB0125/gallery_01.png",
         alt: "999 Silver Archies Ganesh",
       },
       {
-        url: "/products/WKB0125/gallery_02.webp",
+        url: "/products/WKB0125/gallery_02.png",
         alt: "999 Silver Archies Ganesh",
       },
       {
-        url: "/products/WKB0125/gallery_03.webp",
+        url: "/products/WKB0125/gallery_03.png",
         alt: "999 Silver Archies Ganesh",
       },
       {
-        url: "/products/WKB0125/gallery_04.webp",
+        url: "/products/WKB0125/gallery_04.png",
         alt: "999 Silver Archies Ganesh",
       },
       {
-        url: "/products/WKB0125/gallery_05.webp",
+        url: "/products/WKB0125/gallery_05.png",
         alt: "999 Silver Archies Ganesh",
       },
     ],
@@ -37890,27 +37890,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 45GM WKB0125A.webp",
+        url: "/products/Laxmi 45GM WKB0125A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0125A/gallery_01.webp",
+        url: "/products/WKB0125A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0125A/gallery_02.webp",
+        url: "/products/WKB0125A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0125A/gallery_03.webp",
+        url: "/products/WKB0125A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0125A/gallery_04.webp",
+        url: "/products/WKB0125A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0125A/gallery_05.webp",
+        url: "/products/WKB0125A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -37945,27 +37945,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KHODIYAR MAA 110GM WKB0143.webp",
+        url: "/products/KHODIYAR MAA 110GM WKB0143.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/WKB0143/gallery_01.webp",
+        url: "/products/WKB0143/gallery_01.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/WKB0143/gallery_02.webp",
+        url: "/products/WKB0143/gallery_02.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/WKB0143/gallery_03.webp",
+        url: "/products/WKB0143/gallery_03.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/WKB0143/gallery_04.webp",
+        url: "/products/WKB0143/gallery_04.png",
         alt: "999 Silver Khodiyar Maa",
       },
       {
-        url: "/products/WKB0143/gallery_05.webp",
+        url: "/products/WKB0143/gallery_05.png",
         alt: "999 Silver Khodiyar Maa",
       },
     ],
@@ -38002,27 +38002,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KHODIYAR MAA KB0143A 50GM WKB0143A.webp",
+        url: "/products/KHODIYAR MAA KB0143A 50GM WKB0143A.png",
         alt: "999 Silver Khodiyar Maa Kb0143A",
       },
       {
-        url: "/products/WKB0143A/gallery_01.webp",
+        url: "/products/WKB0143A/gallery_01.png",
         alt: "999 Silver Khodiyar Maa Kb0143A",
       },
       {
-        url: "/products/WKB0143A/gallery_02.webp",
+        url: "/products/WKB0143A/gallery_02.png",
         alt: "999 Silver Khodiyar Maa Kb0143A",
       },
       {
-        url: "/products/WKB0143A/gallery_03.webp",
+        url: "/products/WKB0143A/gallery_03.png",
         alt: "999 Silver Khodiyar Maa Kb0143A",
       },
       {
-        url: "/products/WKB0143A/gallery_04.webp",
+        url: "/products/WKB0143A/gallery_04.png",
         alt: "999 Silver Khodiyar Maa Kb0143A",
       },
       {
-        url: "/products/WKB0143A/gallery_05.webp",
+        url: "/products/WKB0143A/gallery_05.png",
         alt: "999 Silver Khodiyar Maa Kb0143A",
       },
     ],
@@ -38057,27 +38057,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Lotus Laxmi Ganesh 85GM WKB036.webp",
+        url: "/products/Lotus Laxmi Ganesh 85GM WKB036.png",
         alt: "999 Silver Lotus Laxmi Ganesh",
       },
       {
-        url: "/products/WKB036/gallery_01.webp",
+        url: "/products/WKB036/gallery_01.png",
         alt: "999 Silver Lotus Laxmi Ganesh",
       },
       {
-        url: "/products/WKB036/gallery_02.webp",
+        url: "/products/WKB036/gallery_02.png",
         alt: "999 Silver Lotus Laxmi Ganesh",
       },
       {
-        url: "/products/WKB036/gallery_03.webp",
+        url: "/products/WKB036/gallery_03.png",
         alt: "999 Silver Lotus Laxmi Ganesh",
       },
       {
-        url: "/products/WKB036/gallery_04.webp",
+        url: "/products/WKB036/gallery_04.png",
         alt: "999 Silver Lotus Laxmi Ganesh",
       },
       {
-        url: "/products/WKB036/gallery_05.webp",
+        url: "/products/WKB036/gallery_05.png",
         alt: "999 Silver Lotus Laxmi Ganesh",
       },
     ],
@@ -38110,27 +38110,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/BIG HANUMANJI 280GM WKB0462.webp",
+        url: "/products/BIG HANUMANJI 280GM WKB0462.png",
         alt: "999 Silver Big Hanumanji",
       },
       {
-        url: "/products/WKB0462/gallery_01.webp",
+        url: "/products/WKB0462/gallery_01.png",
         alt: "999 Silver Big Hanumanji",
       },
       {
-        url: "/products/WKB0462/gallery_02.webp",
+        url: "/products/WKB0462/gallery_02.png",
         alt: "999 Silver Big Hanumanji",
       },
       {
-        url: "/products/WKB0462/gallery_03.webp",
+        url: "/products/WKB0462/gallery_03.png",
         alt: "999 Silver Big Hanumanji",
       },
       {
-        url: "/products/WKB0462/gallery_04.webp",
+        url: "/products/WKB0462/gallery_04.png",
         alt: "999 Silver Big Hanumanji",
       },
       {
-        url: "/products/WKB0462/gallery_05.webp",
+        url: "/products/WKB0462/gallery_05.png",
         alt: "999 Silver Big Hanumanji",
       },
     ],
@@ -38163,27 +38163,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 50GM WKB0479.webp",
+        url: "/products/Laxmi Ganesh 50GM WKB0479.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0479/gallery_01.webp",
+        url: "/products/WKB0479/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0479/gallery_02.webp",
+        url: "/products/WKB0479/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0479/gallery_03.webp",
+        url: "/products/WKB0479/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0479/gallery_04.webp",
+        url: "/products/WKB0479/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0479/gallery_05.webp",
+        url: "/products/WKB0479/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -38216,27 +38216,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 25GM WKB0479A.webp",
+        url: "/products/Ganesh 25GM WKB0479A.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB0479A/gallery_01.webp",
+        url: "/products/WKB0479A/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB0479A/gallery_02.webp",
+        url: "/products/WKB0479A/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB0479A/gallery_03.webp",
+        url: "/products/WKB0479A/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB0479A/gallery_04.webp",
+        url: "/products/WKB0479A/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB0479A/gallery_05.webp",
+        url: "/products/WKB0479A/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -38269,27 +38269,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 25GM WKB0479B.webp",
+        url: "/products/Laxmi 25GM WKB0479B.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0479B/gallery_01.webp",
+        url: "/products/WKB0479B/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0479B/gallery_02.webp",
+        url: "/products/WKB0479B/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0479B/gallery_03.webp",
+        url: "/products/WKB0479B/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0479B/gallery_04.webp",
+        url: "/products/WKB0479B/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0479B/gallery_05.webp",
+        url: "/products/WKB0479B/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -38322,27 +38322,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Sarswati 30GM WKB0479C.webp",
+        url: "/products/Sarswati 30GM WKB0479C.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKB0479C/gallery_01.webp",
+        url: "/products/WKB0479C/gallery_01.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKB0479C/gallery_02.webp",
+        url: "/products/WKB0479C/gallery_02.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKB0479C/gallery_03.webp",
+        url: "/products/WKB0479C/gallery_03.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKB0479C/gallery_04.webp",
+        url: "/products/WKB0479C/gallery_04.png",
         alt: "999 Silver Sarswati",
       },
       {
-        url: "/products/WKB0479C/gallery_05.webp",
+        url: "/products/WKB0479C/gallery_05.png",
         alt: "999 Silver Sarswati",
       },
     ],
@@ -38375,27 +38375,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh Sarswati 80GM WKB0479D.webp",
+        url: "/products/Laxmi Ganesh Sarswati 80GM WKB0479D.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKB0479D/gallery_01.webp",
+        url: "/products/WKB0479D/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKB0479D/gallery_02.webp",
+        url: "/products/WKB0479D/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKB0479D/gallery_03.webp",
+        url: "/products/WKB0479D/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKB0479D/gallery_04.webp",
+        url: "/products/WKB0479D/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
       {
-        url: "/products/WKB0479D/gallery_05.webp",
+        url: "/products/WKB0479D/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Sarswati",
       },
     ],
@@ -38428,27 +38428,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 40GM WKB0518.webp",
+        url: "/products/Laxmi Ganesh 40GM WKB0518.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0518/gallery_01.webp",
+        url: "/products/WKB0518/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0518/gallery_02.webp",
+        url: "/products/WKB0518/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0518/gallery_03.webp",
+        url: "/products/WKB0518/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0518/gallery_04.webp",
+        url: "/products/WKB0518/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0518/gallery_05.webp",
+        url: "/products/WKB0518/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -38481,27 +38481,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 20GM WKB0518A.webp",
+        url: "/products/Ganesh Ji 20GM WKB0518A.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0518A/gallery_01.webp",
+        url: "/products/WKB0518A/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0518A/gallery_02.webp",
+        url: "/products/WKB0518A/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0518A/gallery_03.webp",
+        url: "/products/WKB0518A/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0518A/gallery_04.webp",
+        url: "/products/WKB0518A/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0518A/gallery_05.webp",
+        url: "/products/WKB0518A/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -38534,27 +38534,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 15GM WKB0518B.webp",
+        url: "/products/Laxmi 15GM WKB0518B.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0518B/gallery_01.webp",
+        url: "/products/WKB0518B/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0518B/gallery_02.webp",
+        url: "/products/WKB0518B/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0518B/gallery_03.webp",
+        url: "/products/WKB0518B/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0518B/gallery_04.webp",
+        url: "/products/WKB0518B/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0518B/gallery_05.webp",
+        url: "/products/WKB0518B/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -38587,27 +38587,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Radhakrishnan 35GM WKB0535.webp",
+        url: "/products/Radhakrishnan 35GM WKB0535.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKB0535/gallery_01.webp",
+        url: "/products/WKB0535/gallery_01.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKB0535/gallery_02.webp",
+        url: "/products/WKB0535/gallery_02.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKB0535/gallery_03.webp",
+        url: "/products/WKB0535/gallery_03.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKB0535/gallery_04.webp",
+        url: "/products/WKB0535/gallery_04.png",
         alt: "999 Silver Radhakrishnan",
       },
       {
-        url: "/products/WKB0535/gallery_05.webp",
+        url: "/products/WKB0535/gallery_05.png",
         alt: "999 Silver Radhakrishnan",
       },
     ],
@@ -38640,27 +38640,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DashaMaa 90GM WKB0553.webp",
+        url: "/products/DashaMaa 90GM WKB0553.png",
         alt: "999 Silver DashaMaa",
       },
       {
-        url: "/products/WKB0553/gallery_01.webp",
+        url: "/products/WKB0553/gallery_01.png",
         alt: "999 Silver DashaMaa",
       },
       {
-        url: "/products/WKB0553/gallery_02.webp",
+        url: "/products/WKB0553/gallery_02.png",
         alt: "999 Silver DashaMaa",
       },
       {
-        url: "/products/WKB0553/gallery_03.webp",
+        url: "/products/WKB0553/gallery_03.png",
         alt: "999 Silver DashaMaa",
       },
       {
-        url: "/products/WKB0553/gallery_04.webp",
+        url: "/products/WKB0553/gallery_04.png",
         alt: "999 Silver DashaMaa",
       },
       {
-        url: "/products/WKB0553/gallery_05.webp",
+        url: "/products/WKB0553/gallery_05.png",
         alt: "999 Silver DashaMaa",
       },
     ],
@@ -38695,27 +38695,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SWAMINARAYAN ji 30gm WKB0571.webp",
+        url: "/products/SWAMINARAYAN ji 30gm WKB0571.png",
         alt: "999 Silver SWAMINARAYAN ji",
       },
       {
-        url: "/products/WKB0571/gallery_01.webp",
+        url: "/products/WKB0571/gallery_01.png",
         alt: "999 Silver SWAMINARAYAN ji",
       },
       {
-        url: "/products/WKB0571/gallery_02.webp",
+        url: "/products/WKB0571/gallery_02.png",
         alt: "999 Silver SWAMINARAYAN ji",
       },
       {
-        url: "/products/WKB0571/gallery_03.webp",
+        url: "/products/WKB0571/gallery_03.png",
         alt: "999 Silver SWAMINARAYAN ji",
       },
       {
-        url: "/products/WKB0571/gallery_04.webp",
+        url: "/products/WKB0571/gallery_04.png",
         alt: "999 Silver SWAMINARAYAN ji",
       },
       {
-        url: "/products/WKB0571/gallery_05.webp",
+        url: "/products/WKB0571/gallery_05.png",
         alt: "999 Silver SWAMINARAYAN ji",
       },
     ],
@@ -38750,27 +38750,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Mira Bai 330GM WKB0654.webp",
+        url: "/products/Mira Bai 330GM WKB0654.png",
         alt: "999 Silver Mira Bai",
       },
       {
-        url: "/products/WKB0654/gallery_01.webp",
+        url: "/products/WKB0654/gallery_01.png",
         alt: "999 Silver Mira Bai",
       },
       {
-        url: "/products/WKB0654/gallery_02.webp",
+        url: "/products/WKB0654/gallery_02.png",
         alt: "999 Silver Mira Bai",
       },
       {
-        url: "/products/WKB0654/gallery_03.webp",
+        url: "/products/WKB0654/gallery_03.png",
         alt: "999 Silver Mira Bai",
       },
       {
-        url: "/products/WKB0654/gallery_04.webp",
+        url: "/products/WKB0654/gallery_04.png",
         alt: "999 Silver Mira Bai",
       },
       {
-        url: "/products/WKB0654/gallery_05.webp",
+        url: "/products/WKB0654/gallery_05.png",
         alt: "999 Silver Mira Bai",
       },
     ],
@@ -38803,27 +38803,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Makkamadina 35GM WKB0786.webp",
+        url: "/products/Makkamadina 35GM WKB0786.png",
         alt: "999 Silver Makkamadina",
       },
       {
-        url: "/products/WKB0786/gallery_01.webp",
+        url: "/products/WKB0786/gallery_01.png",
         alt: "999 Silver Makkamadina",
       },
       {
-        url: "/products/WKB0786/gallery_02.webp",
+        url: "/products/WKB0786/gallery_02.png",
         alt: "999 Silver Makkamadina",
       },
       {
-        url: "/products/WKB0786/gallery_03.webp",
+        url: "/products/WKB0786/gallery_03.png",
         alt: "999 Silver Makkamadina",
       },
       {
-        url: "/products/WKB0786/gallery_04.webp",
+        url: "/products/WKB0786/gallery_04.png",
         alt: "999 Silver Makkamadina",
       },
       {
-        url: "/products/WKB0786/gallery_05.webp",
+        url: "/products/WKB0786/gallery_05.png",
         alt: "999 Silver Makkamadina",
       },
     ],
@@ -38856,27 +38856,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 130GM WKB0791.webp",
+        url: "/products/Cow 130GM WKB0791.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB0791/gallery_01.webp",
+        url: "/products/WKB0791/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB0791/gallery_02.webp",
+        url: "/products/WKB0791/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB0791/gallery_03.webp",
+        url: "/products/WKB0791/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB0791/gallery_04.webp",
+        url: "/products/WKB0791/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB0791/gallery_05.webp",
+        url: "/products/WKB0791/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -38911,27 +38911,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LADDU GOPAL 50GM WKB0834.webp",
+        url: "/products/LADDU GOPAL 50GM WKB0834.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB0834/gallery_01.webp",
+        url: "/products/WKB0834/gallery_01.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB0834/gallery_02.webp",
+        url: "/products/WKB0834/gallery_02.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB0834/gallery_03.webp",
+        url: "/products/WKB0834/gallery_03.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB0834/gallery_04.webp",
+        url: "/products/WKB0834/gallery_04.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB0834/gallery_05.webp",
+        url: "/products/WKB0834/gallery_05.png",
         alt: "999 Silver Laddu Gopal",
       },
     ],
@@ -38968,27 +38968,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH PAIR 40GM WKB0837.webp",
+        url: "/products/LAXMI GANESH PAIR 40GM WKB0837.png",
         alt: "999 Silver Laxmi Ganesh Pair",
       },
       {
-        url: "/products/WKB0837/gallery_01.webp",
+        url: "/products/WKB0837/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh Pair",
       },
       {
-        url: "/products/WKB0837/gallery_02.webp",
+        url: "/products/WKB0837/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh Pair",
       },
       {
-        url: "/products/WKB0837/gallery_03.webp",
+        url: "/products/WKB0837/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh Pair",
       },
       {
-        url: "/products/WKB0837/gallery_04.webp",
+        url: "/products/WKB0837/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh Pair",
       },
       {
-        url: "/products/WKB0837/gallery_05.webp",
+        url: "/products/WKB0837/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh Pair",
       },
     ],
@@ -39025,27 +39025,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/DEGADU GANESHJI 100GM WKB0845.webp",
+        url: "/products/DEGADU GANESHJI 100GM WKB0845.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/WKB0845/gallery_01.webp",
+        url: "/products/WKB0845/gallery_01.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/WKB0845/gallery_02.webp",
+        url: "/products/WKB0845/gallery_02.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/WKB0845/gallery_03.webp",
+        url: "/products/WKB0845/gallery_03.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/WKB0845/gallery_04.webp",
+        url: "/products/WKB0845/gallery_04.png",
         alt: "999 Silver Degadu Ganeshji",
       },
       {
-        url: "/products/WKB0845/gallery_05.webp",
+        url: "/products/WKB0845/gallery_05.png",
         alt: "999 Silver Degadu Ganeshji",
       },
     ],
@@ -39080,27 +39080,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 50GM WKB0990.webp",
+        url: "/products/Laxmi Ganesh 50GM WKB0990.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0990/gallery_01.webp",
+        url: "/products/WKB0990/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0990/gallery_02.webp",
+        url: "/products/WKB0990/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0990/gallery_03.webp",
+        url: "/products/WKB0990/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0990/gallery_04.webp",
+        url: "/products/WKB0990/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB0990/gallery_05.webp",
+        url: "/products/WKB0990/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -39133,27 +39133,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 25GM WKB0990A.webp",
+        url: "/products/Laxmi 25GM WKB0990A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0990A/gallery_01.webp",
+        url: "/products/WKB0990A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0990A/gallery_02.webp",
+        url: "/products/WKB0990A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0990A/gallery_03.webp",
+        url: "/products/WKB0990A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0990A/gallery_04.webp",
+        url: "/products/WKB0990A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WKB0990A/gallery_05.webp",
+        url: "/products/WKB0990A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -39186,27 +39186,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 30GM WKB0990B.webp",
+        url: "/products/Ganesh Ji 30GM WKB0990B.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0990B/gallery_01.webp",
+        url: "/products/WKB0990B/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0990B/gallery_02.webp",
+        url: "/products/WKB0990B/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0990B/gallery_03.webp",
+        url: "/products/WKB0990B/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0990B/gallery_04.webp",
+        url: "/products/WKB0990B/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WKB0990B/gallery_05.webp",
+        url: "/products/WKB0990B/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -39239,27 +39239,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 470GM WKB1613.webp",
+        url: "/products/Cow 470GM WKB1613.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1613/gallery_01.webp",
+        url: "/products/WKB1613/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1613/gallery_02.webp",
+        url: "/products/WKB1613/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1613/gallery_03.webp",
+        url: "/products/WKB1613/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1613/gallery_04.webp",
+        url: "/products/WKB1613/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1613/gallery_05.webp",
+        url: "/products/WKB1613/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -39292,27 +39292,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Cow 180GM WKB1615.webp",
+        url: "/products/Cow 180GM WKB1615.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1615/gallery_01.webp",
+        url: "/products/WKB1615/gallery_01.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1615/gallery_02.webp",
+        url: "/products/WKB1615/gallery_02.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1615/gallery_03.webp",
+        url: "/products/WKB1615/gallery_03.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1615/gallery_04.webp",
+        url: "/products/WKB1615/gallery_04.png",
         alt: "999 Silver Cow",
       },
       {
-        url: "/products/WKB1615/gallery_05.webp",
+        url: "/products/WKB1615/gallery_05.png",
         alt: "999 Silver Cow",
       },
     ],
@@ -39347,27 +39347,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GURU DATATREY 75GM WKB1619.webp",
+        url: "/products/GURU DATATREY 75GM WKB1619.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/WKB1619/gallery_01.webp",
+        url: "/products/WKB1619/gallery_01.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/WKB1619/gallery_02.webp",
+        url: "/products/WKB1619/gallery_02.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/WKB1619/gallery_03.webp",
+        url: "/products/WKB1619/gallery_03.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/WKB1619/gallery_04.webp",
+        url: "/products/WKB1619/gallery_04.png",
         alt: "999 Silver Guru Datatrey",
       },
       {
-        url: "/products/WKB1619/gallery_05.webp",
+        url: "/products/WKB1619/gallery_05.png",
         alt: "999 Silver Guru Datatrey",
       },
     ],
@@ -39404,27 +39404,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/KUBERJI 70GM WKB1627.webp",
+        url: "/products/KUBERJI 70GM WKB1627.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/WKB1627/gallery_01.webp",
+        url: "/products/WKB1627/gallery_01.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/WKB1627/gallery_02.webp",
+        url: "/products/WKB1627/gallery_02.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/WKB1627/gallery_03.webp",
+        url: "/products/WKB1627/gallery_03.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/WKB1627/gallery_04.webp",
+        url: "/products/WKB1627/gallery_04.png",
         alt: "999 Silver Kuberji",
       },
       {
-        url: "/products/WKB1627/gallery_05.webp",
+        url: "/products/WKB1627/gallery_05.png",
         alt: "999 Silver Kuberji",
       },
     ],
@@ -39459,27 +39459,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Kuber Ji 35GM WKB1627A.webp",
+        url: "/products/Kuber Ji 35GM WKB1627A.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/WKB1627A/gallery_01.webp",
+        url: "/products/WKB1627A/gallery_01.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/WKB1627A/gallery_02.webp",
+        url: "/products/WKB1627A/gallery_02.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/WKB1627A/gallery_03.webp",
+        url: "/products/WKB1627A/gallery_03.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/WKB1627A/gallery_04.webp",
+        url: "/products/WKB1627A/gallery_04.png",
         alt: "999 Silver Kuber Ji",
       },
       {
-        url: "/products/WKB1627A/gallery_05.webp",
+        url: "/products/WKB1627A/gallery_05.png",
         alt: "999 Silver Kuber Ji",
       },
     ],
@@ -39512,27 +39512,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laddu Gopal 70GM WKB1630.webp",
+        url: "/products/Laddu Gopal 70GM WKB1630.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB1630/gallery_01.webp",
+        url: "/products/WKB1630/gallery_01.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB1630/gallery_02.webp",
+        url: "/products/WKB1630/gallery_02.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB1630/gallery_03.webp",
+        url: "/products/WKB1630/gallery_03.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB1630/gallery_04.webp",
+        url: "/products/WKB1630/gallery_04.png",
         alt: "999 Silver Laddu Gopal",
       },
       {
-        url: "/products/WKB1630/gallery_05.webp",
+        url: "/products/WKB1630/gallery_05.png",
         alt: "999 Silver Laddu Gopal",
       },
     ],
@@ -39565,27 +39565,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Panchmukhi Hanuman 30GM WKB1633.webp",
+        url: "/products/Panchmukhi Hanuman 30GM WKB1633.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKB1633/gallery_01.webp",
+        url: "/products/WKB1633/gallery_01.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKB1633/gallery_02.webp",
+        url: "/products/WKB1633/gallery_02.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKB1633/gallery_03.webp",
+        url: "/products/WKB1633/gallery_03.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKB1633/gallery_04.webp",
+        url: "/products/WKB1633/gallery_04.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
       {
-        url: "/products/WKB1633/gallery_05.webp",
+        url: "/products/WKB1633/gallery_05.png",
         alt: "999 Silver Panchmukhi Hanuman",
       },
     ],
@@ -39620,27 +39620,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/HANUMAN FLYING WITH ROCK 45GM WKB1635.webp",
+        url: "/products/HANUMAN FLYING WITH ROCK 45GM WKB1635.png",
         alt: "999 Silver Hanuman Flying With Rock",
       },
       {
-        url: "/products/WKB1635/gallery_01.webp",
+        url: "/products/WKB1635/gallery_01.png",
         alt: "999 Silver Hanuman Flying With Rock",
       },
       {
-        url: "/products/WKB1635/gallery_02.webp",
+        url: "/products/WKB1635/gallery_02.png",
         alt: "999 Silver Hanuman Flying With Rock",
       },
       {
-        url: "/products/WKB1635/gallery_03.webp",
+        url: "/products/WKB1635/gallery_03.png",
         alt: "999 Silver Hanuman Flying With Rock",
       },
       {
-        url: "/products/WKB1635/gallery_04.webp",
+        url: "/products/WKB1635/gallery_04.png",
         alt: "999 Silver Hanuman Flying With Rock",
       },
       {
-        url: "/products/WKB1635/gallery_05.webp",
+        url: "/products/WKB1635/gallery_05.png",
         alt: "999 Silver Hanuman Flying With Rock",
       },
     ],
@@ -39675,27 +39675,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Leafing Budha 70GM WKB1662CA.webp",
+        url: "/products/Leafing Budha 70GM WKB1662CA.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKB1662CA/gallery_01.webp",
+        url: "/products/WKB1662CA/gallery_01.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKB1662CA/gallery_02.webp",
+        url: "/products/WKB1662CA/gallery_02.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKB1662CA/gallery_03.webp",
+        url: "/products/WKB1662CA/gallery_03.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKB1662CA/gallery_04.webp",
+        url: "/products/WKB1662CA/gallery_04.png",
         alt: "999 Silver Leafing Budha",
       },
       {
-        url: "/products/WKB1662CA/gallery_05.webp",
+        url: "/products/WKB1662CA/gallery_05.png",
         alt: "999 Silver Leafing Budha",
       },
     ],
@@ -39728,27 +39728,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/SHIV FAMILY 95GM WKB1663.webp",
+        url: "/products/SHIV FAMILY 95GM WKB1663.png",
         alt: "999 Silver Shiv Family",
       },
       {
-        url: "/products/WKB1663/gallery_01.webp",
+        url: "/products/WKB1663/gallery_01.png",
         alt: "999 Silver Shiv Family",
       },
       {
-        url: "/products/WKB1663/gallery_02.webp",
+        url: "/products/WKB1663/gallery_02.png",
         alt: "999 Silver Shiv Family",
       },
       {
-        url: "/products/WKB1663/gallery_03.webp",
+        url: "/products/WKB1663/gallery_03.png",
         alt: "999 Silver Shiv Family",
       },
       {
-        url: "/products/WKB1663/gallery_04.webp",
+        url: "/products/WKB1663/gallery_04.png",
         alt: "999 Silver Shiv Family",
       },
       {
-        url: "/products/WKB1663/gallery_05.webp",
+        url: "/products/WKB1663/gallery_05.png",
         alt: "999 Silver Shiv Family",
       },
     ],
@@ -39784,27 +39784,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMI GANESH 65GM WKB1665.webp",
+        url: "/products/LAXMI GANESH 65GM WKB1665.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB1665/gallery_01.webp",
+        url: "/products/WKB1665/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB1665/gallery_02.webp",
+        url: "/products/WKB1665/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB1665/gallery_03.webp",
+        url: "/products/WKB1665/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB1665/gallery_04.webp",
+        url: "/products/WKB1665/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WKB1665/gallery_05.webp",
+        url: "/products/WKB1665/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -39840,27 +39840,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/LAXMIJI 32GM WKB1665A.webp",
+        url: "/products/LAXMIJI 32GM WKB1665A.png",
         alt: "999 Silver Laxmiji",
       },
       {
-        url: "/products/WKB1665A/gallery_01.webp",
+        url: "/products/WKB1665A/gallery_01.png",
         alt: "999 Silver Laxmiji",
       },
       {
-        url: "/products/WKB1665A/gallery_02.webp",
+        url: "/products/WKB1665A/gallery_02.png",
         alt: "999 Silver Laxmiji",
       },
       {
-        url: "/products/WKB1665A/gallery_03.webp",
+        url: "/products/WKB1665A/gallery_03.png",
         alt: "999 Silver Laxmiji",
       },
       {
-        url: "/products/WKB1665A/gallery_04.webp",
+        url: "/products/WKB1665A/gallery_04.png",
         alt: "999 Silver Laxmiji",
       },
       {
-        url: "/products/WKB1665A/gallery_05.webp",
+        url: "/products/WKB1665A/gallery_05.png",
         alt: "999 Silver Laxmiji",
       },
     ],
@@ -39897,27 +39897,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/GANESH 32GM WKB1665B.webp",
+        url: "/products/GANESH 32GM WKB1665B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB1665B/gallery_01.webp",
+        url: "/products/WKB1665B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB1665B/gallery_02.webp",
+        url: "/products/WKB1665B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB1665B/gallery_03.webp",
+        url: "/products/WKB1665B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB1665B/gallery_04.webp",
+        url: "/products/WKB1665B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WKB1665B/gallery_05.webp",
+        url: "/products/WKB1665B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],
@@ -39952,27 +39952,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/RAM LALA 140GM WKB1676.webp",
+        url: "/products/RAM LALA 140GM WKB1676.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/WKB1676/gallery_01.webp",
+        url: "/products/WKB1676/gallery_01.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/WKB1676/gallery_02.webp",
+        url: "/products/WKB1676/gallery_02.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/WKB1676/gallery_03.webp",
+        url: "/products/WKB1676/gallery_03.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/WKB1676/gallery_04.webp",
+        url: "/products/WKB1676/gallery_04.png",
         alt: "999 Silver Ram Lala",
       },
       {
-        url: "/products/WKB1676/gallery_05.webp",
+        url: "/products/WKB1676/gallery_05.png",
         alt: "999 Silver Ram Lala",
       },
     ],
@@ -40007,27 +40007,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/MELDI MAA 50GM WKB1679.webp",
+        url: "/products/MELDI MAA 50GM WKB1679.png",
         alt: "999 Silver Meldi Maa",
       },
       {
-        url: "/products/WKB1679/gallery_01.webp",
+        url: "/products/WKB1679/gallery_01.png",
         alt: "999 Silver Meldi Maa",
       },
       {
-        url: "/products/WKB1679/gallery_02.webp",
+        url: "/products/WKB1679/gallery_02.png",
         alt: "999 Silver Meldi Maa",
       },
       {
-        url: "/products/WKB1679/gallery_03.webp",
+        url: "/products/WKB1679/gallery_03.png",
         alt: "999 Silver Meldi Maa",
       },
       {
-        url: "/products/WKB1679/gallery_04.webp",
+        url: "/products/WKB1679/gallery_04.png",
         alt: "999 Silver Meldi Maa",
       },
       {
-        url: "/products/WKB1679/gallery_05.webp",
+        url: "/products/WKB1679/gallery_05.png",
         alt: "999 Silver Meldi Maa",
       },
     ],
@@ -40062,27 +40062,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 25GM WS005.webp",
+        url: "/products/Laxmi Ganesh 25GM WS005.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS005/gallery_01.webp",
+        url: "/products/WS005/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS005/gallery_02.webp",
+        url: "/products/WS005/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS005/gallery_03.webp",
+        url: "/products/WS005/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS005/gallery_04.webp",
+        url: "/products/WS005/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS005/gallery_05.webp",
+        url: "/products/WS005/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -40115,27 +40115,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 12GM WS005A.webp",
+        url: "/products/Laxmi 12GM WS005A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS005A/gallery_01.webp",
+        url: "/products/WS005A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS005A/gallery_02.webp",
+        url: "/products/WS005A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS005A/gallery_03.webp",
+        url: "/products/WS005A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS005A/gallery_04.webp",
+        url: "/products/WS005A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS005A/gallery_05.webp",
+        url: "/products/WS005A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -40168,27 +40168,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh Ji 12GM WS006.webp",
+        url: "/products/Ganesh Ji 12GM WS006.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WS006/gallery_01.webp",
+        url: "/products/WS006/gallery_01.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WS006/gallery_02.webp",
+        url: "/products/WS006/gallery_02.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WS006/gallery_03.webp",
+        url: "/products/WS006/gallery_03.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WS006/gallery_04.webp",
+        url: "/products/WS006/gallery_04.png",
         alt: "999 Silver Ganesh Ji",
       },
       {
-        url: "/products/WS006/gallery_05.webp",
+        url: "/products/WS006/gallery_05.png",
         alt: "999 Silver Ganesh Ji",
       },
     ],
@@ -40223,27 +40223,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Matki Bal Gopal 20GM WS011.webp",
+        url: "/products/Matki Bal Gopal 20GM WS011.png",
         alt: "999 Silver Matki Bal Gopal",
       },
       {
-        url: "/products/WS011/gallery_01.webp",
+        url: "/products/WS011/gallery_01.png",
         alt: "999 Silver Matki Bal Gopal",
       },
       {
-        url: "/products/WS011/gallery_02.webp",
+        url: "/products/WS011/gallery_02.png",
         alt: "999 Silver Matki Bal Gopal",
       },
       {
-        url: "/products/WS011/gallery_03.webp",
+        url: "/products/WS011/gallery_03.png",
         alt: "999 Silver Matki Bal Gopal",
       },
       {
-        url: "/products/WS011/gallery_04.webp",
+        url: "/products/WS011/gallery_04.png",
         alt: "999 Silver Matki Bal Gopal",
       },
       {
-        url: "/products/WS011/gallery_05.webp",
+        url: "/products/WS011/gallery_05.png",
         alt: "999 Silver Matki Bal Gopal",
       },
     ],
@@ -40278,27 +40278,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganesh 40GM WS025.webp",
+        url: "/products/Laxmi Ganesh 40GM WS025.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS025/gallery_01.webp",
+        url: "/products/WS025/gallery_01.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS025/gallery_02.webp",
+        url: "/products/WS025/gallery_02.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS025/gallery_03.webp",
+        url: "/products/WS025/gallery_03.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS025/gallery_04.webp",
+        url: "/products/WS025/gallery_04.png",
         alt: "999 Silver Laxmi Ganesh",
       },
       {
-        url: "/products/WS025/gallery_05.webp",
+        url: "/products/WS025/gallery_05.png",
         alt: "999 Silver Laxmi Ganesh",
       },
     ],
@@ -40331,27 +40331,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 25GM WS025A.webp",
+        url: "/products/Laxmi 25GM WS025A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS025A/gallery_01.webp",
+        url: "/products/WS025A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS025A/gallery_02.webp",
+        url: "/products/WS025A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS025A/gallery_03.webp",
+        url: "/products/WS025A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS025A/gallery_04.webp",
+        url: "/products/WS025A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS025A/gallery_05.webp",
+        url: "/products/WS025A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -40384,27 +40384,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganpati 20GM WS025B.webp",
+        url: "/products/Ganpati 20GM WS025B.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/WS025B/gallery_01.webp",
+        url: "/products/WS025B/gallery_01.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/WS025B/gallery_02.webp",
+        url: "/products/WS025B/gallery_02.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/WS025B/gallery_03.webp",
+        url: "/products/WS025B/gallery_03.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/WS025B/gallery_04.webp",
+        url: "/products/WS025B/gallery_04.png",
         alt: "999 Silver Ganpati",
       },
       {
-        url: "/products/WS025B/gallery_05.webp",
+        url: "/products/WS025B/gallery_05.png",
         alt: "999 Silver Ganpati",
       },
     ],
@@ -40439,27 +40439,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Baby Laddu Gopal 15GM WS036.webp",
+        url: "/products/Baby Laddu Gopal 15GM WS036.png",
         alt: "999 Silver Baby Laddu Gopal",
       },
       {
-        url: "/products/WS036/gallery_01.webp",
+        url: "/products/WS036/gallery_01.png",
         alt: "999 Silver Baby Laddu Gopal",
       },
       {
-        url: "/products/WS036/gallery_02.webp",
+        url: "/products/WS036/gallery_02.png",
         alt: "999 Silver Baby Laddu Gopal",
       },
       {
-        url: "/products/WS036/gallery_03.webp",
+        url: "/products/WS036/gallery_03.png",
         alt: "999 Silver Baby Laddu Gopal",
       },
       {
-        url: "/products/WS036/gallery_04.webp",
+        url: "/products/WS036/gallery_04.png",
         alt: "999 Silver Baby Laddu Gopal",
       },
       {
-        url: "/products/WS036/gallery_05.webp",
+        url: "/products/WS036/gallery_05.png",
         alt: "999 Silver Baby Laddu Gopal",
       },
     ],
@@ -40494,27 +40494,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi Ganeshji 25GM WS040.webp",
+        url: "/products/Laxmi Ganeshji 25GM WS040.png",
         alt: "999 Silver Laxmi Ganeshji",
       },
       {
-        url: "/products/WS040/gallery_01.webp",
+        url: "/products/WS040/gallery_01.png",
         alt: "999 Silver Laxmi Ganeshji",
       },
       {
-        url: "/products/WS040/gallery_02.webp",
+        url: "/products/WS040/gallery_02.png",
         alt: "999 Silver Laxmi Ganeshji",
       },
       {
-        url: "/products/WS040/gallery_03.webp",
+        url: "/products/WS040/gallery_03.png",
         alt: "999 Silver Laxmi Ganeshji",
       },
       {
-        url: "/products/WS040/gallery_04.webp",
+        url: "/products/WS040/gallery_04.png",
         alt: "999 Silver Laxmi Ganeshji",
       },
       {
-        url: "/products/WS040/gallery_05.webp",
+        url: "/products/WS040/gallery_05.png",
         alt: "999 Silver Laxmi Ganeshji",
       },
     ],
@@ -40547,27 +40547,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Laxmi 10GM WS040A.webp",
+        url: "/products/Laxmi 10GM WS040A.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS040A/gallery_01.webp",
+        url: "/products/WS040A/gallery_01.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS040A/gallery_02.webp",
+        url: "/products/WS040A/gallery_02.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS040A/gallery_03.webp",
+        url: "/products/WS040A/gallery_03.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS040A/gallery_04.webp",
+        url: "/products/WS040A/gallery_04.png",
         alt: "999 Silver Laxmi",
       },
       {
-        url: "/products/WS040A/gallery_05.webp",
+        url: "/products/WS040A/gallery_05.png",
         alt: "999 Silver Laxmi",
       },
     ],
@@ -40600,27 +40600,27 @@ export const products: Product[] = [
     ],
     images: [
       {
-        url: "/products/Ganesh 12GM WS040B.webp",
+        url: "/products/Ganesh 12GM WS040B.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WS040B/gallery_01.webp",
+        url: "/products/WS040B/gallery_01.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WS040B/gallery_02.webp",
+        url: "/products/WS040B/gallery_02.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WS040B/gallery_03.webp",
+        url: "/products/WS040B/gallery_03.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WS040B/gallery_04.webp",
+        url: "/products/WS040B/gallery_04.png",
         alt: "999 Silver Ganesh",
       },
       {
-        url: "/products/WS040B/gallery_05.webp",
+        url: "/products/WS040B/gallery_05.png",
         alt: "999 Silver Ganesh",
       },
     ],

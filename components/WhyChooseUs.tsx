@@ -30,7 +30,7 @@ export default function WhyChooseUs() {
             </div>
             
             <h3 className="mt-6 font-serif text-2xl font-bold text-[#24050D]">
-              1100+ Retail Showrooms
+              2100+ Retail Showrooms
             </h3>
             
             <p className="mt-3 text-sm font-light leading-relaxed text-[#6B5B52]">

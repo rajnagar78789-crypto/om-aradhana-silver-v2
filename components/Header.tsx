@@ -53,7 +53,7 @@ export default function Header() {
               Om Aradhana Silver
             </span>
             <span className="block text-[10px] font-semibold uppercase tracking-[0.25em] text-[#C9A227]">
-              Trusted by 1100+ Showrooms
+              Trusted by 2100+ Showrooms
             </span>
           </div>
         </Link>

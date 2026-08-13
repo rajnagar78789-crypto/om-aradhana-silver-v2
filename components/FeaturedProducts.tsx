@@ -36,7 +36,7 @@ export default function FeaturedProducts() {
   Explore our most loved silver designs, handcrafted with premium quality and
   trusted by
   <span className="font-semibold text-[#5A1020]">
-    {" "}1100+ retail jewellery showrooms
+    {" "}2100+ retail jewellery showrooms
   </span>
   across India.
 </p>

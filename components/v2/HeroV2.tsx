@@ -28,7 +28,7 @@ export default function HeroV2() {
           <div className="inline-flex items-center gap-2.5 mb-6 px-4 py-1.5 rounded-full bg-[#C9A227]/10 border border-[#C9A227]/30 backdrop-blur-md">
             <span className="text-[#E6CA65] text-xs animate-pulse">✦</span>
             <span className="text-[10px] sm:text-[11px] font-semibold uppercase tracking-[0.2em] text-[#E6CA65]">
-              TRUSTED BY 1100+ SHOWROOMS ACROSS INDIA
+              Thousands of Shop Owners Trust Us
             </span>
           </div>
 

@@ -22,7 +22,7 @@ export default function Footer() {
             
             <div className="mt-8 inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-4 py-2 text-xs font-bold uppercase tracking-[0.15em] text-[#E6CA65] backdrop-blur-md shadow-[0_0_15px_rgba(201,162,39,0.1)]">
               <span className="h-1.5 w-1.5 rounded-full bg-[#C9A227] animate-pulse" />
-              Trusted by 1100+ Retail Showrooms
+              Trusted by 2100+ Retail Showrooms
             </div>
           </div>
 

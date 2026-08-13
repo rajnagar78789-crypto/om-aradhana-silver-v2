@@ -25,7 +25,7 @@ export default function ContactCTA() {
 
             {/* Subtitle */}
             <p className="mx-auto mt-6 max-w-xl text-sm sm:text-base font-light leading-relaxed text-[#D2C5B0]">
-              Join 1100+ retail showrooms across India. Request our wholesale digital catalogue on WhatsApp.
+              Join 2100+ retail showrooms across India. Request our wholesale digital catalogue on WhatsApp.
             </p>
 
             {/* Action Buttons */}

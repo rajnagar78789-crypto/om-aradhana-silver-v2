@@ -1,16 +1,47 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { Search, Sparkles, X } from "lucide-react"; // 🔥 Naye premium icons
-
-import { products } from "@/data/products";
+import { Search, Sparkles, X } from "lucide-react"; 
+import { client } from "@/sanity/lib/client"; 
 
 export default function SearchPage() {
   const [query, setQuery] = useState("");
+  const [products, setProducts] = useState<any[]>([]);
 
-  // 👉 TERA ORIGINAL LOGIC (Untouched)
+  useEffect(() => {
+    async function fetchProducts() {
+      try {
+        // 🔥 Brahmastra Query: Har possible image field ka naam check karega
+        const sanityQuery = `*[_type == "product"] {
+          _id,  
+          name,
+          sku,
+          material,
+          finish,
+          shortDescription,
+          description,
+          tags,
+          status,
+          "slug": slug.current,
+          "singleImage": image.asset->url,        
+          "mainImage": mainImage.asset->url,      
+          "imagesArray": images[]{                
+            "url": asset->url,
+            "alt": asset->altText
+          }
+        }`;
+        
+        const data = await client.fetch(sanityQuery);
+        setProducts(data);
+      } catch (error) {
+        console.error("Error fetching Sanity products:", error);
+      }
+    }
+    fetchProducts();
+  }, []);
+
   const searchTerm = query.trim().toLowerCase();
 
   const results = useMemo(() => {
@@ -19,30 +50,29 @@ export default function SearchPage() {
     }
 
     return products.filter((product) => {
-      if (product.status !== "Active") {
+      if (product.status && product.status !== "Active") {
         return false;
       }
 
       const searchableText = [
-        product.name,
-        product.sku,
-        product.material,
-        product.finish,
-        product.shortDescription,
-        product.description,
-        ...product.tags,
+        product.name || "",
+        product.sku || "",
+        product.material || "",
+        product.finish || "",
+        product.shortDescription || "",
+        product.description || "",
+        ...(product.tags || []),
       ]
         .join(" ")
         .toLowerCase();
 
       return searchableText.includes(searchTerm);
     });
-  }, [searchTerm]);
+  }, [searchTerm, products]);
 
   return (
     <main className="min-h-screen bg-[#FAF7F2] relative overflow-hidden">
       
-      {/* 🌟 Background Subtle Glow */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-[#C9A227]/5 blur-[100px] rounded-full pointer-events-none" />
 
       <section className="relative z-10 mx-auto w-full max-w-7xl px-4 py-12 sm:px-8 sm:py-20 lg:px-10 lg:py-24">
@@ -101,7 +131,7 @@ export default function SearchPage() {
               {['LG001', 'Laxmi Ganesh', '999 Silver', 'Antique Choker', 'Sterling Bangles', 'Fusion'].map((tag) => (
                 <button 
                   key={tag}
-                  onClick={() => setQuery(tag)} // 🔥 Ispe click karte hi auto-search ho jayega!
+                  onClick={() => setQuery(tag)}
                   className="px-5 py-2.5 bg-white border border-[#E6DEC9] rounded-full text-xs sm:text-sm font-medium text-[#5A1020] cursor-pointer hover:border-[#C9A227] hover:bg-[#C9A227]/5 hover:-translate-y-0.5 transition-all duration-300 shadow-sm"
                 >
                   {tag}
@@ -131,43 +161,58 @@ export default function SearchPage() {
         {/* 🛍️ PRODUCT RESULTS GRID */}
         {searchTerm && results.length > 0 && (
           <div className="mx-auto max-w-7xl grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4 animate-in slide-in-from-bottom-4 duration-500">
-            {results.map((product) => {
-              const image = product.images[0];
+            
+            {results.map((product, index) => {
+              // 🔥 Yahan hum check kar rahe hain Sanity ne image kis naam se bheji hai
+              const imgUrl = 
+                product.singleImage || 
+                product.mainImage || 
+                (product.imagesArray && product.imagesArray.length > 0 ? product.imagesArray[0].url : null);
 
               return (
                 <Link
-                  key={product.sku}
-                  href={`/products/${product.slug}`}
+                  key={product._id || index}
+                  href={product.slug ? `/products/${product.slug}` : "#"}
                   className="group overflow-hidden rounded-3xl border border-[#E6DEC9] bg-white transition-all duration-500 hover:-translate-y-1 hover:border-[#C9A227]/50 hover:shadow-[0_20px_40px_rgba(36,5,13,0.08)]"
                 >
                   {/* Image Container */}
                   <div className="relative aspect-square overflow-hidden bg-[#FAF7F2]">
-                    {image && (
+                    {imgUrl ? (
                       <Image
-                        src={image.url}
-                        alt={image.alt || product.name}
+                        src={imgUrl}
+                        alt={product.name || "Om Aradhana Silver Product"}
                         fill
                         sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
                         className="object-cover transition-transform duration-700 group-hover:scale-110"
                       />
+                    ) : (
+                      // Agar tab bhi image na mile toh ek placeholder dikha dega taaki blank na lage
+                      <div className="w-full h-full flex items-center justify-center bg-[#E6DEC9]/30 text-[#8C6D18] text-xs font-bold uppercase tracking-widest">
+                        No Image
+                      </div>
                     )}
+                    
                     {/* Material Tag */}
-                    <span className="absolute left-3 top-3 rounded-full bg-white/90 backdrop-blur-md border border-[#E6DEC9]/50 px-3 py-1.5 text-[9px] font-bold uppercase tracking-wider text-[#5A1020] shadow-sm">
-                      {product.material}
-                    </span>
+                    {product.material && (
+                      <span className="absolute left-3 top-3 rounded-full bg-white/90 backdrop-blur-md border border-[#E6DEC9]/50 px-3 py-1.5 text-[9px] font-bold uppercase tracking-wider text-[#5A1020] shadow-sm">
+                        {product.material}
+                      </span>
+                    )}
                     <div className="absolute inset-0 bg-[#3D0A15]/0 group-hover:bg-[#3D0A15]/10 transition-all duration-500" />
                   </div>
 
                   {/* Info Container */}
                   <div className="p-4 sm:p-5">
-                    <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#C9A227]">
-                      {product.sku}
-                    </span>
+                    {product.sku && (
+                      <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#C9A227]">
+                        {product.sku}
+                      </span>
+                    )}
                     <h3 className="mt-1.5 line-clamp-2 font-serif text-base sm:text-lg font-medium leading-snug text-[#24050D] group-hover:text-[#5A1020] transition-colors">
                       {product.name}
                     </h3>
                     <p className="mt-2 line-clamp-2 text-xs font-light leading-relaxed text-[#6B5B52]">
-                      {product.shortDescription}
+                      {product.shortDescription || product.description}
                     </p>
                     
                     {/* View Product CTA */}

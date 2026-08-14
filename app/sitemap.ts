@@ -5,9 +5,10 @@ import { subCollections } from "@/data/subCollections";
 import { products } from "@/data/products";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  // ✅ Yahan humne apna asli VIP domain fix kar diya hai!
   const baseUrl =
     process.env.NEXT_PUBLIC_SITE_URL ||
-    "https://om-aradhana-silver-v2.vercel.app";
+    "https://omaradhanasilver.in";
 
   const now = new Date();
 

@@ -89,10 +89,18 @@ export default function Footer() {
 
         {/* Bottom Copyright Bar */}
         <div className="mt-16 flex flex-col items-center justify-center border-t border-[#C9A227]/20 pt-8 sm:flex-row sm:justify-between text-center">
-          <p className="text-xs font-light tracking-wide text-[#D2C5B0]">
-            © 2026 Om Aradhana Silver • All Rights Reserved.
-          </p>
-          <div className="mt-4 flex gap-4 sm:mt-0">
+          
+          <div className="flex flex-col items-center sm:items-start gap-1.5">
+            <p className="text-xs font-light tracking-wide text-[#D2C5B0]">
+              © {new Date().getFullYear()} Om Aradhana Silver • All Rights Reserved.
+            </p>
+            {/* TERA VIP SIGNATURE YAHAN HAI */}
+            <p className="text-[11px] font-light tracking-wider text-[#D2C5B0]/70">
+              Created with <span className="text-[#C9A227]">💎</span> by <span className="font-medium text-[#E6CA65] hover:text-[#F8F5F0] transition-colors">Raj Nagar</span>
+            </p>
+          </div>
+
+          <div className="mt-5 flex items-center gap-4 sm:mt-0">
             <Link href="#" className="text-xs font-light text-[#D2C5B0] transition-colors hover:text-[#E6CA65]">
               Privacy Policy
             </Link>

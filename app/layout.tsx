@@ -6,9 +6,13 @@ import Header from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
+  metadataBase: new URL('https://omaradhanasilver.in'),
   title: 'Om Aradhana Silver | Premium Antique Silver & Authentic Jewelry',
   description: 'Buy premium antique silver jewelry, authentic silver articles, and exclusive designs at Om Aradhana Silver. 100% pure quality and best craftsmanship.',
   keywords: 'Om Aradhana Silver, Antique Silver, Silver Jewelry, Pure Silver Articles, Silver Shop online, Premium Silverware',
+  openGraph: {
+    images: '/opengraph-image.jpg',
+  },
 }
 export default function RootLayout({
   children,

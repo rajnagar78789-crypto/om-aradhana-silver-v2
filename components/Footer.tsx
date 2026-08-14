@@ -56,7 +56,6 @@ export default function Footer() {
             
             <ul className="mt-6 space-y-4 text-sm font-light text-[#D2C5B0]">
               <li className="flex items-center gap-3">
-                {/* Location Icon */}
                 <svg className="h-5 w-5 text-[#C9A227]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -65,7 +64,6 @@ export default function Footer() {
               </li>
               
               <li className="flex items-center gap-3">
-                {/* Phone Icon */}
                 <svg className="h-5 w-5 text-[#C9A227]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                 </svg>
@@ -94,9 +92,9 @@ export default function Footer() {
             <p className="text-xs font-light tracking-wide text-[#D2C5B0]">
               © {new Date().getFullYear()} Om Aradhana Silver • All Rights Reserved.
             </p>
-            {/* TERA VIP SIGNATURE YAHAN HAI */}
-            <p className="text-[11px] font-light tracking-wider text-[#D2C5B0]/70">
-              Created with <span className="text-[#C9A227]">💎</span> by <span className="font-medium text-[#E6CA65] hover:text-[#F8F5F0] transition-colors">Raj Nagar</span>
+            {/* 🚨 YAHAN THEEK KIYA HAI - Ekdum Clean */}
+            <p className="text-[12px] font-light tracking-wider text-[#D2C5B0]/70 mt-1">
+              Created by <span className="font-medium text-[#E6CA65] hover:text-[#F8F5F0] transition-colors">Raj Nagar</span>
             </p>
           </div>
 

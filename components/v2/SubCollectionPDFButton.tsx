@@ -9,7 +9,6 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
     setIsLoading(true);
 
     try {
-      // jsPDF ko dynamically import karte hain
       const { jsPDF } = await import("jspdf");
       const pdf = new jsPDF({
         orientation: "portrait",
@@ -17,14 +16,13 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
         format: "a4",
       });
 
-      const pageWidth = 210; // A4 width in mm
-      const pageHeight = 297; // A4 height in mm
+      const pageWidth = 210; 
+      const pageHeight = 297; 
       const margin = 12;
       const usableWidth = pageWidth - (margin * 2);
 
       let currentY = margin;
 
-      // Helper function to load image as base64 so jsPDF can render it without CORS issues
       const getBase64ImageFromUrl = async (imageUrl: string): Promise<string> => {
         try {
           const res = await fetch(imageUrl, { mode: 'cors' });
@@ -40,39 +38,39 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
         }
       };
 
-      // Header draw karne ka function
       const drawHeader = () => {
         pdf.setFont("times", "bold");
-        pdf.setFontSize(20);
-        pdf.setTextColor(36, 5, 13); // #24050D
+        pdf.setFontSize(22);
+        // 🔥 Naya VIP Dark Color (Blackish/Dark Grey)
+        pdf.setTextColor(21, 13, 17); 
         pdf.text("OM ARADHANA SILVER", pageWidth / 2, currentY, { align: "center" });
 
-        currentY += 6;
+        currentY += 8;
         pdf.setFont("times", "bold");
-        pdf.setFontSize(9);
-        pdf.setTextColor(201, 162, 39); // #C9A227
-        pdf.text(`PREMIUM COLLECTION : ${title.toUpperCase()}`, pageWidth / 2, currentY, { align: "center" });
+        pdf.setFontSize(10);
+        // 🔥 Naya VIP Gold Color (#d4af37 -> 212, 175, 55)
+        pdf.setTextColor(212, 175, 55); 
+        pdf.text(`PREMIUM MASTERPIECES : ${title.toUpperCase()}`, pageWidth / 2, currentY, { align: "center" });
 
-        currentY += 4;
-        pdf.setDrawColor(201, 162, 39);
+        currentY += 5;
+        pdf.setDrawColor(212, 175, 55);
         pdf.setLineWidth(0.5);
         pdf.line(margin, currentY, pageWidth - margin, currentY);
-        currentY += 8;
+        currentY += 10;
       };
 
-      // Footer draw karne ka function
       const drawFooter = () => {
-        pdf.setDrawColor(230, 222, 201);
+        pdf.setDrawColor(212, 175, 55);
         pdf.setLineWidth(0.3);
         pdf.line(margin, pageHeight - 15, pageWidth - margin, pageHeight - 15);
 
-        pdf.setFont("times", "normal");
-        pdf.setFontSize(8);
-        pdf.setTextColor(122, 107, 88);
+        pdf.setFont("times", "italic");
+        pdf.setFontSize(9);
+        pdf.setTextColor(100, 100, 100);
         pdf.text(
-          "Om Aradhana Silver | Certified 999 Pure Silver | Wholesale Inquiries: +91 8879528201",
+          "Om Aradhana Silver | Certified 999 Pure Silver | Wholesale: +91 8879528201",
           pageWidth / 2,
-          pageHeight - 10,
+          pageHeight - 9,
           { align: "center" }
         );
       };
@@ -80,11 +78,10 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
       drawHeader();
 
       const itemsPerPage = 4;
-      const colWidth = (usableWidth - 10) / 2; // 2 columns with 10mm gap
-      const colHeight = 105; // Height for each image card
+      const colWidth = (usableWidth - 10) / 2; 
+      const colHeight = 105; 
 
       for (let i = 0; i < products.length; i++) {
-        // Agar ek page par 4 items ho gaye hain, toh naya page add karo
         if (i > 0 && i % itemsPerPage === 0) {
           drawFooter();
           pdf.addPage();
@@ -102,38 +99,33 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
         }
 
         const indexOnPage = i % itemsPerPage;
-        const colIndex = indexOnPage % 2; // 0 for left, 1 for right
-        const rowIndex = Math.floor(indexOnPage / 2); // 0 for top row, 1 for bottom row
+        const colIndex = indexOnPage % 2; 
+        const rowIndex = Math.floor(indexOnPage / 2); 
 
         const posX = margin + colIndex * (colWidth + 10);
         const posY = currentY + rowIndex * (colHeight + 8);
 
-        // Card Background & Border
         pdf.setFillColor(255, 255, 255);
-        pdf.setDrawColor(230, 222, 201); // #E6DEC9
-        pdf.setLineWidth(0.3);
-        pdf.roundedRect(posX, posY, colWidth, colHeight, 3, 3, "FD");
+        pdf.setDrawColor(212, 175, 55); // Naya Gold Border
+        pdf.setLineWidth(0.2);
+        pdf.roundedRect(posX, posY, colWidth, colHeight, 4, 4, "FD");
 
-        // Image load karke draw karna
         if (imgUrl) {
           const base64Img = await getBase64ImageFromUrl(imgUrl);
           if (base64Img) {
-            // Padding inside card box
             const p = 4;
             pdf.addImage(base64Img, 'JPEG', posX + p, posY + p, colWidth - (p * 2), colHeight - (p * 2));
           } else {
-            pdf.setFont("times", "bold");
+            pdf.setFont("times", "italic");
             pdf.setFontSize(10);
-            pdf.setTextColor(201, 162, 39);
-            pdf.text("Image Coming Soon", posX + (colWidth / 2), posY + (colHeight / 2), { align: "center" });
+            pdf.setTextColor(212, 175, 55);
+            pdf.text("Image Loading...", posX + (colWidth / 2), posY + (colHeight / 2), { align: "center" });
           }
         }
       }
 
       drawFooter();
-
-      // Direct file download trigger
-      pdf.save(`${title.toLowerCase().replace(/\s+/g, '-')}-lookbook.pdf`);
+      pdf.save(`${title.toLowerCase().replace(/\s+/g, '-')}-vip-lookbook.pdf`);
     } catch (error) {
       console.error("Direct PDF generation error:", error);
       alert("PDF download failed! Check console.");
@@ -143,12 +135,27 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
   };
 
   return (
+    // 🔥 SAFED AUR PEELA RANG GAYAB! Ab Premium Gold Ghost Button hai
     <button
       onClick={generateDirectPDF}
       disabled={isLoading}
-      className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-[#C9A227] via-[#F3E5AB] to-[#C9A227] px-5 py-2.5 text-[11px] sm:text-xs font-bold uppercase tracking-[0.2em] text-[#24050D] shadow-[0_4px_14px_rgba(201,162,39,0.3)] transition-all hover:scale-105 hover:shadow-[0_6px_20px_rgba(201,162,39,0.4)] disabled:opacity-50"
+      className="group flex w-full md:w-max items-center justify-center gap-3 rounded-full border border-[#d4af37] bg-transparent px-8 py-3.5 transition-all duration-500 hover:bg-[#d4af37] hover:shadow-[0_0_30px_rgba(212,175,55,0.25)] disabled:opacity-50 disabled:hover:bg-transparent"
     >
-      {isLoading ? "Generating PDF..." : `📥 Download ${title} Lookbook`}
+      <span className="flex h-5 w-5 items-center justify-center text-[#d4af37] transition-all duration-500 group-hover:-translate-y-1 group-hover:text-black">
+        {isLoading ? (
+          <svg className="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+        ) : (
+          <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+          </svg>
+        )}
+      </span>
+      <span className="text-[10px] sm:text-xs font-bold uppercase tracking-[0.2em] text-[#d4af37] transition-colors duration-500 group-hover:text-black">
+        {isLoading ? "Generating Masterpiece..." : `Download ${title} Lookbook`}
+      </span>
     </button>
   );
 }

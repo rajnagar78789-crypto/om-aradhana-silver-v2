@@ -1,32 +1,47 @@
-import HeroV2 from "@/components/v2/HeroV2";
-import Categories from "@/components/Categories";
-import ReelsShowcase from "@/components/ReelsShowcase"; // 🔥 Ye line add hui hai
+import { client } from '@/sanity/lib/client'; 
+import HeroSlider from "@/components/HeroSlider"; 
+import Categories from "@/components/Categories"; // 🔥 WAPAS LE AAYA TERA KHAZANA
+import ReelsShowcase from "@/components/ReelsShowcase"; 
 import About from "@/components/About";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import ContactCTA from "@/components/ContactCTA";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 
-export default function Home() {
-  return (
-    <main className="bg-[#faf7f2]">
-      <HeroV2 />
+export const revalidate = 0; 
 
+const sliderQuery = `*[_type == "heroSlider"][0] {
+  sliderName,
+  slides[] {
+    productName,
+    "videoUrl": videoFile.asset->url, 
+    tagline,
+    collectionLink
+  }
+}`;
+
+export default async function Home() {
+  const sliderData = await client.fetch(sliderQuery);
+
+  return (
+    <main className="bg-[#150d11]"> 
+      
+      {/* TERA NAYA VIP SHOWCASE */}
+      <section id="vip-grid">
+        <HeroSlider sliderData={sliderData} />
+      </section>
+
+      {/* 🔥 TERE ASLI PRODUCTS YAHAN DIKHENGE */}
       <section id="collections">
         <Categories />
       </section>
 
-      {/* 🔥 Reels Section Added Here */}
       <ReelsShowcase />
 
-      {/* ❌ Purana wala section humne yahan se hide (comment) kar diya hai 👇 */}
-      {/* 
       <section id="about">
         <About />
       </section> 
-      */}
-
-      {/* ✅ Tera pasandida naya (Centered) section yeh raha 👇 */}
+      
       <WhyChooseUs />
 
       <section id="contact">

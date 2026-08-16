@@ -12,41 +12,50 @@ export default function ProductCard({ product }: Props) {
   return (
     <Link
       href={`/products/${product.slug}`}
-      className="group block w-[340px] overflow-hidden rounded-[34px] shadow-sm hover:shadow-md transition-shadow duration-300"
+      // 🔥 SAFED GAYAB! Ab Premium Dark Card with Gold Hover Shadow
+      className="group block w-full max-w-[340px] mx-auto overflow-hidden rounded-[34px] bg-[#1a1115] border border-[#d4af37]/20 shadow-[0_4px_20px_rgba(0,0,0,0.5)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_15px_40px_rgba(212,175,55,0.15)] hover:border-[#d4af37]/50"
     >
-      {/* Product Image */}
-      <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-[#FBF8F3] to-[#F2EBDF]">
+      {/* Product Image Section */}
+      <div className="relative aspect-square overflow-hidden bg-black/40">
+        {/* Subtle dark gradient inside image box for blending */}
+        <div className="absolute inset-0 bg-gradient-to-t from-[#1a1115] via-transparent to-transparent z-10 pointer-events-none opacity-80" />
+        
         <Image
           src={primaryImage.url}
           alt={primaryImage.alt}
           fill
-          className="object-contain p-6 object-center transition-all duration-700 ease-out group-hover:scale-[1.06] group-hover:brightness-105"
+          className="object-contain p-2 object-center transition-all duration-700 ease-out group-hover:scale-[1.08] group-hover:brightness-110"
         />
       </div>
 
-      {/* Product Details */}
-      <div className="p-6 bg-white">
-        <p className="text-sm font-semibold tracking-wide text-[#C9A227]">
+      {/* Product Details Section - 🔥 EKDUM DARK & LUXURY */}
+      <div className="p-6 bg-[#1a1115] relative z-20">
+        
+        {/* Category Tag (Gold) */}
+        <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#d4af37]">
           {product.tags[0]}
         </p>
 
-        <h3 className="mt-2 text-xl font-bold leading-tight text-[#5A1020] line-clamp-1">
+        {/* Title (White & Serif) */}
+        <h3 className="mt-3 text-2xl font-serif leading-tight text-white line-clamp-1 drop-shadow-md">
           {product.name}
         </h3>
 
-        <p className="mt-3 text-sm text-gray-600">
-          {product.material} • {product.finish}
+        {/* Material & Finish (Light Grey) */}
+        <p className="mt-2 text-xs text-gray-400 font-light tracking-wide">
+          {product.material} <span className="text-[#d4af37] mx-1">✦</span> {product.finish}
         </p>
 
-        {/* BOTTOM SECTION: Only Explore Button */}
-        <div className="mt-5 border-t border-[#E8DCC3] pt-4 flex justify-end">
-          <div className="flex items-center gap-2 text-sm font-semibold text-[#5A1020] transition-all duration-300 group-hover:text-[#C9A227]">
-            <span>Explore</span>
-            <span className="transition-transform duration-300 group-hover:translate-x-1">
+        {/* BOTTOM SECTION: Explore Button (Gold Ghost Style) */}
+        <div className="mt-6 border-t border-[#d4af37]/20 pt-4 flex justify-end">
+          <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-[#d4af37] transition-all duration-300 group-hover:text-white">
+            <span>Explore Masterpiece</span>
+            <span className="transition-transform duration-300 group-hover:translate-x-2">
               &rarr;
             </span>
           </div>
         </div>
+        
       </div>
     </Link>
   );

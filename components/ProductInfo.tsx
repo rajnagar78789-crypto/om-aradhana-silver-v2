@@ -2,736 +2,180 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { motion } from "framer-motion"; // 🔥 Smooth fade-in ke liye add kiya hai
 
 import type {
   Product,
   ProductVariant,
 } from "@/data/products";
 
-
 type Props = {
   product: Product;
 };
 
+export default function ProductInfo({ product }: Props) {
+  const [selectedVariant, setSelectedVariant] = useState<ProductVariant | null>(
+    product.variants[0] ?? null
+  );
 
-
-export default function ProductInfo({
-  product,
-}: Props) {
-
-
-  const [selectedVariant, setSelectedVariant] =
-    useState<ProductVariant | null>(
-      product.variants[0] ?? null
-    );
-
-
-
-  const getWeight = (
-    variant: ProductVariant | null
-  ) => {
-
-    if (!variant) {
-      return "Contact for details";
-    }
-
-
-    if (
-      variant.weightMin !== undefined &&
-      variant.weightMax !== undefined
-    ) {
-
+  const getWeight = (variant: ProductVariant | null) => {
+    if (!variant) return "Contact for details";
+    if (variant.weightMin !== undefined && variant.weightMax !== undefined) {
       return `${variant.weightMin}–${variant.weightMax} g`;
-
     }
-
-
     if (variant.weight !== undefined) {
-
       return `${variant.weight} g`;
-
     }
-
-
     return "Contact for details";
-
   };
-
-
-
 
   const whatsappMessage = `
 Hello Om Aradhana Silver,
 
 I am interested in:
-
 Product: ${product.name}
-
 Model No.: ${product.sku}
-
 Weight: ${getWeight(selectedVariant)}
 
 Please share wholesale price and more details.
-
 Thank you.
 `;
 
-
-
-
-
   return (
+    <motion.div 
+      initial={{ opacity: 0, x: 20 }}
+      animate={{ opacity: 1, x: 0 }}
+      transition={{ duration: 0.6 }}
+      className="w-full text-white" // 🔥 Text ko white kar diya
+    >
 
-    <div className="w-full">
-
-
-      {/* Breadcrumb */}
-
-      <div
-        className="
-        flex
-        items-center
-        gap-2
-        text-sm
-        text-gray-500
-        "
-      >
-
-        <Link
-          href="/"
-          className="
-          transition
-          hover:text-[#5A1020]
-          "
-        >
-          Home
-        </Link>
-
-
-        <span className="text-[#C9A227]">
-          /
-        </span>
-
-
-        <span>
-          Products
-        </span>
-
-
-        <span className="text-[#C9A227]">
-          /
-        </span>
-
-
-        <span
-          className="
-          font-semibold
-          text-[#5A1020]
-          "
-        >
-          {product.name}
-        </span>
-
-
+      {/* Breadcrumb - Sleek look */}
+      <div className="flex items-center gap-2 text-xs font-light uppercase tracking-widest text-gray-500">
+        <Link href="/" className="transition hover:text-[#d4af37]">Home</Link>
+        <span className="text-[#d4af37]/50">/</span>
+        <span>Products</span>
+        <span className="text-[#d4af37]/50">/</span>
+        <span className="font-semibold text-[#d4af37]">{product.name}</span>
       </div>
 
-
-
-
-
-      {/* Wholesale Badge */}
-
-      <div
-        className="
-        mt-3
-        inline-flex
-        rounded-full
-        bg-[#5A1020]
-        px-3
-        py-1
-        text-xs
-        font-bold
-        uppercase
-        tracking-wide
-        text-white
-        "
-      >
-        Wholesale
+      {/* Wholesale Badge - Minimalist Gold Border */}
+      <div className="mt-4 inline-flex items-center gap-2 rounded-full border border-[#d4af37]/40 bg-[#d4af37]/5 px-4 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#d4af37] backdrop-blur-md">
+        <span className="h-1.5 w-1.5 rounded-full bg-[#d4af37] animate-pulse" />
+        Wholesale Only
       </div>
 
-
-
-
-
-      {/* Title */}
-
-      <h1
-        className="
-        mt-4
-        text-5xl
-        font-black
-        leading-none
-        tracking-tight
-        text-[#5A1020]
-        "
-      >
-
+      {/* Title - Royal Serif */}
+      <h1 className="mt-6 font-serif text-5xl md:text-6xl lg:text-7xl font-normal leading-[1.1] tracking-tight drop-shadow-xl text-white">
         {product.name}
-
       </h1>
 
-
-
-
-
       {/* Short Info */}
-
-      <p
-        className="
-        mt-4
-        text-lg
-        text-gray-600
-        "
-      >
-
+      <p className="mt-6 text-base md:text-lg font-light leading-relaxed text-[#e5e5e5]/70 max-w-xl">
         {product.shortDescription}
-
       </p>
 
-
-
-
-
-      {/* Product Identity */}
-
-      <div
-        className="
-        mt-8
-        grid
-        grid-cols-2
-        border-y
-        border-[#eadfcb]
-        "
-      >
-
-
-        <div
-          className="
-          py-5
-          "
-        >
-
-          <p
-            className="
-            text-xs
-            uppercase
-            tracking-[0.18em]
-            text-gray-500
-            "
-          >
-            Product Code
-          </p>
-
-
-          <p
-            className="
-            mt-2
-            text-xl
-            font-bold
-            text-[#5A1020]
-            "
-          >
-
-            {product.sku}
-
-          </p>
-
-
+      {/* Product Identity (Grid) */}
+      <div className="mt-10 grid grid-cols-2 border-y border-[#d4af37]/20">
+        <div className="py-6">
+          <p className="text-[10px] uppercase tracking-[0.2em] text-[#d4af37]">Product Code</p>
+          <p className="mt-2 text-xl font-medium tracking-wide text-white">{product.sku}</p>
         </div>
-
-
-
-
-
-        <div
-          className="
-          border-l
-          border-[#eadfcb]
-          py-5
-          pl-8
-          "
-        >
-
-          <p
-            className="
-            text-xs
-            uppercase
-            tracking-[0.18em]
-            text-gray-500
-            "
-          >
-            Material
-          </p>
-
-
-          <p
-            className="
-            mt-2
-            text-xl
-            font-bold
-            text-[#5A1020]
-            "
-          >
-
-            {product.material}
-
-          </p>
-
-
+        <div className="border-l border-[#d4af37]/20 py-6 pl-8">
+          <p className="text-[10px] uppercase tracking-[0.2em] text-[#d4af37]">Material</p>
+          <p className="mt-2 text-xl font-medium tracking-wide text-white">{product.material}</p>
         </div>
-
-
       </div>
-
-
-
-
 
       {/* Size Selector */}
-
       {product.variants.length > 0 && (
-
-        <div
-          className="
-          mt-8
-          "
-        >
-
-          <p
-            className="
-            text-xs
-            uppercase
-            tracking-[0.18em]
-            text-gray-500
-            "
-          >
-            Product Options
-          </p>
-
-
-          <h2
-            className="
-            mt-2
-            text-xl
-            font-bold
-            text-[#5A1020]
-            "
-          >
-            Select Size
-          </h2>
-
-
-
-          <div
-            className="
-            mt-4
-            flex
-            flex-wrap
-            gap-3
-            "
-          >
-
-            {product.variants.map(
-              (variant) => {
-
-                const active =
-                  selectedVariant?.sku === variant.sku;
-
-
-                return (
-
-                  <button
-                    key={variant.sku}
-                    type="button"
-                    onClick={() =>
-                      setSelectedVariant(variant)
-                    }
-                    className={`
-                    rounded-full
-                    border
-                    px-8
-                    py-3
-                    text-sm
-                    font-bold
-                    transition
-
-                    ${
-                      active
-                      ? "bg-[#5A1020] text-white border-[#5A1020]"
-                      : "bg-white text-[#5A1020] border-[#eadfcb] hover:border-[#C9A227]"
-                    }
-                    `}
-                  >
-
-                    {variant.height
-                      ? `${variant.height} Inch`
-                      : variant.sku}
-
-                  </button>
-
-                );
-
-              }
-            )}
-
-          </div>
-
-
-        </div>
-
-      )}
-            {/* Selected Variant Details */}
-
-      {selectedVariant && (
-
-        <div
-          className="
-          mt-8
-          overflow-hidden
-          rounded-3xl
-          border
-          border-[#eadfcb]
-          bg-white
-          shadow-[0_15px_40px_rgba(90,16,32,0.08)]
-          "
-        >
-
-          <div
-            className="
-            grid
-            grid-cols-2
-            "
-          >
-
-
-            <div
-              className="
-              px-6
-              py-6
-              "
-            >
-
-              <p
-                className="
-                text-xs
-                uppercase
-                tracking-[0.18em]
-                text-gray-500
-                "
-              >
-                Approx Weight
-              </p>
-
-
-              <p
-                className="
-                mt-2
-                text-2xl
-                font-black
-                text-[#5A1020]
-                "
-              >
-
-                {getWeight(selectedVariant)}
-
-              </p>
-
-
-            </div>
-
-
-
-
-
-            <div
-              className="
-              border-l
-              border-[#eadfcb]
-              px-6
-              py-6
-              "
-            >
-
-              <p
-                className="
-                text-xs
-                uppercase
-                tracking-[0.18em]
-                text-gray-500
-                "
-              >
-                Availability
-              </p>
-
-
-
-              <div
-                className="
-                mt-2
-                flex
-                items-center
-                gap-2
-                "
-              >
-
-                <span
-                  className={`
-                  h-3
-                  w-3
-                  rounded-full
-
-                  ${
-                    product.status === "Active"
-                    ? "bg-green-500"
-                    : "bg-red-500"
-                  }
-
-                  `}
-                />
-
-
-                <span
-                  className={`
-                  text-xl
-                  font-bold
-
-                  ${
-                    product.status === "Active"
-                    ? "text-green-600"
-                    : "text-red-600"
-                  }
-
-                  `}
+        <div className="mt-10">
+          <p className="text-[10px] uppercase tracking-[0.2em] text-[#d4af37] mb-4">Select Variant</p>
+          
+          <div className="flex flex-wrap gap-3">
+            {product.variants.map((variant) => {
+              const active = selectedVariant?.sku === variant.sku;
+              return (
+                <button
+                  key={variant.sku}
+                  type="button"
+                  onClick={() => setSelectedVariant(variant)}
+                  className={`rounded-full border px-8 py-3 text-sm font-medium transition-all duration-300 ${
+                    active
+                      ? "border-[#d4af37] bg-[#d4af37] text-black shadow-[0_0_20px_rgba(212,175,55,0.3)]" // VIP Active State
+                      : "border-[#d4af37]/30 bg-transparent text-gray-300 hover:border-[#d4af37] hover:text-white"
+                  }`}
                 >
-
-                  {product.status === "Active"
-                    ? "Available"
-                    : "Unavailable"}
-
-                </span>
-
-
-              </div>
-
-
-            </div>
-
-
+                  {variant.height ? `${variant.height} Inch` : variant.sku}
+                </button>
+              );
+            })}
           </div>
-
-
         </div>
-
       )}
 
-
-
-
-
-
-      {/* Wholesale Benefits */}
-
-
-      <div
-        className="
-        mt-6
-        grid
-        grid-cols-3
-        overflow-hidden
-        rounded-2xl
-        border
-        border-[#eadfcb]
-        bg-white
-        "
-      >
-
-
-        <div
-          className="
-          flex
-          items-center
-          justify-center
-          px-3
-          py-4
-          text-center
-          text-sm
-          font-semibold
-          text-[#5A1020]
-          "
-        >
-
-          ✓ Wholesale Only
-
+      {/* Selected Variant Details - Dark Premium Glassmorphism */}
+      {selectedVariant && (
+        <div className="mt-8 overflow-hidden rounded-2xl border border-[#d4af37]/20 bg-black/30 backdrop-blur-md shadow-[0_15px_40px_rgba(0,0,0,0.4)]">
+          <div className="grid grid-cols-2">
+            <div className="px-6 py-6">
+              <p className="text-[10px] uppercase tracking-[0.2em] text-[#d4af37]">Approx Weight</p>
+              <p className="mt-2 text-2xl font-serif text-white">{getWeight(selectedVariant)}</p>
+            </div>
+            <div className="border-l border-[#d4af37]/20 px-6 py-6">
+              <p className="text-[10px] uppercase tracking-[0.2em] text-[#d4af37]">Availability</p>
+              <div className="mt-2 flex items-center gap-2">
+                <span className={`h-2.5 w-2.5 rounded-full ${product.status === "Active" ? "bg-green-500 shadow-[0_0_10px_rgba(34,197,94,0.5)]" : "bg-red-500"}`} />
+                <span className="text-xl font-serif text-white">
+                  {product.status === "Active" ? "In Stock" : "Unavailable"}
+                </span>
+              </div>
+            </div>
+          </div>
         </div>
+      )}
 
-
-
-        <div
-          className="
-          flex
-          items-center
-          justify-center
-          border-x
-          border-[#eadfcb]
-          px-3
-          py-4
-          text-center
-          text-sm
-          font-semibold
-          text-[#5A1020]
-          "
-        >
-
-          ✓ GST Billing
-
+      {/* Wholesale Benefits - Clean & Subtle */}
+      <div className="mt-8 grid grid-cols-3 rounded-xl border border-[#d4af37]/20 bg-[#150d11]">
+        <div className="px-2 py-4 text-center text-xs font-light uppercase tracking-wider text-gray-300">
+          <span className="text-[#d4af37] mr-1">✦</span> Wholesale Only
         </div>
-
-
-
-        <div
-          className="
-          flex
-          items-center
-          justify-center
-          px-3
-          py-4
-          text-center
-          text-sm
-          font-semibold
-          text-[#5A1020]
-          "
-        >
-
-          ✓ PAN India Supply
-
+        <div className="border-x border-[#d4af37]/20 px-2 py-4 text-center text-xs font-light uppercase tracking-wider text-gray-300">
+          <span className="text-[#d4af37] mr-1">✦</span> GST Billing
         </div>
-
-
+        <div className="px-2 py-4 text-center text-xs font-light uppercase tracking-wider text-gray-300">
+          <span className="text-[#d4af37] mr-1">✦</span> PAN India
+        </div>
       </div>
 
-
-
-
-
-
-
-      {/* WhatsApp CTA */}
-
-
+      {/* VIP WhatsApp CTA (Ghost Button Style) */}
       <a
-        href={`https://wa.me/918879528201?text=${encodeURIComponent(
-          whatsappMessage
-        )}`}
+        href={`https://wa.me/918879528201?text=${encodeURIComponent(whatsappMessage)}`}
         target="_blank"
         rel="noopener noreferrer"
-        className="
-        group
-        mt-7
-        flex
-        items-center
-        justify-between
-        rounded-2xl
-        bg-[#5A1020]
-        px-7
-        py-5
-        text-white
-        shadow-[0_15px_40px_rgba(90,16,32,0.25)]
-        transition
-        hover:-translate-y-1
-        hover:bg-[#74192F]
-        "
+        className="group mt-8 flex items-center justify-between rounded-2xl border border-[#d4af37] bg-[#d4af37]/5 px-8 py-5 text-white backdrop-blur-sm transition-all duration-500 hover:-translate-y-1 hover:bg-[#d4af37] hover:text-black hover:shadow-[0_15px_40px_rgba(212,175,55,0.25)]"
       >
-
-
         <div>
-
-          <p
-            className="
-            text-xs
-            uppercase
-            tracking-[0.18em]
-            text-white/70
-            "
-          >
-            Wholesale Enquiry
+          <p className="text-[10px] uppercase tracking-[0.2em] transition-colors duration-500 group-hover:text-black/70 text-[#d4af37]">
+            Direct Factory Outlet
           </p>
-
-
-          <p
-            className="
-            mt-1
-            text-xl
-            font-black
-            "
-          >
-            Get Wholesale Price
+          <p className="mt-1 text-2xl font-serif tracking-wide">
+            Enquire on WhatsApp
           </p>
-
-
         </div>
-
-
-
-        <span
-          className="
-          text-3xl
-          transition
-          group-hover:translate-x-2
-          "
-        >
-          →
+        <span className="flex h-12 w-12 items-center justify-center rounded-full border border-[#d4af37]/30 bg-transparent transition-all duration-500 group-hover:bg-black group-hover:text-[#d4af37]">
+          <svg className="h-5 w-5 translate-x-0 transition-transform duration-500 group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+          </svg>
         </span>
-
-
       </a>
 
-
-
-
-
-
-
-      {/* Back Button */}
-
-
+      {/* Back Button - Minimal */}
       <Link
         href={`/collections/${product.collectionId}/${product.subCollectionId}`}
-        className="
-        mt-4
-        flex
-        items-center
-        justify-center
-        rounded-xl
-        border
-        border-[#d8cbb8]
-        py-3
-        text-sm
-        font-semibold
-        text-gray-600
-        transition
-        hover:border-[#5A1020]
-        hover:bg-white
-        hover:text-[#5A1020]
-        "
+        className="mt-6 flex w-full items-center justify-center rounded-xl border border-transparent py-4 text-xs uppercase tracking-widest text-gray-500 transition-all hover:border-[#d4af37]/30 hover:text-[#d4af37]"
       >
-
         ← Back to Collection
-
       </Link>
-
-
-
-    </div>
-
+    </motion.div>
   );
 }

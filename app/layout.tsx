@@ -13,7 +13,7 @@ export const metadata = {
   description: 'Buy premium antique silver jewelry, authentic silver articles, and exclusive designs at Om Aradhana Silver. 100% pure quality and best craftsmanship.',
   keywords: 'Om Aradhana Silver, Antique Silver, Silver Jewelry, Pure Silver Articles, Silver Shop online, Premium Silverware',
   openGraph: {
-    images: '/opengraph-image.jpg',
+    images: '/opengraph-logo.png',
   },
 }
 

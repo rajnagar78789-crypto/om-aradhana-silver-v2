@@ -124,7 +124,7 @@ export default async function CollectionPage({ params }: Props) {
               </div>
             </div>
             <div className="flex items-center gap-4 p-3 sm:p-4 rounded-xl bg-[#24050D]/60 border border-[#C9A227]/15">
-              <span className="font-serif text-2xl font-bold text-[#E6CA65]">1100+</span>
+              <span className="font-serif text-2xl font-bold text-[#E6CA65]">2100+</span>
               <div>
                 <span className="block text-[10px] uppercase tracking-[0.2em] text-[#C9A227]">Trusted</span>
                 <span className="text-xs font-medium text-[#F8F5F0]">Retail Showrooms</span>

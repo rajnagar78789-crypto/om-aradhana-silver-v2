@@ -1,98 +1,40 @@
+'use client';
+
+import React from 'react';
+import { motion } from 'framer-motion';
+
 export default function AboutSection() {
   return (
-    <section className="relative overflow-hidden bg-[#FAF7F2] py-28 border-t border-[#C9A227]/15">
-      <div className="relative mx-auto max-w-[1440px] px-6 lg:px-16">
+    <section className="relative overflow-hidden bg-[#150d11] py-28 border-t border-[#d4af37]/25">
+      
+      {/* Background Glow Effect */}
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#d4af37]/5 rounded-full blur-[120px] pointer-events-none"></div>
+
+      <div className="relative z-10 mx-auto max-w-[1000px] px-6 text-center">
         
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-          
-          {/* Left Content Column */}
-          <div className="lg:col-span-6 space-y-6">
-            
-            <div className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-4 py-1.5 text-xs font-bold uppercase tracking-[0.25em] text-[#8C6D18] backdrop-blur-md shadow-[0_0_15px_rgba(201,162,39,0.1)]">
-              <span className="h-1.5 w-1.5 rounded-full bg-[#C9A227] animate-pulse" />
-              Trusted Since 2020
-            </div>
-
-            <h2 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-normal tracking-tight text-[#24050D] leading-[1.08]">
-              Trusted Wholesale Partner for <span className="italic font-light text-[#A4821E]">Retail Jewellery</span> Showrooms
-            </h2>
-
-            <p className="text-base sm:text-lg font-light leading-relaxed text-[#6B5B52] max-w-xl">
-              For over 5 years, Om Aradhana Silver has been helping retail jewellery showrooms across India with premium silver collections, reliable supply and long-term business partnerships built on trust and consistency.
-            </p>
-
-            <div className="pt-4">
-              <a
-                href="https://wa.me/91XXXXXXXXXX" 
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-3 rounded-full bg-[#24050D] px-8 py-4 text-xs font-bold uppercase tracking-[0.2em] text-[#F8F5F0] transition-all duration-300 hover:bg-[#3D0A17] hover:shadow-[0_10px_30px_rgba(36,5,13,0.2)] hover:-translate-y-0.5 border border-[#C9A227]/30"
-              >
-                <span>Get Wholesale Catalogue</span>
-                <span className="text-[#E6CA65]">→</span>
-              </a>
-            </div>
-
+        <motion.div 
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.8 }}
+        >
+          <div className="inline-flex items-center gap-2 rounded-full border border-[#d4af37]/30 bg-[#d4af37]/10 px-4 py-1.5 text-xs font-bold uppercase tracking-[0.25em] text-[#d4af37] backdrop-blur-md mb-6 shadow-[0_0_15px_rgba(212,175,55,0.1)]">
+            <span className="h-1.5 w-1.5 rounded-full bg-[#d4af37] animate-pulse" />
+            Legacy of Excellence
           </div>
 
-          {/* Right Stats Grid Column */}
-          <div className="lg:col-span-6 grid grid-cols-1 sm:grid-cols-2 gap-5">
-            
-            {/* Stat Card 1 */}
-            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
-              <div className="font-serif text-4xl sm:text-5xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors">
-                1100+
-              </div>
-              <div className="mt-2 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
-                Retail Showrooms
-              </div>
-              <p className="mt-1 text-xs text-[#6B5B52] font-light">
-                Actively partnered across PAN India.
-              </p>
-            </div>
+          <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-normal tracking-tight text-white leading-tight mb-8">
+            Crafting Timeless Elegance in <span className="italic font-light text-[#d4af37]">Pure Silver</span>
+          </h2>
 
-            {/* Stat Card 2 */}
-            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
-              <div className="font-serif text-4xl sm:text-5xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors">
-                200+
-              </div>
-              <div className="mt-2 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
-                Premium Designs
-              </div>
-              <p className="mt-1 text-xs text-[#6B5B52] font-light">
-                Certified 999 & 92.5 silver masters.
-              </p>
-            </div>
+          <p className="text-gray-300 text-base sm:text-lg font-light leading-relaxed mb-6">
+            At Om Aradhana Silver, we bridge traditional Indian craftsmanship with modern luxury standards. Every masterpiece is meticulously curated to meet the elite tastes of premium retail showrooms across the nation.
+          </p>
 
-            {/* Stat Card 3 */}
-            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
-              <div className="font-serif text-4xl sm:text-5xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors">
-                5+
-              </div>
-              <div className="mt-2 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
-                Years Experience
-              </div>
-              <p className="mt-1 text-xs text-[#6B5B52] font-light">
-                Deep expertise in B2B silver trade.
-              </p>
-            </div>
-
-            {/* Stat Card 4 */}
-            <div className="group rounded-3xl border border-[#E6DEC9] bg-white p-8 shadow-[0_10px_30px_rgba(36,5,13,0.03)] transition-all duration-300 hover:border-[#C9A227]/50 hover:shadow-[0_15px_35px_rgba(201,162,39,0.1)] hover:-translate-y-1">
-              <div className="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-[#24050D] group-hover:text-[#A4821E] transition-colors pt-2">
-                PAN India
-              </div>
-              <div className="mt-3 text-xs font-bold uppercase tracking-[0.15em] text-[#8C6D18]">
-                Reliable Network
-              </div>
-              <p className="mt-1 text-xs text-[#6B5B52] font-light">
-                Safe and insured express delivery.
-              </p>
-            </div>
-
-          </div>
-
-        </div>
+          <p className="text-gray-400 text-sm sm:text-base font-light leading-relaxed">
+            Our commitment to certified purity (999 & 92.5), transparent B2B relationships, and consistent high-volume supply makes us the most trusted wholesale partner for high-end jewellery counters.
+          </p>
+        </motion.div>
 
       </div>
     </section>

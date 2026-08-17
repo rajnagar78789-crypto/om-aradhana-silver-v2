@@ -1,6 +1,6 @@
 import { client } from '@/sanity/lib/client'; 
 import HeroSlider from "@/components/HeroSlider"; 
-import Categories from "@/components/Categories"; // 🔥 WAPAS LE AAYA TERA KHAZANA
+import Categories from "@/components/Categories"; 
 import ReelsShowcase from "@/components/ReelsShowcase"; 
 import About from "@/components/About";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -26,28 +26,31 @@ export default async function Home() {
   return (
     <main className="bg-[#150d11]"> 
       
-      {/* TERA NAYA VIP SHOWCASE */}
-      <section id="vip-grid">
-        <HeroSlider sliderData={sliderData} />
-      </section>
+      {/* 1. Cinematic Hero Video */}
+      <HeroSlider sliderData={sliderData} />
 
-      {/* 🔥 TERE ASLI PRODUCTS YAHAN DIKHENGE */}
-      <section id="collections">
+      {/* 2. Categories ("Explore Collections" button yahin scroll karega) */}
+      <div id="collections">
         <Categories />
-      </section>
+      </div>
 
+      {/* 3. Live Showcase / Reels */}
       <ReelsShowcase />
 
+      {/* 4. Live Showcase ke turant baad: Why Choose Us (Dark version - Sirf ek baar) */}
+      <WhyChooseUs />
+
+      {/* 5. About Section */}
       <section id="about">
         <About />
       </section> 
       
-      <WhyChooseUs />
-
+      {/* 6. Contact CTA */}
       <section id="contact">
         <ContactCTA />
       </section>
 
+      {/* 7. Footer & WhatsApp */}
       <Footer />
       <WhatsAppButton />
     </main>

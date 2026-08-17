@@ -6,7 +6,7 @@ type TrustItem = {
 
 const trustItems: TrustItem[] = [
   {
-    value: "1100+",
+    value: "2100+",
     label: "Retail Showrooms",
   },
   {

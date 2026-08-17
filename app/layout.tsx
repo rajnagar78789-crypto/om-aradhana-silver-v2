@@ -7,11 +7,11 @@ import TopTicker from "@/components/TopTicker";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
+export const metadata: Metadata = {
   metadataBase: new URL('https://omaradhanasilver.in'),
-  title: 'Om Aradhana Silver | Premium Antique Silver & Authentic Jewelry',
-  description: 'Buy premium antique silver jewelry, authentic silver articles, and exclusive designs at Om Aradhana Silver. 100% pure quality and best craftsmanship.',
-  keywords: 'Om Aradhana Silver, Antique Silver, Silver Jewelry, Pure Silver Articles, Silver Shop online, Premium Silverware',
+  title: 'Om Aradhana Silver | Trusted B2B Wholesale Silver Partner',
+  description: "India's trusted wholesale partner for retail jewellery showrooms. Premium 999 & 92.5 silver collections with consistent high-volume supply.",
+  keywords: 'B2B Wholesale Silver, Silver Wholesale India, Premium 999 Silver, 92.5 Silver Wholesale, Retail Jewellery Showrooms, Om Aradhana Silver',
   openGraph: {
     images: '/opengraph-logo.png',
   },

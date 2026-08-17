@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: "India's trusted wholesale partner for retail jewellery showrooms. Premium 999 & 92.5 silver collections with consistent high-volume supply.",
   keywords: 'B2B Wholesale Silver, Silver Wholesale India, Premium 999 Silver, 92.5 Silver Wholesale, Retail Jewellery Showrooms, Om Aradhana Silver',
   openGraph: {
-    images: '/opengraph-logo.png',
+    images: '/opengraph-icon.png',
   },
 }
 

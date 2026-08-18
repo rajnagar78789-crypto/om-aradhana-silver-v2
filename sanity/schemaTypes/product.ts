@@ -54,13 +54,33 @@ export default defineType({
           { title: "Rings", value: "rings" },
           { title: "Choker", value: "choker" },
           { title: "Mangalsutra", value: "mangalsutra" },
+          { title: "Mens Kada", value: "mens-kada" },
+          { title: "Turkey Chain", value: "turkey-chain" },
         ],
       },
-      // 🧠 Smart Logic: Yeh dropdown sirf "999 Idols" ke time hide hoga, baaki teeno me dikhega!
+      // 🧠 Smart Logic: Yeh dropdown sirf "999 Idols" ke time hide hoga!
       hidden: ({ document }) => document?.category === "999-hollow-idols",
     }),
     
-    // 🔥 Wapas simple fields add kar diye (Variants hata diye)
+    // 👇 NAYA ADDITION: TARGET AUDIENCE 👇
+    defineField({
+      name: "audience",
+      title: "Target Audience (Kiske liye hai?)",
+      type: "string",
+      options: {
+        list: [
+          { title: "Womens", value: "womens" },
+          { title: "Mens", value: "mens" },
+          { title: "Kids", value: "kids" },
+          { title: "Unisex", value: "unisex" },
+        ],
+        layout: "radio",
+      },
+      // 🧠 Smart Logic: Murtiyon (Idols) ke liye yeh option hide rahega
+      hidden: ({ document }) => document?.category === "999-hollow-idols",
+    }),
+
+    // 🔥 Wapas simple fields add kar diye
     defineField({
       name: "weight",
       title: "Weight",

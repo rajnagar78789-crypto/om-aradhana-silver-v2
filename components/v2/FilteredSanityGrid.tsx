@@ -5,26 +5,63 @@ import Link from "next/link";
 import Image from "next/image";
 
 export default function FilteredSanityGrid({ items }: { items: any[] }) {
-  const [activeTab, setActiveTab] = useState("All");
+  // 👑 NAYA: 2-Tier State System
+  const [activeAudience, setActiveAudience] = useState("All"); // Tier 1: Men/Women/Kids
+  const [activeTab, setActiveTab] = useState("All"); // Tier 2: Bangles/Kada etc.
 
-  // Sanity items me se automatically check karega ki kaun kaun si categories available hain
+  // 🧠 SMART FILTERING LOGIC
+  
+  // Step 1: Pehle Audience ke hisaab se filter karo
+  const audienceFilteredItems = activeAudience === "All"
+    ? items
+    : items.filter((item) => {
+        // Agar purane products mein audience nahi hai, toh unhe default 'womens' manega taaki gayab na ho
+        const aud = item.audience ? item.audience.toLowerCase() : "womens";
+        // Unisex products sabhi tabs (Men/Women/Kids) mein dikhenge!
+        if (aud === "unisex") return true; 
+        return aud === activeAudience.toLowerCase();
+      });
+
+  // Step 2: Jo Audience select hui hai, SIRF USI ki sub-categories nikal kar Tier-2 mein dikhao!
   const availableCategories = Array.from(
-    new Set(items.map((item) => item.subCategory).filter(Boolean))
+    new Set(audienceFilteredItems.map((item) => item.subCategory).filter(Boolean))
   );
 
-  // Jo tab select kiya hai, sirf wahi products dikhayega
+  // Step 3: Final filter (Audience + SubCategory)
   const filteredItems = activeTab === "All" 
-    ? items 
-    : items.filter((item) => item.subCategory === activeTab);
+    ? audienceFilteredItems 
+    : audienceFilteredItems.filter((item) => item.subCategory === activeTab);
 
   if (items.length === 0) return null;
 
   return (
     <div className="space-y-8 sm:space-y-10">
       
-      {/* Category Filter Tabs (Golden Buttons) */}
+      {/* 👑 TIER 1: MASTER AUDIENCE SWITCH */}
+      <div className="flex justify-center mb-4">
+        <div className="inline-flex items-center bg-white border border-[#E6DEC9] p-1.5 rounded-full shadow-sm">
+          {["All", "Womens", "Mens", "Kids"].map((aud) => (
+            <button
+              key={aud}
+              onClick={() => {
+                setActiveAudience(aud);
+                setActiveTab("All"); // Jab bhi Men/Women change ho, sub-category reset ho jaye!
+              }}
+              className={`px-6 py-2.5 rounded-full text-[12px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
+                activeAudience === aud
+                  ? "bg-[#24050D] text-[#C9A227] shadow-md" // Dark Maroon & Gold
+                  : "text-[#6B5B52] hover:text-[#24050D] bg-transparent"
+              }`}
+            >
+              {aud}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      {/* ⚪ TIER 2: CATEGORY FILTER TABS (Golden Buttons) */}
       {availableCategories.length > 0 && (
-        <div className="relative z-20 flex flex-wrap items-center gap-3">
+        <div className="relative z-20 flex flex-wrap items-center justify-center gap-3">
           <button
             onClick={() => setActiveTab("All")}
             className={`rounded-full px-5 py-2.5 text-[11px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
@@ -33,7 +70,7 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
                 : "bg-white border border-[#E6DEC9] text-[#6B5B52] hover:border-[#C9A227] hover:text-[#C9A227]"
             }`}
           >
-            All Designs
+            All {activeAudience !== "All" ? activeAudience : "Designs"}
           </button>
           
           {availableCategories.map((cat: any) => (
@@ -52,8 +89,8 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
         </div>
       )}
 
-      {/* Products Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 sm:gap-8">
+      {/* 🛍️ PRODUCTS GRID */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 sm:gap-8 pt-4">
         {filteredItems.map((item: any) => (
           <Link 
             key={item._id} 
@@ -63,10 +100,12 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
             {item.imageUrl ? (
               <div className="relative w-full h-72 bg-[#FAF7F2] overflow-hidden">
                 <Image
-                  src={item.imageUrl}
+                  /* 👇 MOBILE ULTRA-HD FIX: Width 1200 aur Quality 100 👇 */
+                  src={`${item.imageUrl}${item.imageUrl.includes('?') ? '&' : '?'}w=1200&q=100&auto=format`}
                   alt={item.title}
                   fill
-                  sizes="(max-width: 768px) 100vw, 25vw"
+                  unoptimized={true} /* Next.js Bypass */
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                   className="object-cover group-hover:scale-105 transition-transform duration-500"
                 />
               </div>

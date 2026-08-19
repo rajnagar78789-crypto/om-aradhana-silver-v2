@@ -28,6 +28,8 @@ async function getProductsByCategory(categorySlug: string) {
       category,
       subCategory, 
       description,
+      weight,    // 🔥 YEH ADD KIYA: Frontend par weight dikhane ke liye
+      audience,  // 🔥 YEH ADD KIYA: Smart Filters (Mens/Womens) chalane ke liye
       variants[]{
         weight,
         sku,

@@ -74,7 +74,7 @@ export default function SubCollectionPDFButton({ title, products }: { title: str
       disabled={isLoading}
       className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-[#C9A227] via-[#F3E5AB] to-[#C9A227] px-4 py-2 text-[10px] sm:text-xs font-bold uppercase tracking-[0.2em] text-[#24050D] shadow-md transition-all hover:scale-105 disabled:opacity-50"
     >
-      {isLoading ? "Generating PDF..." : `📥 Download ${title} Catalog`}
+      {isLoading ? "Generating PDF..." : `📥 DOWNLOAD CATALOG`}
     </button>
   );
 }

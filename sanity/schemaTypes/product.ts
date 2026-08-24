@@ -107,6 +107,16 @@ export default defineType({
       options: { layout: "grid" },
     }),
 
+    // 🎥 👇 YAHAN HAI JADOO: NAYA MP4 VIDEO ADDITION 👇
+    defineField({
+      name: "video",
+      title: "Product Video (MP4)",
+      type: "file",
+      options: {
+        accept: "video/mp4",
+      },
+    }),
+
     defineField({
       name: "description",
       title: "Description",

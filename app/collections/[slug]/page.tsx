@@ -1,4 +1,5 @@
 // @ts-nocheck
+import CategoryVideoSlider from "@/components/v2/CategoryVideoSlider";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -16,9 +17,11 @@ type Props = {
   params: Promise<{
     slug: string;
   }>;
+  // 👇 NAYA: searchParams add kiya taaki URL se filter utha sakein
+  searchParams?: Promise<{ [key: string]: string | string[] | undefined }>;
 };
 
-// Sanity Data Fetching (Variants + Root imageUrl fallback for safety)
+// Sanity Data Fetching
 async function getProductsByCategory(categorySlug: string) {
   try {
     const query = `*[_type == "product"] | order(_createdAt desc) {
@@ -28,14 +31,13 @@ async function getProductsByCategory(categorySlug: string) {
       category,
       subCategory, 
       description,
-      weight,    // 🔥 YEH ADD KIYA: Frontend par weight dikhane ke liye
-      audience,  // 🔥 YEH ADD KIYA: Smart Filters (Mens/Womens) chalane ke liye
+      weight,
+      audience,
       variants[]{
         weight,
         sku,
         "imageUrl": image.asset->url
       },
-      // 🔥 Coalesce: Pehle variants check karega, agar nahi mila toh purani 'image' utha lega
       "imageUrl": coalesce(variants[0].image.asset->url, image.asset->url)
     }`;
     
@@ -51,6 +53,7 @@ async function getProductsByCategory(categorySlug: string) {
     return [];
   }
 }
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const decodedSlug = decodeURIComponent(slug);
@@ -64,9 +67,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default async function CollectionPage({ params }: Props) {
+export default async function CollectionPage({ params, searchParams }: Props) {
   const { slug } = await params;
   const decodedSlug = decodeURIComponent(slug);
+
+  // 👇 NAYA: Active filter nikal raha hai
+  const searchParamsData = searchParams ? await searchParams : {};
+  const activeFilter = typeof searchParamsData.filter === 'string' ? searchParamsData.filter : "All";
 
   const collection = collections.find((item) => item.slug === slug || item.slug === decodedSlug);
 
@@ -84,66 +91,51 @@ export default async function CollectionPage({ params }: Props) {
   return (
     <main className="min-h-screen w-full overflow-x-hidden bg-[#FAF7F2] text-[#24050D]">
       
-      <section className="relative overflow-hidden bg-gradient-to-b from-[#24050D] via-[#24050D]/95 to-[#FAF7F2] text-[#F8F5F0] pt-12 pb-16 sm:pt-16 sm:pb-24">
-        <div className="relative mx-auto max-w-[1440px] px-4 sm:px-6 lg:px-16">
-          <div className="flex flex-wrap items-center justify-between gap-4 mb-6">
-            <div className="flex flex-wrap items-center gap-3 sm:gap-4">
-              <Link
-                href="/"
-                className="inline-flex items-center gap-2 text-xs font-medium uppercase tracking-[0.2em] text-[#D2C5B0] transition-colors hover:text-[#E6CA65]"
-              >
-                <ArrowLeft size={16} />
-                <span>Back to Home</span>
-              </Link>
-              <span className="text-[#C9A227]/40">/</span>
-              <div className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/15 px-3 sm:px-4 py-1 text-[10px] font-bold uppercase tracking-[0.25em] text-[#E6CA65] backdrop-blur-md shadow-[0_0_20px_rgba(201,162,39,0.15)]">
-                <span className="h-1.5 w-1.5 rounded-full bg-[#C9A227] animate-pulse" />
-                Premium Collection
-              </div>
-            </div>
-
-            <CategoryPDFDownloadButton 
-              collection={collection as any} 
-              items={(localItems.length > 0 ? localItems : sanityItems) as any} 
-            />
-          </div>
-
-          <div className="max-w-3xl">
-            <h1 className="font-serif text-3xl sm:text-6xl lg:text-7xl font-normal tracking-tight text-[#F8F5F0] leading-[1.1]">
+      {/* 👇 SLEEK PREMIUM HEADER 👇 */}
+      <section className="relative bg-[#24050D] text-[#F8F5F0] pt-6 pb-12 sm:pt-10 sm:pb-16 border-b border-[#C9A227]/20">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#C9A227]/10 via-[#24050D] to-[#24050D]"></div>
+        
+        <div className="relative mx-auto max-w-[1440px] px-4 sm:px-6 lg:px-16 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+          
+          <div className="flex flex-col gap-3">
+            <Link
+              href="/"
+              className="inline-flex items-center gap-2 text-[10px] sm:text-xs font-bold uppercase tracking-[0.2em] text-[#C9A227] transition-colors hover:text-[#F8F5F0]"
+            >
+              <ArrowLeft size={14} />
+              <span>Back to Home</span>
+            </Link>
+            
+            <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl font-medium tracking-tight text-white">
               {collection.title}
             </h1>
-            <p className="mt-4 text-sm sm:text-lg font-light leading-relaxed text-[#D2C5B0] max-w-2xl">
-              {collection.description || "Exclusively crafted in certified 999 pure silver with lightweight hollow technology, designed for elite retail showcases across India."}
-            </p>
           </div>
 
-          <div className="mt-8 sm:mt-12 grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4 max-w-3xl p-2.5 sm:p-3 rounded-2xl bg-white/[0.06] border border-[#C9A227]/30 backdrop-blur-xl shadow-2xl">
-            <div className="flex items-center gap-4 p-3 sm:p-4 rounded-xl bg-[#24050D]/60 border border-[#C9A227]/15">
-              <span className="font-serif text-2xl font-bold text-[#E6CA65]">{totalCount}+</span>
-              <div>
-                <span className="block text-[10px] uppercase tracking-[0.2em] text-[#C9A227]">Exclusive</span>
-                <span className="text-xs font-medium text-[#F8F5F0]">Master Designs</span>
-              </div>
+          <div className="flex flex-wrap items-center gap-3">
+            <div className="flex items-center gap-2 bg-white/5 border border-[#C9A227]/20 px-4 py-2 rounded-full backdrop-blur-md">
+              <span className="font-serif text-lg font-bold text-[#C9A227]">{totalCount}+</span>
+              <span className="text-[9px] uppercase tracking-wider text-white/80">Designs</span>
             </div>
-            <div className="flex items-center gap-4 p-3 sm:p-4 rounded-xl bg-[#24050D]/60 border border-[#C9A227]/15">
-              <span className="font-serif text-2xl font-bold text-[#E6CA65]">2100+</span>
-              <div>
-                <span className="block text-[10px] uppercase tracking-[0.2em] text-[#C9A227]">Trusted</span>
-                <span className="text-xs font-medium text-[#F8F5F0]">Retail Showrooms</span>
-              </div>
-            </div>
-            <div className="flex items-center gap-4 p-3 sm:p-4 rounded-xl bg-[#24050D]/60 border border-[#C9A227]/15">
-              <span className="font-serif text-2xl font-bold text-[#E6CA65]">PAN</span>
-              <div>
-                <span className="block text-[10px] uppercase tracking-[0.2em] text-[#C9A227]">Express</span>
-                <span className="text-xs font-medium text-[#F8F5F0]">India Supply</span>
-              </div>
-            </div>
+            
+            {/* Maine isme 'name' hardcode kar diya hai, ab life mein kabhi undefined nahi aayega */}
+<CategoryPDFDownloadButton 
+  collection={{ 
+    ...collection, 
+    title: collection.title, 
+    name: collection.title || "Jewellery" 
+  } as any} 
+  items={(localItems.length > 0 ? localItems : sanityItems) as any} 
+/>
           </div>
+          
         </div>
       </section>
 
-      <section className="mx-auto max-w-[1440px] px-4 sm:px-6 lg:px-16 py-12 sm:py-20">
+      {/* 👇 THE VIDEO SLIDER SHOWSTOPPER 👇 */}
+      <CategoryVideoSlider collectionSlug={slug} />
+
+      {/* 👇 FILTER & GRID SECTION 👇 */}
+      <section className="mx-auto max-w-[1440px] px-4 sm:px-6 lg:px-16 pb-12 sm:pb-20 pt-4">
         {totalCount === 0 ? (
           <div className="rounded-3xl bg-white border border-[#E6DEC9] p-8 sm:p-12 text-center shadow-[0_10px_30px_rgba(36,5,13,0.04)]">
             <h2 className="font-serif text-2xl font-medium text-[#24050D]">
@@ -156,7 +148,7 @@ export default async function CollectionPage({ params }: Props) {
         ) : (
           <div className="space-y-12">
             
-            {/* 1. Purani Murtis as it is dikhengi */}
+            {/* 1. Purani Murtis */}
             {localItems.length > 0 && (
               <div className="grid grid-cols-2 gap-4 sm:gap-8 sm:grid-cols-2 lg:grid-cols-4">
                 {localItems.map((item) => (
@@ -171,7 +163,7 @@ export default async function CollectionPage({ params }: Props) {
 
             {/* 2. Sanity Products with Smart Filters! (Magic here) */}
             {sanityItems.length > 0 && (
-              <FilteredSanityGrid items={sanityItems} />
+              <FilteredSanityGrid items={sanityItems} activeCategory={activeFilter} />
             )}
           </div>
         )}

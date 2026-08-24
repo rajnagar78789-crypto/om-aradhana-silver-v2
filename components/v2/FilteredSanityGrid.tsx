@@ -5,14 +5,12 @@ import Link from "next/link";
 import Image from "next/image";
 
 export default function FilteredSanityGrid({ items }: { items: any[] }) {
-  // 👑 3-TIER STATE SYSTEM (Naya Weight Filter add kiya)
-  const [activeAudience, setActiveAudience] = useState("All"); // Tier 1: Men/Women/Kids
-  const [activeTab, setActiveTab] = useState("All");           // Tier 2: Bangles/Kada
-  const [weightFilter, setWeightFilter] = useState("All Weights"); // ⚖️ Tier 3: Weight Filter
+  // 👑 3-TIER STATE SYSTEM 
+  const [activeAudience, setActiveAudience] = useState("All"); 
+  const [activeTab, setActiveTab] = useState("All");           
+  const [weightFilter, setWeightFilter] = useState("All Weights"); 
 
   // 🧠 SMART FILTERING LOGIC
-  
-  // Step 1: Pehle Audience ke hisaab se filter karo
   const audienceFilteredItems = activeAudience === "All"
     ? items
     : items.filter((item) => {
@@ -21,20 +19,17 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
         return aud === activeAudience.toLowerCase();
       });
 
-  // Step 2: Jo Audience select hui hai, SIRF USI ki sub-categories nikalo
   const availableCategories = Array.from(
     new Set(audienceFilteredItems.map((item) => item.subCategory).filter(Boolean))
   );
 
-  // Step 3: SubCategory Filter
   const categoryFilteredItems = activeTab === "All" 
     ? audienceFilteredItems 
     : audienceFilteredItems.filter((item) => item.subCategory === activeTab);
 
-  // ⚖️ Step 4: Weight Filter Logic (Smart Range Detector)
   const getMinWeight = (weightStr: string) => {
     if (!weightStr) return 0;
-    const match = weightStr.match(/\d+/); // Text me se pehla number nikalega
+    const match = weightStr.match(/\d+/); 
     return match ? parseInt(match[0], 10) : 0;
   };
 
@@ -42,7 +37,7 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
     if (weightFilter === "All Weights") return true;
     
     const w = getMinWeight(item.weight);
-    if (w === 0) return false; // Agar kisi me weight nahi dala hai to hide karega
+    if (w === 0) return false; 
     
     if (weightFilter === "Under 20g") return w < 20;
     if (weightFilter === "20g - 40g") return w >= 20 && w <= 40;
@@ -66,7 +61,7 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
               onClick={() => {
                 setActiveAudience(aud);
                 setActiveTab("All"); 
-                setWeightFilter("All Weights"); // Audience change pe baki sab reset hoga
+                setWeightFilter("All Weights");
               }}
               className={`px-6 py-2.5 rounded-full text-[12px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
                 activeAudience === aud
@@ -83,7 +78,6 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
       {/* ⚪ TIER 2 & 3: CATEGORY TABS & WEIGHT DROPDOWN */}
       <div className="relative z-20 flex flex-col items-center justify-center gap-5">
         
-        {/* Categories (Golden Buttons) */}
         {availableCategories.length > 0 && (
           <div className="flex flex-wrap items-center justify-center gap-3">
             <button
@@ -113,7 +107,7 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
           </div>
         )}
 
-        {/* ⚖️ TIER 3: WEIGHT FILTER DROPDOWN (Sleek B2B Design) */}
+        {/* ⚖️ TIER 3: WEIGHT FILTER DROPDOWN */}
         <div className="flex items-center gap-2">
           <span className="text-[11px] font-bold text-[#C9A227] uppercase tracking-wider bg-[#C9A227]/10 px-3 py-1.5 rounded-full">Filter by Weight:</span>
           <select
@@ -131,53 +125,53 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
 
       </div>
 
-      {/* 🛍️ PRODUCTS GRID */}
+      {/* 🛍️ PRODUCTS GRID (Ultra-HD VIP Cards) */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 sm:gap-8 pt-4">
         {finalFilteredItems.length > 0 ? (
           finalFilteredItems.map((item: any) => (
             <Link 
               key={item._id} 
               href={`/products/${item._id}`}
-              className="group rounded-2xl bg-white border border-[#E6DEC9] overflow-hidden shadow-[0_10px_30px_rgba(36,5,13,0.04)] hover:shadow-xl transition-all duration-300 block"
+              className="group relative rounded-2xl bg-gradient-to-b from-white to-[#FAF7F2] border border-[#E6DEC9] overflow-hidden shadow-[0_4px_15px_rgba(36,5,13,0.03)] hover:shadow-[0_15px_35px_rgba(201,162,39,0.15)] hover:border-[#C9A227]/60 transition-all duration-500 block"
             >
-              {item.imageUrl ? (
-                <div className="relative w-full h-72 bg-[#FAF7F2] overflow-hidden">
-                  <Image
-                    src={`${item.imageUrl}${item.imageUrl.includes('?') ? '&' : '?'}w=1200&q=100&auto=format`}
-                    alt={item.title}
-                    fill
-                    unoptimized={true}
-                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-                    className="object-cover group-hover:scale-105 transition-transform duration-500"
-                  />
+              <div className="relative w-full h-72 bg-[#FAF7F2] overflow-hidden">
+                <Image
+                  /* 👇 THE BALANCED FIX (1000px + Lazy Loading) 👇 */
+                  src={`${item.imageUrl}${item.imageUrl.includes('?') ? '&' : '?'}w=1000&q=100&auto=format&fm=webp&dpr=2&sharp=15`}
+                  alt={item.title}
+                  fill
+                  quality={100}
+                  unoptimized={true}
+                  /* priority={true} 👈 YEH HATA DIYA TAARI LAZY LOAD CHALU HO SAKE */
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                  className="object-cover group-hover:scale-110 transition-transform duration-700 ease-in-out"
+                />
+                
+                <div className="absolute inset-0 bg-[#24050D]/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center backdrop-blur-[2px]">
+                  <div className="bg-white/95 text-[#24050D] px-5 py-2.5 rounded-full text-[10px] font-bold uppercase tracking-[0.2em] transform translate-y-4 group-hover:translate-y-0 transition-all duration-300 shadow-xl">
+                    View Details
+                  </div>
                 </div>
-              ) : (
-                <div className="w-full h-72 bg-gray-100 flex items-center justify-center text-gray-400 text-xs">
-                  No Image Available
-                </div>
-              )}
+              </div>
               
-              <div className="p-5">
-                <div className="flex items-center justify-between mb-2">
-                  <span className="text-[10px] font-bold uppercase tracking-wider text-[#C9A227] bg-[#C9A227]/10 px-2.5 py-1 rounded-full">
-                    Code: {item.code}
+              <div className="p-5 relative">
+                <div className="absolute top-0 left-6 right-6 h-[1px] bg-gradient-to-r from-transparent via-[#C9A227]/30 to-transparent"></div>
+                
+                <div className="flex items-center justify-between mb-3.5 mt-1">
+                  <span className="text-[9px] font-bold uppercase tracking-[0.15em] text-[#24050D] bg-[#C9A227]/20 border border-[#C9A227]/30 px-2.5 py-1 rounded-md">
+                    {item.code}
                   </span>
+                  
                   {item.weight && (
-                    <span className="text-xs font-medium text-[#6B5B52]">
-                      {item.weight}
+                    <span className="text-[10px] font-semibold tracking-wide text-[#6B5B52] bg-white border border-[#E6DEC9] px-2.5 py-1 rounded-md shadow-sm flex items-center gap-1">
+                      <span className="text-[#C9A227]">⚖️</span> {item.weight}
                     </span>
                   )}
                 </div>
                 
-                <h3 className="font-serif text-lg font-medium text-[#24050D] line-clamp-1 group-hover:text-[#5A1020] transition-colors">
+                <h3 className="font-serif text-lg font-medium text-[#24050D] line-clamp-1 group-hover:text-[#C9A227] transition-colors duration-300">
                   {item.title}
                 </h3>
-
-                {item.description && (
-                  <p className="mt-2 text-xs font-light text-[#6B5B52] line-clamp-2 leading-relaxed">
-                    {item.description}
-                  </p>
-                )}
               </div>
             </Link>
           ))
@@ -192,4 +186,4 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
       
     </div>
   );
-}
+} 

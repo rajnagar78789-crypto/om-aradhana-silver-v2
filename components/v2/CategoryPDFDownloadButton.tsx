@@ -71,6 +71,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
     setProgressText("Fetching Images...");
 
     try {
+      // html2pdf import
       const html2pdf = (await import("html2pdf.js")).default;
 
       const itemsWithBase64 = [];
@@ -80,13 +81,13 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         const product = filteredItems[i];
         let base64 = null;
         if (product.imageUrl) {
-          const imgUrl = `${product.imageUrl}${product.imageUrl.includes('?') ? '&' : '?'}w=800&q=85`;
+          const imgUrl = `${product.imageUrl}${product.imageUrl.includes('?') ? '&' : '?'}w=600&q=80`;
           base64 = await getBase64ImageFromUrl(imgUrl);
         }
         itemsWithBase64.push({ ...product, base64 });
       }
 
-      setProgressText("Assembling Smart Catalog...");
+      setProgressText("Assembling Catalog...");
 
       let titlePrefix = "EXCLUSIVE";
       if (categoriesToDownload.length === availableCategories.length) {
@@ -100,17 +101,14 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
       const ITEMS_PER_PAGE = 4;
       const totalPages = Math.ceil(itemsWithBase64.length / ITEMS_PER_PAGE);
 
-      // 👇 FIX 1: Sirf background memory mein element banayenge. Screen pe add hi nahi karenge!
-      const element = document.createElement("div");
-      element.style.width = "210mm"; 
-      element.style.backgroundColor = "#FAF7F2";
-      
-      let html = `<div>`; 
+      // 👇 THE ULTIMATE FIX: HTML String banayenge, HTMLDivElement nahi. 
+      // DOM mein attach karne ka bawal hi khatam.
+      let htmlString = `<div style="width: 210mm; background-color: #FAF7F2; font-family: sans-serif;">`; 
 
       for (let page = 0; page < totalPages; page++) {
         const pageItems = itemsWithBase64.slice(page * ITEMS_PER_PAGE, (page + 1) * ITEMS_PER_PAGE);
 
-        html += `
+        htmlString += `
           <div class="pdf-page" style="width: 210mm; height: 295mm; padding: 12mm 15mm; box-sizing: border-box; background-color: #FAF7F2; position: relative; overflow: hidden;">
             
             <!-- HEADER -->
@@ -136,7 +134,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
           const whatsappMessage = `Hello Om Aradhana Silver, I want to inquire about this product from your catalog:\n\n*Product:* ${prodName}\n*Code:* ${prodCode}\n*Weight:* ${prodWeight}\n*Image:* ${imgLink}`;
           const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(whatsappMessage)}`;
 
-          html += `
+          htmlString += `
               <a href="${whatsappUrl}" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #E6DEC9; border-radius: 8px; padding: 15px; background: #ffffff; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); box-sizing: border-box; display: flex; flex-direction: column;">
                 
                 <div style="height: 190px; width: 100%; display: flex; align-items: center; justify-content: center; margin-bottom: 12px; background: #FAF7F2; border-radius: 6px;">
@@ -167,7 +165,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
           `;
         });
 
-        html += `
+        htmlString += `
             </div> 
             
             <!-- FOOTER -->
@@ -180,10 +178,9 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         `;
       }
 
-      html += `</div>`;
-      element.innerHTML = html;
+      htmlString += `</div>`;
       
-      setProgressText("Generating Universal PDF...");
+      setProgressText("Generating PDF...");
 
       const safeName = categoriesToDownload.length === availableCategories.length 
         ? "All_Designs" 
@@ -200,12 +197,13 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' } 
       };
 
-      // 👇 FIX 2: Direct background render hoga ab. No DOM attachment, NO CRASH!
-      await html2pdf().from(element).set(options).save();
+      // 👇 Yahan element nahi bhej rahe, seedha HTML String bhej rahe hain! 
+      // Library background mein khud temporary element banayegi aur PDF banake safa kar degi.
+      await html2pdf().from(htmlString).set(options).save();
 
     } catch (error) {
       console.error("PDF generation error:", error);
-      alert("Error building catalog. Please check your connection or try fewer categories.");
+      alert("Error building catalog. Please try again.");
     } finally {
       setIsLoading(false);
       setProgressText("");
@@ -230,6 +228,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         </span>
       </button>
 
+      {/* 🌟 ADVANCED MULTI-SELECT POPUP MODAL 🌟 */}
       {isModalOpen && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
           <div className="bg-[#FAF7F2] w-full max-w-md rounded-2xl shadow-2xl border border-[#C9A227]/30 overflow-hidden transform transition-all flex flex-col max-h-[85vh]">

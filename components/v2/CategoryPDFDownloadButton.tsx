@@ -11,7 +11,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
   
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
 
-  // 📞 TERA WHATSAPP NUMBER YAHAN HAI (Country code 91 ke saath, bina + lagaye)
+  // 📞 TERA WHATSAPP NUMBER
   const WHATSAPP_NUMBER = "918879528201";
 
   const availableCategories = Array.from(
@@ -68,19 +68,19 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
     if (filteredItems.length === 0) return;
 
     setIsLoading(true);
-    setProgressText("Fetching Ultra-HD Images...");
+    setProgressText("Fetching Images...");
 
     try {
       const html2pdf = (await import("html2pdf.js")).default;
 
       const itemsWithBase64 = [];
       for (let i = 0; i < filteredItems.length; i++) {
-        setProgressText(`Loading HD Image ${i + 1}/${filteredItems.length}...`);
+        setProgressText(`Loading Image ${i + 1}/${filteredItems.length}...`);
         
         const product = filteredItems[i];
         let base64 = null;
         if (product.imageUrl) {
-          const imgUrl = `${product.imageUrl}${product.imageUrl.includes('?') ? '&' : '?'}w=1400&q=100`;
+          const imgUrl = `${product.imageUrl}${product.imageUrl.includes('?') ? '&' : '?'}w=800&q=85`;
           base64 = await getBase64ImageFromUrl(imgUrl);
         }
         itemsWithBase64.push({ ...product, base64 });
@@ -100,6 +100,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
       const ITEMS_PER_PAGE = 4;
       const totalPages = Math.ceil(itemsWithBase64.length / ITEMS_PER_PAGE);
 
+      // 👇 FIX 1: Sirf background memory mein element banayenge. Screen pe add hi nahi karenge!
       const element = document.createElement("div");
       element.style.width = "210mm"; 
       element.style.backgroundColor = "#FAF7F2";
@@ -127,17 +128,12 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         `;
 
         pageItems.forEach((product) => {
-          // 👇 JADOO: WhatsApp message ko taiyaar karna
           const prodName = product.title || product.name || 'Untitled';
           const prodCode = product.code || product.sku || 'N/A';
           const prodWeight = product.weight || '-';
-          
-          // Image ka direct URL bhejenge taaki WhatsApp par tum click karke photo dekh sako
           const imgLink = product.imageUrl ? product.imageUrl : 'No image link';
 
           const whatsappMessage = `Hello Om Aradhana Silver, I want to inquire about this product from your catalog:\n\n*Product:* ${prodName}\n*Code:* ${prodCode}\n*Weight:* ${prodWeight}\n*Image:* ${imgLink}`;
-          
-          // Link ko browser ke hisaab se encode karna zaruri hai
           const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(whatsappMessage)}`;
 
           html += `
@@ -161,7 +157,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
                   Wt: ${prodWeight}
                 </p>
 
-                <!-- 👇 JADOO: WhatsApp button design -->
                 <div style="margin-top: auto; padding-top: 5px;">
                   <span style="background-color: #25D366; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1em; display: inline-block; border: 1px solid #1EBE57;">
                     💬 Order on WhatsApp
@@ -187,7 +182,8 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
 
       html += `</div>`;
       element.innerHTML = html;
-      setProgressText("Embedding Smart WhatsApp Links...");
+      
+      setProgressText("Generating Universal PDF...");
 
       const safeName = categoriesToDownload.length === availableCategories.length 
         ? "All_Designs" 
@@ -198,17 +194,18 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
       const options = {
         margin: 0, 
         filename: `OmAradhana_${safeName}_Order_Now.pdf`,
-        image: { type: 'jpeg', quality: 1 }, 
-        pagebreak: { mode: ['css', 'legacy'], after: '.pdf-page' }, 
-        html2canvas: { scale: 3, useCORS: true, logging: false, letterRendering: true }, 
+        image: { type: 'jpeg', quality: 0.95 }, 
+        pagebreak: { mode: ['css', 'legacy'] }, 
+        html2canvas: { scale: 2, useCORS: true, logging: false }, 
         jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' } 
       };
 
+      // 👇 FIX 2: Direct background render hoga ab. No DOM attachment, NO CRASH!
       await html2pdf().from(element).set(options).save();
 
     } catch (error) {
       console.error("PDF generation error:", error);
-      alert("Error building catalog. Please check your internet connection.");
+      alert("Error building catalog. Please check your connection or try fewer categories.");
     } finally {
       setIsLoading(false);
       setProgressText("");
@@ -233,7 +230,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         </span>
       </button>
 
-      {/* 🌟 ADVANCED MULTI-SELECT POPUP MODAL 🌟 */}
       {isModalOpen && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
           <div className="bg-[#FAF7F2] w-full max-w-md rounded-2xl shadow-2xl border border-[#C9A227]/30 overflow-hidden transform transition-all flex flex-col max-h-[85vh]">
@@ -242,7 +238,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
               <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#C9A227]/20 via-transparent to-transparent"></div>
               <h2 className="text-white font-serif text-xl font-medium flex items-center gap-2 relative z-10">
                 <FileText className="text-[#C9A227]" size={20} />
-                Build HD Catalog
+                Build Smart Catalog
               </h2>
               <button 
                 onClick={() => setIsModalOpen(false)}

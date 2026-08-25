@@ -21,7 +21,7 @@ export default function CategoryVideoSlider({ collectionSlug }: { collectionSlug
       { title: "Rings", value: "rings", videoUrl: "/category-videos/antique/rings1.mp4" },
     ],
     "fusion-collection": [
-      { title: "Necklace Set", value: "necklace-set", videoUrl: "/category-videos/fusion/set.mp4" },
+      
       { title: "Payal", value: "payal", videoUrl: "/category-videos/fusion/payal.mp4" },
       { title: "Juda", value: "juda", videoUrl: "/category-videos/fusion/juda.mp4" },
       { title: "Rings", value: "rings", videoUrl: "/category-videos/fusion/rings.mp4" },

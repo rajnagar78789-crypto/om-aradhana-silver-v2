@@ -4,28 +4,44 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-export default function FilteredSanityGrid({ items }: { items: any[] }) {
-  // 👑 3-TIER STATE SYSTEM 
+export default function FilteredSanityGrid({ items, activeCategory = "All" }: { items: any[], activeCategory?: string }) {
+  
+  // 'Necklace Set' ko block kiya
+  const safeItems = items.filter((item) => {
+    if (!item.subCategory) return true;
+    const catName = item.subCategory.toLowerCase().replace(/-/g, " ");
+    return catName !== "necklace set"; 
+  });
+
   const [activeAudience, setActiveAudience] = useState("All"); 
-  const [activeTab, setActiveTab] = useState("All");           
+  const [activeTab, setActiveTab] = useState(activeCategory);          
   const [weightFilter, setWeightFilter] = useState("All Weights"); 
 
-  // 🧠 SMART FILTERING LOGIC
   const audienceFilteredItems = activeAudience === "All"
-    ? items
-    : items.filter((item) => {
+    ? safeItems
+    : safeItems.filter((item) => {
         const aud = item.audience ? item.audience.toLowerCase() : "womens";
         if (aud === "unisex") return true; 
         return aud === activeAudience.toLowerCase();
       });
 
+  // 👇 YAHAN JADOO HAI: "Juda", "juda", "Juda " sabko ek jaisa banake duplicate hata diya
   const availableCategories = Array.from(
-    new Set(audienceFilteredItems.map((item) => item.subCategory).filter(Boolean))
+    new Set(
+      audienceFilteredItems
+        .map((item) => item.subCategory ? item.subCategory.trim().toLowerCase() : "")
+        .filter(Boolean)
+    )
   );
 
-  const categoryFilteredItems = activeTab === "All" 
+  const categoryFilteredItems = activeTab.toLowerCase() === "all" 
     ? audienceFilteredItems 
-    : audienceFilteredItems.filter((item) => item.subCategory === activeTab);
+    : audienceFilteredItems.filter((item) => {
+        if (!item.subCategory) return false;
+        const normalizedSanityCat = item.subCategory.toLowerCase().replace(/-/g, " ");
+        const normalizedActiveTab = activeTab.toLowerCase().replace(/-/g, " ");
+        return normalizedSanityCat === normalizedActiveTab;
+      });
 
   const getMinWeight = (weightStr: string) => {
     if (!weightStr) return 0;
@@ -47,12 +63,11 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
     return true;
   });
 
-  if (items.length === 0) return null;
+  if (safeItems.length === 0) return null;
 
   return (
     <div className="space-y-8 sm:space-y-10">
       
-      {/* 👑 TIER 1: MASTER AUDIENCE SWITCH */}
       <div className="flex justify-center mb-4">
         <div className="inline-flex items-center bg-white border border-[#E6DEC9] p-1.5 rounded-full shadow-sm">
           {["All", "Womens", "Mens", "Kids"].map((aud) => (
@@ -75,7 +90,6 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
         </div>
       </div>
 
-      {/* ⚪ TIER 2 & 3: CATEGORY TABS & WEIGHT DROPDOWN */}
       <div className="relative z-20 flex flex-col items-center justify-center gap-5">
         
         {availableCategories.length > 0 && (
@@ -83,7 +97,7 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
             <button
               onClick={() => setActiveTab("All")}
               className={`rounded-full px-5 py-2.5 text-[11px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
-                activeTab === "All" 
+                activeTab.toLowerCase() === "all" 
                   ? "bg-[#C9A227] text-[#24050D] shadow-[0_4px_20px_rgba(201,162,39,0.3)] scale-105" 
                   : "bg-white border border-[#E6DEC9] text-[#6B5B52] hover:border-[#C9A227] hover:text-[#C9A227]"
               }`}
@@ -91,23 +105,28 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
               All {activeAudience !== "All" ? activeAudience : "Designs"}
             </button>
             
-            {availableCategories.map((cat: any) => (
-              <button
-                key={cat}
-                onClick={() => setActiveTab(cat)}
-                className={`rounded-full px-5 py-2.5 text-[11px] font-bold uppercase tracking-[0.15em] transition-all duration-300 capitalize ${
-                  activeTab === cat 
-                    ? "bg-[#C9A227] text-[#24050D] shadow-[0_4px_20px_rgba(201,162,39,0.3)] scale-105" 
-                    : "bg-white border border-[#E6DEC9] text-[#6B5B52] hover:border-[#C9A227] hover:text-[#C9A227]"
-                }`}
-              >
-                {cat.replace(/-/g, " ")}
-              </button>
-            ))}
+            {availableCategories.map((cat: any) => {
+              const normalizedCat = cat.toLowerCase().replace(/-/g, " ");
+              const normalizedActiveTab = activeTab.toLowerCase().replace(/-/g, " ");
+              const isActive = normalizedCat === normalizedActiveTab;
+
+              return (
+                <button
+                  key={cat}
+                  onClick={() => setActiveTab(cat)}
+                  className={`rounded-full px-5 py-2.5 text-[11px] font-bold uppercase tracking-[0.15em] transition-all duration-300 capitalize ${
+                    isActive 
+                      ? "bg-[#C9A227] text-[#24050D] shadow-[0_4px_20px_rgba(201,162,39,0.3)] scale-105" 
+                      : "bg-white border border-[#E6DEC9] text-[#6B5B52] hover:border-[#C9A227] hover:text-[#C9A227]"
+                  }`}
+                >
+                  {cat.replace(/-/g, " ")}
+                </button>
+              );
+            })}
           </div>
         )}
 
-        {/* ⚖️ TIER 3: WEIGHT FILTER DROPDOWN */}
         <div className="flex items-center gap-2">
           <span className="text-[11px] font-bold text-[#C9A227] uppercase tracking-wider bg-[#C9A227]/10 px-3 py-1.5 rounded-full">Filter by Weight:</span>
           <select
@@ -125,7 +144,6 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
 
       </div>
 
-      {/* 🛍️ PRODUCTS GRID (Ultra-HD VIP Cards) */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 sm:gap-8 pt-4">
         {finalFilteredItems.length > 0 ? (
           finalFilteredItems.map((item: any) => (
@@ -136,13 +154,11 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
             >
               <div className="relative w-full h-72 bg-[#FAF7F2] overflow-hidden">
                 <Image
-                  /* 👇 THE BALANCED FIX (1000px + Lazy Loading) 👇 */
                   src={`${item.imageUrl}${item.imageUrl.includes('?') ? '&' : '?'}w=1000&q=100&auto=format&fm=webp&dpr=2&sharp=15`}
                   alt={item.title}
                   fill
                   quality={100}
                   unoptimized={true}
-                  /* priority={true} 👈 YEH HATA DIYA TAARI LAZY LOAD CHALU HO SAKE */
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-700 ease-in-out"
                 />
@@ -178,12 +194,12 @@ export default function FilteredSanityGrid({ items }: { items: any[] }) {
         ) : (
           <div className="col-span-full py-16 flex flex-col items-center justify-center text-center bg-white rounded-2xl border border-[#E6DEC9]">
              <span className="text-4xl mb-3">⚖️</span>
-             <p className="text-[#24050D] font-serif text-xl">No products in this weight range</p>
-             <p className="text-[#6B5B52] text-xs mt-2">Try selecting a different weight or category.</p>
+             <p className="text-[#24050D] font-serif text-xl">No products in this category</p>
+             <p className="text-[#6B5B52] text-xs mt-2">Try selecting a different category or audience.</p>
           </div>
         )}
       </div>
       
     </div>
   );
-} 
+}

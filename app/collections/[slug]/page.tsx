@@ -161,9 +161,13 @@ export default async function CollectionPage({ params, searchParams }: Props) {
               </div>
             )}
 
-            {/* 2. Sanity Products with Smart Filters! (Magic here) */}
+           {/* 2. Sanity Products with Smart Filters! (Magic here) */}
             {sanityItems.length > 0 && (
-              <FilteredSanityGrid items={sanityItems} activeCategory={activeFilter} />
+              <FilteredSanityGrid 
+                key={activeFilter} 
+                items={sanityItems} 
+                activeCategory={activeFilter} 
+              />
             )}
           </div>
         )}

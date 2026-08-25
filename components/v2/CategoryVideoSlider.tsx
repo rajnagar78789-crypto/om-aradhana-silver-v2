@@ -127,13 +127,16 @@ export default function CategoryVideoSlider({ collectionSlug }: { collectionSlug
                 }`}
               >
                 <video
-                  src={cat.videoUrl}
-                  autoPlay
-                  loop
-                  muted
-                  playsInline
-                  className="absolute inset-0 w-full h-full object-cover pointer-events-none" 
-                />
+  src={cat.videoUrl}
+  autoPlay
+  loop
+  muted
+  playsInline
+  preload="auto"
+  disablePictureInPicture
+  className="absolute inset-0 w-full h-full object-cover pointer-events-none bg-[#1a0309]"
+  style={{ WebkitMaskImage: '-webkit-radial-gradient(white, black)' }}
+/>
                 
                 <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent pointer-events-none"></div>
 

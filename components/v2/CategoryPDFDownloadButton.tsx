@@ -2,7 +2,7 @@
 "use client";
 
 import { useState } from "react";
-import { Download, Loader2, X, FileText, CheckSquare, Square } from "lucide-react";
+import { Download, Loader2, X, FileText, CheckSquare, Square, Sparkles } from "lucide-react";
 
 export default function CategoryPDFDownloadButton({ collection, items }: { collection: any, items: any[] }) {
   const [isLoading, setIsLoading] = useState(false);
@@ -11,7 +11,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
   
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
 
-  // 📞 TERA WHATSAPP NUMBER
   const WHATSAPP_NUMBER = "918879528201";
 
   const availableCategories = Array.from(
@@ -71,7 +70,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
     setProgressText("Fetching Images...");
 
     try {
-      // html2pdf import
       const html2pdf = (await import("html2pdf.js")).default;
 
       const itemsWithBase64 = [];
@@ -101,8 +99,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
       const ITEMS_PER_PAGE = 4;
       const totalPages = Math.ceil(itemsWithBase64.length / ITEMS_PER_PAGE);
 
-      // 👇 THE ULTIMATE FIX: HTML String banayenge, HTMLDivElement nahi. 
-      // DOM mein attach karne ka bawal hi khatam.
       let htmlString = `<div style="width: 210mm; background-color: #FAF7F2; font-family: sans-serif;">`; 
 
       for (let page = 0; page < totalPages; page++) {
@@ -111,7 +107,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         htmlString += `
           <div class="pdf-page" style="width: 210mm; height: 295mm; padding: 12mm 15mm; box-sizing: border-box; background-color: #FAF7F2; position: relative; overflow: hidden;">
             
-            <!-- HEADER -->
             <div style="text-align: center; border-bottom: 2px solid #C9A227; padding-bottom: 5mm; margin-bottom: 8mm;">
               <h1 style="color: #24050D; font-size: 28px; margin: 0; font-weight: bold; font-family: serif;">OM ARADHANA SILVER</h1>
               <p style="color: #C9A227; font-size: 14px; text-transform: uppercase; letter-spacing: 0.15em; margin: 4px 0 0 0; font-weight: bold;">
@@ -168,7 +163,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         htmlString += `
             </div> 
             
-            <!-- FOOTER -->
             <div style="position: absolute; bottom: 10mm; left: 15mm; right: 15mm; text-align: center; font-size: 11px; color: #7A6B58; border-top: 1px solid #E6DEC9; padding-top: 5mm; font-weight: bold;">
               <p style="margin:0;">Om Aradhana Silver | Trusted by 2100+ Showrooms | Pure 92.5 & Antique Jewellery</p>
               <p style="margin:4px 0 0 0; color: #C9A227; font-size: 12px;">WhatsApp / Call: +91 8879528201</p>
@@ -197,8 +191,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' } 
       };
 
-      // 👇 Yahan element nahi bhej rahe, seedha HTML String bhej rahe hain! 
-      // Library background mein khud temporary element banayegi aur PDF banake safa kar degi.
       await html2pdf().from(htmlString).set(options).save();
 
     } catch (error) {
@@ -212,25 +204,45 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
   };
 
   return (
-    <>
+    // 👇 FIX 1: Container se saare "z-index" aur "relative" hata diye taaki wo modal ko kaid na kar sake
+    <div className="flex flex-col items-center sm:items-end gap-2.5">
+      
       <button
         onClick={() => setIsModalOpen(true)}
         disabled={isLoading || !items || items.length === 0}
-        className="flex items-center gap-2 bg-white/10 border border-[#C9A227]/40 px-4 py-2 rounded-full backdrop-blur-md hover:bg-[#C9A227] hover:text-[#24050D] text-white transition-all disabled:opacity-50 disabled:cursor-not-allowed group shadow-lg min-w-[160px] justify-center"
+        className="relative flex items-center gap-2.5 bg-[#C9A227]/10 border border-[#C9A227] px-6 py-3 rounded-full backdrop-blur-md hover:bg-[#C9A227] hover:text-[#24050D] text-white transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed group shadow-[0_0_15px_rgba(201,162,39,0.15)] hover:shadow-[0_0_25px_rgba(201,162,39,0.3)] min-w-[200px] justify-center hover:scale-[1.02]"
       >
+        <span className="absolute -top-1.5 -right-1.5 flex h-4 w-4">
+          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#C9A227] opacity-80"></span>
+          <span className="relative inline-flex rounded-full h-4 w-4 bg-[#C9A227] border-[2.5px] border-[#24050D]"></span>
+        </span>
+
         {isLoading ? (
-          <Loader2 size={16} className="animate-spin text-[#C9A227] group-hover:text-[#24050D]" />
+          <Loader2 size={18} className="animate-spin text-[#C9A227] group-hover:text-[#24050D]" />
         ) : (
-          <Download size={16} className="text-[#C9A227] group-hover:text-[#24050D]" />
+          <Download size={18} className="text-[#C9A227] group-hover:text-[#24050D]" />
         )}
-        <span className="text-[10px] font-bold uppercase tracking-[0.2em] group-hover:text-[#24050D]">
+        <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-[#C9A227] group-hover:text-[#24050D]">
           {isLoading ? progressText : "Download Catalog"}
         </span>
       </button>
 
+      {!isLoading && (
+        <div className="flex items-center gap-1.5 text-[#C9A227]/90 bg-black/40 px-3.5 py-1.5 rounded-full border border-[#C9A227]/20 backdrop-blur-sm animate-in fade-in slide-in-from-top-2 duration-700">
+          <Sparkles size={12} className="text-[#C9A227]" />
+          <span className="text-[9.5px] sm:text-[10.5px] font-medium tracking-widest uppercase">
+            Click to order via WhatsApp
+          </span>
+        </div>
+      )}
+
       {/* 🌟 ADVANCED MULTI-SELECT POPUP MODAL 🌟 */}
       {isModalOpen && (
-        <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
+        // 👇 FIX 2: Modal ko "fixed" ke saath "z-[99999]" de diya. Website ka Header 50 par hota hai, yeh Header ke bhi baap ke upar aayega!
+        <div 
+          className="fixed inset-0 flex items-center justify-center bg-black/80 backdrop-blur-md p-4 text-left"
+          style={{ zIndex: 99999 }}
+        >
           <div className="bg-[#FAF7F2] w-full max-w-md rounded-2xl shadow-2xl border border-[#C9A227]/30 overflow-hidden transform transition-all flex flex-col max-h-[85vh]">
             
             <div className="bg-[#24050D] p-5 flex justify-between items-center relative overflow-hidden flex-shrink-0">
@@ -248,9 +260,12 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
             </div>
 
             <div className="p-6 overflow-y-auto custom-scrollbar flex-grow">
-              <p className="text-[#6B5B52] text-sm mb-5 text-center font-medium">
-                Select one or more categories to download:
-              </p>
+              <div className="bg-[#C9A227]/10 border border-[#C9A227]/30 p-3 rounded-xl mb-5 flex gap-3 items-start">
+                <span className="text-xl">💡</span>
+                <p className="text-[#6B5B52] text-xs font-medium leading-relaxed">
+                  The downloaded PDF will be interactive. You can click on any product photo in the PDF to order it directly on WhatsApp.
+                </p>
+              </div>
               
               <div className="flex flex-col gap-3">
                 {availableCategories.map((cat, idx) => {
@@ -304,6 +319,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
           </div>
         </div>
       )}
-    </>
+    </div>
   );
 }

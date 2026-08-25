@@ -42,7 +42,7 @@ export default function ProductGalleryV2({ product }: Props) {
         {/* Trusted Badge (Top-Left Corner) */}
         <div className="absolute left-4 top-4 z-20 inline-flex items-center gap-1.5 rounded-full border border-[#C9A227]/40 bg-white/95 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.15em] text-[#5A1020] shadow-md backdrop-blur-md sm:left-6 sm:top-6">
           <span className="h-1.5 w-1.5 rounded-full bg-[#C9A227] animate-pulse" />
-          Trusted by 2100+ Showrooms
+          Trusted by 2000+ RETAIL PARTNERS
         </div>
 
         {/* Zoom Button (Top-Right Corner) */}

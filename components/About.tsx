@@ -20,20 +20,37 @@ export default function AboutSection() {
         >
           <div className="inline-flex items-center gap-2 rounded-full border border-[#d4af37]/30 bg-[#d4af37]/10 px-4 py-1.5 text-xs font-bold uppercase tracking-[0.25em] text-[#d4af37] backdrop-blur-md mb-6 shadow-[0_0_15px_rgba(212,175,55,0.1)]">
             <span className="h-1.5 w-1.5 rounded-full bg-[#d4af37] animate-pulse" />
-            Legacy of Excellence
+            25 Years of Legacy
           </div>
 
           <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-normal tracking-tight text-white leading-tight mb-8">
-            Crafting Timeless Elegance in <span className="italic font-light text-[#d4af37]">Pure Silver</span>
+            Decades of Mastery. A New Era of <span className="italic font-light text-[#d4af37]">Pure Silver</span>
           </h2>
 
+          {/* 1. History & Roots */}
           <p className="text-gray-300 text-base sm:text-lg font-light leading-relaxed mb-6">
-            At Om Aradhana Silver, we bridge traditional Indian craftsmanship with modern luxury standards. Every masterpiece is meticulously curated to meet the elite tastes of premium retail showrooms across the nation.
+            Om Aradhana Silver is proudly headquartered in Ahmedabad, the vibrant hub driving our nationwide marketing and operations. However, our foundation is built on 25 years of relentless hard work and deep market expertise in Mumbai’s iconic Zaveri Bazaar. With our main command center in Ahmedabad and a strong secondary firm in Mumbai, we bridge unparalleled craftsmanship with a dynamic business spirit.
           </p>
 
-          <p className="text-gray-400 text-sm sm:text-base font-light leading-relaxed">
-            Our commitment to certified purity (999 & 92.5), transparent B2B relationships, and consistent high-volume supply makes us the most trusted wholesale partner for high-end jewellery counters.
+          {/* 2. Core Expertise */}
+          <p className="text-gray-400 text-base sm:text-lg font-light leading-relaxed mb-8">
+            As a leading B2B wholesaler, we don't just sell silver; we curate masterpieces. Our core expertise lies in crafting premium <strong className="text-gray-200 font-medium">999 Hollow Idols</strong> and intricately designed <strong className="text-gray-200 font-medium">92.5 Antique Jewellery</strong>. Whether through our massive ready-stock inventory or dedicated by-order manufacturing, we ensure every piece meets the elite tastes of retail showrooms.
           </p>
+
+          {/* 3. The Trust Banner (USP) */}
+          <div className="inline-flex flex-wrap justify-center items-center gap-3 sm:gap-6 pt-6 border-t border-[#d4af37]/20">
+            <span className="text-[#d4af37] text-sm sm:text-base font-medium tracking-wide">
+              100% Purity Guarantee
+            </span>
+            <span className="hidden sm:inline-block text-gray-600">•</span>
+            <span className="text-gray-300 text-sm sm:text-base font-medium tracking-wide">
+              2000+ Retail Partners
+            </span>
+            <span className="hidden sm:inline-block text-gray-600">•</span>
+            <span className="text-gray-300 text-sm sm:text-base font-medium tracking-wide">
+              Fast-Growing Supply Chain
+            </span>
+          </div>
         </motion.div>
 
       </div>

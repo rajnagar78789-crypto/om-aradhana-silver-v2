@@ -24,15 +24,16 @@ export default function WhyChooseUs() {
             {/* Trusted Badge */}
             <div className="inline-flex items-center gap-2 rounded-full border border-[#d4af37]/30 bg-[#d4af37]/10 px-4 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#d4af37] backdrop-blur-md mb-6 shadow-[0_0_15px_rgba(212,175,55,0.1)]">
               <span className="h-1.5 w-1.5 rounded-full bg-[#d4af37] animate-pulse" />
-              Trusted Since 2020
+              Established 2021
             </div>
 
             <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl text-white tracking-wide leading-tight mb-6">
               Trusted Wholesale Partner for <span className="text-[#d4af37] italic">Retail Jewellery</span> Showrooms
             </h2>
 
+            {/* 🚀 VIP B2B TEXT (Truth + Experience Combo) */}
             <p className="text-gray-300 text-sm md:text-base font-light leading-relaxed mb-8">
-              For over 5 years, Om Aradhana Silver has been helping retail jewellery showrooms across India with premium silver collections, reliable supply and long-term business partnerships built on trust and consistency.
+              Founded in 2021 and headquartered in Ahmedabad, Om Aradhana Silver is a dynamic, fast-growing B2B supply chain. While our firm represents the modern era of silver wholesale, our foundation is deeply rooted in the founders' 25 years of hands-on experience in Mumbai’s iconic Zaveri Bazaar. We bring decades of market mastery directly to your retail counters.
             </p>
 
             {/* CTA Button */}
@@ -61,10 +62,10 @@ export default function WhyChooseUs() {
               className="p-8 rounded-3xl border border-[#d4af37]/20 bg-black/40 backdrop-blur-md hover:border-[#d4af37] transition-all duration-500 shadow-xl group"
             >
               <h3 className="font-serif text-4xl md:text-5xl text-[#d4af37] mb-3 group-hover:scale-105 transform origin-left transition-transform duration-300">
-                2100+
+                2000+
               </h3>
               <h4 className="text-white text-xs font-bold uppercase tracking-[0.2em] mb-2">
-                Retail Showrooms
+                RETAIL PARTNERS
               </h4>
               <p className="text-gray-400 text-xs leading-relaxed">
                 Actively partnered across PAN India with consistent high-volume supply.
@@ -80,17 +81,17 @@ export default function WhyChooseUs() {
               className="p-8 rounded-3xl border border-[#d4af37]/20 bg-black/40 backdrop-blur-md hover:border-[#d4af37] transition-all duration-500 shadow-xl group"
             >
               <h3 className="font-serif text-4xl md:text-5xl text-[#d4af37] mb-3 group-hover:scale-105 transform origin-left transition-transform duration-300">
-                200+
+                100%
               </h3>
               <h4 className="text-white text-xs font-bold uppercase tracking-[0.2em] mb-2">
-                Premium Designs
+                Purity Guarantee
               </h4>
               <p className="text-gray-400 text-xs leading-relaxed">
-                Certified 999 & 92.5 silver masters crafted for elite counters.
+                Certified 999 Hollow Idols & 92.5 Antique silver crafted for elite counters.
               </p>
             </motion.div>
 
-            {/* Card 3 */}
+            {/* Card 3 (Founders Experience) */}
             <motion.div 
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -99,13 +100,13 @@ export default function WhyChooseUs() {
               className="p-8 rounded-3xl border border-[#d4af37]/20 bg-black/40 backdrop-blur-md hover:border-[#d4af37] transition-all duration-500 shadow-xl group"
             >
               <h3 className="font-serif text-4xl md:text-5xl text-[#d4af37] mb-3 group-hover:scale-105 transform origin-left transition-transform duration-300">
-                5+
+                25+
               </h3>
               <h4 className="text-white text-xs font-bold uppercase tracking-[0.2em] mb-2">
-                Years Experience
+                Years Expertise
               </h4>
               <p className="text-gray-400 text-xs leading-relaxed">
-                Deep expertise and absolute transparency in B2B wholesale silver trade.
+                Led by industry veterans with deep, hands-on market experience from Zaveri Bazaar.
               </p>
             </motion.div>
 
@@ -118,13 +119,13 @@ export default function WhyChooseUs() {
               className="p-8 rounded-3xl border border-[#d4af37]/20 bg-black/40 backdrop-blur-md hover:border-[#d4af37] transition-all duration-500 shadow-xl group"
             >
               <h3 className="font-serif text-3xl md:text-4xl text-[#d4af37] mb-3 pt-2 group-hover:scale-105 transform origin-left transition-transform duration-300">
-                PAN India
+                HQ: Ahmedabad
               </h3>
               <h4 className="text-white text-xs font-bold uppercase tracking-[0.2em] mb-2">
-                Reliable Network
+                PAN India Network
               </h4>
               <p className="text-gray-400 text-xs leading-relaxed">
-                Safe, secure, and insured express delivery straight to your store.
+                Safe, secure, and insured express delivery straight to your retail store.
               </p>
             </motion.div>
 

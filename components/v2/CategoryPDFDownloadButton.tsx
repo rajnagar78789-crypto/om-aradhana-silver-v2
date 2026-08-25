@@ -164,7 +164,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
             </div> 
             
             <div style="position: absolute; bottom: 10mm; left: 15mm; right: 15mm; text-align: center; font-size: 11px; color: #7A6B58; border-top: 1px solid #E6DEC9; padding-top: 5mm; font-weight: bold;">
-              <p style="margin:0;">Om Aradhana Silver | Trusted by 2100+ Showrooms | Pure 92.5 & Antique Jewellery</p>
+              <p style="margin:0;">Om Aradhana Silver | Trusted by 2000+ RETAIL PARTNERS | Pure 92.5 & Antique Jewellery</p>
               <p style="margin:4px 0 0 0; color: #C9A227; font-size: 12px;">WhatsApp / Call: +91 8879528201</p>
             </div>
             

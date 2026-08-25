@@ -79,7 +79,7 @@ export default function ProductInfoV2({
       <div className="space-y-4">
         <div className="inline-flex items-center gap-2 rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-4 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#8C6D18] backdrop-blur-md">
           <span className="h-1.5 w-1.5 rounded-full bg-[#C9A227] animate-pulse" />
-          Trusted by 2100+ Showrooms
+          Trusted by 2000+ RETAIL PARTNERS
         </div>
         
         <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-normal tracking-tight text-[#24050D] leading-[1.1]">

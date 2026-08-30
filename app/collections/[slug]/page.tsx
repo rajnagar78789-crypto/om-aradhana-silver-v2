@@ -89,7 +89,8 @@ export default async function CollectionPage({ params, searchParams }: Props) {
   const totalCount = localItems.length + sanityItems.length;
 
   return (
-    <main className="min-h-screen w-full overflow-x-hidden bg-[#FAF7F2] text-[#24050D]">
+    // 🔥 DUSHMAN MARA GAYA: `overflow-x-hidden` hatake `overflow-clip` lagaya 🔥
+    <main className="min-h-screen w-full overflow-clip bg-[#FAF7F2] text-[#24050D]">
       
       {/* 👇 SLEEK PREMIUM HEADER 👇 */}
       <section className="relative bg-[#24050D] text-[#F8F5F0] pt-6 pb-12 sm:pt-10 sm:pb-16 border-b border-[#C9A227]/20">
@@ -118,14 +119,14 @@ export default async function CollectionPage({ params, searchParams }: Props) {
             </div>
             
             {/* Maine isme 'name' hardcode kar diya hai, ab life mein kabhi undefined nahi aayega */}
-<CategoryPDFDownloadButton 
-  collection={{ 
-    ...collection, 
-    title: collection.title, 
-    name: collection.title || "Jewellery" 
-  } as any} 
-  items={(localItems.length > 0 ? localItems : sanityItems) as any} 
-/>
+            <CategoryPDFDownloadButton 
+              collection={{ 
+                ...collection, 
+                title: collection.title, 
+                name: collection.title || "Jewellery" 
+              } as any} 
+              items={(localItems.length > 0 ? localItems : sanityItems) as any} 
+            />
           </div>
           
         </div>

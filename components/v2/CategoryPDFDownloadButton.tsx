@@ -79,7 +79,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         const product = filteredItems[i];
         let base64 = null;
         if (product.imageUrl) {
-          const imgUrl = `${product.imageUrl}${product.imageUrl.includes('?') ? '&' : '?'}w=600&q=80`;
+          const imgUrl = `${product.imageUrl}${product.imageUrl.includes('?') ? '&' : '?'}w=400&q=75&fm=webp`;
           base64 = await getBase64ImageFromUrl(imgUrl);
         }
         itemsWithBase64.push({ ...product, base64 });
@@ -99,73 +99,88 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
       const ITEMS_PER_PAGE = 4;
       const totalPages = Math.ceil(itemsWithBase64.length / ITEMS_PER_PAGE);
 
-      let htmlString = `<div style="width: 210mm; background-color: #FAF7F2; font-family: sans-serif;">`; 
+      let htmlString = `<div style="width: 210mm; background-color: #FDFBF7; font-family: Arial, sans-serif;">`; 
 
       for (let page = 0; page < totalPages; page++) {
         const pageItems = itemsWithBase64.slice(page * ITEMS_PER_PAGE, (page + 1) * ITEMS_PER_PAGE);
 
         htmlString += `
-          <div class="pdf-page" style="width: 210mm; height: 295mm; padding: 12mm 15mm; box-sizing: border-box; background-color: #FAF7F2; position: relative; overflow: hidden;">
+          <div class="pdf-page" style="width: 210mm; height: 295mm; box-sizing: border-box; background-color: #FDFBF7; position: relative; overflow: hidden;">
             
-            <div style="text-align: center; border-bottom: 2px solid #C9A227; padding-bottom: 5mm; margin-bottom: 8mm;">
-              <h1 style="color: #24050D; font-size: 28px; margin: 0; font-weight: bold; font-family: serif;">OM ARADHANA SILVER</h1>
-              <p style="color: #C9A227; font-size: 14px; text-transform: uppercase; letter-spacing: 0.15em; margin: 4px 0 0 0; font-weight: bold;">
+            <div style="background-color: #24050D; padding: 25px 0; text-align: center; border-bottom: 3px solid #C9A227;">
+              <h1 style="color: #F8F5F0; font-family: 'Times New Roman', serif; font-size: 34px; letter-spacing: 5px; margin: 0; font-weight: normal; text-transform: uppercase;">
+                Om Aradhana Silver
+              </h1>
+              <p style="color: #C9A227; font-size: 11px; letter-spacing: 3px; margin: 10px 0 0 0; text-transform: uppercase; font-weight: bold;">
                 ${titlePrefix} CATALOG
-              </p>
-              <p style="color: #6B5B52; font-size: 10px; margin: 4px 0 0 0;">
-                ${collection.name || collection.title || "Premium Collection"} &nbsp;|&nbsp; Click any product to order on WhatsApp &nbsp;|&nbsp; Page ${page + 1} of ${totalPages}
               </p>
             </div>
             
-            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10mm; height: 215mm;">
+            <div style="padding: 10mm 15mm; display: grid; grid-template-columns: repeat(2, 1fr); gap: 12mm; height: 220mm;">
         `;
 
         pageItems.forEach((product) => {
-          const prodName = product.title || product.name || 'Untitled';
+          const prodName = product.title || product.name || 'Untitled Design';
           const prodCode = product.code || product.sku || 'N/A';
           const prodWeight = product.weight || '-';
-          const imgLink = product.imageUrl ? product.imageUrl : 'No image link';
+          const imgLink = product.imageUrl ? product.imageUrl : '#'; // HD Original Image
 
           const whatsappMessage = `Hello Om Aradhana Silver, I want to inquire about this product from your catalog:\n\n*Product:* ${prodName}\n*Code:* ${prodCode}\n*Weight:* ${prodWeight}\n*Image:* ${imgLink}`;
           const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(whatsappMessage)}`;
 
+          // 🔥 MAGIC HERE: Image alag link (High Res Zoom) par jayegi, Button alag link (WhatsApp) par jayega
           htmlString += `
-              <a href="${whatsappUrl}" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #E6DEC9; border-radius: 8px; padding: 15px; background: #ffffff; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); box-sizing: border-box; display: flex; flex-direction: column;">
+              <div style="display: flex; flex-direction: column; background: #ffffff; border: 1px solid #EAE1D0; padding: 12px; height: 100%; box-sizing: border-box;">
                 
-                <div style="height: 190px; width: 100%; display: flex; align-items: center; justify-content: center; margin-bottom: 12px; background: #FAF7F2; border-radius: 6px;">
+                <!-- 1. IMAGE: CLICKS TO OPEN FULL RESOLUTION ZOOMABLE IMAGE -->
+                <a href="${imgLink}" target="_blank" title="Click to view full image" style="text-decoration: none; height: 220px; width: 100%; display: flex; align-items: center; justify-content: center; margin-bottom: 15px; background: #FDFBF7;">
                   ${
                     product.base64 
-                      ? `<img src="${product.base64}" style="max-height: 180px; max-width: 100%; object-fit: contain;" />`
-                      : `<span style="color: #C9A227; font-size: 14px; font-weight: bold;">No Image</span>`
+                      ? `<img src="${product.base64}" style="max-height: 220px; max-width: 100%; object-fit: contain;" />`
+                      : `<span style="color: #C9A227; font-size: 14px; font-style: italic; font-family: serif;">Image Unavailable</span>`
                   }
-                </div>
+                </a>
                 
-                <h3 style="font-size: 18px; color: #24050D; margin: 0 0 5px 0; font-weight: bold; font-family: serif; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                  ${prodName}
-                </h3>
-                <p style="font-size: 14px; color: #5A1020; margin: 0 0 4px 0; font-weight: bold;">
-                  Code: ${prodCode}
-                </p>
-                <p style="font-size: 12px; color: #7A6B58; margin: 0 0 10px 0; font-weight: bold;">
-                  Wt: ${prodWeight}
-                </p>
+                <div style="text-align: center; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                  <div>
+                    <h3 style="font-family: 'Times New Roman', serif; font-size: 18px; color: #24050D; margin: 0 0 8px 0; font-weight: normal; letter-spacing: 0.5px; line-height: 1.2;">
+                      ${prodName}
+                    </h3>
+                    <div style="width: 30px; height: 1px; background-color: #C9A227; margin: 0 auto 8px auto;"></div>
+                    <p style="font-size: 10px; color: #6B5B52; margin: 0 0 4px 0; letter-spacing: 1px; text-transform: uppercase;">
+                      CODE: <span style="color: #24050D; font-weight: bold;">${prodCode}</span>
+                    </p>
+                    <p style="font-size: 10px; color: #6B5B52; margin: 0; letter-spacing: 1px; text-transform: uppercase;">
+                      WEIGHT: <span style="color: #24050D; font-weight: bold;">${prodWeight}</span>
+                    </p>
+                  </div>
 
-                <div style="margin-top: auto; padding-top: 5px;">
-                  <span style="background-color: #25D366; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1em; display: inline-block; border: 1px solid #1EBE57;">
-                    💬 Order on WhatsApp
-                  </span>
+                  <!-- 2. BUTTON: CLICKS TO OPEN WHATSAPP -->
+                  <a href="${whatsappUrl}" target="_blank" style="margin-top: 15px; text-decoration: none; display: block;">
+                    <span style="display: block; background-color: #24050D; color: #C9A227; padding: 10px 0; font-size: 9px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; border: 1px solid #C9A227;">
+                      Inquire on WhatsApp
+                    </span>
+                  </a>
                 </div>
 
-              </a>
+              </div>
           `;
         });
 
         htmlString += `
             </div> 
             
-            <div style="position: absolute; bottom: 10mm; left: 15mm; right: 15mm; text-align: center; font-size: 11px; color: #7A6B58; border-top: 1px solid #E6DEC9; padding-top: 5mm; font-weight: bold;">
-              <p style="margin:0;">Om Aradhana Silver | Trusted by 2000+ RETAIL PARTNERS | Pure 92.5 & Antique Jewellery</p>
-              <p style="margin:4px 0 0 0; color: #C9A227; font-size: 12px;">WhatsApp / Call: +91 8879528201</p>
+            <!-- LUXURY FOOTER -->
+            <div style="position: absolute; bottom: 0; left: 0; right: 0; background-color: #24050D; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; border-top: 2px solid #C9A227;">
+              <span style="color: #F8F5F0; font-size: 9px; letter-spacing: 1px; text-transform: uppercase;">
+                Click image to zoom | Click button to order
+              </span>
+              <span style="color: #C9A227; font-size: 11px; font-weight: bold; letter-spacing: 1px;">
+                +91 8879528201
+              </span>
+              <span style="color: #F8F5F0; font-size: 9px; letter-spacing: 1px; text-transform: uppercase;">
+                Page ${page + 1} of ${totalPages}
+              </span>
             </div>
             
           </div>
@@ -184,11 +199,12 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
       
       const options = {
         margin: 0, 
-        filename: `OmAradhana_${safeName}_Order_Now.pdf`,
-        image: { type: 'jpeg', quality: 0.95 }, 
+        filename: `OmAradhana_${safeName}_Catalog.pdf`,
+        image: { type: 'jpeg', quality: 0.85 }, 
         pagebreak: { mode: ['css', 'legacy'] }, 
-        html2canvas: { scale: 2, useCORS: true, logging: false }, 
-        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' } 
+        html2canvas: { scale: 1.5, useCORS: true, logging: false }, 
+        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+        enableLinks: true // Ensures Links work perfectly in PDF
       };
 
       await html2pdf().from(htmlString).set(options).save();
@@ -204,7 +220,6 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
   };
 
   return (
-    // 👇 FIX 1: Container se saare "z-index" aur "relative" hata diye taaki wo modal ko kaid na kar sake
     <div className="flex flex-col items-center sm:items-end gap-2.5">
       
       <button
@@ -236,9 +251,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
         </div>
       )}
 
-      {/* 🌟 ADVANCED MULTI-SELECT POPUP MODAL 🌟 */}
       {isModalOpen && (
-        // 👇 FIX 2: Modal ko "fixed" ke saath "z-[99999]" de diya. Website ka Header 50 par hota hai, yeh Header ke bhi baap ke upar aayega!
         <div 
           className="fixed inset-0 flex items-center justify-center bg-black/80 backdrop-blur-md p-4 text-left"
           style={{ zIndex: 99999 }}
@@ -263,7 +276,7 @@ export default function CategoryPDFDownloadButton({ collection, items }: { colle
               <div className="bg-[#C9A227]/10 border border-[#C9A227]/30 p-3 rounded-xl mb-5 flex gap-3 items-start">
                 <span className="text-xl">💡</span>
                 <p className="text-[#6B5B52] text-xs font-medium leading-relaxed">
-                  The downloaded PDF will be interactive. You can click on any product photo in the PDF to order it directly on WhatsApp.
+                  The downloaded PDF will be interactive. You can click on any product photo in the PDF to view/zoom it, or click the button to order it on WhatsApp.
                 </p>
               </div>
               

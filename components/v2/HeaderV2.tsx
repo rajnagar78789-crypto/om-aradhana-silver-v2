@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { Menu, X } from "lucide-react";
+import { usePathname } from "next/navigation"; 
 
 const navLinks = [
   { name: "Home", href: "/" },
@@ -16,6 +17,10 @@ const navLinks = [
 export default function HeaderV2() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  
+  const pathname = usePathname(); 
+
+  const isProductPage = pathname?.includes("/product");
 
   useEffect(() => {
     const handleScroll = () => {
@@ -26,14 +31,15 @@ export default function HeaderV2() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  // 🔥 MAGIC HERE: Agar Product page hai toh 'absolute' (scroll hoke gayab ho jayega), warna 'fixed' (chipka rahega)
   return (
     <header
-  className={`fixed top-4 left-1/2 z-[9999] pointer-events-auto w-[96%] max-w-7xl -translate-x-1/2 rounded-2xl transition-all duration-500 ${
-    scrolled
-      ? "border border-white/60 bg-white/85 shadow-[0_20px_50px_rgba(0,0,0,0.1)] backdrop-blur-2xl"
-      : "border border-white/30 bg-white/70 shadow-[0_10px_30px_rgba(0,0,0,0.05)] backdrop-blur-xl"
-  }`}
->
+      className={`${isProductPage ? "absolute" : "fixed"} top-4 left-1/2 z-[9999] pointer-events-auto w-[96%] max-w-7xl -translate-x-1/2 rounded-2xl transition-all duration-500 ${
+        scrolled && !isProductPage
+          ? "border border-white/60 bg-white/85 shadow-[0_20px_50px_rgba(0,0,0,0.1)] backdrop-blur-2xl"
+          : "border border-white/30 bg-white/70 shadow-[0_10px_30px_rgba(0,0,0,0.05)] backdrop-blur-xl"
+      }`}
+    >
       <div className="mx-auto flex h-[76px] max-w-7xl items-center justify-between px-6">
         
         {/* Logo */}

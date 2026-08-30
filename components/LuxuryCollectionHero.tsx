@@ -1,8 +1,5 @@
-'use client' 
-
-import Image from "next/image";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import Image from "next/image";
 
 type Props = {
   title: string;
@@ -11,135 +8,100 @@ type Props = {
   backUrl: string;
 };
 
-export default function LuxuryCollectionHero({
-  title,
-  description,
-  image,
-  backUrl,
-}: Props) {
-  
-  const whatsappNumber = "918879528201";
-  const whatsappMessage = encodeURIComponent(
-    `Hello, I am interested in wholesale catalogue for ${title} collection.`
-  );
-  const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
-
+export default function LuxuryCollectionHero({ title, description, image, backUrl }: Props) {
   return (
-    <section className="relative overflow-hidden bg-[#150d11] text-white min-h-[90vh] flex items-center">
+    // 🔥 PADDING KAM KI HAI (pt-6 pb-10) TAAKI SPACE NA KHAYE
+    <section className="relative w-full bg-[#150d11] pt-6 pb-12 lg:pt-10 lg:pb-16 overflow-hidden">
       
-      {/* BACKGROUND EFFECTS */}
-      <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute -left-20 md:-left-52 top-10 md:top-20 h-[300px] md:h-[600px] w-[300px] md:w-[600px] rounded-full bg-[#d4af37]/10 blur-[100px] md:blur-[150px]" />
-        <div className="absolute right-[-50px] md:right-[-100px] top-10 h-[300px] md:h-[500px] w-[300px] md:w-[500px] rounded-full bg-[#d4af37]/10 blur-[100px] md:blur-[150px]" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,#150d11_100%)] opacity-80" />
-      </div>
+      {/* Subtle VIP Glow (Background me halki si gold chamak) */}
+      <div className="absolute top-0 right-1/4 w-[500px] h-[500px] bg-[#d4af37]/5 rounded-full blur-[120px] pointer-events-none" />
 
-      {/* MAIN CONTAINER - 🔥 Added proper mobile padding (px-5) */}
-      <div className="relative mx-auto grid max-w-[1500px] items-center gap-10 md:gap-12 px-5 pt-20 pb-16 lg:grid-cols-2 md:px-14 md:pt-24 md:pb-24">
+      <div className="relative z-10 mx-auto max-w-[1440px] px-6 lg:px-16">
         
-        {/* LEFT CONTENT */}
-        <motion.div 
-          initial={{ opacity: 0, x: -20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.8, ease: "easeOut" }}
-          className="relative z-10 w-full"
+        {/* Back Button (Ekdum sleek) */}
+        <Link
+          href={backUrl}
+          className="inline-flex items-center gap-2 text-[10px] font-bold uppercase tracking-[0.2em] text-[#d4af37] transition-colors hover:text-white"
         >
-          <Link
-            href={backUrl}
-            className="group inline-flex items-center gap-2 md:gap-3 text-[10px] md:text-xs font-light uppercase tracking-widest text-[#d4af37]/70 transition-colors hover:text-[#d4af37]"
-          >
-            <span className="transition-transform duration-300 group-hover:-translate-x-1">←</span> 
-            Back to Collection
-          </Link>
+          <span>&larr;</span> Back to Collection
+        </Link>
 
-          {/* 🔥 Mobile par text size 5xl, Desktop par 8xl */}
-          <h1 className="mt-6 md:mt-8 font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-normal leading-[1.1] tracking-tight text-white drop-shadow-[0_10px_30px_rgba(212,175,55,0.15)]">
-            {title}
-          </h1>
-
-          <div className="mt-6 md:mt-8 flex items-center gap-3 md:gap-4">
-            <div className="h-[2px] w-12 md:w-16 bg-[#d4af37]" />
-            <span className="text-[10px] md:text-xs uppercase tracking-[0.3em] font-semibold text-[#d4af37]">Masterpiece</span>
-          </div>
-
-          <p className="mt-6 md:mt-8 max-w-xl text-base md:text-lg lg:text-xl font-light leading-relaxed text-[#e5e5e5]/80 pr-2">
-            {description}
-          </p>
-
-          {/* 🔥 Mobile par padding kam ki hai (p-4 instead of p-6) */}
-          <div className="mt-8 md:mt-12 grid grid-cols-3 gap-1 md:gap-2 rounded-2xl border border-[#d4af37]/20 bg-black/40 p-4 md:p-6 backdrop-blur-md shadow-[0_15px_40px_rgba(0,0,0,0.5)]">
-            <div className="text-center">
-              <p className="text-lg md:text-2xl text-[#d4af37]">✦</p>
-              <p className="mt-2 md:mt-3 text-[8px] md:text-[10px] lg:text-xs font-semibold uppercase tracking-wider text-gray-300">
-                100%<br />Hallmarked
-              </p>
-            </div>
-
-            <div className="border-x border-[#d4af37]/20 text-center">
-              <p className="text-lg md:text-2xl text-[#d4af37]">◈</p>
-              <p className="mt-2 md:mt-3 text-[8px] md:text-[10px] lg:text-xs font-semibold uppercase tracking-wider text-gray-300">
-                Premium<br />Finishing
-              </p>
-            </div>
-
-            <div className="text-center">
-              <p className="text-lg md:text-2xl text-[#d4af37]">✤</p>
-              <p className="mt-2 md:mt-3 text-[8px] md:text-[10px] lg:text-xs font-semibold uppercase tracking-wider text-gray-300">
-                Expert<br />Artisans
-              </p>
-            </div>
-          </div>
-
-          {/* 🔥 Mobile par button full width (w-full) aur center aligned hoga */}
-          <div className="pt-2 mt-8 md:mt-8 w-full">
-            <a
-              href={whatsappUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group flex w-full md:w-max items-center justify-between gap-4 md:gap-6 rounded-full border border-[#d4af37] bg-transparent px-6 md:px-8 py-3 md:py-4 transition-all duration-500 hover:bg-[#d4af37] hover:shadow-[0_0_30px_rgba(212,175,55,0.25)]"
-            >
-              <span className="text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] text-[#d4af37] transition-colors duration-500 group-hover:text-black">
-                Enquire on WhatsApp
-              </span>
-              
-              <span className="flex h-8 w-8 md:h-10 md:w-10 items-center justify-center rounded-full bg-[#d4af37] text-black transition-all duration-500 group-hover:bg-black group-hover:text-[#d4af37] shrink-0">
-                <svg className="h-4 w-4 md:h-5 md:w-5 translate-x-0 transition-transform duration-500 group-hover:translate-x-1 fill-current" viewBox="0 0 24 24">
-                  <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </motion.div>
-
-        {/* RIGHT IMAGE - Mobile height fixed */}
-        <motion.div 
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1, ease: "easeOut" }}
-          className="relative flex justify-center items-center mt-6 md:mt-10 lg:mt-0"
-        >
-          <div className="absolute h-[300px] md:h-[500px] w-[300px] md:w-[500px] rounded-full bg-[#d4af37]/15 blur-[80px] md:blur-[120px]" />
-
-          {/* 🔥 Mobile par image height kam ki hai (h-[350px]) */}
-          <div 
-            className="relative h-[350px] sm:h-[450px] lg:h-[650px] w-full max-w-lg"
-            style={{ 
-              WebkitMaskImage: "radial-gradient(ellipse at center, black 55%, transparent 85%)", 
-              maskImage: "radial-gradient(ellipse at center, black 55%, transparent 85%)" 
-            }}
-          >
-            <Image
-              src={image}
-              alt={title}
-              fill
-              priority
-              className="object-contain"
-            />
-          </div>
+        {/* EKDUM COMPACT AUR LUXURY GRID */}
+        <div className="mt-6 flex flex-col lg:flex-row items-center justify-between gap-10 lg:gap-8">
           
-          <div className="absolute -bottom-2 md:-bottom-5 left-1/2 h-6 md:h-10 w-32 md:w-48 -translate-x-1/2 rounded-[100%] bg-white/20 blur-xl md:blur-2xl" />
-        </motion.div>
+          {/* LEFT CONTENT (60% width) */}
+          <div className="w-full lg:w-3/5">
+            <h1 className="font-serif text-5xl lg:text-7xl text-white drop-shadow-md">
+              {title}
+            </h1>
+            
+            <div className="mt-5 flex items-center gap-4">
+              <div className="h-[1px] w-12 bg-[#d4af37]" />
+              <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#d4af37]">
+                Masterpiece
+              </span>
+            </div>
 
+            <p className="mt-5 max-w-lg text-sm lg:text-base font-light leading-relaxed text-gray-400">
+              {description}
+            </p>
+
+            {/* 🌟 CLASSY INLINE FEATURES (Bada kaala dabba hata diya, ab ekdum clean lagega!) */}
+            <div className="mt-8 flex flex-wrap items-center gap-4 sm:gap-5 text-[10px] font-bold uppercase tracking-[0.15em] text-[#d4af37]/80">
+              <div className="flex items-center gap-2">
+                <span className="text-[#d4af37] text-lg">✦</span>
+                <span>100% Hallmarked</span>
+              </div>
+              <span className="w-1 h-1 rounded-full bg-[#d4af37]/30" />
+              <div className="flex items-center gap-2">
+                <span className="text-[#d4af37] text-lg">✦</span>
+                <span>Premium Finishing</span>
+              </div>
+              <span className="w-1 h-1 rounded-full bg-[#d4af37]/30" />
+              <div className="flex items-center gap-2">
+                <span className="text-[#d4af37] text-lg">✦</span>
+                <span>Expert Artisans</span>
+              </div>
+            </div>
+
+            {/* Sleek WhatsApp Button (Gold outline se bhara hua) */}
+            <div className="mt-10">
+              <a
+                href="https://wa.me/918879528201" 
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-3 rounded-full border border-[#d4af37] bg-transparent px-8 py-3 transition-all duration-500 hover:bg-[#d4af37] hover:shadow-[0_0_20px_rgba(212,175,55,0.3)] group"
+              >
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-[#d4af37] transition-colors group-hover:text-black">
+                  Enquire on WhatsApp
+                </span>
+                <svg className="w-4 h-4 text-[#d4af37] transition-colors group-hover:text-black" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12.031 0C5.385 0 0 5.385 0 12.031c0 2.12.548 4.17 1.59 5.987L.05 24l6.155-1.55A11.956 11.956 0 0012.031 24c6.646 0 12.031-5.385 12.031-12.031S18.677 0 12.031 0zm3.328 17.37c-.15.424-.87.818-1.22.868-.328.048-.755.138-2.45-.563-2.038-.84-3.34-2.91-3.44-3.045-.1-.135-.823-1.096-.823-2.09 0-.995.518-1.485.703-1.685.185-.2.4-.25.535-.25.135 0 .27.005.39.01.125.005.295-.048.46.35.17.405.58 1.425.63 1.525.05.1.085.215.015.355-.07.14-.105.225-.21.345-.105.12-.22.255-.31.365-.1.11-.205.225-.09.425.115.2.515.855 1.105 1.385.76.685 1.4 2.895 1.6 3.095z" />
+                </svg>
+              </a>
+            </div>
+          </div>
+
+          {/* RIGHT IMAGE (40% width) - Sleek Aspect Ratio & VIP Border */}
+          <div className="w-full lg:w-2/5 flex justify-center lg:justify-end">
+            <div className="relative w-full max-w-[380px] aspect-[4/3] rounded-[24px] overflow-hidden border border-[#d4af37]/30 shadow-[0_20px_50px_rgba(0,0,0,0.5),_0_0_30px_rgba(212,175,55,0.15)] group">
+              {/* Premium Gradient Overlay */}
+              <div className="absolute inset-0 bg-gradient-to-t from-[#150d11] via-transparent to-transparent opacity-60 z-10 pointer-events-none" />
+              
+              <Image
+                src={image}
+                alt={title}
+                fill
+                className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+              />
+              
+              {/* Subtle Gold Corner Accents (Royal touch) */}
+              <div className="absolute top-4 left-4 w-4 h-4 border-t border-l border-[#d4af37]/60 z-20" />
+              <div className="absolute bottom-4 right-4 w-4 h-4 border-b border-r border-[#d4af37]/60 z-20" />
+            </div>
+          </div>
+
+        </div>
       </div>
     </section>
   );

@@ -6,7 +6,6 @@ import Image from "next/image";
 
 export default function FilteredSanityGrid({ items, activeCategory = "All" }: { items: any[], activeCategory?: string }) {
   
-  // 'Necklace Set' ko block kiya
   const safeItems = items.filter((item) => {
     if (!item.subCategory) return true;
     const catName = item.subCategory.toLowerCase().replace(/-/g, " ");
@@ -25,7 +24,6 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
         return aud === activeAudience.toLowerCase();
       });
 
-  // 👇 YAHAN JADOO HAI: "Juda", "juda", "Juda " sabko ek jaisa banake duplicate hata diya
   const availableCategories = Array.from(
     new Set(
       audienceFilteredItems
@@ -66,10 +64,13 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
   if (safeItems.length === 0) return null;
 
   return (
-    <div className="space-y-8 sm:space-y-10">
+    <div className="space-y-4 sm:space-y-8 relative">
       
-      <div className="flex justify-center mb-4">
-        <div className="inline-flex items-center bg-white border border-[#E6DEC9] p-1.5 rounded-full shadow-sm">
+      {/* 🔥 THE MAGIC: 1-LINE COMPACT STICKY TOOLBAR 🔥 */}
+      <div className="sticky top-[80px] z-40 w-full bg-[#FAF7F2]/95 backdrop-blur-md py-2.5 sm:py-3 border-b border-[#E6DEC9]/60 shadow-[0_4px_15px_rgba(36,5,13,0.03)] -mx-4 px-4 sm:mx-0 sm:px-6 sm:rounded-b-2xl flex items-center gap-3 sm:gap-5 overflow-x-auto [&::-webkit-scrollbar]:hidden [-ms-overflow-style:'none'] [scrollbar-width:'none']">
+        
+        {/* 1. Audience Buttons (Compact) */}
+        <div className="inline-flex items-center bg-white border border-[#E6DEC9] p-1 rounded-full shadow-sm shrink-0">
           {["All", "Womens", "Mens", "Kids"].map((aud) => (
             <button
               key={aud}
@@ -78,9 +79,9 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
                 setActiveTab("All"); 
                 setWeightFilter("All Weights");
               }}
-              className={`px-6 py-2.5 rounded-full text-[12px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
+              className={`px-3 sm:px-4 py-1.5 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
                 activeAudience === aud
-                  ? "bg-[#24050D] text-[#C9A227] shadow-md"
+                  ? "bg-[#24050D] text-[#C9A227] shadow-sm"
                   : "text-[#6B5B52] hover:text-[#24050D] bg-transparent"
               }`}
             >
@@ -88,17 +89,18 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
             </button>
           ))}
         </div>
-      </div>
 
-      <div className="relative z-20 flex flex-col items-center justify-center gap-5">
-        
+        {/* Divider (Hidden on very small screens) */}
+        <div className="hidden sm:block w-[1px] h-6 bg-[#E6DEC9] shrink-0"></div>
+
+        {/* 2. Category Buttons (Compact) */}
         {availableCategories.length > 0 && (
-          <div className="flex flex-wrap items-center justify-center gap-3">
+          <div className="flex items-center gap-2 shrink-0">
             <button
               onClick={() => setActiveTab("All")}
-              className={`rounded-full px-5 py-2.5 text-[11px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
+              className={`rounded-full px-4 py-1.5 text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.15em] transition-all duration-300 ${
                 activeTab.toLowerCase() === "all" 
-                  ? "bg-[#C9A227] text-[#24050D] shadow-[0_4px_20px_rgba(201,162,39,0.3)] scale-105" 
+                  ? "bg-[#C9A227] text-[#24050D] shadow-sm scale-[1.02]" 
                   : "bg-white border border-[#E6DEC9] text-[#6B5B52] hover:border-[#C9A227] hover:text-[#C9A227]"
               }`}
             >
@@ -114,9 +116,9 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
                 <button
                   key={cat}
                   onClick={() => setActiveTab(cat)}
-                  className={`rounded-full px-5 py-2.5 text-[11px] font-bold uppercase tracking-[0.15em] transition-all duration-300 capitalize ${
+                  className={`rounded-full px-4 py-1.5 text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.15em] transition-all duration-300 capitalize whitespace-nowrap ${
                     isActive 
-                      ? "bg-[#C9A227] text-[#24050D] shadow-[0_4px_20px_rgba(201,162,39,0.3)] scale-105" 
+                      ? "bg-[#C9A227] text-[#24050D] shadow-sm scale-[1.02]" 
                       : "bg-white border border-[#E6DEC9] text-[#6B5B52] hover:border-[#C9A227] hover:text-[#C9A227]"
                   }`}
                 >
@@ -127,12 +129,15 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
           </div>
         )}
 
-        <div className="flex items-center gap-2">
-          <span className="text-[11px] font-bold text-[#C9A227] uppercase tracking-wider bg-[#C9A227]/10 px-3 py-1.5 rounded-full">Filter by Weight:</span>
+        {/* Divider */}
+        <div className="hidden sm:block w-[1px] h-6 bg-[#E6DEC9] shrink-0"></div>
+
+        {/* 3. Weight Filter (Compact) */}
+        <div className="flex items-center gap-2 shrink-0 pr-4 sm:pr-0">
           <select
             value={weightFilter}
             onChange={(e) => setWeightFilter(e.target.value)}
-            className="px-4 py-2 rounded-full border border-[#E6DEC9] text-[#24050D] bg-white text-[11px] font-bold uppercase tracking-[0.1em] focus:outline-none focus:border-[#C9A227] focus:ring-1 focus:ring-[#C9A227] cursor-pointer shadow-sm transition-all"
+            className="px-3 py-1.5 rounded-full border border-[#E6DEC9] text-[#24050D] bg-white text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.1em] focus:outline-none focus:border-[#C9A227] focus:ring-1 focus:ring-[#C9A227] cursor-pointer shadow-sm transition-all"
           >
             <option value="All Weights">⚖️ All Weights</option>
             <option value="Under 20g">Under 20g</option>
@@ -142,9 +147,11 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
           </select>
         </div>
 
-      </div>
+      </div> 
+      {/* 🔥 STICKY WRAPPER ENDS HERE 🔥 */}
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 sm:gap-8 pt-4">
+      {/* Grid of Products */}
+      <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6 lg:gap-8 pt-2">
         {finalFilteredItems.length > 0 ? (
           finalFilteredItems.map((item: any) => (
             <Link 
@@ -152,7 +159,7 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
               href={`/products/${item._id}`}
               className="group relative rounded-2xl bg-gradient-to-b from-white to-[#FAF7F2] border border-[#E6DEC9] overflow-hidden shadow-[0_4px_15px_rgba(36,5,13,0.03)] hover:shadow-[0_15px_35px_rgba(201,162,39,0.15)] hover:border-[#C9A227]/60 transition-all duration-500 block"
             >
-              <div className="relative w-full h-72 bg-[#FAF7F2] overflow-hidden">
+              <div className="relative w-full aspect-square bg-[#FAF7F2] overflow-hidden">
                 <Image
                   src={`${item.imageUrl}${item.imageUrl.includes('?') ? '&' : '?'}w=1000&q=100&auto=format&fm=webp&dpr=2&sharp=15`}
                   alt={item.title}
@@ -164,28 +171,28 @@ export default function FilteredSanityGrid({ items, activeCategory = "All" }: { 
                 />
                 
                 <div className="absolute inset-0 bg-[#24050D]/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center backdrop-blur-[2px]">
-                  <div className="bg-white/95 text-[#24050D] px-5 py-2.5 rounded-full text-[10px] font-bold uppercase tracking-[0.2em] transform translate-y-4 group-hover:translate-y-0 transition-all duration-300 shadow-xl">
+                  <div className="bg-white/95 text-[#24050D] px-5 py-2.5 rounded-full text-[10px] font-bold uppercase tracking-[0.2em] transform translate-y-4 group-hover:translate-y-0 transition-all duration-300 shadow-xl hidden sm:block">
                     View Details
                   </div>
                 </div>
               </div>
               
-              <div className="p-5 relative">
+              <div className="p-4 sm:p-5 relative">
                 <div className="absolute top-0 left-6 right-6 h-[1px] bg-gradient-to-r from-transparent via-[#C9A227]/30 to-transparent"></div>
                 
-                <div className="flex items-center justify-between mb-3.5 mt-1">
-                  <span className="text-[9px] font-bold uppercase tracking-[0.15em] text-[#24050D] bg-[#C9A227]/20 border border-[#C9A227]/30 px-2.5 py-1 rounded-md">
+                <div className="flex flex-wrap items-center justify-between gap-2 mb-2 sm:mb-3.5 mt-1">
+                  <span className="text-[9px] font-bold uppercase tracking-[0.15em] text-[#24050D] bg-[#C9A227]/20 border border-[#C9A227]/30 px-2 py-1 sm:px-2.5 sm:py-1 rounded-md">
                     {item.code}
                   </span>
                   
                   {item.weight && (
-                    <span className="text-[10px] font-semibold tracking-wide text-[#6B5B52] bg-white border border-[#E6DEC9] px-2.5 py-1 rounded-md shadow-sm flex items-center gap-1">
+                    <span className="text-[9px] sm:text-[10px] font-semibold tracking-wide text-[#6B5B52] bg-white border border-[#E6DEC9] px-2 py-1 sm:px-2.5 sm:py-1 rounded-md shadow-sm flex items-center gap-1">
                       <span className="text-[#C9A227]">⚖️</span> {item.weight}
                     </span>
                   )}
                 </div>
                 
-                <h3 className="font-serif text-lg font-medium text-[#24050D] line-clamp-1 group-hover:text-[#C9A227] transition-colors duration-300">
+                <h3 className="font-serif text-sm sm:text-lg font-medium text-[#24050D] line-clamp-1 group-hover:text-[#C9A227] transition-colors duration-300">
                   {item.title}
                 </h3>
               </div>

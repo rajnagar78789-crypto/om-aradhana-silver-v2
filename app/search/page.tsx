@@ -15,10 +15,10 @@ export default function SearchPage() {
   useEffect(() => {
     async function fetchProducts() {
       try {
-        // 🔥 THE ULTIMATE FIX: '...' use kiya hai! 
-        // Iska matlab Sanity ko bola: "Bhai tere andar jo bhi field hai, chahe uska naam title ho, name ho, code ho, sku ho, chintu ho... SAB DE DE!"
-        const sanityQuery = `*[_type == "product"][0...10000] {
+        // 🔥 THE ULTIMATE FIX: Ab yeh "product" aur "idol" dono ko uthayega!
+        const sanityQuery = `*[_type in ["product", "idol"]][0...10000] {
           ..., 
+          _id,
           "slug": slug.current,
           "singleImage": image.asset->url,        
           "mainImage": mainImage.asset->url,      
@@ -45,12 +45,11 @@ export default function SearchPage() {
     const cleanSearchTerm = rawSearchTerm.replace(/[^a-z0-9]/g, ""); 
 
     return products.filter((product) => {
-      // Ab product ki HAR EK DETAIL array me daal denge, chahe uska jo bhi naam ho!
       const allTextData = [
         product.name || "",
-        product.title || "",       // Pukka tere Sanity me title hoga!
+        product.title || "",      
         product.sku || "",
-        product.code || "",        // Pukka tere Sanity me code hoga!
+        product.code || "",        
         product.productCode || "",
         product.itemCode || "",
         product.category || "",     
@@ -59,12 +58,10 @@ export default function SearchPage() {
         ...(product.tags || [])
       ].join(" ").toLowerCase();
 
-      // Check 1: Normal Exact Match
       if (allTextData.includes(rawSearchTerm)) {
         return true;
       }
 
-      // Check 2: Aggressive match (Saare hyphens hata kar check karna)
       const compressedTextData = allTextData.replace(/[^a-z0-9]/g, "");
       if (compressedTextData.includes(cleanSearchTerm)) {
         return true;
@@ -167,10 +164,13 @@ export default function SearchPage() {
                 product.mainImage || 
                 (product.imagesArray && product.imagesArray.length > 0 ? product.imagesArray[0].url : null);
 
+              // 🔥 YAHAN LINK FIX KIYA HAI! Agar slug nahi hai toh _id pass hoga
+              const finalSlug = product.slug || product._id;
+              
               return (
                 <Link
                   key={product._id || index}
-                  href={product.slug ? `/products/${product.slug}` : "#"}
+                  href={finalSlug ? `/products/${finalSlug}` : "#"}
                   className="group overflow-hidden rounded-3xl border border-[#E6DEC9] bg-white transition-all duration-500 hover:-translate-y-1 hover:border-[#C9A227]/50 hover:shadow-[0_20px_40px_rgba(36,5,13,0.08)]"
                 >
                   <div className="relative aspect-square overflow-hidden bg-[#FAF7F2]">

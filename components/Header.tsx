@@ -4,7 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter, usePathname } from "next/navigation";
-import { collections } from "@/data/collections"; // 🔥 Tumhara collections data import kiya hai
+import { collections } from "@/data/collections"; 
 
 const navItems = [
   { name: "Home", href: "/" },
@@ -16,31 +16,32 @@ const navItems = [
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [collectionDropdownOpen, setCollectionDropdownOpen] = useState(false); // 🔥 Dropdown state for collections/subcategories
-  const [mobileCollectionsOpen, setMobileCollectionsOpen] = useState(false); // 🔥 Mobile ke liye subcategories toggle
-  const router = useRouter();
-  const pathname = usePathname();
+  const [collectionDropdownOpen, setCollectionDropdownOpen] = useState(false); 
+  const [mobileCollectionsOpen, setMobileCollectionsOpen] = useState(false); 
+  
+  const pathname = usePathname(); 
 
-  // 🛑 The Magic Function: Force Browser to Scroll
+  // 🔥 VIP FIX: Ab yeh URL mein kahin bhi "product" word dhundhega
+  const isProductPage = pathname?.includes("/product");
+
   const handleNavClick = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
     setMenuOpen(false);
     setCollectionDropdownOpen(false);
 
-    // Agar link me "#" hai (jaise /#about)
     if (href.includes("#")) {
-      const targetId = href.split("#")[1]; // "about" nikalega
+      const targetId = href.split("#")[1]; 
       const elem = document.getElementById(targetId);
       
       if (elem) {
-        // Agar hum home page par hi hain aur section mil gaya, toh smooth scroll karo
         e.preventDefault();
         elem.scrollIntoView({ behavior: "smooth", block: "start" });
       }
     }
   };
 
+  // 🔥 THE MAGIC: Agar product page hai, toh 'relative' (upar chhut jayega). Warna 'sticky top-0' (chipka rahega)
   return (
-    <header className="sticky top-0 z-[9999] border-b border-[#C9A227]/25 bg-[#24050D]/95 backdrop-blur-xl">
+    <header className={`${isProductPage ? "relative" : "sticky top-0"} z-[9999] border-b border-[#C9A227]/25 bg-[#24050D]/95 backdrop-blur-xl transition-all duration-300`}>
       <div className="mx-auto flex h-24 max-w-[1440px] items-center justify-between px-6 lg:px-16">
         
         {/* BRAND LOGO & TITLE */}
@@ -61,7 +62,6 @@ export default function Header() {
         {/* DESKTOP NAVIGATION */}
         <nav className="hidden lg:flex items-center gap-8">
           {navItems.map((item) => {
-            // 🔥 Agar item "Collections" hai, toh usme Mega Dropdown dikhayenge
             if (item.name === "Collections") {
               return (
                 <div 
@@ -114,7 +114,6 @@ export default function Header() {
               );
             }
 
-            // Baaki saare normal links ke liye
             return (
               <Link
                 key={item.name}
@@ -184,7 +183,6 @@ export default function Header() {
                     </button>
                   </div>
 
-                  {/* Mobile Subcategories Accordion */}
                   {mobileCollectionsOpen && (
                     <div className="pl-4 space-y-4 border-l border-[#C9A227]/20 py-2">
                       {collections.map((cat) => (

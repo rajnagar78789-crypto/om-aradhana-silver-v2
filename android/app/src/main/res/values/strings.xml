@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Om Aradhana Silver</string>
+    <string name="title_activity_main">Om Aradhana Silver</string>
+    <string name="package_name">com.omaradhana.silver</string>
+    <string name="custom_url_scheme">com.omaradhana.silver</string>
+</resources>
